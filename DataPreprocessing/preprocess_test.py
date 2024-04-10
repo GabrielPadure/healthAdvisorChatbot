@@ -1,24 +1,29 @@
-# Sample list of questions
-from DataPreprocessing.data_preprocessing import remove_punctuation, to_lowercase, tokenize_txt, remove_stopwords, \
-    apply_stemming, apply_lemmatization
+import pandas as pd
+from DataPreprocessing.data_preprocessing import preprocess_question
 
-questions = [
-    "How old are you!",
-    "Email address, please.",
-    "Thanks! What's next?",
-    "What are the foods that contain the most vitamin C?"
+def load_and_preprocess_questions(path_to_csv):
 
-]
+    # Read the CSV file into a DataFrame
+    df = pd.read_csv(path_to_csv, encoding='utf-8-sig')
 
-# Apply the function to each question in the list
-questions_no_punct = [remove_punctuation(question) for question in questions]
-questions_lower = [to_lowercase(question) for question in questions_no_punct]
-tokenized_questions = tokenize_txt(questions_lower)  # Tokenize once after cleaning
-no_stopwords_questions = remove_stopwords(tokenized_questions)  # Remove stopwords from tokenized text
-stemmed_questions = apply_stemming(no_stopwords_questions)
-lemmatized_questions = apply_lemmatization(stemmed_questions)
+    # Assuming questions are in the first column, extract them into a list
+    questions = df.iloc[:, 0].astype(str).tolist()
 
-# Print the cleaned questions
-for question in lemmatized_questions:
-    print(question)
+    # Preprocess each question using the predefined function
+    preprocessed_questions = [preprocess_question(question) for question in questions]
 
+    return preprocessed_questions
+
+def main():
+    # Specify the path to your CSV file containing the questions
+    path_to_csv = 'mental_health.csv'  # Update this to the actual path
+
+    # Load and preprocess the questions
+    preprocessed_questions = load_and_preprocess_questions(path_to_csv)
+
+    # Print the preprocessed questions
+    for question in preprocessed_questions:
+        print(question)
+
+if __name__ == '__main__':
+    main()
