@@ -1,10 +1,8 @@
 import re
-import nltk
 from nltk.tokenize import word_tokenize
 from nltk.corpus import stopwords
 from nltk.stem import PorterStemmer, WordNetLemmatizer
 
-# Ensure you've downloaded the necessary NLTK data
 
 def remove_punctuation(text):
     """Remove punctuation from a single text string."""
