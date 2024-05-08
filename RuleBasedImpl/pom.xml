@@ -10,6 +10,12 @@
 
     <!-- Adding dependencies section if not already present -->
     <dependencies>
+        <dependency>
+            <groupId>org.json</groupId>
+            <artifactId>json</artifactId>
+            <version>20210307</version>
+        </dependency>
+
 
     </dependencies>
 </project>

@@ -5,59 +5,54 @@ import org.json.JSONObject;
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Paths;
-import java.util.HashMap;
-import java.util.Iterator;
-import java.util.Map;
-import java.util.Scanner;
+import java.util.*;
 
 public class RuleBasedImpl {
     private Map<String, String> keywordToAnswerMap;
 
-    public RuleBasedImpl(String jsonFilePath) throws IOException {
+    public RuleBasedImpl(List<String> jsonFilePaths) throws IOException {
         this.keywordToAnswerMap = new HashMap<>();
-        loadFAQs(jsonFilePath);
+        for (String path : jsonFilePaths) {
+            loadFAQs(path);
+        }
     }
 
-
-     //Loads the Q&As from "mental_health.json" and stores them in a map.
-     //Each entry in the map corresponds to a keyword and it's answer.
     private void loadFAQs(String jsonFilePath) throws IOException {
-            String content = new String(Files.readAllBytes(Paths.get(jsonFilePath)));
-            JSONArray jsonArray = new JSONArray(content);
+        String content = new String(Files.readAllBytes(Paths.get(jsonFilePath)));
+        JSONArray jsonArray = new JSONArray(content);
 
-        int i = 0;
-        while (i < jsonArray.length()) {
+        for (int i = 0; i < jsonArray.length(); i++) {
             JSONObject obj = jsonArray.getJSONObject(i);
             String answer = obj.getString("answer");
             String keywords = obj.getString("keywords");
-            keywordToAnswerMap.put(keywords.toLowerCase().trim(), answer); // Storing the entire keyword phrase
-            i++;
+            keywordToAnswerMap.put(keywords.toLowerCase().trim(), answer);
         }
-
     }
-    //Finds an answer to a given user question
-    public String findAnswer(String userQuestion) throws IOException {
-        String processedQuestion = callPython.callPythonForPreprocessing(userQuestion); // call Python script for preprocessing
-        System.out.println("Processed Question: " + processedQuestion);  // just for checking the preprocessing
 
-        for (Iterator<Map.Entry<String, String>> iterator = keywordToAnswerMap.entrySet().iterator(); iterator.hasNext(); ) {
-            Map.Entry<String, String> entry = iterator.next();
-            assert processedQuestion != null;
-            if (processedQuestion.contains(entry.getKey())) {
+    public String findAnswer(String userQuestion) throws IOException {
+        String processedQuestion = callPython.callPythonForPreprocessing(userQuestion);
+        System.out.println("Processed Question: " + processedQuestion);
+
+        for (Map.Entry<String, String> entry : keywordToAnswerMap.entrySet()) {
+            if (processedQuestion != null && processedQuestion.contains(entry.getKey())) {
                 return entry.getValue();
             }
         }
         return "Sorry, I did not understand the question.";
     }
 
-
-    //To handle user interaction
     public static void main(String[] args) throws IOException {
-        RuleBasedImpl bot = new RuleBasedImpl("DataPreprocessing/mental_health.json");
+        List<String> jsonFiles = new ArrayList<>();
+        jsonFiles.add("DataPreprocessing/Fitness.json");
+        jsonFiles.add("DataPreprocessing/Med&Suppl.json");
+        jsonFiles.add("DataPreprocessing/MentalHealth.json");
+        jsonFiles.add("DataPreprocessing/Nutr&Diet.json");
+        jsonFiles.add("DataPreprocessing/Symp&Cond.json");
+        RuleBasedImpl bot = new RuleBasedImpl(jsonFiles);
         try (Scanner scanner = new Scanner(System.in)) {
             System.out.println("Welcome, how may I help you? Type 'exit' to quit.");
 
-            do {
+            while (true) {
                 System.out.print("Ask a question: ");
                 String userInput = scanner.nextLine();
                 if ("exit".equalsIgnoreCase(userInput.trim())) {
@@ -65,7 +60,7 @@ public class RuleBasedImpl {
                 }
                 String answer = bot.findAnswer(userInput);
                 System.out.println("Answer: " + answer);
-            } while (true);
+            }
         }
         System.out.println("Have a wonderful day!");
     }
