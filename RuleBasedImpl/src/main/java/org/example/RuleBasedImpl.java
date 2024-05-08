@@ -53,7 +53,7 @@ public class RuleBasedImpl {
 
     //To handle user interaction
     public static void main(String[] args) throws IOException {
-        RuleBasedImpl bot = new RuleBasedImpl("/Users/alexandruvalah/IdeaProjects/healthAdvisorChatbot/DataPreprocessing/mental_health.json");
+        RuleBasedImpl bot = new RuleBasedImpl("DataPreprocessing/mental_health.json");
         try (Scanner scanner = new Scanner(System.in)) {
             System.out.println("Welcome, how may I help you? Type 'exit' to quit.");
 
