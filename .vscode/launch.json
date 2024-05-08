@@ -11,7 +11,7 @@
             "type": "java",
             "name": "ChatBotGUI",
             "request": "launch",
-            "vmArgs": "--module-path C:/Users/vanka/Downloads/openjfx-22.0.1_windows-x64_bin-sdk/javafx-sdk-22.0.1/lib --add-modules javafx.controls,javafx.fxml",
+            "vmArgs": "--module-path RuleBasedImpl/src/main/resources/javafx-sdk-22.0.1/lib --add-modules javafx.controls,javafx.fxml",
             "mainClass": "ChatBotGUI",
             "projectName": "healthAdvisorChatbot_d81be804"
         }
