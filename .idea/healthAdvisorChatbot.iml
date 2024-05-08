@@ -10,7 +10,7 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$USER_HOME$/Downloads/json-20210307.jar!/" />
+          <root url="jar://$MODULE_DIR$/RuleBasedImpl/src/main/resources/json-20210307.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
