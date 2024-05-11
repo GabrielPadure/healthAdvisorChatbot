@@ -1,0 +1,786 @@
+[
+    {
+        "question": "What is mental health?",
+        "answer": "Mental health refers to emotional, psychological, and social well-being. It encompasses how individuals think, feel, and behave, as well as how they handle stress, relate to others, and make choices.",
+        "keywords": "mental health",
+        "clean_question": "what is mental health",
+        "clean_answer": "mental health refers to emotional psychological and social wellbeing it encompasses how individuals think feel and behave as well as how they handle stress relate to others and make choices"
+    },
+    {
+        "question": "What are some common mental health disorders?",
+        "answer": "Common mental health disorders include depression, anxiety disorders (like generalized anxiety disorder, panic disorder, and social anxiety disorder), bipolar disorder, schizophrenia, and obsessive-compulsive disorder (OCD).",
+        "keywords": "common mental health disord",
+        "clean_question": "what are some common mental health disorders",
+        "clean_answer": "common mental health disorders include depression anxiety disorders like generalized anxiety disorder panic disorder and social anxiety disorder bipolar disorder schizophrenia and obsessivecompulsive disorder ocd"
+    },
+    {
+        "question": "How can I tell if I'm experiencing depression?",
+        "answer": "Symptoms of depression may include persistent sadness, loss of interest in activities, changes in appetite or weight, difficulty sleeping or oversleeping, fatigue, feelings of worthlessness or guilt, difficulty concentrating, and thoughts of death or suicide.",
+        "keywords": "tell im experienc depress",
+        "clean_question": "how can i tell if i am experiencing depression",
+        "clean_answer": "symptoms of depression may include persistent sadness loss of interest in activities changes in appetite or weight difficulty sleeping or oversleeping fatigue feelings of worthlessness or guilt difficulty concentrating and thoughts of death or suicide"
+    },
+    {
+        "question": "What can I do to manage stress?",
+        "answer": "Managing stress involves various strategies such as practicing relaxation techniques (like deep breathing or meditation), engaging in regular physical activity, maintaining a healthy diet, getting enough sleep, setting boundaries, and seeking support from others.",
+        "keywords": "manag stress",
+        "clean_question": "what can i do to manage stress",
+        "clean_answer": "managing stress involves various strategies such as practicing relaxation techniques like deep breathing or meditation engaging in regular physical activity maintaining a healthy diet getting enough sleep setting boundaries and seeking support from others"
+    },
+    {
+        "question": "Is it normal to feel anxious sometimes?",
+        "answer": "Yes, it's normal to feel anxious occasionally, especially in response to stressful situations. However, if anxiety becomes overwhelming or interferes with daily life, it may be a sign of an anxiety disorder that could benefit from professional help.",
+        "keywords": "normal feel anxiou sometim",
+        "clean_question": "is it normal to feel anxious sometimes",
+        "clean_answer": "yes it is normal to feel anxious occasionally especially in response to stressful situations however if anxiety becomes overwhelming or interferes with daily life it may be a sign of an anxiety disorder that could benefit from professional help"
+    },
+    {
+        "question": "How can I support a friend who is struggling with mental health issues?",
+        "answer": "You can support a friend by listening without judgment, offering empathy and validation, encouraging them to seek professional help if needed, helping them access resources, and being patient and understanding.",
+        "keywords": "support friend struggl mental health issu",
+        "clean_question": "how can i support a friend who is struggling with mental health issues",
+        "clean_answer": "you can support a friend by listening without judgment offering empathy and validation encouraging them to seek professional help if needed helping them access resources and being patient and understanding"
+    },
+    {
+        "question": "What are some self-care activities for improving mental health?",
+        "answer": "Self-care activities include practicing mindfulness, spending time outdoors, engaging in hobbies or activities you enjoy, getting regular exercise, prioritizing sleep, setting boundaries, and connecting with supportive friends or family members.",
+        "keywords": "selfcar activ improv mental health",
+        "clean_question": "what are some selfcare activities for improving mental health",
+        "clean_answer": "selfcare activities include practicing mindfulness spending time outdoors engaging in hobbies or activities you enjoy getting regular exercise prioritizing sleep setting boundaries and connecting with supportive friends or family members"
+    },
+    {
+        "question": "What should I do if I'm in crisis and need immediate help?",
+        "answer": "If you're in crisis and need immediate help, you can call emergency services, go to the nearest emergency room, contact a crisis hotline, or reach out to a trusted friend or family member for support. It's important to prioritize your safety and seek help as soon as possible.",
+        "keywords": "im crisi need immedi help",
+        "clean_question": "what should i do if i am in crisis and need immediate help",
+        "clean_answer": "if you are in crisis and need immediate help you can call emergency services go to the nearest emergency room contact a crisis hotline or reach out to a trusted friend or family member for support it is important to prioritize your safety and seek help as soon as possible"
+    },
+    {
+        "question": "Can mental health issues be treated?",
+        "answer": "Yes, mental health issues can be treated. Treatment may include therapy (such as cognitive-behavioral therapy or counseling), medication, support groups, lifestyle changes, and self-care strategies. The most effective treatment plan varies depending on the individual and their specific needs.",
+        "keywords": "mental health issu treat",
+        "clean_question": "can mental health issues be treated",
+        "clean_answer": "yes mental health issues can be treated treatment may include therapy such as cognitivebehavioral therapy or counseling medication support groups lifestyle changes and selfcare strategies the most effective treatment plan varies depending on the individual and their specific needs"
+    },
+    {
+        "question": "What is the difference between sadness and depression?",
+        "answer": "Sadness is a normal emotional response to difficult circumstances, loss, or disappointment. Depression, on the other hand, is a mental health disorder characterized by persistent feelings of sadness, hopelessness, and other symptoms that interfere with daily functioning.",
+        "keywords": "differ sad depress",
+        "clean_question": "what is the difference between sadness and depression",
+        "clean_answer": "sadness is a normal emotional response to difficult circumstances loss or disappointment depression on the other hand is a mental health disorder characterized by persistent feelings of sadness hopelessness and other symptoms that interfere with daily functioning"
+    },
+    {
+        "question": "Are mental health disorders hereditary?",
+        "answer": "While genetics can play a role in the development of mental health disorders, they are influenced by a combination of genetic, environmental, and other factors. Having a family history of mental illness may increase the risk, but it doesn't guarantee that someone will develop a disorder.",
+        "keywords": "mental health disord hereditari",
+        "clean_question": "are mental health disorders hereditary",
+        "clean_answer": "while genetics can play a role in the development of mental health disorders they are influenced by a combination of genetic environmental and other factors having a family history of mental illness may increase the risk but it does not guarantee that someone will develop a disorder"
+    },
+    {
+        "question": "How can I improve my self-esteem?",
+        "answer": "Improving self-esteem involves practicing self-compassion, challenging negative thoughts, setting realistic goals, focusing on strengths, engaging in activities that bring joy and fulfillment, surrounding yourself with supportive people, and seeking professional help if needed.",
+        "keywords": "improv selfesteem",
+        "clean_question": "how can i improve my selfesteem",
+        "clean_answer": "improving selfesteem involves practicing selfcompassion challenging negative thoughts setting realistic goals focusing on strengths engaging in activities that bring joy and fulfillment surrounding yourself with supportive people and seeking professional help if needed"
+    },
+    {
+        "question": "What are some coping skills for managing anxiety?",
+        "answer": "Coping skills for managing anxiety include deep breathing exercises, progressive muscle relaxation, visualization techniques, mindfulness meditation, grounding exercises, journaling, engaging in hobbies, and seeking support from friends or a therapist.",
+        "keywords": "cope skill manag anxieti",
+        "clean_question": "what are some coping skills for managing anxiety",
+        "clean_answer": "coping skills for managing anxiety include deep breathing exercises progressive muscle relaxation visualization techniques mindfulness meditation grounding exercises journaling engaging in hobbies and seeking support from friends or a therapist"
+    },
+    {
+        "question": "Can exercise help improve mental health?",
+        "answer": "Yes, exercise can help improve mental health by reducing symptoms of depression and anxiety, boosting mood, increasing self-esteem, improving sleep, and reducing stress. Even small amounts of physical activity can have significant mental health benefits.",
+        "keywords": "exercis help improv mental health",
+        "clean_question": "can exercise help improve mental health",
+        "clean_answer": "yes exercise can help improve mental health by reducing symptoms of depression and anxiety boosting mood increasing selfesteem improving sleep and reducing stress even small amounts of physical activity can have significant mental health benefits"
+    },
+    {
+        "question": "How can I talk to my employer about mental health issues?",
+        "answer": "When talking to your employer about mental health issues, choose a private and comfortable setting, be honest and straightforward about your needs, provide information about your condition and how it impacts your work, suggest potential accommodations or support, and advocate for yourself while respecting your boundaries.",
+        "keywords": "talk employ mental health issu",
+        "clean_question": "how can i talk to my employer about mental health issues",
+        "clean_answer": "when talking to your employer about mental health issues choose a private and comfortable setting be honest and straightforward about your needs provide information about your condition and how it impacts your work suggest potential accommodations or support and advocate for yourself while respecting your boundaries"
+    },
+    {
+        "question": "What is mindfulness and how can it help with mental health?",
+        "answer": "Mindfulness is the practice of being present and fully engaged in the moment without judgment. It can help improve mental health by reducing stress, enhancing self-awareness, promoting emotional regulation, and increasing resilience to difficult emotions or situations.",
+        "keywords": "mind help mental health",
+        "clean_question": "what is mindfulness and how can it help with mental health",
+        "clean_answer": "mindfulness is the practice of being present and fully engaged in the moment without judgment it can help improve mental health by reducing stress enhancing selfawareness promoting emotional regulation and increasing resilience to difficult emotions or situations"
+    },
+    {
+        "question": "What are some signs that I might need therapy?",
+        "answer": "Signs that you might need therapy include persistent feelings of sadness or hopelessness, excessive worry or anxiety, difficulty coping with stress, problems with relationships, changes in sleep or appetite, substance abuse, and thoughts of self-harm or suicide.",
+        "keywords": "sign might need therapi",
+        "clean_question": "what are some signs that i might need therapy",
+        "clean_answer": "signs that you might need therapy include persistent feelings of sadness or hopelessness excessive worry or anxiety difficulty coping with stress problems with relationships changes in sleep or appetite substance abuse and thoughts of selfharm or suicide"
+    },
+    {
+        "question": "How can I support a family member with a mental illness?",
+        "answer": "You can support a family member with a mental illness by offering empathy and understanding, educating yourself about their condition, listening without judgment, encouraging them to seek professional help, helping them access resources, and being patient and supportive.",
+        "keywords": "support famili member mental ill",
+        "clean_question": "how can i support a family member with a mental illness",
+        "clean_answer": "you can support a family member with a mental illness by offering empathy and understanding educating yourself about their condition listening without judgment encouraging them to seek professional help helping them access resources and being patient and supportive"
+    },
+    {
+        "question": "What are some warning signs of suicide?",
+        "answer": "Warning signs of suicide include talking about wanting to die or kill themselves, expressing feelings of hopelessness or being trapped, withdrawing from activities or social interactions, giving away possessions, engaging in reckless behavior, and expressing feelings of worthlessness or guilt.",
+        "keywords": "warn sign suicid",
+        "clean_question": "what are some warning signs of suicide",
+        "clean_answer": "warning signs of suicide include talking about wanting to die or kill themselves expressing feelings of hopelessness or being trapped withdrawing from activities or social interactions giving away possessions engaging in reckless behavior and expressing feelings of worthlessness or guilt"
+    },
+    {
+        "question": "Can nutrition affect mental health?",
+        "answer": "Yes, nutrition can affect mental health. Eating a balanced diet rich in fruits, vegetables, whole grains, lean proteins, and healthy fats provides essential nutrients that support brain function and mood regulation. Conversely, poor nutrition can contribute to mood swings, fatigue, and other mental health symptoms.",
+        "keywords": "nutrit affect mental health",
+        "clean_question": "can nutrition affect mental health",
+        "clean_answer": "yes nutrition can affect mental health eating a balanced diet rich in fruits vegetables whole grains lean proteins and healthy fats provides essential nutrients that support brain function and mood regulation conversely poor nutrition can contribute to mood swings fatigue and other mental health symptoms"
+    },
+    {
+        "question": "How can I manage intrusive thoughts?",
+        "answer": "Managing intrusive thoughts involves challenging negative beliefs, practicing mindfulness techniques, redirecting your focus to positive or neutral activities, engaging in relaxation exercises, seeking support from a therapist, and using cognitive-behavioral strategies to reframe thought patterns.",
+        "keywords": "manag intrus thought",
+        "clean_question": "how can i manage intrusive thoughts",
+        "clean_answer": "managing intrusive thoughts involves challenging negative beliefs practicing mindfulness techniques redirecting your focus to positive or neutral activities engaging in relaxation exercises seeking support from a therapist and using cognitivebehavioral strategies to reframe thought patterns"
+    },
+    {
+        "question": "What are some common myths about mental illness?",
+        "answer": "Common myths about mental illness include the belief that it's a sign of weakness, that people with mental illness are dangerous or violent, that they can just snap out of it, that therapy is only for severe problems, and that mental health issues don't affect children or older adults.",
+        "keywords": "common myth mental ill",
+        "clean_question": "what are some common myths about mental illness",
+        "clean_answer": "common myths about mental illness include the belief that it is a sign of weakness that people with mental illness are dangerous or violent that they can just snap out of it that therapy is only for severe problems and that mental health issues do not affect children or older adults"
+    },
+    {
+        "question": "Is it normal to experience mood swings?",
+        "answer": "Occasional mood swings are normal and can be influenced by various factors such as stress, hormones, and life events. However, frequent or extreme mood swings that interfere with daily functioning may be a sign of an underlying mental health issue such as bipolar disorder or borderline personality disorder.",
+        "keywords": "normal experi mood swing",
+        "clean_question": "is it normal to experience mood swings",
+        "clean_answer": "occasional mood swings are normal and can be influenced by various factors such as stress hormones and life events however frequent or extreme mood swings that interfere with daily functioning may be a sign of an underlying mental health issue such as bipolar disorder or borderline personality disorder"
+    },
+    {
+        "question": "What is social anxiety and how can it be managed?",
+        "answer": "Social anxiety is an intense fear of social situations and scrutiny by others. It can be managed through therapy (such as cognitive-behavioral therapy), exposure techniques, relaxation exercises, social skills training, medication, and support groups.",
+        "keywords": "social anxieti manag",
+        "clean_question": "what is social anxiety and how can it be managed",
+        "clean_answer": "social anxiety is an intense fear of social situations and scrutiny by others it can be managed through therapy such as cognitivebehavioral therapy exposure techniques relaxation exercises social skills training medication and support groups"
+    },
+    {
+        "question": "How can I create a self-care routine?",
+        "answer": "Creating a self-care routine involves identifying activities that nourish your mind, body, and spirit, scheduling time for self-care each day or week, setting boundaries to protect your time and energy, and being consistent in prioritizing self-care activities.",
+        "keywords": "creat selfcar routin",
+        "clean_question": "how can i create a selfcare routine",
+        "clean_answer": "creating a selfcare routine involves identifying activities that nourish your mind body and spirit scheduling time for selfcare each day or week setting boundaries to protect your time and energy and being consistent in prioritizing selfcare activities"
+    },
+    {
+        "question": "Can pets help with mental health?",
+        "answer": "Yes, pets can help",
+        "keywords": "pet help mental health",
+        "clean_question": "can pets help with mental health",
+        "clean_answer": "yes pets can help"
+    },
+    {
+        "question": "What are some relaxation techniques for managing stress?",
+        "answer": "Relaxation techniques for managing stress include deep breathing exercises, progressive muscle relaxation, guided imagery, mindfulness meditation, and yoga.",
+        "keywords": "relax techniqu manag stress",
+        "clean_question": "what are some relaxation techniques for managing stress",
+        "clean_answer": "relaxation techniques for managing stress include deep breathing exercises progressive muscle relaxation guided imagery mindfulness meditation and yoga"
+    },
+    {
+        "question": "How can I maintain a work-life balance for my mental health?",
+        "answer": "Maintaining a work-life balance involves setting boundaries, prioritizing self-care, scheduling regular breaks, delegating tasks when possible, and communicating openly with supervisors or professors about workload and stressors.",
+        "keywords": "maintain worklif balanc mental health",
+        "clean_question": "how can i maintain a worklife balance for my mental health",
+        "clean_answer": "maintaining a worklife balance involves setting boundaries prioritizing selfcare scheduling regular breaks delegating tasks when possible and communicating openly with supervisors or professors about workload and stressors"
+    },
+    {
+        "question": "What role does sleep play in mental health?",
+        "answer": "Sleep plays a crucial role in mental health. It helps regulate mood, cognitive function, and emotional well-being. Chronic sleep deprivation can contribute to mood disorders, anxiety, and difficulty coping with stress.",
+        "keywords": "role sleep play mental health",
+        "clean_question": "what role does sleep play in mental health",
+        "clean_answer": "sleep plays a crucial role in mental health it helps regulate mood cognitive function and emotional wellbeing chronic sleep deprivation can contribute to mood disorders anxiety and difficulty coping with stress"
+    },
+    {
+        "question": "How can I overcome procrastination and improve my productivity?",
+        "answer": "Overcoming procrastination involves breaking tasks into smaller steps, setting realistic goals, using time management techniques (such as the Pomodoro Technique), minimizing distractions, and addressing underlying issues such as perfectionism or fear of failure.",
+        "keywords": "overcom procrastin improv product",
+        "clean_question": "how can i overcome procrastination and improve my productivity",
+        "clean_answer": "overcoming procrastination involves breaking tasks into smaller steps setting realistic goals using time management techniques such as the pomodoro technique minimizing distractions and addressing underlying issues such as perfectionism or fear of failure"
+    },
+    {
+        "question": "Are there any mobile apps that can help with mental health?",
+        "answer": "Yes, there are many mobile apps designed to support mental health, including meditation apps like Headspace or Calm, mood tracking apps like Moodpath or Daylio, and therapy apps like Talkspace or BetterHelp.",
+        "keywords": "mobil app help mental health",
+        "clean_question": "are there any mobile apps that can help with mental health",
+        "clean_answer": "yes there are many mobile apps designed to support mental health including meditation apps like headspace or calm mood tracking apps like moodpath or daylio and therapy apps like talkspace or betterhelp"
+    },
+    {
+        "question": "How can I build resilience to cope with life's challenges?",
+        "answer": "Building resilience involves fostering positive coping skills, maintaining supportive relationships, cultivating a sense of purpose or meaning, practicing self-compassion, seeking help when needed, and reframing negative experiences as opportunities for growth.",
+        "keywords": "build resili cope life challeng",
+        "clean_question": "how can i build resilience to cope with lifes challenges",
+        "clean_answer": "building resilience involves fostering positive coping skills maintaining supportive relationships cultivating a sense of purpose or meaning practicing selfcompassion seeking help when needed and reframing negative experiences as opportunities for growth"
+    },
+    {
+        "question": "What are some strategies for managing test anxiety?",
+        "answer": "Strategies for managing test anxiety include deep breathing exercises, positive self-talk, visualization techniques, preparing thoroughly, practicing relaxation exercises, staying organized, and seeking support from teachers or counselors.",
+        "keywords": "strategi manag test anxieti",
+        "clean_question": "what are some strategies for managing test anxiety",
+        "clean_answer": "strategies for managing test anxiety include deep breathing exercises positive selftalk visualization techniques preparing thoroughly practicing relaxation exercises staying organized and seeking support from teachers or counselors"
+    },
+    {
+        "question": "How can I create a supportive study environment for my mental health?",
+        "answer": "Creating a supportive study environment involves minimizing distractions, organizing study materials, setting realistic goals, scheduling regular breaks, prioritizing self-care, and seeking support from peers, professors, or academic advisors.",
+        "keywords": "creat support studi environ mental health",
+        "clean_question": "how can i create a supportive study environment for my mental health",
+        "clean_answer": "creating a supportive study environment involves minimizing distractions organizing study materials setting realistic goals scheduling regular breaks prioritizing selfcare and seeking support from peers professors or academic advisors"
+    },
+    {
+        "question": "Can mindfulness help improve focus and concentration?",
+        "answer": "Yes, mindfulness can help improve focus and concentration by training the mind to be present and attentive to the task at hand, reducing distractions and increasing awareness of thoughts and emotions that may interfere with concentration.",
+        "keywords": "mind help improv focu concentr",
+        "clean_question": "can mindfulness help improve focus and concentration",
+        "clean_answer": "yes mindfulness can help improve focus and concentration by training the mind to be present and attentive to the task at hand reducing distractions and increasing awareness of thoughts and emotions that may interfere with concentration"
+    },
+    {
+        "question": "What are some warning signs that I may be experiencing burnout?",
+        "answer": "Warning signs of burnout include chronic fatigue, decreased motivation, irritability, difficulty concentrating, feelings of cynicism or detachment, changes in sleep or appetite, and physical symptoms such as headaches or stomachaches.",
+        "keywords": "warn sign may experienc burnout",
+        "clean_question": "what are some warning signs that i may be experiencing burnout",
+        "clean_answer": "warning signs of burnout include chronic fatigue decreased motivation irritability difficulty concentrating feelings of cynicism or detachment changes in sleep or appetite and physical symptoms such as headaches or stomachaches"
+    },
+    {
+        "question": "How can I set healthy boundaries with classmates or colleagues?",
+        "answer": "Setting healthy boundaries involves clearly communicating your needs and limits, saying no when necessary, prioritizing self-care, asserting yourself respectfully, and being consistent in enforcing boundaries.",
+        "keywords": "set healthi boundari classmat colleagu",
+        "clean_question": "how can i set healthy boundaries with classmates or colleagues",
+        "clean_answer": "setting healthy boundaries involves clearly communicating your needs and limits saying no when necessary prioritizing selfcare asserting yourself respectfully and being consistent in enforcing boundaries"
+    },
+    {
+        "question": "Are there any support groups for students struggling with mental health?",
+        "answer": "Yes, many universities offer support groups or counseling services for students struggling with mental health issues. Additionally, online communities and organizations may provide resources and peer support for students.",
+        "keywords": "support group student struggl mental health",
+        "clean_question": "are there any support groups for students struggling with mental health",
+        "clean_answer": "yes many universities offer support groups or counseling services for students struggling with mental health issues additionally online communities and organizations may provide resources and peer support for students"
+    },
+    {
+        "question": "What can I do if I'm feeling overwhelmed with academic pressure?",
+        "answer": "If you're feeling overwhelmed with academic pressure, it's important to prioritize self-care, seek support from professors or advisors, break tasks into manageable steps, practice time management, and consider seeking counseling or therapy for additional support.",
+        "keywords": "im feel overwhelm academ pressur",
+        "clean_question": "what can i do if i am feeling overwhelmed with academic pressure",
+        "clean_answer": "if you are feeling overwhelmed with academic pressure it is important to prioritize selfcare seek support from professors or advisors break tasks into manageable steps practice time management and consider seeking counseling or therapy for additional support"
+    },
+    {
+        "question": "How can I manage my time effectively as a student?",
+        "answer": "Managing time effectively involves setting goals, prioritizing tasks, creating a schedule or to-do list, minimizing distractions, breaking tasks into smaller steps, and being flexible in adapting to changing priorities or deadlines.",
+        "keywords": "manag time effect student",
+        "clean_question": "how can i manage my time effectively as a student",
+        "clean_answer": "managing time effectively involves setting goals prioritizing tasks creating a schedule or todo list minimizing distractions breaking tasks into smaller steps and being flexible in adapting to changing priorities or deadlines"
+    },
+    {
+        "question": "How can I support a friend who is struggling academically and emotionally?",
+        "answer": "You can support a friend who is struggling academically and emotionally by offering empathy and understanding, helping them access academic resources or tutoring, encouraging self-care, and gently suggesting they seek support from professors or counseling services.",
+        "keywords": "support friend struggl academ emot",
+        "clean_question": "how can i support a friend who is struggling academically and emotionally",
+        "clean_answer": "you can support a friend who is struggling academically and emotionally by offering empathy and understanding helping them access academic resources or tutoring encouraging selfcare and gently suggesting they seek support from professors or counseling services"
+    },
+    {
+        "question": "What are some healthy coping mechanisms for dealing with academic stress?",
+        "answer": "Healthy coping mechanisms for dealing with academic stress include exercise, relaxation techniques, time management strategies, seeking social support, maintaining perspective, setting realistic goals, and practicing self-compassion.",
+        "keywords": "healthi cope mechan deal academ stress",
+        "clean_question": "what are some healthy coping mechanisms for dealing with academic stress",
+        "clean_answer": "healthy coping mechanisms for dealing with academic stress include exercise relaxation techniques time management strategies seeking social support maintaining perspective setting realistic goals and practicing selfcompassion"
+    },
+    {
+        "question": "How can I address imposter syndrome as a student?",
+        "answer": "Addressing imposter syndrome involves recognizing and challenging self-doubt, reframing negative thoughts, focusing on accomplishments and strengths, seeking support from mentors or peers, and acknowledging that feelings of inadequacy are common and not indicative of actual ability.",
+        "keywords": "address impost syndrom student",
+        "clean_question": "how can i address imposter syndrome as a student",
+        "clean_answer": "addressing imposter syndrome involves recognizing and challenging selfdoubt reframing negative thoughts focusing on accomplishments and strengths seeking support from mentors or peers and acknowledging that feelings of inadequacy are common and not indicative of actual ability"
+    },
+    {
+        "question": "Can volunteering or community involvement improve mental health?",
+        "answer": "Yes, volunteering or community involvement can improve mental health by providing a sense of purpose, connection to others, opportunities for social support, and feelings of accomplishment and fulfillment.",
+        "keywords": "volunt commun involv improv mental health",
+        "clean_question": "can volunteering or community involvement improve mental health",
+        "clean_answer": "yes volunteering or community involvement can improve mental health by providing a sense of purpose connection to others opportunities for social support and feelings of accomplishment and fulfillment"
+    },
+    {
+        "question": "How can I improve my study habits for better mental health?",
+        "answer": "Improving study habits for better mental health involves creating a structured study routine, taking regular breaks, staying organized, setting realistic goals, seeking help when needed, and prioritizing self-care.",
+        "keywords": "improv studi habit better mental health",
+        "clean_question": "how can i improve my study habits for better mental health",
+        "clean_answer": "improving study habits for better mental health involves creating a structured study routine taking regular breaks staying organized setting realistic goals seeking help when needed and prioritizing selfcare"
+    },
+    {
+        "question": "What are some strategies for managing conflicts with roommates or classmates?",
+        "answer": "Strategies for managing conflicts include active listening, expressing concerns calmly and assertively, seeking compromise, finding common ground, setting clear expectations, and seeking mediation or support from a trusted third party.",
+        "keywords": "strategi manag conflict roommat classmat",
+        "clean_question": "what are some strategies for managing conflicts with roommates or classmates",
+        "clean_answer": "strategies for managing conflicts include active listening expressing concerns calmly and assertively seeking compromise finding common ground setting clear expectations and seeking mediation or support from a trusted third party"
+    },
+    {
+        "question": "Is it normal to feel homesick or lonely as a college student?",
+        "answer": "Yes, it's normal to feel homesick or lonely as a college student, especially during transitions or times of stress. Connecting with peers, getting involved in campus activities, and staying in touch with family and friends can help alleviate feelings of loneliness.",
+        "keywords": "normal feel homesick lone colleg student",
+        "clean_question": "is it normal to feel homesick or lonely as a college student",
+        "clean_answer": "yes it is normal to feel homesick or lonely as a college student especially during transitions or times of stress connecting with peers getting involved in campus activities and staying in touch with family and friends can help alleviate feelings of loneliness"
+    },
+    {
+        "question": "How can I practice self-compassion as a student?",
+        "answer": "Practicing self-compassion involves treating yourself with kindness and understanding, acknowledging your limitations and mistakes without judgment, recognizing that imperfection is part of being human, and offering yourself the same support and encouragement you would give to a friend.",
+        "keywords": "practic selfcompass student",
+        "clean_question": "how can i practice selfcompassion as a student",
+        "clean_answer": "practicing selfcompassion involves treating yourself with kindness and understanding acknowledging your limitations and mistakes without judgment recognizing that imperfection is part of being human and offering yourself the same support and encouragement you would give to a friend"
+    },
+    {
+        "question": "How can I stay motivated and focused during online learning?",
+        "answer": "Staying motivated and focused during online learning involves creating a dedicated study space, setting specific goals, minimizing distractions, establishing a routine, taking breaks, staying connected with classmates and professors, and seeking help when needed.",
+        "keywords": "stay motiv focus onlin learn",
+        "clean_question": "how can i stay motivated and focused during online learning",
+        "clean_answer": "staying motivated and focused during online learning involves creating a dedicated study space setting specific goals minimizing distractions establishing a routine taking breaks staying connected with classmates and professors and seeking help when needed"
+    },
+    {
+        "question": "What are some signs that I may be experiencing academic pressure or perfectionism?",
+        "answer": "Signs of academic pressure or perfectionism include setting excessively high standards, fear of failure, procrastination due to fear of not meeting expectations, difficulty delegating tasks, excessive self-criticism, and sacrificing sleep or social activities for studying.",
+        "keywords": "sign may experienc academ pressur perfection",
+        "clean_question": "what are some signs that i may be experiencing academic pressure or perfectionism",
+        "clean_answer": "signs of academic pressure or perfectionism include setting excessively high standards fear of failure procrastination due to fear of not meeting expectations difficulty delegating tasks excessive selfcriticism and sacrificing sleep or social activities for studying"
+    },
+    {
+        "question": "How can I practice mindfulness in everyday life as a student?",
+        "answer": "Practicing mindfulness in everyday life involves bringing awareness to the present moment, focusing on sensations such as breath or body sensations, accepting thoughts and emotions without judgment, and integrating mindfulness exercises into daily activities such as eating or walking.",
+        "keywords": "practic mind everyday life student",
+        "clean_question": "how can i practice mindfulness in everyday life as a student",
+        "clean_answer": "practicing mindfulness in everyday life involves bringing awareness to the present moment focusing on sensations such as breath or body sensations accepting thoughts and emotions without judgment and integrating mindfulness exercises into daily activities such as eating or walking"
+    },
+    {
+        "question": "Can exercise improve cognitive function and academic performance?",
+        "answer": "Yes, exercise can improve cognitive function and academic performance by increasing blood flow to the brain, promoting neuroplasticity, reducing stress, and enhancing mood and motivation. Even moderate-intensity exercise has been shown to have cognitive benefits.",
+        "keywords": "exercis improv cognit function academ perform",
+        "clean_question": "can exercise improve cognitive function and academic performance",
+        "clean_answer": "yes exercise can improve cognitive function and academic performance by increasing blood flow to the brain promoting neuroplasticity reducing stress and enhancing mood and motivation even moderateintensity exercise has been shown to have cognitive benefits"
+    },
+    {
+        "question": "How can I manage my finances to reduce financial stress as a student?",
+        "answer": "Managing finances to reduce financial stress involves creating a budget, tracking expenses, prioritizing needs over wants, seeking financial aid or scholarships, avoiding unnecessary debt, and seeking help from financial advisors or resources offered by the university.",
+        "keywords": "manag financ reduc financi stress student",
+        "clean_question": "how can i manage my finances to reduce financial stress as a student",
+        "clean_answer": "managing finances to reduce financial stress involves creating a budget tracking expenses prioritizing needs over wants seeking financial aid or scholarships avoiding unnecessary debt and seeking help from financial advisors or resources offered by the university"
+    },
+    {
+        "question": "How can I differentiate between feeling sad and experiencing depression?",
+        "answer": "Feeling sad is a normal emotional response to life's challenges, while depression involves persistent feelings of sadness, hopelessness, and loss of interest in activities. If your sadness persists for an extended period and interferes with daily functioning, it might be depression.",
+        "keywords": "differenti feel sad experienc depress",
+        "clean_question": "how can i differentiate between feeling sad and experiencing depression",
+        "clean_answer": "feeling sad is a normal emotional response to lifes challenges while depression involves persistent feelings of sadness hopelessness and loss of interest in activities if your sadness persists for an extended period and interferes with daily functioning it might be depression"
+    },
+    {
+        "question": "What are some effective ways to manage social anxiety?",
+        "answer": "Effective ways to manage social anxiety include gradual exposure to social situations, practicing relaxation techniques, challenging negative thoughts, seeking support from friends or a therapist, and learning social skills through therapy or self-help resources.",
+        "keywords": "effect way manag social anxieti",
+        "clean_question": "what are some effective ways to manage social anxiety",
+        "clean_answer": "effective ways to manage social anxiety include gradual exposure to social situations practicing relaxation techniques challenging negative thoughts seeking support from friends or a therapist and learning social skills through therapy or selfhelp resources"
+    },
+    {
+        "question": "Is it common to experience mood swings during adolescence?",
+        "answer": "Yes, it's common to experience mood swings during adolescence due to hormonal changes, social pressures, and the stress of transitioning to adulthood. However, if mood swings are severe or persistent, it's essential to seek support from a trusted adult or mental health professional.",
+        "keywords": "common experi mood swing adolesc",
+        "clean_question": "is it common to experience mood swings during adolescence",
+        "clean_answer": "yes it is common to experience mood swings during adolescence due to hormonal changes social pressures and the stress of transitioning to adulthood however if mood swings are severe or persistent it is essential to seek support from a trusted adult or mental health professional"
+    },
+    {
+        "question": "How can I support a friend who is struggling with self-harm?",
+        "answer": "You can support a friend who is struggling with self-harm by expressing concern without judgment, listening empathetically, encouraging them to seek professional help, helping them explore healthy coping mechanisms, and being a consistent source of support and encouragement.",
+        "keywords": "support friend struggl selfharm",
+        "clean_question": "how can i support a friend who is struggling with selfharm",
+        "clean_answer": "you can support a friend who is struggling with selfharm by expressing concern without judgment listening empathetically encouraging them to seek professional help helping them explore healthy coping mechanisms and being a consistent source of support and encouragement"
+    },
+    {
+        "question": "Can trauma from childhood impact mental health in adulthood?",
+        "answer": "Yes, trauma from childhood can have long-lasting effects on mental health in adulthood, increasing the risk of conditions such as PTSD, depression, anxiety disorders, substance abuse, and difficulties with relationships and self-esteem. Therapy and support can help address these effects.",
+        "keywords": "trauma childhood impact mental health adulthood",
+        "clean_question": "can trauma from childhood impact mental health in adulthood",
+        "clean_answer": "yes trauma from childhood can have longlasting effects on mental health in adulthood increasing the risk of conditions such as ptsd depression anxiety disorders substance abuse and difficulties with relationships and selfesteem therapy and support can help address these effects"
+    },
+    {
+        "question": "What are some warning signs that someone may be experiencing an eating disorder?",
+        "answer": "Warning signs of an eating disorder include dramatic weight loss or gain, obsession with food, distorted body image, secretive eating habits, frequent trips to the bathroom after meals, mood swings, fatigue, and withdrawal from social activities. It's essential to seek help if you notice these signs in yourself or others.",
+        "keywords": "warn sign someon may experienc eat disord",
+        "clean_question": "what are some warning signs that someone may be experiencing an eating disorder",
+        "clean_answer": "warning signs of an eating disorder include dramatic weight loss or gain obsession with food distorted body image secretive eating habits frequent trips to the bathroom after meals mood swings fatigue and withdrawal from social activities it is essential to seek help if you notice these signs in yourself or others"
+    },
+    {
+        "question": "How can I support a loved one who is struggling with addiction?",
+        "answer": "Supporting a loved one struggling with addiction involves expressing concern without judgment, encouraging them to seek professional help or attend support groups, setting boundaries to protect your own well-being, and offering ongoing support and encouragement throughout their recovery journey.",
+        "keywords": "support love one struggl addict",
+        "clean_question": "how can i support a loved one who is struggling with addiction",
+        "clean_answer": "supporting a loved one struggling with addiction involves expressing concern without judgment encouraging them to seek professional help or attend support groups setting boundaries to protect your own wellbeing and offering ongoing support and encouragement throughout their recovery journey"
+    },
+    {
+        "question": "Can spending time in nature improve mental health?",
+        "answer": "Yes, spending time in nature has been shown to improve mental health by reducing stress, promoting relaxation, enhancing mood, increasing physical activity, and providing opportunities for social connection and mindfulness. Even brief exposure to nature can have significant benefits.",
+        "keywords": "spend time natur improv mental health",
+        "clean_question": "can spending time in nature improve mental health",
+        "clean_answer": "yes spending time in nature has been shown to improve mental health by reducing stress promoting relaxation enhancing mood increasing physical activity and providing opportunities for social connection and mindfulness even brief exposure to nature can have significant benefits"
+    },
+    {
+        "question": "What are some healthy ways to cope with grief and loss?",
+        "answer": "Healthy ways to cope with grief and loss include allowing yourself to feel and express emotions, seeking support from friends or a therapist, engaging in rituals or activities that honor the deceased, taking care of your physical health, and giving yourself time to heal at your own pace.",
+        "keywords": "healthi way cope grief loss",
+        "clean_question": "what are some healthy ways to cope with grief and loss",
+        "clean_answer": "healthy ways to cope with grief and loss include allowing yourself to feel and express emotions seeking support from friends or a therapist engaging in rituals or activities that honor the deceased taking care of your physical health and giving yourself time to heal at your own pace"
+    },
+    {
+        "question": "How can I manage symptoms of ADHD without medication?",
+        "answer": "Managing symptoms of ADHD without medication involves implementing structure and routines, breaking tasks into smaller steps, using organizational tools such as planners or apps, minimizing distractions, getting regular exercise, practicing mindfulness, and seeking support from therapists or ADHD coaches.",
+        "keywords": "manag symptom adhd without medic",
+        "clean_question": "how can i manage symptoms of adhd without medication",
+        "clean_answer": "managing symptoms of adhd without medication involves implementing structure and routines breaking tasks into smaller steps using organizational tools such as planners or apps minimizing distractions getting regular exercise practicing mindfulness and seeking support from therapists or adhd coaches"
+    },
+    {
+        "question": "Is it possible to recover from a mental health disorder?",
+        "answer": "Yes, it's possible to recover from a mental health disorder with the right treatment and support. Recovery may involve therapy, medication, lifestyle changes, and self-care strategies. While recovery is a journey with ups and downs, many people go on to lead fulfilling lives.",
+        "keywords": "possibl recov mental health disord",
+        "clean_question": "is it possible to recover from a mental health disorder",
+        "clean_answer": "yes it is possible to recover from a mental health disorder with the right treatment and support recovery may involve therapy medication lifestyle changes and selfcare strategies while recovery is a journey with ups and downs many people go on to lead fulfilling lives"
+    },
+    {
+        "question": "What are some signs that I may be experiencing caregiver burnout?",
+        "answer": "Signs of caregiver burnout include feelings of exhaustion or fatigue, irritability, withdrawal from social activities, neglecting your own needs, changes in sleep or appetite, physical symptoms such as headaches or stomachaches, and difficulty concentrating or making decisions.",
+        "keywords": "sign may experienc caregiv burnout",
+        "clean_question": "what are some signs that i may be experiencing caregiver burnout",
+        "clean_answer": "signs of caregiver burnout include feelings of exhaustion or fatigue irritability withdrawal from social activities neglecting your own needs changes in sleep or appetite physical symptoms such as headaches or stomachaches and difficulty concentrating or making decisions"
+    },
+    {
+        "question": "How can I practice gratitude to improve mental health?",
+        "answer": "Practicing gratitude involves regularly reflecting on and expressing appreciation for the positive aspects of your life, such as relationships, experiences, or accomplishments. It can improve mental health by promoting positive emotions, reducing stress, and fostering resilience.",
+        "keywords": "practic gratitud improv mental health",
+        "clean_question": "how can i practice gratitude to improve mental health",
+        "clean_answer": "practicing gratitude involves regularly reflecting on and expressing appreciation for the positive aspects of your life such as relationships experiences or accomplishments it can improve mental health by promoting positive emotions reducing stress and fostering resilience"
+    },
+    {
+        "question": "What are some techniques for managing anger in a healthy way?",
+        "answer": "Techniques for managing anger in a healthy way include deep breathing exercises, taking a time-out to cool down, expressing feelings calmly and assertively, finding healthy outlets for anger such as physical activity or creative expression, and seeking support from a therapist or support group.",
+        "keywords": "techniqu manag anger healthi way",
+        "clean_question": "what are some techniques for managing anger in a healthy way",
+        "clean_answer": "techniques for managing anger in a healthy way include deep breathing exercises taking a timeout to cool down expressing feelings calmly and assertively finding healthy outlets for anger such as physical activity or creative expression and seeking support from a therapist or support group"
+    },
+    {
+        "question": "Can pets provide emotional support and improve mental health?",
+        "answer": "Yes, pets can provide emotional support and improve mental health by offering companionship, reducing feelings of loneliness and isolation, increasing opportunities for physical activity, and providing comfort and unconditional love. Pets can be especially beneficial for individuals experiencing depression or anxiety.",
+        "keywords": "pet provid emot support improv mental health",
+        "clean_question": "can pets provide emotional support and improve mental health",
+        "clean_answer": "yes pets can provide emotional support and improve mental health by offering companionship reducing feelings of loneliness and isolation increasing opportunities for physical activity and providing comfort and unconditional love pets can be especially beneficial for individuals experiencing depression or anxiety"
+    },
+    {
+        "question": "How can I cultivate self-compassion in my daily life?",
+        "answer": "Cultivating self-compassion involves treating yourself with kindness and understanding, acknowledging your humanity and imperfections, practicing mindfulness, reframing negative self-talk, and offering yourself the same empathy and support you would offer to a friend in need.",
+        "keywords": "cultiv selfcompass daili life",
+        "clean_question": "how can i cultivate selfcompassion in my daily life",
+        "clean_answer": "cultivating selfcompassion involves treating yourself with kindness and understanding acknowledging your humanity and imperfections practicing mindfulness reframing negative selftalk and offering yourself the same empathy and support you would offer to a friend in need"
+    },
+    {
+        "question": "What are some healthy boundaries to set in relationships?",
+        "answer": "Healthy boundaries in relationships include respecting your own needs and limits, communicating openly and honestly, saying no when necessary, asserting yourself respectfully, and prioritizing self-care. Boundaries help maintain healthy and mutually supportive relationships.",
+        "keywords": "healthi boundari set relationship",
+        "clean_question": "what are some healthy boundaries to set in relationships",
+        "clean_answer": "healthy boundaries in relationships include respecting your own needs and limits communicating openly and honestly saying no when necessary asserting yourself respectfully and prioritizing selfcare boundaries help maintain healthy and mutually supportive relationships"
+    },
+    {
+        "question": "How can I practice assertiveness in my interactions with others?",
+        "answer": "Practicing assertiveness involves expressing your needs, feelings, and boundaries clearly and respectfully, standing up for yourself, and advocating for your rights without being aggressive or passive. Assertiveness fosters healthy communication and relationships while reducing resentment and conflict.",
+        "keywords": "practic assert interact other",
+        "clean_question": "how can i practice assertiveness in my interactions with others",
+        "clean_answer": "practicing assertiveness involves expressing your needs feelings and boundaries clearly and respectfully standing up for yourself and advocating for your rights without being aggressive or passive assertiveness fosters healthy communication and relationships while reducing resentment and conflict"
+    },
+    {
+        "question": "What are some effective ways to manage panic attacks?",
+        "answer": "Effective ways to manage panic attacks include deep breathing exercises, grounding techniques, focusing on the present moment, practicing relaxation techniques, seeking a safe and supportive environment, and reminding yourself that the panic will pass.",
+        "keywords": "effect way manag panic attack",
+        "clean_question": "what are some effective ways to manage panic attacks",
+        "clean_answer": "effective ways to manage panic attacks include deep breathing exercises grounding techniques focusing on the present moment practicing relaxation techniques seeking a safe and supportive environment and reminding yourself that the panic will pass"
+    },
+    {
+        "question": "How can I improve communication with my therapist or mental health provider?",
+        "answer": "Improving communication with your therapist or mental health provider involves being honest and open about your thoughts, feelings, and experiences, asking questions or expressing concerns, providing feedback about your treatment, and actively participating in the therapeutic process.",
+        "keywords": "improv commun therapist mental health provid",
+        "clean_question": "how can i improve communication with my therapist or mental health provider",
+        "clean_answer": "improving communication with your therapist or mental health provider involves being honest and open about your thoughts feelings and experiences asking questions or expressing concerns providing feedback about your treatment and actively participating in the therapeutic process"
+    },
+    {
+        "question": "What are some strategies for coping with loneliness?",
+        "answer": "Strategies for coping with loneliness include reaching out to friends or family members, joining clubs or groups with shared interests, volunteering, getting involved in community activities, seeking support from a therapist or counselor, and connecting with others online or through social media.",
+        "keywords": "strategi cope loneli",
+        "clean_question": "what are some strategies for coping with loneliness",
+        "clean_answer": "strategies for coping with loneliness include reaching out to friends or family members joining clubs or groups with shared interests volunteering getting involved in community activities seeking support from a therapist or counselor and connecting with others online or through social media"
+    },
+    {
+        "question": "How can I support a loved one who is experiencing psychosis?",
+        "answer": "Supporting a loved one experiencing psychosis involves staying calm and nonjudgmental, encouraging them to seek professional help, offering reassurance and support, helping them maintain their safety, and educating yourself about psychosis and available resources.",
+        "keywords": "support love one experienc psychosi",
+        "clean_question": "how can i support a loved one who is experiencing psychosis",
+        "clean_answer": "supporting a loved one experiencing psychosis involves staying calm and nonjudgmental encouraging them to seek professional help offering reassurance and support helping them maintain their safety and educating yourself about psychosis and available resources"
+    },
+    {
+        "question": "What are some techniques for improving emotional regulation?",
+        "answer": "Techniques for improving emotional regulation include identifying and labeling emotions, practicing mindfulness, using relaxation techniques, challenging unhelpful thoughts, taking a time-out when needed, and seeking support from a therapist or support group.",
+        "keywords": "techniqu improv emot regul",
+        "clean_question": "what are some techniques for improving emotional regulation",
+        "clean_answer": "techniques for improving emotional regulation include identifying and labeling emotions practicing mindfulness using relaxation techniques challenging unhelpful thoughts taking a timeout when needed and seeking support from a therapist or support group"
+    },
+    {
+        "question": "How can I develop assertiveness skills to advocate for myself in academic or professional settings?",
+        "answer": "Developing assertiveness skills involves practicing clear and direct communication, expressing your needs and opinions confidently, standing up for yourself without aggression or passivity, and setting and enforcing boundaries. Assertiveness can help you advocate for your rights and navigate challenging situations effectively.",
+        "keywords": "develop assert skill advoc academ profession set",
+        "clean_question": "how can i develop assertiveness skills to advocate for myself in academic or professional settings",
+        "clean_answer": "developing assertiveness skills involves practicing clear and direct communication expressing your needs and opinions confidently standing up for yourself without aggression or passivity and setting and enforcing boundaries assertiveness can help you advocate for your rights and navigate challenging situations effectively"
+    },
+    {
+        "question": "How can I recognize signs of anxiety in myself or others?",
+        "answer": "Signs of anxiety include excessive worry, restlessness, difficulty concentrating, muscle tension, irritability, sleep disturbances, and physical symptoms such as rapid heartbeat or shortness of breath. If you or someone you know experiences these symptoms frequently and they interfere with daily life, it may indicate an anxiety disorder.",
+        "keywords": "recogn sign anxieti other",
+        "clean_question": "how can i recognize signs of anxiety in myself or others",
+        "clean_answer": "signs of anxiety include excessive worry restlessness difficulty concentrating muscle tension irritability sleep disturbances and physical symptoms such as rapid heartbeat or shortness of breath if you or someone you know experiences these symptoms frequently and they interfere with daily life it may indicate an anxiety disorder"
+    },
+    {
+        "question": "What are some strategies for managing anxiety in social situations?",
+        "answer": "Strategies for managing anxiety in social situations include deep breathing exercises, positive self-talk, gradual exposure to feared situations, focusing on the present moment, seeking support from friends or a therapist, and practicing relaxation techniques.",
+        "keywords": "strategi manag anxieti social situat",
+        "clean_question": "what are some strategies for managing anxiety in social situations",
+        "clean_answer": "strategies for managing anxiety in social situations include deep breathing exercises positive selftalk gradual exposure to feared situations focusing on the present moment seeking support from friends or a therapist and practicing relaxation techniques"
+    },
+    {
+        "question": "How can I improve my assertiveness skills to communicate my needs effectively?",
+        "answer": "Improving assertiveness skills involves practicing clear and direct communication, expressing your thoughts and feelings honestly and respectfully, setting boundaries, saying no when necessary, and standing up for yourself without aggression or passivity.",
+        "keywords": "improv assert skill commun need effect",
+        "clean_question": "how can i improve my assertiveness skills to communicate my needs effectively",
+        "clean_answer": "improving assertiveness skills involves practicing clear and direct communication expressing your thoughts and feelings honestly and respectfully setting boundaries saying no when necessary and standing up for yourself without aggression or passivity"
+    },
+    {
+        "question": "Can practicing gratitude improve mental health and well-being?",
+        "answer": "Yes, practicing gratitude has been linked to improved mental health and well-being by promoting positive emotions, reducing stress, enhancing resilience, and fostering stronger social connections. Keeping a gratitude journal or regularly expressing appreciation for the things in your life can help cultivate a more positive outlook.",
+        "keywords": "practic gratitud improv mental health wellb",
+        "clean_question": "can practicing gratitude improve mental health and wellbeing",
+        "clean_answer": "yes practicing gratitude has been linked to improved mental health and wellbeing by promoting positive emotions reducing stress enhancing resilience and fostering stronger social connections keeping a gratitude journal or regularly expressing appreciation for the things in your life can help cultivate a more positive outlook"
+    },
+    {
+        "question": "What are some effective ways to cope with feelings of loneliness?",
+        "answer": "Effective ways to cope with loneliness include reaching out to friends or family members, joining clubs or groups with shared interests, volunteering, engaging in activities you enjoy, seeking support from a therapist or counselor, and cultivating self-compassion and self-care practices.",
+        "keywords": "effect way cope feel loneli",
+        "clean_question": "what are some effective ways to cope with feelings of loneliness",
+        "clean_answer": "effective ways to cope with loneliness include reaching out to friends or family members joining clubs or groups with shared interests volunteering engaging in activities you enjoy seeking support from a therapist or counselor and cultivating selfcompassion and selfcare practices"
+    },
+    {
+        "question": "How can I recognize signs of depression in myself or others?",
+        "answer": "Signs of depression include persistent feelings of sadness, hopelessness, or emptiness, loss of interest in activities, changes in appetite or weight, difficulty sleeping or oversleeping, fatigue, feelings of worthlessness or guilt, difficulty concentrating, and thoughts of death or suicide. If you or someone you know experiences these symptoms for more than two weeks and they interfere with daily functioning, it may indicate depression.",
+        "keywords": "recogn sign depress other",
+        "clean_question": "how can i recognize signs of depression in myself or others",
+        "clean_answer": "signs of depression include persistent feelings of sadness hopelessness or emptiness loss of interest in activities changes in appetite or weight difficulty sleeping or oversleeping fatigue feelings of worthlessness or guilt difficulty concentrating and thoughts of death or suicide if you or someone you know experiences these symptoms for more than two weeks and they interfere with daily functioning it may indicate depression"
+    },
+    {
+        "question": "What are some healthy coping mechanisms for dealing with trauma or traumatic experiences?",
+        "answer": "Healthy coping mechanisms for dealing with trauma include seeking support from a therapist or counselor, practicing self-care and relaxation techniques, engaging in activities you enjoy, connecting with supportive friends or family members, expressing emotions through creative outlets, and participating in trauma-focused therapy modalities such as EMDR or cognitive-behavioral therapy.",
+        "keywords": "healthi cope mechan deal trauma traumat experi",
+        "clean_question": "what are some healthy coping mechanisms for dealing with trauma or traumatic experiences",
+        "clean_answer": "healthy coping mechanisms for dealing with trauma include seeking support from a therapist or counselor practicing selfcare and relaxation techniques engaging in activities you enjoy connecting with supportive friends or family members expressing emotions through creative outlets and participating in traumafocused therapy modalities such as emdr or cognitivebehavioral therapy"
+    },
+    {
+        "question": "How can I support a friend or family member who is struggling with addiction?",
+        "answer": "Supporting a friend or family member struggling with addiction involves expressing concern without judgment, encouraging them to seek professional help or attend support groups, setting boundaries to protect your own well-being, and offering ongoing support and encouragement throughout their recovery journey.",
+        "keywords": "support friend famili member struggl addict",
+        "clean_question": "how can i support a friend or family member who is struggling with addiction",
+        "clean_answer": "supporting a friend or family member struggling with addiction involves expressing concern without judgment encouraging them to seek professional help or attend support groups setting boundaries to protect your own wellbeing and offering ongoing support and encouragement throughout their recovery journey"
+    },
+    {
+        "question": "What are some warning signs of caregiver burnout, and how can it be prevented?",
+        "answer": "Warning signs of caregiver burnout include feelings of exhaustion or fatigue, irritability, withdrawal from social activities, neglecting your own needs, changes in sleep or appetite, physical symptoms such as headaches or stomachaches, and difficulty concentrating or making decisions. To prevent caregiver burnout, it's essential to prioritize self-care, set boundaries, seek support from other caregivers or support groups, and ask for help when needed.",
+        "keywords": "warn sign caregiv burnout prevent",
+        "clean_question": "what are some warning signs of caregiver burnout and how can it be prevented",
+        "clean_answer": "warning signs of caregiver burnout include feelings of exhaustion or fatigue irritability withdrawal from social activities neglecting your own needs changes in sleep or appetite physical symptoms such as headaches or stomachaches and difficulty concentrating or making decisions to prevent caregiver burnout it is essential to prioritize selfcare set boundaries seek support from other caregivers or support groups and ask for help when needed"
+    },
+    {
+        "question": "Can spending time in nature have a positive impact on mental health?",
+        "answer": "Yes, spending time in nature has been shown to have numerous benefits for mental health, including reducing stress, improving mood, increasing feelings of well-being, promoting relaxation, and enhancing cognitive function. Activities such as hiking, gardening, or simply spending time outdoors can have significant mental health benefits.",
+        "keywords": "spend time natur posit impact mental health",
+        "clean_question": "can spending time in nature have a positive impact on mental health",
+        "clean_answer": "yes spending time in nature has been shown to have numerous benefits for mental health including reducing stress improving mood increasing feelings of wellbeing promoting relaxation and enhancing cognitive function activities such as hiking gardening or simply spending time outdoors can have significant mental health benefits"
+    },
+    {
+        "question": "How can I improve my communication skills to express myself more effectively?",
+        "answer": "Improving communication skills involves practicing active listening, expressing yourself clearly and assertively, being mindful of nonverbal cues, seeking clarification when needed, and being open to feedback from others. Communication skills are essential for building healthy relationships, resolving conflicts, and expressing your needs and boundaries.",
+        "keywords": "improv commun skill express effect",
+        "clean_question": "how can i improve my communication skills to express myself more effectively",
+        "clean_answer": "improving communication skills involves practicing active listening expressing yourself clearly and assertively being mindful of nonverbal cues seeking clarification when needed and being open to feedback from others communication skills are essential for building healthy relationships resolving conflicts and expressing your needs and boundaries"
+    },
+    {
+        "question": "What are some strategies for managing intrusive thoughts or unwanted rumination?",
+        "answer": "Strategies for managing intrusive thoughts or unwanted rumination include practicing mindfulness and grounding techniques, challenging negative thought patterns, engaging in activities that distract or occupy your mind, seeking support from a therapist, and using relaxation techniques such as deep breathing or progressive muscle relaxation.",
+        "keywords": "strategi manag intrus thought unwant rumin",
+        "clean_question": "what are some strategies for managing intrusive thoughts or unwanted rumination",
+        "clean_answer": "strategies for managing intrusive thoughts or unwanted rumination include practicing mindfulness and grounding techniques challenging negative thought patterns engaging in activities that distract or occupy your mind seeking support from a therapist and using relaxation techniques such as deep breathing or progressive muscle relaxation"
+    },
+    {
+        "question": "How can I cultivate self-compassion and kindness toward myself?",
+        "answer": "Cultivating self-compassion involves treating yourself with kindness and understanding, acknowledging your humanity and imperfections, practicing mindfulness, reframing negative self-talk, and offering yourself the same empathy and support you would offer to a friend in need. Self-compassion fosters resilience, emotional well-being, and healthier relationships with oneself and others.",
+        "keywords": "cultiv selfcompass kind toward",
+        "clean_question": "how can i cultivate selfcompassion and kindness toward myself",
+        "clean_answer": "cultivating selfcompassion involves treating yourself with kindness and understanding acknowledging your humanity and imperfections practicing mindfulness reframing negative selftalk and offering yourself the same empathy and support you would offer to a friend in need selfcompassion fosters resilience emotional wellbeing and healthier relationships with oneself and others"
+    },
+    {
+        "question": "Can regular exercise help improve mental health and well-being?",
+        "answer": "Yes, regular exercise has been shown to have numerous benefits for mental health and well-being, including reducing symptoms of depression and anxiety, improving mood, increasing self-esteem, enhancing cognitive function, and promoting better sleep. Even moderate-intensity exercise such as walking or cycling can have significant mental health benefits.",
+        "keywords": "regular exercis help improv mental health wellb",
+        "clean_question": "can regular exercise help improve mental health and wellbeing",
+        "clean_answer": "yes regular exercise has been shown to have numerous benefits for mental health and wellbeing including reducing symptoms of depression and anxiety improving mood increasing selfesteem enhancing cognitive function and promoting better sleep even moderateintensity exercise such as walking or cycling can have significant mental health benefits"
+    },
+    {
+        "question": "How can I support a loved one who is experiencing psychosis or hallucinations?",
+        "answer": "Supporting a loved one experiencing psychosis or hallucinations involves staying calm and nonjudgmental, encouraging them to seek professional help, offering reassurance and support, helping them maintain their safety, and educating yourself about psychosis and available resources. It's essential to listen to their experiences without dismissing or invalidating their feelings and to seek guidance from mental health professionals when needed.",
+        "keywords": "support love one experienc psychosi hallucin",
+        "clean_question": "how can i support a loved one who is experiencing psychosis or hallucinations",
+        "clean_answer": "supporting a loved one experiencing psychosis or hallucinations involves staying calm and nonjudgmental encouraging them to seek professional help offering reassurance and support helping them maintain their safety and educating yourself about psychosis and available resources it is essential to listen to their experiences without dismissing or invalidating their feelings and to seek guidance from mental health professionals when needed"
+    },
+    {
+        "question": "What are some healthy coping mechanisms for managing stress in everyday life?",
+        "answer": "Healthy coping mechanisms for managing stress include practicing relaxation techniques such as deep breathing or mindfulness meditation, engaging in physical activity or exercise, maintaining a healthy lifestyle with regular sleep and nutritious diet, setting realistic goals and priorities, seeking support from friends or a therapist, and finding healthy outlets for expressing emotions such as journaling or creative activities.",
+        "keywords": "healthi cope mechan manag stress everyday life",
+        "clean_question": "what are some healthy coping mechanisms for managing stress in everyday life",
+        "clean_answer": "healthy coping mechanisms for managing stress include practicing relaxation techniques such as deep breathing or mindfulness meditation engaging in physical activity or exercise maintaining a healthy lifestyle with regular sleep and nutritious diet setting realistic goals and priorities seeking support from friends or a therapist and finding healthy outlets for expressing emotions such as journaling or creative activities"
+    },
+    {
+        "question": "How can I develop resilience and bounce back from setbacks or challenges?",
+        "answer": "Developing resilience involves fostering positive coping skills, maintaining supportive relationships, cultivating a sense of purpose or meaning, practicing self-compassion, seeking help when needed, and reframing negative experiences as opportunities for growth. Resilience is a skill that can be cultivated through practice and self-awareness, and it helps individuals navigate life's challenges with greater ease and adaptability.",
+        "keywords": "develop resili bounc back setback challeng",
+        "clean_question": "how can i develop resilience and bounce back from setbacks or challenges",
+        "clean_answer": "developing resilience involves fostering positive coping skills maintaining supportive relationships cultivating a sense of purpose or meaning practicing selfcompassion seeking help when needed and reframing negative experiences as opportunities for growth resilience is a skill that can be cultivated through practice and selfawareness and it helps individuals navigate lifes challenges with greater ease and adaptability"
+    },
+    {
+        "question": "What are some signs that I may be experiencing caregiver burnout?",
+        "answer": "Signs of caregiver burnout include feelings of exhaustion or fatigue, irritability, withdrawal from social activities, neglecting your own needs, changes in sleep or appetite, physical symptoms such as headaches or stomachaches, and difficulty concentrating or making decisions. To prevent caregiver burnout, it's essential to prioritize self-care, set boundaries, seek support from other caregivers or support groups, and ask for help when needed.",
+        "keywords": "sign may experienc caregiv burnout",
+        "clean_question": "what are some signs that i may be experiencing caregiver burnout",
+        "clean_answer": "signs of caregiver burnout include feelings of exhaustion or fatigue irritability withdrawal from social activities neglecting your own needs changes in sleep or appetite physical symptoms such as headaches or stomachaches and difficulty concentrating or making decisions to prevent caregiver burnout it is essential to prioritize selfcare set boundaries seek support from other caregivers or support groups and ask for help when needed"
+    },
+    {
+        "question": "Can spending time in nature have a positive impact on mental health?",
+        "answer": "Yes, spending time in nature has been shown to have numerous benefits for mental health, including reducing stress, improving mood, increasing feelings of well-being, promoting relaxation, and enhancing cognitive function. Activities such as hiking, gardening, or simply spending time outdoors can have significant mental health benefits.",
+        "keywords": "spend time natur posit impact mental health",
+        "clean_question": "can spending time in nature have a positive impact on mental health",
+        "clean_answer": "yes spending time in nature has been shown to have numerous benefits for mental health including reducing stress improving mood increasing feelings of wellbeing promoting relaxation and enhancing cognitive function activities such as hiking gardening or simply spending time outdoors can have significant mental health benefits"
+    },
+    {
+        "question": "How can I improve my communication skills to express myself more effectively?",
+        "answer": "Improving communication skills involves practicing active listening, expressing yourself clearly and assertively, being mindful of nonverbal cues, seeking clarification when",
+        "keywords": "improv commun skill express effect",
+        "clean_question": "how can i improve my communication skills to express myself more effectively",
+        "clean_answer": "improving communication skills involves practicing active listening expressing yourself clearly and assertively being mindful of nonverbal cues seeking clarification when"
+    },
+    {
+        "question": "What are some warning signs that someone may be at risk of suicide?",
+        "answer": "Warning signs of suicide include talking about wanting to die or kill themselves, expressing feelings of hopelessness or being trapped, withdrawing from activities or social interactions, giving away possessions, engaging in reckless behavior, and expressing feelings of worthlessness or guilt. It's essential to take any mention or indication of suicide seriously and seek help immediately.",
+        "keywords": "warn sign someon may risk suicid",
+        "clean_question": "what are some warning signs that someone may be at risk of suicide",
+        "clean_answer": "warning signs of suicide include talking about wanting to die or kill themselves expressing feelings of hopelessness or being trapped withdrawing from activities or social interactions giving away possessions engaging in reckless behavior and expressing feelings of worthlessness or guilt it is essential to take any mention or indication of suicide seriously and seek help immediately"
+    },
+    {
+        "question": "How can I support a loved one who is struggling with suicidal thoughts?",
+        "answer": "Supporting a loved one struggling with suicidal thoughts involves listening without judgment, expressing empathy and understanding, encouraging them to seek professional help, creating a safety plan together, removing access to means of self-harm, and offering ongoing support and reassurance. It's essential to take any talk of suicide seriously and seek help from mental health professionals or crisis hotlines.",
+        "keywords": "support love one struggl suicid thought",
+        "clean_question": "how can i support a loved one who is struggling with suicidal thoughts",
+        "clean_answer": "supporting a loved one struggling with suicidal thoughts involves listening without judgment expressing empathy and understanding encouraging them to seek professional help creating a safety plan together removing access to means of selfharm and offering ongoing support and reassurance it is essential to take any talk of suicide seriously and seek help from mental health professionals or crisis hotlines"
+    },
+    {
+        "question": "What should I do if I suspect someone is in immediate danger of harming themselves?",
+        "answer": "If you suspect someone is in immediate danger of harming themselves, it's essential to stay with them and remove any means of self-harm, call emergency services or a crisis hotline for help, listen non-judgmentally, and offer reassurance and support while waiting for help to arrive. It's crucial not to leave the person alone if you believe they are at risk of suicide.",
+        "keywords": "suspect someon immedi danger harm",
+        "clean_question": "what should i do if i suspect someone is in immediate danger of harming themselves",
+        "clean_answer": "if you suspect someone is in immediate danger of harming themselves it is essential to stay with them and remove any means of selfharm call emergency services or a crisis hotline for help listen nonjudgmentally and offer reassurance and support while waiting for help to arrive it is crucial not to leave the person alone if you believe they are at risk of suicide"
+    },
+    {
+        "question": "How can I talk to someone about suicide without making things worse?",
+        "answer": "When talking to someone about suicide, it's essential to approach the conversation with empathy, compassion, and non-judgment. Use active listening techniques, express concern for their well-being, ask open-ended questions, validate their feelings, and offer support and resources for getting help. Avoid minimizing their feelings or trying to solve their problems on your own. It's okay to acknowledge that you're not a mental health professional but that you care about their safety and want to help them get the support they need.",
+        "keywords": "talk someon suicid without make thing wors",
+        "clean_question": "how can i talk to someone about suicide without making things worse",
+        "clean_answer": "when talking to someone about suicide it is essential to approach the conversation with empathy compassion and nonjudgment use active listening techniques express concern for their wellbeing ask openended questions validate their feelings and offer support and resources for getting help avoid minimizing their feelings or trying to solve their problems on your own it is okay to acknowledge that you are not a mental health professional but that you care about their safety and want to help them get the support they need"
+    },
+    {
+        "question": "Are there any resources available for individuals struggling with suicidal thoughts?",
+        "answer": "Yes, there are many resources available for individuals struggling with suicidal thoughts, including crisis hotlines, online chat support, suicide prevention websites, support groups, and mental health professionals. Organizations such as the National Suicide Prevention Lifeline, Crisis Text Line, and Suicide Prevention Resource Center offer confidential support and guidance for individuals in crisis.",
+        "keywords": "resourc avail individu struggl suicid thought",
+        "clean_question": "are there any resources available for individuals struggling with suicidal thoughts",
+        "clean_answer": "yes there are many resources available for individuals struggling with suicidal thoughts including crisis hotlines online chat support suicide prevention websites support groups and mental health professionals organizations such as the national suicide prevention lifeline crisis text line and suicide prevention resource center offer confidential support and guidance for individuals in crisis"
+    },
+    {
+        "question": "How can I take care of my own mental health while supporting someone who is struggling with suicidal thoughts?",
+        "answer": "Taking care of your own mental health while supporting someone who is struggling with suicidal thoughts is essential. Practice self-care activities such as exercise, relaxation techniques, spending time with supportive friends or family members, and seeking support from a therapist or counselor if needed. Set boundaries to protect your own well-being and know when to seek help from mental health professionals or support groups for yourself. It's crucial to prioritize your own well-being so that you can continue to offer support to others effectively.",
+        "keywords": "take care mental health support someon struggl suicid thought",
+        "clean_question": "how can i take care of my own mental health while supporting someone who is struggling with suicidal thoughts",
+        "clean_answer": "taking care of your own mental health while supporting someone who is struggling with suicidal thoughts is essential practice selfcare activities such as exercise relaxation techniques spending time with supportive friends or family members and seeking support from a therapist or counselor if needed set boundaries to protect your own wellbeing and know when to seek help from mental health professionals or support groups for yourself it is crucial to prioritize your own wellbeing so that you can continue to offer support to others effectively"
+    },
+    {
+        "question": "What are some risk factors for suicide that I should be aware of?",
+        "answer": "Risk factors for suicide include a history of mental health disorders, substance abuse, trauma or abuse, chronic illness or pain, family history of suicide, access to lethal means, social isolation or loneliness, financial or legal problems, and previous suicide attempts. It's essential to be aware of these risk factors and take any signs of distress seriously, especially when multiple risk factors are present.",
+        "keywords": "risk factor suicid awar",
+        "clean_question": "what are some risk factors for suicide that i should be aware of",
+        "clean_answer": "risk factors for suicide include a history of mental health disorders substance abuse trauma or abuse chronic illness or pain family history of suicide access to lethal means social isolation or loneliness financial or legal problems and previous suicide attempts it is essential to be aware of these risk factors and take any signs of distress seriously especially when multiple risk factors are present"
+    },
+    {
+        "question": "How can I help prevent suicide in my community or workplace?",
+        "answer": "Helping prevent suicide in your community or workplace involves raising awareness about mental health and suicide, promoting access to mental health resources and support services, fostering supportive environments where people feel comfortable seeking help, offering training on suicide prevention and intervention techniques, and providing ongoing support and encouragement to those who may be struggling. It's essential to create a culture of openness and support around mental health and suicide prevention.",
+        "keywords": "help prevent suicid commun workplac",
+        "clean_question": "how can i help prevent suicide in my community or workplace",
+        "clean_answer": "helping prevent suicide in your community or workplace involves raising awareness about mental health and suicide promoting access to mental health resources and support services fostering supportive environments where people feel comfortable seeking help offering training on suicide prevention and intervention techniques and providing ongoing support and encouragement to those who may be struggling it is essential to create a culture of openness and support around mental health and suicide prevention"
+    },
+    {
+        "question": "What are some myths or misconceptions about suicide that I should be aware of?",
+        "answer": "Myths and misconceptions about suicide include the belief that talking about suicide will make things worse, that people who talk about suicide are just seeking attention, that suicide only affects certain demographics or populations, and that suicide is inevitable for people with mental illness. It's crucial to challenge these myths and educate others about the realities of suicide, including the importance of open communication, seeking help, and providing support to those in need.",
+        "keywords": "myth misconcept suicid awar",
+        "clean_question": "what are some myths or misconceptions about suicide that i should be aware of",
+        "clean_answer": "myths and misconceptions about suicide include the belief that talking about suicide will make things worse that people who talk about suicide are just seeking attention that suicide only affects certain demographics or populations and that suicide is inevitable for people with mental illness it is crucial to challenge these myths and educate others about the realities of suicide including the importance of open communication seeking help and providing support to those in need"
+    },
+    {
+        "question": "How can I support someone who has lost a loved one to suicide?",
+        "answer": "Supporting someone who has lost a loved one to suicide involves offering empathy, compassion, and non-judgmental support, listening actively without trying to fix or minimize their feelings, acknowledging their pain and grief, and validating their experiences. Encourage them to seek support from mental health professionals or support groups if needed, and offer practical assistance with tasks such as funeral arrangements or connecting with resources for survivors of suicide loss. It's essential to be patient and understanding and to allow them to grieve in their own way and at their own pace.",
+        "keywords": "support someon lost love one suicid",
+        "clean_question": "how can i support someone who has lost a loved one to suicide",
+        "clean_answer": "supporting someone who has lost a loved one to suicide involves offering empathy compassion and nonjudgmental support listening actively without trying to fix or minimize their feelings acknowledging their pain and grief and validating their experiences encourage them to seek support from mental health professionals or support groups if needed and offer practical assistance with tasks such as funeral arrangements or connecting with resources for survivors of suicide loss it is essential to be patient and understanding and to allow them to grieve in their own way and at their own pace"
+    },
+    {
+        "question": "What are some protective factors that can help reduce the risk of suicide?",
+        "answer": "Protective factors that can help reduce the risk of suicide include strong social support networks, access to mental health treatment and support services, effective coping skills and problem-solving abilities, a sense of purpose or meaning in life, positive relationships with family and friends, and connections to community and cultural resources. It's essential to foster these protective factors in individuals and communities to promote mental health and resilience.",
+        "keywords": "protect factor help reduc risk suicid",
+        "clean_question": "what are some protective factors that can help reduce the risk of suicide",
+        "clean_answer": "protective factors that can help reduce the risk of suicide include strong social support networks access to mental health treatment and support services effective coping skills and problemsolving abilities a sense of purpose or meaning in life positive relationships with family and friends and connections to community and cultural resources it is essential to foster these protective factors in individuals and communities to promote mental health and resilience"
+    },
+    {
+        "question": "How can I recognize signs of suicidal ideation in myself or others?",
+        "answer": "Signs of suicidal ideation include talking about wanting to die or kill oneself, expressing feelings of hopelessness or being trapped, withdrawing from activities or social interactions, giving away possessions, engaging in risky or reckless behavior, and expressing feelings of worthlessness or guilt. If you or someone you know experiences these signs, it's crucial to take them seriously and seek help immediately.",
+        "keywords": "recogn sign suicid ideat other",
+        "clean_question": "how can i recognize signs of suicidal ideation in myself or others",
+        "clean_answer": "signs of suicidal ideation include talking about wanting to die or kill oneself expressing feelings of hopelessness or being trapped withdrawing from activities or social interactions giving away possessions engaging in risky or reckless behavior and expressing feelings of worthlessness or guilt if you or someone you know experiences these signs it is crucial to take them seriously and seek help immediately"
+    },
+    {
+        "question": "What are some strategies for coping with survivor's guilt after a suicide loss?",
+        "answer": "Coping with survivor's guilt after a suicide loss involves acknowledging and processing your feelings, seeking support from loved ones or support groups, engaging in self-care activities such as exercise or mindfulness, expressing your emotions through creative outlets, and seeking counseling or therapy if needed. It's essential to recognize that survivor's guilt is a common reaction to suicide loss and to allow yourself to grieve and heal in your own time and way.",
+        "keywords": "strategi cope survivor guilt suicid loss",
+        "clean_question": "what are some strategies for coping with survivors guilt after a suicide loss",
+        "clean_answer": "coping with survivors guilt after a suicide loss involves acknowledging and processing your feelings seeking support from loved ones or support groups engaging in selfcare activities such as exercise or mindfulness expressing your emotions through creative outlets and seeking counseling or therapy if needed it is essential to recognize that survivors guilt is a common reaction to suicide loss and to allow yourself to grieve and heal in your own time and way"
+    },
+    {
+        "question": "How can I talk to my child or teenager about suicide in an age-appropriate way?",
+        "answer": "Talking to children or teenagers about suicide in an age-appropriate way involves being honest and factual while also considering their developmental level and emotional maturity. Use simple language and concepts they can understand, encourage open communication, validate their feelings and questions, and reassure them of your love and support. Provide accurate information about mental health and suicide prevention, and encourage them to seek help from a trusted adult if they or someone they know is struggling.",
+        "keywords": "talk child teenag suicid ageappropri way",
+        "clean_question": "how can i talk to my child or teenager about suicide in an ageappropriate way",
+        "clean_answer": "talking to children or teenagers about suicide in an ageappropriate way involves being honest and factual while also considering their developmental level and emotional maturity use simple language and concepts they can understand encourage open communication validate their feelings and questions and reassure them of your love and support provide accurate information about mental health and suicide prevention and encourage them to seek help from a trusted adult if they or someone they know is struggling"
+    },
+    {
+        "question": "How can I support a friend or family member who has survived a suicide attempt?",
+        "answer": "Supporting a friend or family member who has survived a suicide attempt involves offering empathy, compassion, and non-judgmental support, listening actively and without trying to fix or minimize their feelings, and encouraging them to seek professional help and ongoing support from mental health professionals or support groups. It's essential to validate their experiences and feelings, and to provide practical assistance with tasks such as accessing treatment or connecting with resources for survivors of suicide attempts.",
+        "keywords": "support friend famili member surviv suicid attempt",
+        "clean_question": "how can i support a friend or family member who has survived a suicide attempt",
+        "clean_answer": "supporting a friend or family member who has survived a suicide attempt involves offering empathy compassion and nonjudgmental support listening actively and without trying to fix or minimize their feelings and encouraging them to seek professional help and ongoing support from mental health professionals or support groups it is essential to validate their experiences and feelings and to provide practical assistance with tasks such as accessing treatment or connecting with resources for survivors of suicide attempts"
+    }
+]

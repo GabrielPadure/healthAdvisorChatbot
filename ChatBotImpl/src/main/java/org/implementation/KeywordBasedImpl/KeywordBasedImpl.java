@@ -1,4 +1,4 @@
-package org.example;
+package org.implementation.KeywordBasedImpl;
 
 import org.json.JSONArray;
 import org.json.JSONObject;
@@ -7,10 +7,10 @@ import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.util.*;
 
-public class RuleBasedImpl {
+public class KeywordBasedImpl {
     private Map<String, String> keywordToAnswerMap;
 
-    public RuleBasedImpl(List<String> jsonFilePaths) throws IOException {
+    public KeywordBasedImpl(List<String> jsonFilePaths) throws IOException {
         this.keywordToAnswerMap = new HashMap<>();
         for (String path : jsonFilePaths) {
             loadFAQs(path);
@@ -43,12 +43,12 @@ public class RuleBasedImpl {
 
     public static void main(String[] args) throws IOException {
         List<String> jsonFiles = new ArrayList<>();
-        jsonFiles.add("DataPreprocessing/Fitness.json");
-        jsonFiles.add("DataPreprocessing/Med&Suppl.json");
-        jsonFiles.add("DataPreprocessing/MentalHealth.json");
-        jsonFiles.add("DataPreprocessing/Nutr&Diet.json");
-        jsonFiles.add("DataPreprocessing/Symp&Cond.json");
-        RuleBasedImpl bot = new RuleBasedImpl(jsonFiles);
+        jsonFiles.add("DataPreprocessing/Resources/RawData/Fitness.json");
+        jsonFiles.add("DataPreprocessing/Resources/RawData/Med&Suppl.json");
+        jsonFiles.add("DataPreprocessing/Resources/RawData/MentalHealth.json");
+        jsonFiles.add("DataPreprocessing/Resources/RawData/Nutr&Diet.json");
+        jsonFiles.add("DataPreprocessing/Resources/RawData/Symp&Cond.json");
+        KeywordBasedImpl bot = new KeywordBasedImpl(jsonFiles);
         try (Scanner scanner = new Scanner(System.in)) {
             System.out.println("Welcome, how may I help you? Type 'exit' to quit.");
 
