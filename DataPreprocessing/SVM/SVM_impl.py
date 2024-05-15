@@ -8,11 +8,11 @@ from sklearn.svm import SVC
 from sklearn.metrics import accuracy_score, classification_report
 
 DATA_PATHS = {
-    '/Users/alexandruvalah/IdeaProjects/healthAdvisorChatbot/DataPreprocessing/Resources/CleanData/clean_Fitness.json': 'Fitness',
-    '/Users/alexandruvalah/IdeaProjects/healthAdvisorChatbot/DataPreprocessing/Resources/CleanData/clean_Med&Suppl.json': 'Medication & Supplements',
-    '/Users/alexandruvalah/IdeaProjects/healthAdvisorChatbot/DataPreprocessing/Resources/CleanData/clean_MentalHealth.json': 'Mental Health',
-    '/Users/alexandruvalah/IdeaProjects/healthAdvisorChatbot/DataPreprocessing/Resources/CleanData/clean_Nutr&Diet.json': 'Nutrition & Diet',
-    '/Users/alexandruvalah/IdeaProjects/healthAdvisorChatbot/DataPreprocessing/Resources/CleanData/clean_Symp&Cond.json': 'Symptoms & Conditions'
+    '/Users/alexandruvalah/IdeaProjects/healthAdvisorChatbot/DataPreprocessing/Resources/CleanData/clean_Fitness_keywords.json': 'Fitness',
+    '/Users/alexandruvalah/IdeaProjects/healthAdvisorChatbot/DataPreprocessing/Resources/CleanData/clean_Med&Suppl_keywords.json': 'Medication & Supplements',
+    '/Users/alexandruvalah/IdeaProjects/healthAdvisorChatbot/DataPreprocessing/Resources/CleanData/clean_MentalHealth_keywords.json': 'Mental Health',
+    '/Users/alexandruvalah/IdeaProjects/healthAdvisorChatbot/DataPreprocessing/Resources/CleanData/clean_Nutr&Diet_keywords.json': 'Nutrition & Diet',
+    '/Users/alexandruvalah/IdeaProjects/healthAdvisorChatbot/DataPreprocessing/Resources/CleanData/clean_Symp&Cond_keywords.json': 'Symptoms & Conditions'
 }
 MAX_FEATURES = 2000  # best value
 TEST_SIZE = 0.2

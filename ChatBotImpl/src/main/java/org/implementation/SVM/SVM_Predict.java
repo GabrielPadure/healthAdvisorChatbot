@@ -11,8 +11,8 @@ import java.util.Scanner;
 import org.json.JSONObject;
 
 public class SVM_Predict {
-    // sends a user question to the Flask API and returns the predicted category.
-    public static String getPrediction(String userQuestion) throws IOException, InterruptedException {
+    // sends a user question to the Flask API and returns the predicted category and cleaned text
+    public static JSONObject getPrediction(String userQuestion) throws IOException, InterruptedException {
         HttpClient client = HttpClient.newHttpClient();
         HttpRequest request = HttpRequest.newBuilder()
                 .uri(URI.create("http://localhost:5000/predict"))
@@ -21,9 +21,8 @@ public class SVM_Predict {
                 .build();
 
         HttpResponse<String> response = client.send(request, BodyHandlers.ofString());
-        return new JSONObject(response.body()).getString("category");
+        return new JSONObject(response.body());
     }
-
 
     public static void main(String[] args) {
         try (Scanner scanner = new Scanner(System.in)) {
@@ -35,8 +34,11 @@ public class SVM_Predict {
                 if ("exit".equalsIgnoreCase(userInput.trim())) {
                     break;
                 }
-                String category = getPrediction(userInput);
-                System.out.println(STR."You might be talking about: \{category}");
+                JSONObject predictionResults = getPrediction(userInput);
+                String category = predictionResults.getString("category");
+                String cleanedText = predictionResults.getString("cleaned_text"); // Retrieve the cleaned text
+                System.out.println("Cleaned Question: " + cleanedText); // Print the cleaned text
+                System.out.println("You might be talking about: " + category);
             }
         } catch (IOException | InterruptedException e) {
             e.printStackTrace();

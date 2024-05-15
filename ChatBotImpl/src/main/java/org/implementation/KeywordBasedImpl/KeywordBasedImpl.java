@@ -33,21 +33,28 @@ public class KeywordBasedImpl {
         String processedQuestion = callPython.callPythonForPreprocessing(userQuestion);
         System.out.println("Processed Question: " + processedQuestion);
 
+        long startTime = System.nanoTime(); // Start timing only before searching for an answer
+        String bestAnswer = "Sorry, I did not understand the question.";
         for (Map.Entry<String, String> entry : keywordToAnswerMap.entrySet()) {
             if (processedQuestion != null && processedQuestion.contains(entry.getKey())) {
-                return entry.getValue();
+                bestAnswer = entry.getValue();
+                break;
             }
         }
-        return "Sorry, I did not understand the question.";
+        long endTime = System.nanoTime(); // End timing after finding the answer
+        double duration = (endTime - startTime) / 1_000_000_000.0; // Convert duration from nanoseconds to milliseconds
+        System.out.println("Time taken to find an answer: " + duration + " s");
+
+        return bestAnswer;
     }
 
     public static void main(String[] args) throws IOException {
         List<String> jsonFiles = new ArrayList<>();
-        jsonFiles.add("DataPreprocessing/Resources/RawData/Fitness.json");
-        jsonFiles.add("DataPreprocessing/Resources/RawData/Med&Suppl.json");
-        jsonFiles.add("DataPreprocessing/Resources/RawData/MentalHealth.json");
-        jsonFiles.add("DataPreprocessing/Resources/RawData/Nutr&Diet.json");
-        jsonFiles.add("DataPreprocessing/Resources/RawData/Symp&Cond.json");
+        jsonFiles.add("/Users/alexandruvalah/IdeaProjects/healthAdvisorChatbot/DataPreprocessing/Resources/RawData/Fitness.json");
+        jsonFiles.add("/Users/alexandruvalah/IdeaProjects/healthAdvisorChatbot/DataPreprocessing/Resources/RawData/Med&Suppl.json");
+        jsonFiles.add("/Users/alexandruvalah/IdeaProjects/healthAdvisorChatbot/DataPreprocessing/Resources/RawData/MentalHealth.json");
+        jsonFiles.add("/Users/alexandruvalah/IdeaProjects/healthAdvisorChatbot/DataPreprocessing/Resources/RawData/Nutr&Diet.json");
+        jsonFiles.add("/Users/alexandruvalah/IdeaProjects/healthAdvisorChatbot/DataPreprocessing/Resources/RawData/Symp&Cond.json");
         KeywordBasedImpl bot = new KeywordBasedImpl(jsonFiles);
         try (Scanner scanner = new Scanner(System.in)) {
             System.out.println("Welcome, how may I help you? Type 'exit' to quit.");
