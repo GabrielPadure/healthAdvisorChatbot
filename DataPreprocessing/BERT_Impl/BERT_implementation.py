@@ -3,6 +3,8 @@ import torch
 from transformers import BertTokenizer, BertForQuestionAnswering
 from sklearn.metrics.pairwise import cosine_similarity
 from sklearn.feature_extraction.text import TfidfVectorizer
+from spellchecker import SpellChecker
+
 
 # Load your datasets
 def load_datasets(file_paths):
@@ -11,6 +13,9 @@ def load_datasets(file_paths):
         with open(file_path, 'r') as f:
             data.extend(json.load(f))
     return data
+
+# Spell checker instance
+spell = SpellChecker()
 
 # Example dataset files (update these paths as needed)
 dataset_files = [
@@ -82,6 +87,14 @@ def answer_question(model, tokenizer, question, context, device):
 
     return answer
 
+
+def correct_spelling(question):
+    corrected_question = []
+    for word in question.split():
+        corrected_word = spell.correction(word)
+        corrected_question.append(corrected_word)
+    return ' '.join(corrected_question)
+
 def main():
     device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
     model_path = 'fine_tuned_bert_qa'
@@ -92,6 +105,7 @@ def main():
 
     while True:
         question = input("Question: ")
+        corrected_question = correct_spelling(question)
         if question.lower() in ['exit', 'quit']:
             break
 
