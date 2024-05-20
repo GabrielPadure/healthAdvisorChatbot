@@ -13,7 +13,7 @@ public class CosineSimilarity {
 
     public CosineSimilarity(Set<String> keywords) {
         keywordIndexMap = new HashMap<>();
-        vectorSize = keywords.size(); // Set the vector size to the number of unique keywords
+        vectorSize = keywords.size();
         initializeKeywordIndices(keywords);
     }
 
@@ -31,7 +31,7 @@ public class CosineSimilarity {
     }
 
     private RealVector toRealVector(String[] tokens) {
-        RealVector vector = new ArrayRealVector(vectorSize); // Fixed-size vector for all keywords
+        RealVector vector = new ArrayRealVector(vectorSize);
         Map<String, Integer> tokenFrequency = new HashMap<>();
 
         for (String token : tokens) {

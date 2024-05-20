@@ -1,0 +1,1826 @@
+[
+    {
+        "question": "Does neonatal circumcision decrease morbidity?",
+        "answer": "Evidence suggests that neonatal circumcision decreases the incidence of childhood urinary tract infections, phimosis, paraphimosis, balanitis and other genital dermatoses, invasive penile cancer, and the sexually transmitted diseases human papilloma virus (HPV) and HIV."
+    },
+    {
+        "question": "Which imaging modality is best for suspected stroke?",
+        "answer": "Patients exhibiting stroke symptoms should have brain imaging immediately within 3 hours of symptom onset."
+    },
+    {
+        "question": "What is the best strategy for impaired glucose tolerance in nonpregnant adults?",
+        "answer": "The best treatment strategy for impaired glucose tolerance IGT and impaired fasting glucose IFG is lifestyle intervention with a structured weight loss program of diet and exercise. Patients with IGT and IFG should be counseled to lose 5% to 7% of their body weight and instructed on moderate intensity physical activity for ~150 minutes per week."
+    },
+    {
+        "question": "What is the most effective and safe malaria prophylaxis during pregnancy?",
+        "answer": "Chloroquine and mefloquine have superior safety profiles in pregnancy, though all antimalarials are effective for prophylaxis. Antimalarials will decrease the severity of maternal malaria infection and malaria-associated anemia, while decreasing the incidence of low birth weight and perinatal death in women having their first or second baby."
+    },
+    {
+        "question": "Does screening reduce lung cancer mortality?",
+        "answer": "It's not clear. Neither routine chest x-ray (with or without sputum cytology) nor low-dose computed tomography (CT) have been proven to reduce mortality when used for lung cancer screening, although low-dose CT screening does identify lung cancer at an early stage in high-risk patients."
+    },
+    {
+        "question": "What are the most effective nonpharmacologic therapies for irritable bowel syndrome?",
+        "answer": "Herbal formulations, certain probiotics, elimination diets based on immunoglobulin G IgG antibodies, cognitive behavioral therapy, and self-help books have been shown to decrease global symptoms of irritable bowel syndrome IBS and improve overall quality of life."
+    },
+    {
+        "question": "What is the recommended approach to asymptomatic patients who develop a reactive PPD?",
+        "answer": "Clinical evaluation and chest x-ray are recommended for asymptomatic patients with a positive purified protein derivative PPD test result, to exclude the slight possibility of active tuberculosis TB. Patients with radiographic evidence of old healed TB infection should also undergo sputum testing."
+    },
+    {
+        "question": "What is the best duration of steroid therapy for contact dermatitis rhus?",
+        "answer": "Scant evidence exists for the best duration of steroid therapy for contact dermatitis due to plants rhus. Review articles recommend 10 to 21 days of treatment with topical or oral corticosteroids for moderate to severe contact dermatitis due to plants. The primary reason given for the duration of 2 to 3 weeks is to prevent rebound dermatitis."
+    },
+    {
+        "question": "What is the best surveillance for hepatocellular carcinoma in chronic carriers of hepatitis B?",
+        "answer": "Screening patients with chronic hepatitis B infection HBsAg+ for hepatocellular carcinoma by alpha-fetoprotein AFP or by AFP plus ultrasound AFP/US detects hepatocellular carcinoma tumors at earlier stages and increases resection rates."
+    },
+    {
+        "question": "Are major bleeding events from falls more likely in patients on warfarin?",
+        "answer": "There is no evidence of increased risk for major bleeding as a result of falls in hospitalized patients taking warfarin."
+    },
+    {
+        "question": "What is the appropriate management for a patient with CIN1 on colposcopy?",
+        "answer": "Of the different strategies available for managing cervical intraepithelial neoplasia grade 1 CIN1, testing for high-risk subtypes of the human papillomavirus hr-HPV DNA at 12 months has the highest sensitivity for predicting the development of CIN2 or CIN3 and leads to the lowest rate of referral to repeat colposcopy. If the hr-HPV DNA test result is negative at 12 months, then the patient may return to routine cytology screening. If the hr-HPV DNA test result is positive, the patient should undergo repeat colposcopy."
+    },
+    {
+        "question": "How safe is vaginal birth after cesarean section for the mother and fetus?",
+        "answer": "Compared with planned repeat low-transverse cesarean section, vaginal birth after cesarean section VBAC is not associated with increased risk of maternal or neonatal mortality."
+    },
+    {
+        "question": "What behavioral interventions are safe and effective for treating obesity?",
+        "answer": "Interventions that include a combination of behavioral and lifestyle modifications-including decreased caloric intake, specific aids to changing diet, increased physical activity, and treatment of binge eating disorders-have modest benefit with appropriate use."
+    },
+    {
+        "question": "How accurate is the use of ECGs in the diagnosis of myocardial infarct?",
+        "answer": "The electrocardiogram ECG is a fairly accurate test in the diagnosis of myocardial infarction MI. However, given more sensitive technologies, such as cardiac biomarker testing, its primary role should be as an important adjunct in the evaluation and detection of MI."
+    },
+    {
+        "question": "What effect do inhaled steroids have on delaying the progression of COPD?",
+        "answer": "The annual rate of decline in forced expiratory volume for 1 second (FEV1) has been researchers' gold standard as an objective measure for progression of chronic obstructive pulmonary disease (COPD). Inhaled corticosteroids (ICS) do not consistently have a statistically significant impact on FEV1 decline, and thus on the progression of COPD. In those studies that did show improvements in FEV1 decline, the change does not appear to be clinically significant (7.7 to 9.0 mL/year). These findings do not take into account the potential impact of ICS on such patient oriented outcomes as exacerbation rates, quality of life, outpatient visits, hospitalization, and mortality."
+    },
+    {
+        "question": "How reliable are self-measured blood pressures taken at home?",
+        "answer": "Self-measured blood pressures (SMBP) can be precise and accurate and, thus, reliably be used as an adjunct to office blood pressure measurements in selected clinical situations."
+    },
+    {
+        "question": "Should we screen for bacterial vaginosis in those at risk for preterm labor?",
+        "answer": "Bacterial vaginosis BV is associated with preterm delivery."
+    },
+    {
+        "question": "How should we treat chronic daily headache when conservative measures fail?",
+        "answer": "Amitriptyline is the best-supported option for the treatment of chronic daily headaches for those patients who have not been treated by conservative measures."
+    },
+    {
+        "question": "Do statins delay onset or slow progression of Alzheimer's dementia?",
+        "answer": "Statins coenzyme-A reductase inhibitors should not be used with the single intent to delay the onset or slow the progression of dementia. Large randomized control trials RCTs found that the administration of a statin had no significant effect on preventing or slowing all-cause cognitive decline."
+    },
+    {
+        "question": "Does tight control of blood glucose in pregnant women with diabetes improve neonatal outcomes?",
+        "answer": "In pregnant women with preexisting type 1 diabetes mellitus, maintaining near-normal blood glucose levels decreases the rate of major congenital anomalies defined as those causing death or a serious handicap necessitating surgical correction or medical treatment. Prolonged preconception control of blood sugar to near normal levels reduces the rate of major congenital anomalies close to those seen in women without diabetes."
+    },
+    {
+        "question": "How effective is prophylactic therapy for gout in people with prior attacks?",
+        "answer": "Colchicine has been shown to reduce symptomatic recurrences of gout, although the data to support its use is limited."
+    },
+    {
+        "question": "Is neurosurgery referral warranted for small brain aneurysms?",
+        "answer": "The risk of rupture of a small cerebral aneurysm (<10 mm) is very low in asymptomatic patients who have never had a subarachnoid hemorrhage. Because the risk of morbidity and mortality from surgical intervention significantly exceeds that of nonsurgical monitoring for this group, primary care physicians do not need to refer patients with this condition to a neurosurgeon for clipping."
+    },
+    {
+        "question": "Do imaging studies aid diagnosis of acute sinusitis?",
+        "answer": "Accurate diagnosis of acute sinusitis in both children and adults depends on the history and clinical examination of the patient. While the clinical signs and symptoms of acute sinusitis are often difficult to distinguish from viral upper respiratory infection, such an assessment remains the best approach to diagnosing acute sinusitis."
+    },
+    {
+        "question": "How effective is desmopressin for primary nocturnal enuresis?",
+        "answer": "Desmopressin reduces the number of nights of primary noctural enuresis by at least 1 per week, and increases the likelihood of \"cure\" (defined as 14 consecutive dry nights) while treatment is continued (number needed to treat [NNT]=5-6)"
+    },
+    {
+        "question": "How do we decide when a patient with nonmalignant disease is eligible for hospice care?",
+        "answer": "Evidence-based guidelines for determining prognosis in some noncancer diseases have been developed. However, despite their widespread use, limited data exist to support their accuracy. Moreover, a high degree of prognostic accuracy may be unattainable given the unpredictable course of common noncancer chronic diseases. Hospice eligibility for patients with nonmalignant disease is based on clinical judgment."
+    },
+    {
+        "question": "Should home apnea monitoring be recommended to prevent SIDS?",
+        "answer": "While home apnea monitoring may find an increased incidence of apnea and bradycardia in preterm infants compared with term infants, no association links these events with sudden infant death syndrome SIDS. Apnea of prematurity is not a proven risk factor for SIDS. Since apnea of prematurity has not been shown to be a precursor to SIDS, home apnea monitoring for the purpose of preventing SIDS cannot be recommended."
+    },
+    {
+        "question": "Does stopping a statin increase the short-term risk of a cardiovascular event?",
+        "answer": "When hydroxymethyl glutaryl coenzyme A (HMG CoA) inhibitors (statins) are stopped by asymptomatic patients, there appears to be no increased risk of cardiovascular events."
+    },
+    {
+        "question": "Does physical therapy improve symptoms of fibromyalgia?",
+        "answer": "Physical therapy is minimally effective in the treatment of fibromyalgia, with immediate post-treatment improvement in pain and tender points, and both short- and longer-term improved self-efficacy confidence in performing tasks."
+    },
+    {
+        "question": "What are the repercussions of disclosing a medical error?",
+        "answer": "Physicians and their staff may experience a resolution of anxiety and guilt that can improve their well-being."
+    },
+    {
+        "question": "Which clinical features and lab findings increase the likelihood of temporal arteritis?",
+        "answer": "Jaw claudication, diplopia, or a temporal artery abnormality on physical exam increase the likelihood of temporal arteritis. A finding of thrombocytosis in a patient with suspected temporal arteritis moderately increases the likelihood of this diagnosis."
+    },
+    {
+        "question": "What is the best way to evaluate an acute traumatic knee injury?",
+        "answer": "Use the Ottawa Knee Rules. When there is a possibility of fracture, they can guide the use of radiography in adults who present with isolated knee pain. However, information on use of these rules in the pediatric population is limited."
+    },
+    {
+        "question": "Are ARBs or ACE inhibitors preferred for nephropathy in diabetes?",
+        "answer": "Angiotensin receptor blockers (ARBs) have been shown to reduce the progression of nephropathy in several consistent studies. While ACE inhibitors have not been as well studied for the endpoint of nephropathy, patients with nephropathy exhibit reduced mortality when treated with an ACE inhibitor."
+    },
+    {
+        "question": "What is the best approach for patients with ASCUS detected on Pap smear?",
+        "answer": "Those who test positive for high-risk types of HPV should be referred for colposcopy. Those with a negative test result for high-risk types of HPV may resume regular Pap testing in 12 months. If HPV testing is unavailable, an alternative strategy is to repeat the Pap smear at 4- to 6-month intervals. After 2 negative Pap smears are obtained, usual screening may resume. But if either of the repeat Pap smears results in ASCUS or worse, the woman should be referred for colposcopy."
+    },
+    {
+        "question": "Do antibiotics improve outcomes in chronic rhinosinusitis?",
+        "answer": "For children, antibiotics do not appear to improve short-term (3-6 weeks) or long-term (3 months) outcomes of chronic rhinosinusitis."
+    },
+    {
+        "question": "Does warfarin prevent deep venous thrombosis in high-risk patients?",
+        "answer": "Warfarin (Coumadin) is effective in preventing deep venous thrombosis (DVT) among patients with a history of DVT. Conventional dosing and longer durations are the most effective, but the ideal length of therapy is unknown."
+    },
+    {
+        "question": "How should we manage a patient with a positive PPD and prior BCG vaccination?",
+        "answer": "Prior bacille Calmette-Gu\u00e9rin (BCG) vaccination increases the likelihood of a positive tuberculosis (TB) 5TU purified protein derivative (PPD) skin test. The PPD response following BCG vaccine varies with age at vaccination, number of years since the BCG vaccination, number of times vaccinated, and number of PPDs performed. An induration of greater than 14 mm is unlikely to be due to prior BCG vaccination."
+    },
+    {
+        "question": "How often is coughing the presenting complaint in patients with gastroesophageal reflux disease?",
+        "answer": "Frequent coughing is a concern for approximately 35% of those with typical gastroesophageal reflux disease (GERD) symptoms of heartburn and acid regurgitation as compared with 11% in those who do not have these symptoms. Among pulmonary clinic patients with complaints of chronic cough, GERD may be the underlying cause in 40%."
+    },
+    {
+        "question": "What is the initial approach to the treatment of shoulder pain?",
+        "answer": "There is some limited evidence supporting the use of nonsteroidal anti-inflammatory drugs (NSAIDs) in the initial treatment of shoulder pain. There is no evidence in support of most other therapies, including intra-articular or subacromial corticosteroid injection, intra-articular NSAID injection, oral corticosteroid treatment, physiotherapy, ultrasound, heat or ice therapy, laser treatment, electrotherapy, and iontophoresis"
+    },
+    {
+        "question": "What is the most effective treatment for tinea pedis athlete's foot?",
+        "answer": "Topical therapy is effective for tinea pedis. Topical terbinafine has a 70% cure rate, is available over the counter OTC, and requires only 1 to 2 weeks of therapy. Two other OTC topicals, tolnaftate and miconazole, require 2 to 4 weeks to achieve slightly lower cure rates, but are considerably less expensive."
+    },
+    {
+        "question": "Which vaccinations are indicated after splenectomy?",
+        "answer": "Immunization against encapsulated bacterial pathogens decreases the incidence of post-splenectomy sepsis. Pneumococcal vaccination is indicated for patients after splenectomy. This immunization should be given at least 14 days before a scheduled splenectomy, or given after the fourteenth postoperative day."
+    },
+    {
+        "question": "Which medications can be split without compromising efficacy and safety?",
+        "answer": "Split tablets of lisinopril are as effective as whole tablets of the same dose for hypertension."
+    },
+    {
+        "question": "How should you further evaluate an adult with a testicular mass?",
+        "answer": "Perform a scrotal ultrasonography immediately to determine whether emergency surgery is necessary for patients with an exam or history that suggests testicular torsion or rupture."
+    },
+    {
+        "question": "Is MRI useful for evaluation of acute low back pain?",
+        "answer": "MRI has a high sensitivity and specificity in the detection of cancer or infection, but it is not particularly specific when evaluating lumbar radiculopathy. Poor specificity can lead to finding clinically irrelevant abnormalities."
+    },
+    {
+        "question": "Does microalbuminuria screening in diabetes prevent complications?",
+        "answer": "Screening diabetic patients for microalbuminuria identifies those who may benefit from treatments that delay progression to renal failure."
+    },
+    {
+        "question": "What treatment approach to intrapartum maternal fever has the best fetal outcomes?",
+        "answer": "A combination of beta-lactam and aminoglycoside antibiotics are the recommended empiric agents for the treatment of acute chorioamnionitis, given that no head-to-head trials exist."
+    },
+    {
+        "question": "Which patients with suspected exposure to pertussis should receive prophylaxis?",
+        "answer": "Only high-risk close contacts of known cases should receive prophylactic antibiotics, according to the Centers for Disease Control and Prevention (CDC). The CDC defines high-risk as (1) infants who are <12 months, (2) those especially vulnerable to the complications of pertussis, or (3) those, such as health care workers, in close contact with high-risk individuals."
+    },
+    {
+        "question": "What is the best portable method of purifying water to prevent infectious disease?",
+        "answer": "There isn't a single best method, but there are 5 that adequately purify water according to environmental Protection agency (EPA) standards. These include 1) boiling for 1 minute if below 2000 m (6562 feet) and 3 minutes if above, 2) chlorine dioxide tablets, 3) MIoX purifier, 4) ultraviolet light (steriPEN), and 5) portable filtration with a absolute pore size <1 micrometer combined with halogenation or charcoal filtration."
+    },
+    {
+        "question": "What is the addiction risk associated with tramadol?",
+        "answer": "Tramadol (Ultram, generic and with acetaminophen in Ultracet) carries a risk of substance abuse."
+    },
+    {
+        "question": "How should a DEXA scan be used to evaluate bisphosphonate therapy for osteoporosis?",
+        "answer": "If bone density is evaluated after initiating bisphosphonate drug therapy, it should be tested no earlier than 2 years."
+    },
+    {
+        "question": "What environmental modifications improve pediatric asthma?",
+        "answer": "Reducing environmental tobacco smoke exposure decreases health care utilization among poor asthmatic children. Dust mite reduction by chemical measures is potentially harmful."
+    },
+    {
+        "question": "How effective are nasal steroids combined with nonsedating antihistamines for seasonal allergic rhinitis?",
+        "answer": "For treating seasonal allergic rhinitis, inhaled nasal corticosteroids are superior to nonsedating antihistamines."
+    },
+    {
+        "question": "Is screening for lead poisoning justified?",
+        "answer": "Evidence is insufficient to recommend for or against universal screening of young children for lead poisoning in high-prevalence communities."
+    },
+    {
+        "question": "Do nasal decongestants relieve symptoms?",
+        "answer": "Oral and topical nasal decongestants result in a statistically significant improvement in subjective symptoms of nasal congestion and objective nasal airway resistance in adults' common colds."
+    },
+    {
+        "question": "Do antiarrhythmics prevent sudden death in patients with heart failure?",
+        "answer": "Beta-blockers (class II antiarrhythmics) reduce sudden death and total mortality in patients with heart failure."
+    },
+    {
+        "question": "What are the most effective ways you can help patients stop smoking?",
+        "answer": "Brief counseling, nicotine replacement therapy, antidepressants, and varenicline all work well. Physician intervention should begin with routine assessment of smoking status for all patients. Brief (3 minutes or less) smoking cessation counseling improves quit rates."
+    },
+    {
+        "question": "Does antepartum perineal massage reduce intrapartum lacerations?",
+        "answer": "Yes - to a point. Antepartum perineal massage reduces both the incidence of perineal trauma requiring suturing and the likelihood of episiotomy in women who have never given birth vaginally. It reduces the incidence of postpartum perineal pain in women who have given birth vaginally. Perineal massage doesn't reduce the frequency of first- or second-degree lacerations or third- and fourth-degree perineal trauma."
+    },
+    {
+        "question": "What is the best way to screen for breast cancer in women with implants?",
+        "answer": "Mammography is best. It is considered as effective for screening women who have undergone augmentation mammoplasty as those who have not. This question has not been well studied, however."
+    },
+    {
+        "question": "What is the best treatment for oral thrush in healthy infants?",
+        "answer": "Nystatin oral suspension is a safe first-line therapy; fluconazole is more effective, but has not been approved by the Food and Drug Administration (FDA) for use in immunocompetent infants."
+    },
+    {
+        "question": "How can you prevent migraines during pregnancy?",
+        "answer": "No randomized controlled trials RCT have addressed pharmacologic prophylaxis of migraine for pregnant women. Two studies suggest that nonpharmacologic therapies combinations of skin warming, relaxation, biofeedback, and physical therapy not only relieved acute pain, but also decreased the frequency of headaches."
+    },
+    {
+        "question": "What is the appropriate use of sunscreen for infants and children?",
+        "answer": "The risk and benefits of sunscreen use for children under the age of 6 months are unknown. To avoid sunburn, infants should be kept out of direct sunlight and be covered with protective clothing."
+    },
+    {
+        "question": "Does treatment with donepezil improve memory for patients with mild cognitive impairment?",
+        "answer": "Donepezil (Aricept) has potential benefit in delaying risk of progression to Alzheimer's disease in the first year of treatment, but this benefit is not seen at 3 years. Donepezil does not improve memory for patients with mild cognitive impairment."
+    },
+    {
+        "question": "What is the appropriate evaluation and treatment of children who are \"toe walkers\"?",
+        "answer": "The evaluation of toe-walking focuses on differentiating normal children from those with mild cerebral palsy. Gait analysis may be a useful diagnostic tool, but further investigation is needed to confirm its reliability."
+    },
+    {
+        "question": "Does furosemide decrease morbidity or mortality for patients with diastolic or systolic dysfunction?",
+        "answer": "In short-term studies, furosemide reduces edema, reduces hospitalizations, and improves exercise capacity in the setting of systolic dysfunction (strength of recommendation."
+    },
+    {
+        "question": "What interventions reduce the risk of contrast nephropathy for high-risk patients?",
+        "answer": "Because dehydration is a risk factor for developing contrast nephropathy, periprocedural hydration is routinely recommended."
+    },
+    {
+        "question": "Can counseling prevent or treat postpartum depression?",
+        "answer": "No, in most cases, counseling does not prevent postpartum depression (PPD), though it can treat the disorder. Overall, psychosocial interventions don't offer a significantly greater benefit than standard care in preventing PPD-although studies do suggest a preventive benefit when the intervention is administered postnatally, in the home, and targeted toward individual at-risk women."
+    },
+    {
+        "question": "What is the best way to manage phantom limb pain?",
+        "answer": "No single best therapy for phantom limb pain PLP exists. Treatment requires a coordinated application of conservative, pharmacologic, and adjuvant therapies."
+    },
+    {
+        "question": "What is appropriate fetal surveillance for women with diet-controlled gestational diabetes?",
+        "answer": "No evidence clearly supports the practice of increased fetal surveillance in the pregnancies of women with well-controlled (ie, fasting blood sugar <105 mg/dL) class A1 gestational diabetes."
+    },
+    {
+        "question": "How should patients with Barrett's esophagus be monitored?",
+        "answer": "Some patients who have been diagnosed with Barrett's esophagus will develop dysplasia and, in some cases, esophageal carcinoma."
+    },
+    {
+        "question": "Does reducing smoking in the home protect children from the effects of second-hand smoke?",
+        "answer": "Yes, taking this step helps asthmatic children, and may even help nonasthmatic children. In families of asthmatic children, education to reduce exposure to secondhand smoke leads to fewer medical visits."
+    },
+    {
+        "question": "What treatment works best for tennis elbow?",
+        "answer": "Topical or oral nonsteroidal anti-inflammatory medications (NSAIDs), corticosteroid injection, and acupuncture are more helpful than placebo in treating lateral epicondylitis, or tennis elbow."
+    },
+    {
+        "question": "Does routine amniotomy have a role in normal labor?",
+        "answer": "It may, depending on the stage of labor and whether the woman has given birth previously. Routine amniotomy doesn't significantly reduce the duration of first-stage labor in either primiparous or multiparous women."
+    },
+    {
+        "question": "Does psychiatric treatment help patients with intractable chronic pain?",
+        "answer": "Tricyclic antidepressants and intensive multi-disciplinary programs are moderately effective for reducing chronic back pain; tricyclics are also effective for diabetic neuropathy and irritable bowel syndrome."
+    },
+    {
+        "question": "How does pentoxifylline affect survival of patients with alcoholic hepatitis?",
+        "answer": "Pentoxifylline improves short-term survival in patients admitted to the hospital with severe alcoholic hepatitis."
+    },
+    {
+        "question": "Does heat or cold work better for acute muscle strain?",
+        "answer": "Cryotherapy is better than heat for treating acute muscle strain."
+    },
+    {
+        "question": "Prophylactic oxytocin: Before or after placental delivery?",
+        "answer": "Either is fine. Timing alone doesn't influence the drug's efficacy in preventing postpartum bleeding."
+    },
+    {
+        "question": "How accurate is stress radionuclide imaging for diagnosis of CAD?",
+        "answer": "Stress radionuclide testing is a moderately accurate test compared with coronary angiography for the diagnosis of coronary artery disease (CAD) in intermediate-risk individuals. Variations in technique of imaging (planar or single-photon emission computed tomography [SPECT]) and stress (exercise or pharmacologic) do not significantly alter the accuracy of this test, although there is some evidence for decreased accuracy in women."
+    },
+    {
+        "question": "What causes a low TSH level with a normal free T4 level?",
+        "answer": "Subclinical hyperthyroidism (SCH) is defined as a low thyroid-stimulating hormone (TSH) level with normal free T4 and free T3 levels in patients without specific symptoms of hyperthyroidism."
+    },
+    {
+        "question": "Who should get hepatitis A vaccination?",
+        "answer": "Persons traveling to or working in countries that have high or intermediate rates of infection."
+    },
+    {
+        "question": "What is the best way to distinguish type 1 and 2 diabetes?",
+        "answer": "No clinical characteristic or diagnostic test is available to readily distinguish type 1 from type 2 diabetes mellitus. Although C-peptide levels, autoantibodies, and adiponectin-to-leptin ratios show some utility, they do not yet have a standard diagnostic role; research on the pathophysiology of diabetes suggests that the classic type 1 and type 2 distinctions may not be appropriate for all patients1."
+    },
+    {
+        "question": "Do preparticipation clinical exams reduce morbidity and mortality for athletes?",
+        "answer": "Though clinical preparticipation exams (PPE) are recommended by experts and required in most states, we found no medium- or better-quality evidence that demonstrates they reduce mortality or morbidity. PPEs detect only a very small percentage of cardiac abnormalities among athletes who subsequently die suddenly."
+    },
+    {
+        "question": "What are effective medical treatments for adults with acute migraine?",
+        "answer": "Medications collectively referred to as \"triptans\" (eg, sumatriptan, naratriptan, etc) have been shown to be effective for acute migraine."
+    },
+    {
+        "question": "What are the indications for bariatric surgery?",
+        "answer": "No studies evaluate the commonly used indications for bariatric surgery. Consensus guidelines suggest that the surgical treatment of obesity should be reserved for patients with a body-mass index (BMI) >40 kg/m2 or with BMI >35 kg/m2 and 1 or more significant comorbid conditions, when less invasive methods of weight loss have failed and the patient is at high risk for obesity-associated morbidity and mortality."
+    },
+    {
+        "question": "How best to manage the patient in term labor whose group B strep status is unknown?",
+        "answer": "Monitor the patient and treat her with intrapartum chemoprophylaxis based on identified risk factors, unless a rapid, highly sensitive (\u226585%) polymerase chain reaction (PCR) test is immediately available to evaluate for group B Streptococcus (GBS)."
+    },
+    {
+        "question": "How often should you follow up on a patient with newly diagnosed hypothyroidism?",
+        "answer": "Six to eight weeks after the start of levothyroxine therapy you should reexamine patients and measure their serum thyroid-stimulating hormone (TSH)."
+    },
+    {
+        "question": "What is the best diagnostic approach to postmenopausal vaginal bleeding in women taking hormone replacement therapy?",
+        "answer": "Women on standard estrogen/progestin hormone replacement therapy (HRT) regimens frequently have irregular bleeding during the first 12 months of treatment. Therefore, those taking HRT should usually be evaluated after 1 year of treatment if bleeding continues."
+    },
+    {
+        "question": "What are the indications for treatment with angiotensin-converting enzyme ACE inhibitors in patients with diabetes?",
+        "answer": "Tight control of hypertension treatment is key in preventing the vascular complications of diabetes. ACE inhibitors appear to have a protective effect that is independent of their antihypertensive effect. Unless there is a contraindication, all patients with diabetes who have hypertension should be treated with ACE inhibitors. Patients with diabetes who have microalbuminuria should be treated with ACE inhibitors, even if normotensive, as should those with overt nephropathy."
+    },
+    {
+        "question": "What is the value of screening for heart disease with an exercise stress test (EST) in an asymptomatic person?",
+        "answer": "There is insufficient evidence to recommend for or against an EST for screening asymptomatic individuals of any age."
+    },
+    {
+        "question": "What are the most effective treatments for bacterial vaginosis in nonpregnant women?",
+        "answer": "Either oral or vaginal metronidazole or vaginal clindamycin provides equivalent treatment for bacterial vaginosis in nonpregnant women. Oral clindamycin 300 mg twice daily for 7 days is an effective alternative. There is conflicting evidence regarding the efficacy of a single 2-g dose of oral metronidazole. Ofloxacin 200 mg or 300 mg twice daily is less effective but could be considered for women with intolerance to metronidazole or clindamycin. Overall recurrence rates of up to 30% have been reported."
+    },
+    {
+        "question": "Which tool is most useful in diagnosing bipolar disorder in children?",
+        "answer": "The Kiddie Schedule for Affective Disorders and Schizophrenia (KSADS), a semi-structured interview, along with clinical evaluation by a childhood mental health specialist, is used most frequently in major research studies."
+    },
+    {
+        "question": "Does screening for diabetes in at-risk patients improve long-term outcomes?",
+        "answer": "No randomized clinical trials or prospective studies have demonstrated adequate evidence to screen individuals for diabetes mellitus. A recently published meta-analysis for the United States Preventative Services Task Force (USPSTF) stated that \"until we have better evidence about its benefits, harms, and costs, the role of screening as a strategy to reduce the burden of suffering of diabetes will remain uncertain\"."
+    },
+    {
+        "question": "What is the best treatment for diabetic neuropathy?",
+        "answer": "Tricyclic antidepressants, anticonvulsants, and capsaicin reduce the pain of diabetic neuropathy; limited data suggests that lidocaine patches may also be efficacious. Both tricyclic antidepressants and anticonvulsants are superior to placebo in relieving painful diabetic neuropathy. Compared with placebo, patients taking tricyclic antidepressants report reduced pain (number needed to treat [NNT] for at least 50% reduction= 3.5) (strength of recommendation."
+    },
+    {
+        "question": "Do inhaled beta-agonists control cough in URIs or acute bronchitis?",
+        "answer": "Patients who receive inhaled beta-agonists for cough due to acute upper respiratory infections (URI) are just as likely to report a productive cough at 7 days compared with patients treated with placebo."
+    },
+    {
+        "question": "Does yoga speed healing for patients with low back pain?",
+        "answer": "The use of yoga is consistent with recommendations for activity, as tolerated, for patients with low back pain. Literature evaluating the effectiveness of yoga for low back pain is scant, so it is unclear if yoga is equivalent to, or superior to, standard therapies"
+    },
+    {
+        "question": "Is methylphenidate useful for treating adolescents with ADHD?",
+        "answer": "Methylphenidate (Ritalin) is effective in the short-term treatment of attention deficit/hyperactivity disorder (ADHD)."
+    },
+    {
+        "question": "Should we screen women for hypothyroidism?",
+        "answer": "Though evidence is insufficient to recommend screening all women for hypothyroidism, women aged >50 years are at increased risk. Screening is most likely to detect subclinical hypothyroidism. Studies evaluating treatment of subclinical hypothyroidism in women aged >50 years offer a mix of potential benefits and harms but without long-term outcome information. No studies address asymptomatic women aged <50."
+    },
+    {
+        "question": "What is the best approach for managing recurrent bacterial vaginosis?",
+        "answer": "The best way to prevent recurrent bacterial vaginosis is to treat the initial episode with the most effective regimen. Metronidazole (500 mg orally twice daily for 7 days) has the lowest recurrence rate among antimicrobial regimens for bacterial vaginosis (20% vs 34%-50% for other agents)."
+    },
+    {
+        "question": "What are effective treatments for panic disorder?",
+        "answer": "Selective serotonin reuptake inhibitors (SSRIs), tricyclic antidepressants (TCAs), benzodiazepines (BDZs), and cognitive behavioral therapy (CBT) are effective for panic disorder (PD) with or without agoraphobia (NNT5 for complete remission). SSRIs may be most effective, but BDZs work faster. Clomipramine is more effective than other TCAs. CBT improves response and decreases relapse rates when used with medication. Severe symptoms may warrant short-term use of a BDZ until other therapies take effect."
+    },
+    {
+        "question": "Is there a role for theophylline in treating patients with asthma?",
+        "answer": "With adults, oral theophylline may help lower the dosage of inhaled steroids needed to control chronic asthma. It offers no benefit for acute asthma exacerbations. For children, intravenous aminophylline may improve the clinical course of severe asthma attacks. Side effects and toxicity limit use of these medications in most settings."
+    },
+    {
+        "question": "Are any oral iron formulations better tolerated than ferrous sulfate?",
+        "answer": "Ferrous salt preparations ferrous sulfate, ferrous gluconate, and ferrous fumarate are equally tolerable."
+    },
+    {
+        "question": "Other than anticoagulation, what is the best therapy for those with atrial fibrillation?",
+        "answer": "Rate control with long-term anticoagulation is recommended for most patients with atrial fibrillation."
+    },
+    {
+        "question": "Are there any known health risks to early introduction of solids to an infant's diet?",
+        "answer": "Few studies support an association between early introduction of solid food and atopic conditions, obesity, or any other illness. Very weak evidence suggests an increased risk of atopic dermatitis."
+    },
+    {
+        "question": "What is the best way to diagnose a suspected rotator cuff tear?",
+        "answer": "The evaluation of a suspected rotator cuff tear should start with a history and a clinical exam of the shoulder."
+    },
+    {
+        "question": "What is appropriate management of iron deficiency for young children?",
+        "answer": "Infants and toddlers with suspected iron-deficiency anemia (IDA) should begin treatment with oral ferrous sulfate (3 mg/kg/d of elemental iron). A rise in hemoglobin >1 g/dL after 4 weeks supports the diagnosis of iron deficiency, and supplementation should continue for 2 additional months to replenish iron stores. Recheck hemoglobin at the end of treatment and again 6 months later."
+    },
+    {
+        "question": "What is the best management for patients who have a TIA while on aspirin therapy?",
+        "answer": "Alternative antiplatelet therapy for stroke prevention is indicated for patients who experience transient ischemic attacks (TIAs) while on aspirin therapy."
+    },
+    {
+        "question": "What is the best treatment for infants with colic?",
+        "answer": "Infantile colic, defined as excessive crying in an otherwise healthy baby, is a distressing phenomenon, but there is little evidence to support the many treatments offered."
+    },
+    {
+        "question": "When should patients with asymptomatic aortic stenosis be evaluated for valve replacement?",
+        "answer": "For patients whose echocardiograms show advanced calcification of the aortic valves, a jet velocity of > 4.0 m/s, or a progression in jet velocity of 0.3m/s/year; and for patients who have an abnormal exercise response or an impaired functional status, consider referral for valve replacement prior to the onset of symptoms."
+    },
+    {
+        "question": "Should liver enzymes be checked in a patient taking niacin?",
+        "answer": "No randomized trials directly address the question of frequency of liver enzyme monitoring with niacin use. Niacin use is associated with early and late hepatotoxicity (strength of recommendation"
+    },
+    {
+        "question": "Should induction of labor be considered in a woman with a macrosomic baby?",
+        "answer": "Currently, there is no evidence to support labor induction in women with suspected fetal macrosomia."
+    },
+    {
+        "question": "What vitamins and minerals should be given to breastfed and bottle-fed infants?",
+        "answer": "Breastfed and formula-fed infants should receive intramuscular vitamin K soon after birth to prevent classic hemorrhagic disease of the newborn."
+    },
+    {
+        "question": "For fibromyalgia, which treatments are the most effective?",
+        "answer": "There is no single most effective modality for the treatment of fibromyalgia syndrome, and no objective comparison of the results from the different studies is available. Low-dose tricyclic antidepressants (TCAs) improve sleep quality and global well-being and have a moderate beneficial effect on tenderness and stiffness."
+    },
+    {
+        "question": "When should a chest x-ray be used to evaluate acute-onset productive cough for adults?",
+        "answer": "Even though the most common reason to order a chest x-ray in the evaluation of an acute-onset, productive cough is to rule out pneumonia, there is no strong evidence to help a physician decide when to order this chest x-ray. However, acute cough patients who have rhinorrhea, sore throat, respiratory rate \u226425 breaths per minute, temperature <100\u00baF, and the absence of night sweats, myalgia, and all-day sputum production, have minimal to no risk of pneumonia and thus do not need a chest x-ray."
+    },
+    {
+        "question": "When should you order a Lyme titer?",
+        "answer": "Lyme titers should be ordered for patients with signs or symptoms of disseminated Lyme disease, but who do not have the pathognomonic erythema migrans rash. Symptomatic patients with erythema migrans should be treated without being tested, given the high probability of having Lyme disease."
+    },
+    {
+        "question": "What is the best treatment for pertussis?",
+        "answer": "A short-term course of erythromycin, azithromycin, or clarithromycin is as effective as a long-term (2-week) erythromycin therapy in eradicating Bordetella pertussis from the nasopharynx."
+    },
+    {
+        "question": "What is a reasonable initial approach to the patient with fatigue?",
+        "answer": "Half of all patients presenting with fatigue have a psychological cause. Patients with a history of anxiety or depression or those with a duration of symptoms for more than 3 months are more likely to remain symptomatic 6 months later. Physicians should perform a physical examination, take a thorough history, and screen patients for depression using a validated primary care instrument, such as the Beck Depression Inventory or Prime-MD. Physicians may also consider a directed laboratory evaluation with sedimentation rate, blood count, and glycohemoglobin and thyroid stimulating hormone (TSH) levels, particularly in older patients."
+    },
+    {
+        "question": "Is surgery effective for reducing symptoms in adults with obstructive sleep apnea?",
+        "answer": "Current evidence is insufficient to recommend surgery for symptom relief for patients with obstructive sleep apnea. More convincing evidence exists supporting the use of Continuous Positive Airway Pressure (CPAP) or dental appliances for reducing symptoms of sleep apnea."
+    },
+    {
+        "question": "Does daily monitoring of blood glucose predict hemoglobin A1c levels?",
+        "answer": "Hemoglobin A1c HbA1c levels correlate closely, though not perfectly, with blood glucose levels in patients with diabetes."
+    },
+    {
+        "question": "What is the best initial treatment of Parkinson's disease?",
+        "answer": "No studies clearly demonstrate the best initial treatment for Parkinson's disease. Levodopa improves motor function in Parkinson's disease; however, long-term use is associated with irreversible dyskinesias and motor fluctuations. Compared with placebo, selegiline improves the motor symptoms of Parkinson's disease and allows a physician to delay the introduction of levodopa by 9 to 12 months."
+    },
+    {
+        "question": "What is the prognosis of postherpetic neuralgia?",
+        "answer": "Postherpetic neuralgia occurs rarely among patients aged <50 years with herpes zoster. The incidence, duration, and severity of post-herpetic neuralgia increases with age, but older patients usually have only mild pain. Most cases resolve spontaneously within 3 months. Even in the highest-risk group, people aged >70 years, 25% had some pain at 3 months, but only 10% had pain at 1 year, and none had severe pain. Only a few patients have pain that persists for years."
+    },
+    {
+        "question": "What is the most effective nicotine replacement therapy?",
+        "answer": "No single nicotine replacement therapy is most effective for all smokers. All forms of nicotine replacement therapy (gum, transdermal patch, spray, inhaler, and lozenge) are equally effective, increasing smoking cessation rates by about 150% to 200%."
+    },
+    {
+        "question": "What findings distinguish acute bacterial sinusitis?",
+        "answer": "No studies have demonstrated that cessation of breastfeeding in jaundiced infants improves clinical outcomes, although this has only been studied in term infants. Temporarily disrupting or supplementing breastfeeding in jaundiced infants is associated with premature cessation of breastfeeding."
+    },
+    {
+        "question": "Is screening urinalysis in children worthwhile?",
+        "answer": "Screening urinalysis in asymptomatic children has not been shown to be beneficial."
+    },
+    {
+        "question": "Does a high-fiber diet prevent colon cancer in at-risk patients?",
+        "answer": "There is no direct evidence of an effect of dietary fiber on colon cancer incidence. A diet high in fiber has not been shown to be effective in the short-term (2- to 4-year) prevention of recurrent colon polyps."
+    },
+    {
+        "question": "Does stimulant therapy help adult ADHD?",
+        "answer": "Central nervous system stimulants improve symptoms of attention deficit-hyperactivity disorder (ADHD) in adults."
+    },
+    {
+        "question": "What medications are effective for treating symptoms of premenstrual syndrome PMS?",
+        "answer": "Vitamin B6 (50-100 mg/d) and elemental calcium (1200 mg/d) are safe, inexpensive, and moderately effective."
+    },
+    {
+        "question": "What is the best approach to goiter for euthyroid patients?",
+        "answer": "A detailed history and exam, confirmation of euthyroid status, and imaging when appropriate is the best approach to euthyroid patients with thyroid enlargement in regions where goiters are not endemic. Ultrasound imaging is recommended in any case of diagnostic uncertainty. Evaluate dominant or suspicious nodules further, while diffuse goiters without symptoms require no further evaluation and can be followed clinically."
+    },
+    {
+        "question": "Which lifestyle interventions effectively lower LDL cholesterol?",
+        "answer": "One to 2 daily drinks of alcohol lowers LDL-C, if consumed regularly for more than 4 weeks."
+    },
+    {
+        "question": "What hormonal contraception is most effective for obese women",
+        "answer": "Depot medroxyprogesterone acetate (DMPA; Depo-Provera) and the combination contraceptive vaginal ring (NuvaRing) are most effective for obese women because they don't appear to be affected by body weight."
+    },
+    {
+        "question": "Do OTC remedies relieve cough in acute URIs?",
+        "answer": "A/SOME DO. DEXTROMETHORPHAN (DM) for adults and honey for children provide some relief. DM may modestly decrease cough in adults compared with placebo."
+    },
+    {
+        "question": "Which complementary therapies can help patients with PMS?",
+        "answer": "A/CHASTEBERRY TREE AND CALCIUM have demonstrated efficacy and safety in treating symptoms of premenstrual syndrome (PMS)."
+    },
+    {
+        "question": "Can nonantidepressants help treat depression?",
+        "answer": "A/yes, lithium, triiodothyronine, (T3), and atypical antipsychotics are all effective adjuncts. Lithium (serum levels >0.5 mEq/L) can produce clinical improvement when added to ineffective antidepressant treatment."
+    },
+    {
+        "question": "Which diuretics are safe and effective for patients with a sulfa allergy?",
+        "answer": "Diuretics that do not contain a sulfonamide group (eg, amiloride hydrochloride, eplerenone, ethacrynic acid, spironolactone, and triamterene) are safe for patients with an allergy to sulfa. The evidence is contradictory as to whether a history of allergy to sulfonamide antibiotics increases the risk of subsequent allergic reactions to commonly used sulfonamide-containing diuretics (eg, carbonic anhydrase inhibitors, loop diuretics, and thiazides)."
+    },
+    {
+        "question": "What's the best diagnostic evaluation of night sweats?",
+        "answer": "A detailed history appears to be the most important initial diagnostic tool."
+    },
+    {
+        "question": "What is the best way to evaluate and manage diarrhea in the febrile infant?",
+        "answer": "Routine infant diarrhea requires no lab work or cultures."
+    },
+    {
+        "question": "Is antibiotic prophylaxis effective for recurrent acute otitis media?",
+        "answer": "For children who have recurrent episodes of clinically diagnosed acute otitis media (AOM), antibiotic prophylaxis significantly reduces recurrence, although the effect is not large."
+    },
+    {
+        "question": "Are antibiotics effective in preventing pneumonia for nursing home patients?",
+        "answer": "Antibiotics should not be used for prophylaxis of pneumonia in nursing homes. We found no studies testing the effectiveness of antibiotics in preventing pneumonia in any population, including persons with predisposing conditions such as influenza."
+    },
+    {
+        "question": "How useful is ultrasound to evaluate patients with postmenopausal bleeding?",
+        "answer": "Using a threshold of <= 5 mm, transvaginal ultrasound (TVUS) can be used to identify those patients with postmenopausal bleeding who are at low risk for endometrial cancer, polyps, or atypical hyperplasia at a sensitivity comparable with that of endometrial biopsy and dilatation and curettage (D&iC)."
+    },
+    {
+        "question": "What is the diagnostic approach to a 1-year-old with chronic cough?",
+        "answer": "Very few studies examine the evaluation of chronic cough among young children. Based on expert opinion, investigation of chronic cough should begin with a detailed history, physical examination, and chest radiograph."
+    },
+    {
+        "question": "Can transvaginal ultrasound detect endometrial disease among asymptomatic postmenopausal patients?",
+        "answer": "Transvaginal ultrasound should not replace endometrial biopsy for detection of endometrial disease among asymptomatic postmenopausal patients. Endometrial biopsy has been considered a standard for the clinical diagnosis of endometrial disease among asymptomatic patients, but it is invasive, may be uncomfortable, and may not be able to be performed for some patients with cervical stenosis. Ultrasound evaluation is less invasive and more comfortable and can be performed for patients with cervical stenosis. The positive predictive value of ultrasound is not adequate to allow it to replace endometrial biopsy for screening of asymptomatic women."
+    },
+    {
+        "question": "Does surgery for carpal tunnel syndrome improve outcomes?",
+        "answer": "Good evidence supports the use of surgery for carpal tunnel syndrome over nonsurgical therapies such as wrist splints, nonsteroidal anti-inflammatory drugs (NSAIDs), physical therapy, occupational therapy, local steroid injections, work modification, and oral vitamin B6."
+    },
+    {
+        "question": "What is the best way to identify patients with white-coat hypertension?",
+        "answer": "Ambulatory blood pressure monitoring is currently the gold standard for detecting patients with white-coat hypertension. Women and all patients with lower office systolic blood pressures, stage I hypertension, and no target organ damage are more likely to have white-coat hypertension."
+    },
+    {
+        "question": "Can we prevent splenic rupture for patients with infectious mononucleosis?",
+        "answer": "All patients with infectious mononucleosis should be considered at risk for splenic rupture since clinical severity, laboratory results, and physical exam are not reliable predictors of rupture."
+    },
+    {
+        "question": "Does digoxin decrease morbidity for those in sinus rhythm with heart failure?",
+        "answer": "In patients with congestive heart failure due to systolic dysfunction who are in normal sinus rhythm, digoxin therapy reduces rates of hospitalization, as well as clinical deterioration, defined as worsening New York Heart Association (NYHA) classification or an increase in clinical signs and symptoms"
+    },
+    {
+        "question": "What is the evaluation and treatment strategy for Raynaud's phenomenon?",
+        "answer": "Raynaud's phenomenon is diagnosed by history, which also plays a key role in distinguishing primary from secondary Raynaud's phenomenon."
+    },
+    {
+        "question": "What is the best way to treat patients with white-coat hypertension?",
+        "answer": "Evidence is conflicting regarding the risk of cardiovascular complications from white-coat hypertension. Some but not all studies show lower cardiovascular event rates for patients with white-coat hypertension compared with those with sustained hypertension."
+    },
+    {
+        "question": "Who should receive vertebroplasty?",
+        "answer": "Percutaneous vertebroplasty has been used to treat aggressive vertebral hemangiomas, osteoporotic vertebral compression fractures, and vertebral lesions from metastatic disease or myeloma. Consider it for patients with severe acute or chronic pain related to one of these lesions who have failed a reasonable course of medical therapy."
+    },
+    {
+        "question": "What steps can reduce morbidity and mortality caused by hip fractures?",
+        "answer": "Surgery within 24 hours of hip fracture is a critical step in reducing complications, and may decrease mortality compared with conservative care."
+    },
+    {
+        "question": "How can you best diagnose idiopathic normal pressure hydrocephalus?",
+        "answer": "Diagnose idiopathic normal pressure hydrocephalus (INPH) by clinical history, brain imaging, physical findings, and physiological criteria."
+    },
+    {
+        "question": "Are DMARDs effective for rheumatologic diseases besides rheumatoid arthritis?",
+        "answer": "It's unclear whether disease-modifying antirheumatic agents (DMARDs) as first-line therapy in nonrheumatoid rheumatologic diseases are effective because the question has not been studied."
+    },
+    {
+        "question": "Does bed rest for preeclampsia improve neonatal outcomes?",
+        "answer": "Strict bed rest in the hospital for pregnant women with preeclampsia does not appear to lower rates of perinatal mortality, neonatal mortality, or neonatal morbidity, including preterm birth, endotracheal intubations, or neonatal intensive care unit (NICU) admissions."
+    },
+    {
+        "question": "What treatments are safe and effective for mild to moderate hypertension in pregnancy?",
+        "answer": "There is considerable debate concerning the treatment of mild to moderate essential hypertension during pregnancy. Evidence suggests that because of the potential risk of fetal intrauterine growth restriction, treatment of hypertension should be delayed until maternal blood pressure reaches 150-160 mm Hg systolic or 100-110 mm Hg diastolic, as long as the mother has no preexisting end organ damage."
+    },
+    {
+        "question": "How does VTE risk for the patch and vaginal ring compare with oral contraceptives?",
+        "answer": "Evidence is conflicting with regard to the comparative frequency of venous thrombolic events (VTE) among women using the transdermal patch when compared to an oral contraceptive (OC), even though the patch produces a relatively high serum ethinyl estradiol (EE) level."
+    },
+    {
+        "question": "Do acetaminophen and an NSAID combined relieve osteoarthritis pain better than either alone?",
+        "answer": "Combining nonsteroidal anti-inflammatory drugs (NSAIDs) and acetaminophen for short courses provides more relief of pain in osteoarthritis without an increase in side effects."
+    },
+    {
+        "question": "Do antibiotics prevent recurrent UTI in children with anatomic abnormalities?",
+        "answer": "Evidence is insufficient to recommend for or against antibiotic prophylaxis to prevent recurrent urinary tract infections (UTI) in children with anatomic abnormalities. Guidelines acknowledge this lack of evidence, but still recommend using prophylactic antibiotics in children with vesiculoureteral reflux."
+    },
+    {
+        "question": "Should the varicella vaccine be given to all children to prevent chickenpox?",
+        "answer": "Healthy, unimmunized children who have not had varicella infection should be vaccinated."
+    },
+    {
+        "question": "Are beta-2-agonists or anticholinergics more effective for treating COPD?",
+        "answer": "Both \u03b22-agonists and anticholinergics appear to improve symptoms for patients with chronic obstructive pulmonary disease (COPD). Recent research indicates that adding a long-acting anti-cholinergic to a \u03b22-agonist may improve quality of life for patients with stable COPD more than the use of \u03b22-agonists alone."
+    },
+    {
+        "question": "What is the best test to diagnose urinary tract stones?",
+        "answer": "Over the past 3 years, helical (or spiral) computerized tomography (CT) has proved the best method of testing for urinary tract stones. All reviewed studies published since mid-1998 found helical CT scan to be the safest and most accurate test."
+    },
+    {
+        "question": "Which patients with gastroesophageal reflux disease (GERD) should have esophagogastroduoudenoscopy (EGD)?",
+        "answer": "No evidence was identified that provides a basis for determining whether EGD leads to improved outcomes in patients with GERD. However, patients with GERD referred for elective EGD who were found to have Barrett's esophagus were more likely to have symptoms for more than 1 year than patients who did not have Barrett's esophagus. Patients with esophageal adenocarcinoma were more likely to have frequent, severe, or longer duration of GERD symptoms. The calculated odds ratios (OR) for esophageal adenocarcinoma increased with increasing frequency, severity, or duration of GERD symptoms, independently or in combination."
+    },
+    {
+        "question": "Is there any benefit to Papanicolaou Pap test screening in women who have had a hysterectomy for benign disease?",
+        "answer": "The primary motivation to screen asymptomatic women after a hysterectomy is to prevent morbidity and mortality from gynecologic cancer. However, primary vaginal cancer is rare, the vaginal Pap test is not particularly accurate, and the natural history of precancerous vaginal lesions is uncertain. Based on these facts there is no compelling reason to screen women after hysterectomy for benign disease with routine Pap tests."
+    },
+    {
+        "question": "How can you help prevent a recurrence of diverticulitis?",
+        "answer": "A high-fiber diet may help; available evidence doesn't support other interventions. A high-fiber diet is often prescribed after recovery from acute diverticulitis, based on extrapolation from epidemiologic data showing an association between low-fiber diets and diverticulosis."
+    },
+    {
+        "question": "What is the differential diagnosis of chronic diarrhea in immunocompetent patients?",
+        "answer": "Case series from tertiary-care centers report toddler's diarrhea, cow's milk sensitivity enteropathy, infection, celiac disease, and idiopathic chronic diarrhea as the most common etiologies in the pediatric population. In adults, the most common etiologies were secretory diarrhea (idiopathic, laxative abuse, irritable bowel syndrome, diabetes mellitus, and fecal incontinence), malabsorption (pancreatic disease, noninflammatory short bowel syndrome, postgastrectomy, hyperthyroidism, and cholestasis), microscopic colitis, inflammatory bowel disease, celiac sprue, and radiation colitis."
+    },
+    {
+        "question": "What is the dietary treatment for low HDL cholesterol?",
+        "answer": "Low-carbohydrate diets raise high-density lipoprotein (HDL) cholesterol levels by approximately 10%; soy protein with isoflavones raises HDL by 3%."
+    },
+    {
+        "question": "When are antibiotics indicated for acute COPD exacerbations?",
+        "answer": "Antibiotics (including those given orally) reduce mortality and treatment failures for hospitalized patients with acute exacerbations of chronic obstructive pulmonary disease (COPD)."
+    },
+    {
+        "question": "How should you manage a depressed patient unresponsive to an SSRI?",
+        "answer": "The best approach among studied alternatives to manage a patient with treatment-resistant depression is not clear from the evidence. All of the options reviewed seem to have about a 25% to 30% success rate."
+    },
+    {
+        "question": "What are safe sleeping arrangements for infants?",
+        "answer": "Non-supine sleep position and parental tobacco use are known risk factors for sudden infant death syndrome (SIDS). Recent studies show that co-sleeping (bed sharing) slightly increases the overall risk of SIDS and is greatest for infants less than 11 weeks old"
+    },
+    {
+        "question": "What blood tests help diagnose celiac disease?",
+        "answer": "Histological confirmation of infiltrative lesions via small bowel biopsy is the gold standard for diagnosing celiac disease. Four serum antibody assays may serve as a first-step diagnostic tool to identify biopsy candidates: immunoglobulin A tissue transglutaminase (IgA tTG), IgA endomysial antibody (IgA EMA), IgA antigliadin antibody (IgA AGA), and IgG antigliadin antibody (IgG AGA). IgA tTG and IgA EMA offer the best diagnostic accuracy. Patients with selective IgA deficiency may have falsely negative IgA assays."
+    },
+    {
+        "question": "Do glucosamine and chondroitin worsen blood sugar control in diabetes?",
+        "answer": "Despite theoretical risks based on animal models given high intravenous doses, glucosamine/chondroitin (1500 mg/1200 mg daily) does not adversely affect short-term glycemic control for patients whose diabetes is well-controlled, or for those without diabetes or glucose intolerance."
+    },
+    {
+        "question": "What best prevents exerciseinduced bronchoconstriction for a child with asthma?",
+        "answer": "Inhaled short-acting beta-agonists (SABAs) are most effective in preventing exercise-induced bronchoconstriction, followed by inhaled mast cell stabilizers and anticholinergic agents."
+    },
+    {
+        "question": "At what age do patients no longer need colorectal cancer screening?",
+        "answer": "Good evidence supports fecal occult blood testing (FOBT) for patients up to age 75."
+    },
+    {
+        "question": "What treatments are effective for varicose veins?",
+        "answer": "For larger trunk varicose veins, as in the saphenous vein, therapeutic options include conservative measures (such as leg elevation and compression stockings), injection sclerotherapy, and surgical vein ligation, with or without stripping. Long-term outcomes appear superior with surgical treatment."
+    },
+    {
+        "question": "Is osteoporosis screening in postmenopausal women effective?",
+        "answer": "No single study evaluates the effectiveness of osteoporosis screening. However, screening women over the age of 65 years-or those between 60-64 years with certain risk factors-is recommended based on available evidence."
+    },
+    {
+        "question": "Are antibiotics effective for otitis media with effusion?",
+        "answer": "Most meta-analyses show a modest, short-term reduction in effusion rates. However, the most rigorous meta-analysis shows no benefit."
+    },
+    {
+        "question": "Is an outpatient workup safe for patients with a transient ischemic attack?",
+        "answer": "There is no compelling evidence that outpatient diagnostic workup of patients with transient ischemic attack (TIA) is less safe than inpatient workup, or that hospitalization prevents stroke or improves stroke outcomes after TIA."
+    },
+    {
+        "question": "What is the best strategy for monitoring the lipid-lowering effects of medical therapy used for the primary prevention of coronary artery disease CAD?",
+        "answer": "There is good evidence that treatment for primary prevention of CAD decreases risk of major first coronary events and cardiovascular mortality, though all-cause mortality has not been shown to be reduced."
+    },
+    {
+        "question": "What are the current treatment and monitoring recommendations for hepatitis C virus HCV?",
+        "answer": "Patients diagnosed with HCV should have serum liver function tests and get a baseline HCV RNA level (viral load), since treatment decisions are affected by these laboratory values."
+    },
+    {
+        "question": "What is the best diagnostic approach to paresthesias of the hand?",
+        "answer": "There have been no good studies comparing different strategies for the evaluation of the patient with hand paresthesias. A reasonable strategy is to first evaluate for carpal tunnel syndrome (CTS), the most common condition associated with hand paresthesias. If the patient does not have findings consistent with CTS, then consider other diagnoses."
+    },
+    {
+        "question": "How effective are exercise and physical therapy for chronic low back pain?",
+        "answer": "Exercise is more effective for chronic low back pain than treatment with medication plus return to usual activity and as effective as conventional physiotherapy. The evidence is less consistent in showing that any particular exercise format provides greater benefit or that exercise provides a long-term increase in function or a decrease in pain or disability."
+    },
+    {
+        "question": "What is the most effective management of acute fractures of the base of the fifth metatarsal?",
+        "answer": "For acute Jones' fractures in recreationally active patients, early intramedullary screw fixation results in lower failure rates and shorter times to both clinical union and return to sports than non-weightbearing short leg casting."
+    },
+    {
+        "question": "What are effective strategies for reducing the risk of steroid-induced osteoporosis?",
+        "answer": "Calcium, in combination with vitamin D, prevents bone loss and is recommended in all patients."
+    },
+    {
+        "question": "What are the indications for urodynamic testing in older adults with incontinence?",
+        "answer": "Urodynamic testing is indicated for older adults with incontinence when the underlying cause remains unclear."
+    },
+    {
+        "question": "What are effective therapies for Clostridium difficile- associated diarrhea?",
+        "answer": "Oral metronidazole and oral vancomycin are equally effective treatments for Clostridium difficile-associated diarrhea (CDAD)."
+    },
+    {
+        "question": "What are the causes of hypomagnesemia?",
+        "answer": "Medical conditions putting persons at high risk for hypomagnesemia are alcoholism, congestive heart failure, diabetes, chronic diarrhea, hypokalemia, hypocalcemia, and malnutrition."
+    },
+    {
+        "question": "When and how should you evaluate a child for obstructive sleep apnea?",
+        "answer": "Well-child visits are the appropriate time to screen all children for a history of snoring and apnea."
+    },
+    {
+        "question": "Does moderate exercise prevent MI for patients with coronary heart disease?",
+        "answer": "Moderate exercise reduces mortality for patients with known coronary heart disease but does not significantly decrease the risk of recurrent nonfatal myocardial infarction (MI)."
+    },
+    {
+        "question": "Do antibiotics interfere with the efficacy of oral contraceptives?",
+        "answer": "Among antibiotics, only rifampin has been demonstrated to interfere with the effectiveness of oral contraceptives (OCs)."
+    },
+    {
+        "question": "Should you treat a symptomatic patient by phone when his child has confirmed strep throat?",
+        "answer": "Although no studies specifically evaluate this question, treatment for Group A beta-hemolytic streptococcal (GABHS) pharyngitis without laboratory confirmation in the general population is not advisable due to poor diagnostic accuracy."
+    },
+    {
+        "question": "How effective are hypertension self-care interventions?",
+        "answer": "Simplification of the dosing regimen (eg, once-daily instead of multiple dosing) improves patients' adherence to antihypertensive medications."
+    },
+    {
+        "question": "What's the best treatment for cradle cap?",
+        "answer": "Ketoconazole (Nizoral) shampoo appears to be a safe and efficacious treatment for infants with cradle cap."
+    },
+    {
+        "question": "What's the best test for HSV-2 after exposure?",
+        "answer": "Enzyme-linked immunosorbent assay (ELISA) tests based on herpes simplex virus 2's (HSV-2) glycoprotein G have demonstrated high sensitivity and specificity in determining seropositivity for HSV-2 antibodies."
+    },
+    {
+        "question": "Which UTI therapies are safe and effective during breastfeeding?",
+        "answer": "Trimethoprim/sulfamethoxazole (TMP/SMX) has a high success rate in eradicating bacteriuria for women with urinary tract infection and is compatible with breastfeeding."
+    },
+    {
+        "question": "Which tests are the most useful for diagnosing PID?",
+        "answer": "No single test has adequate sensitivity and specificity to reliably identify pelvic inflammatory disease (PID) and thus help to spare women serious sequelae, including infertility."
+    },
+    {
+        "question": "Does regular exercise reduce the pain and stiffness of osteoarthritis?",
+        "answer": "Yes, moderately. Exercise helps reduce the pain, but it's unclear whether it helps with stiffness. Exercise moderately reduces pain in elderly patients with osteoarthritis."
+    },
+    {
+        "question": "What are effective treatments for oppositional defiant behaviors in adolescents?",
+        "answer": "Psychological interventions for the family-such as parenting skills training and behavioral therapy for the child, the parents, or the whole family-reduce conflict behaviors in adolescents with oppositional defiant disorder (ODD)."
+    },
+    {
+        "question": "Does anticoagulation prevent thrombosis for persons with fractures distal to the hip?",
+        "answer": "Low-molecular-weight heparin (LMWH) prophylaxis significantly reduces the total incidence of deep venous thrombosis (DVT) for patients with lower-limb fractures managed with surgical fixation and cast immobilization."
+    },
+    {
+        "question": "What is the best treatment for gastroesophageal reflux and vomiting in infants?",
+        "answer": "The literature on pediatric reflux can be divided into studies addressing clinically apparent reflux (vomiting or regurgitation) and reflux as measured by pH probe or other methods."
+    },
+    {
+        "question": "How does tissue adhesive compare with suturing for superficial lacerations?",
+        "answer": "Tissue adhesives are effective and yield results comparable to those with conventional suturing of superficial, linear, and low-tension lacerations. The cosmetic outcome is similar; wound complications, such as infection and dehiscence, may be lower with tissue adhesives. Wound closure of superficial lacerations by tissue adhesives is quicker and less painful compared with conventional suturing"
+    },
+    {
+        "question": "What is the best treatment for chronic constipation in the elderly?",
+        "answer": "While a common first-line treatments is dietary fiber, the evidence is insufficient to support this approach in the geriatric population."
+    },
+    {
+        "question": "How should you document a patient's refusal to undergo a necessary intervention?",
+        "answer": "Your documentation of a patient's refusal to undergo a test or intervention should include: an assessment of the patient's competence to make decisions, a statement indicating a lack of coercion; a description of your discussion with him (or her) regarding the need for the treatment, alternatives to treatment, possible risks of treatment, and potential consequences of refusal; and a summary of the patient's reasons for refusal."
+    },
+    {
+        "question": "Are steroid injections effective for tenosynovitis of the hand?",
+        "answer": "Yes. Steroid injections are an effective first-line therapy for flexor tenosynovitis of the hand, with a number needed to treat [NNT] of 2.3 for injection of steroids and lidocaine."
+    },
+    {
+        "question": "What is the risk of bowel strangulation in an adult with an untreated inguinal hernia?",
+        "answer": "The risk of bowel strangulation is estimated to be small-less than 1% per year."
+    },
+    {
+        "question": "What does the evidence tell us about treating very-high-risk patients to an LDL <70 mg/dL?",
+        "answer": "No studies directly compare low-density lipoprotein (LDL) levels <70 mg/dL to levels of 71 to 100 mg/dL in very-high-risk patients. However, no evidence suggests a \"floor\" for LDL cholesterol levels beyond which further reductions of heart disease risk can't be achieved."
+    },
+    {
+        "question": "Which strategies work best to prevent obesity in adults?",
+        "answer": "Regular physical activity decreases long-term weight gain."
+    },
+    {
+        "question": "In menopausal women, does fatigue indicate disease?",
+        "answer": "Though fatigue is a commonly reported symptom, high-quality studies evaluating it as a marker for diseases among menopausal women are lacking. Middle-aged women who report fatigue are more apt to screen positive for clinical depression or anxiety."
+    },
+    {
+        "question": "Are overweight children more likely to be overweight adults?",
+        "answer": "Yes. Overweight at any age in childhood increases the risk for overweight in adulthood. The relative risk (RR) ranges from 1.9 to 10.1 and increases as children get older. Not all overweight children become overweight adults, however."
+    },
+    {
+        "question": "How useful is a physical exam in diagnosing testicular torsion?",
+        "answer": "It's useful, but imperfect, in ruling out testicular torsion."
+    },
+    {
+        "question": "What treatments prevent miscarriage after recurrent pregnancy loss?",
+        "answer": "Progesterone produces a small but significant decrease in miscarriage among pregnant women with 3 or more unexplained pregnancy losses."
+    },
+    {
+        "question": "Does breastfeeding protect against viral GI infections in children <2 years old?",
+        "answer": "Breastfeeding protects against all-cause diarrhea in infants."
+    },
+    {
+        "question": "How should we follow athletes after a concussion?",
+        "answer": "Athletes sustaining a concussion should be held from contact activities a minimum of 7 days; they must be asymptomatic and their coordination and neuropsychological tests should have returned to their pre-injury baseline."
+    },
+    {
+        "question": "What is the best treatment for nocturnal enuresis in children?",
+        "answer": "For children with primary nocturnal enuresis, treatment with enuresis alarms reduced the number of wet nights by almost 4 per week, with almost half of patients remaining dry for 3 months after treatment."
+    },
+    {
+        "question": "What is the best way to manage GERD symptoms in the elderly?",
+        "answer": "No evidence supports one method over another in managing uncomplicated gastroesophageal reflux disease (GERD) for patients aged >65 years. For those with endoscopically documented esophagitis, proton pump inhibitors (PPIs) relieve symptoms faster than histamine H2 receptor antagonists (H2RAs)."
+    },
+    {
+        "question": "What is the best way to treat tinea cruris?",
+        "answer": "After clinical diagnosis and microscopic confirmation, tinea cruris is best treated with a topical allylamine or an azole antifungal. Differences in current comparison data are insufficient to stratify the 2 groups of topical antifungals. Determining which group to use depends on patient compliance, medication accessibility, and cost. The fungicidal allylamines (naftifine and terbinafine) and butenafine (allylamine derivative) are a more costly group of topical tinea treatments, yet they are more convenient as they allow for a shorter duration of treatment compared with fungistatic azoles (clotrimazole, econazole, ketoconazole, oxiconazole, miconazole, and sulconazole)."
+    },
+    {
+        "question": "When should COX-2 selective NSAIDs be used for osteoarthritis and rheumatoid arthritis?",
+        "answer": "Cyclo-oxygenase-2 (COX-2) selective nonsteroidal anti-inflammatory drugs (NSAIDs) are as effective as acetaminophen and nonselective NSAIDs in treating of osteoarthritis, and are equally effective in reducing pain and inflammation and improving of joint function for patients with rheumatoid arthritis, when compared with nonselective NSAIDs. The COX-2 selective NSAIDs also have a better gastrointestinal safety profile in short-term (6-12 month) treatment."
+    },
+    {
+        "question": "Are oral agents effective for the treatment of verruca vulgaris?",
+        "answer": "Of the available oral therapies for common warts, none has sufficient evidence to recommend it as an effective therapy."
+    },
+    {
+        "question": "What is the best way to diagnose polycystic ovarian syndrome?",
+        "answer": "Polycystic ovarian syndrome (PCOS) is diagnosed for women of childbearing age presenting with 2 of the following: 1) oligo- or anovulatory menstrual irregularities, 2) evidence of hyperandrogenism in the absence of secondary cause; 3) enlarged ovaries with multiple small follicular cysts on transvaginal ultrasound."
+    },
+    {
+        "question": "Do inhaled steroids increase the risk of osteoporosis?",
+        "answer": "The use of inhaled corticosteroids at conventional doses for asthma and chronic obstructive pulmonary disease (COPD) does not appear to be associated with significant bone loss at 2 to 3 years of follow-up."
+    },
+    {
+        "question": "Do topical antibiotics improve wound healing?",
+        "answer": "The use of topical triple-antibiotic ointments significantly decreases infection rates in minor contaminated wounds compared with a petrolatum control. Plain petrolatum ointment is equivalent to triple-antibiotic ointments for sterile wounds as a post-procedure wound dressing."
+    },
+    {
+        "question": "What is the preferred treatment for a child with mild persistent asthma?",
+        "answer": "Low-dose inhaled corticosteroids are the preferred treatment for children with mild persistent asthma because they demonstrate superior reduction in severity and frequency of asthma exacerbations compared with alternatives."
+    },
+    {
+        "question": "What evaluation is best for an isolated, enlarged cervical lymph node?",
+        "answer": "The evaluation and follow-up of an isolated, enlarged cervical lymph node is determined by the presence of inflammation, duration, size, and associated symptoms. For patients with inflammatory symptoms (ie, fever, pain, erythema, and recent infection), a single course of broad-spectrum antibiotic and reassessment in 1 to 2 weeks is reasonable."
+    },
+    {
+        "question": "Angiotensin blockade for diabetes: Monitor microalbuminuria?",
+        "answer": "No studies address whether continued screening for microalbuminuria once a patient is taking an angiotensin-converting enzyme (ACE) inhibitor or angiotensin-2 receptor blocker (ARB) improves outcomes. Indirect evidence and expert opinion suggest that it may be beneficial to continue microalbuminuria surveillance to assess response to therapy and monitor disease progression."
+    },
+    {
+        "question": "What is the best treatment for hypertension in African Americans?",
+        "answer": "In African Americans with hypertension, therapy is best initiated with the low-sodium Dietary Approaches to Stop Hypertension (DASH) diet and a thiazide-type diuretic."
+    },
+    {
+        "question": "Should we screen adults for asymptomatic microhematuria?",
+        "answer": "Screening patients for asymptomatic microhematuria does not appear to improve outcomes, since screening does not identify a population with increased prevalence of urologic malignancy."
+    },
+    {
+        "question": "Do antipyretics prolong febrile illness?",
+        "answer": "Antipyretics appear to have minor and variable effects on the course of febrile illness. Aspirin and acetaminophen do not prolong the course of rhinovirus illness, although they may prolong the period of viral shedding and worsen nasal congestion."
+    },
+    {
+        "question": "Is folate supplementation indicated for patients with CAD?",
+        "answer": "There is insufficient evidence to advocate the routine use of folate supplementation for the treatment of coronary artery disease (CAD)."
+    },
+    {
+        "question": "Are inhalers with spacers better than nebulizers for children with asthma?",
+        "answer": "Metered-dose inhalers with a spacer (MDI/S) are as good as, or better than, nebulizers for children with asthma. This is based on numerous randomized controlled trials that compared outcomes such as hospital admission rates, asthma severity scores, and pulmonary function scores."
+    },
+    {
+        "question": "What is the best approach to a solitary pulmonary nodule identified by chest x-ray?",
+        "answer": "Your initial risk assessment should include the patient's smoking history, advancing age, cancer history, and chest radiography features."
+    },
+    {
+        "question": "Is exercise treadmill testing useful for detecting heart disease in women?",
+        "answer": "Exercise treadmill testing has a sensitivity of 70% and specificity of 61% for the detection of coronary artery disease (CAD) in women."
+    },
+    {
+        "question": "Does treatment of acne with Retin A and tetracycline cause adverse effects?",
+        "answer": "Adverse reactions to long-term tetracycline therapy are rare, and most will occur within 2 months of initiating therapy."
+    },
+    {
+        "question": "Which blood tests are most helpful in evaluating pelvic inflammatory disease?",
+        "answer": "No individual or combination of blood tests can reliably diagnose pelvic inflammatory disease (PID)."
+    },
+    {
+        "question": "How effective are leukotriene inhibitors for asthma in children?",
+        "answer": "Evidence on the use of leukotriene inhibitors in children is insufficient to permit conclusions regarding efficacy. Given the proven efficacy of inhaled corticosteroids in asthma management, leukotriene inhibitors should not replace inhaled corticosteroids for maintenance of asthma in children."
+    },
+    {
+        "question": "What is the best therapy for constipation in infants?",
+        "answer": "The best treatment for minor, self-limited constipation (infant dyschezia) may be observation and parental education about its benign nature."
+    },
+    {
+        "question": "What is the diagnostic approach to a patient with leg cramps?",
+        "answer": "Leg cramps are very common."
+    },
+    {
+        "question": "Is yearly chest x-ray screening helpful in reducing mortality for smokers?",
+        "answer": "For current and former smokers, the evidence does not support yearly chest x-rays to decrease lung cancer mortality."
+    },
+    {
+        "question": "What are the relative risks and benefits of progestin-only contraceptives?",
+        "answer": "No good-quality evidence exists to determine the risk of cancer associated with progestin-only contraceptives. Data are insufficient to discern their effect on milk quality and quantity during lactation, though no effect on infant growth or weight was identified."
+    },
+    {
+        "question": "Are breast self-exams or clinical exams effective for screening breast cancer?",
+        "answer": "Breast self-examination has little or no impact on breast cancer mortality and cannot be recommended for cancer screening."
+    },
+    {
+        "question": "Does early detection of suspected atherosclerotic renovascular hypertension change outcomes?",
+        "answer": "We found no evidence for changed outcomes from early detection of renal artery stenosis (RAS). Treatment of RAS in refractory hypertension modestly improves blood pressure control. There was a trend toward improved clinical outcomes but studies were underpowered to demonstrate this."
+    },
+    {
+        "question": "What is the initial work-up in the diagnosis of hypertension?",
+        "answer": "Patients with a new diagnosis of hypertension should be evaluated with a history and physical exam and the following initial studies: serum potassium and creatinine, fasting serum glucose and lipid panel, hematocrit, urinalysis, and electrocardiogram."
+    },
+    {
+        "question": "When should travelers begin malaria prophylaxis?",
+        "answer": "Travelers should start on chloroquine 1 to 2 weeks before entering an area without chloroquine resistance."
+    },
+    {
+        "question": "Do COX-2 inhibitors worsen renal function?",
+        "answer": "No, COX-2 inhibitors, as a class, do not worsen renal function for those without renal disease. Celecoxib is the only COX-2 inhibitor available, and it is associated with a lower risk of renal dysfunction and hypertension when compared with controls. Available data do not allow for adjusted risk assessment for patients with preexisting renal disease on COX-2 inhibitors."
+    },
+    {
+        "question": "When should a child with an undescended testis be referred to a urologist?",
+        "answer": "Infants with an undescended testis should be referred between ages 6 and 15 months, since almost all who experience spontaneous descent do so by 6 months."
+    },
+    {
+        "question": "Menstrual disturbances in perimenopausal women: What's best?",
+        "answer": "It's best to start with nonsteroidal anti-inflammatory drugs (NSAIDs), which effectively reduce heavy menstrual bleeding."
+    },
+    {
+        "question": "Do patients at high risk of Alzheimer's disease benefit from early treatment?",
+        "answer": "Yes, but the extent of the benefit is unclear. Treating patients with early-stage Alzheimer's disease yields statistically significant, though perhaps not clinically significant, improvement in cognition and global function. In a few cases, it may delay loss of function and need for long-term care."
+    },
+    {
+        "question": "Sleep apnea in adults: How accurate is clinical prediction?",
+        "answer": "Moderately accurate, depending on which tool you use. Questionnaires, physical examination, and clinical prediction rules estimate the pretest probability of obstructive sleep apnea hypopnea syndrome (OSAHS), but are not specific enough to make the diagnosis."
+    },
+    {
+        "question": "What treatments work best for constipation in children?",
+        "answer": "For pharmacologic management, the best evidence supports osmotic laxatives."
+    },
+    {
+        "question": "How should you manage an overweight breastfed infant?",
+        "answer": "There are several steps you can take. Monitor the growth of exclusively breastfed babies by plotting routine weights and lengths on the World Health Organization (WHO) growth curve."
+    },
+    {
+        "question": "When should you treat scabies empirically?",
+        "answer": "Empirically treat patients when they have pruritus and lesions typical of scabies in at least 2 places-even if there is no known household contact diagnosed with scabies, and even if the diagnosis cannot be confirmed by light microscopy."
+    },
+    {
+        "question": "What measures relieve postherpetic neuralgia?",
+        "answer": "Tricyclic antidepressants, gabapentin, and pregabalin effectively reduce pain."
+    },
+    {
+        "question": "Does group prenatal care improve pregnancy outcomes?",
+        "answer": "Yes, it may decrease preterm births, especially among higher-risk women-minority women, women of low socioeconomic status, and adolescents."
+    },
+    {
+        "question": "Which factors increase the risk of an infant becoming an overweight child?",
+        "answer": "Variables that increase the risk of overweight in childhood include formula feeding, high birth weight, high rate of weight gain in the first 4 months of life, low socioeconomic status, and maternal obesity."
+    },
+    {
+        "question": "When should we stop mammography screening for breast cancer in elderly women?",
+        "answer": "There is insufficient evidence to recommend for or against routine screening mammography beyond the age of 69 years. The best candidates to stop screening are elderly women who have significant comorbidities, poor functional status, low bone mineral density (BMD), little interest in preventive care, or an unwillingness to accept the potential harm of screening."
+    },
+    {
+        "question": "What is the best diagnostic approach to alopecia in women?",
+        "answer": "It's unclear what the best approach is given the lack of studies on this issue. Indirect evidence and expert opinion indicate that a careful history and thorough physical examination usually suggest the underlying cause of alopecia. Ancillary laboratory evaluation and scalp biopsy are sometimes necessary to make or confirm the diagnosis."
+    },
+    {
+        "question": "Which postmenopausal women should be offered combined HRT?",
+        "answer": "Recent studies have demonstrated a small but significant risk of adverse effects from combined hormone replacement therapy (HRT), including cardiovascular disease, thromboembolic disease, and breast cancer. Time-limited HRT will control intolerable menopausal symptoms and prevent risk of fractures in newly menopausal women. However, HRT achieves its maximum efficacy in 35 years, and the risk of adverse outcomes increases as time progresses. Women considering HRT, particularly those at higher risk for vascular disease and breast cancer, should be informed of the potential risks."
+    },
+    {
+        "question": "What is the appropriate diagnostic evaluation of fibroids?",
+        "answer": "Although transvaginal sonography (TVS) has inconsistent sensitivity (0.21-1.00) and specificity (0.53-1.00), its cost-efficiency and noninvasiveness make it the best initial test for ruling in fibroid disease."
+    },
+    {
+        "question": "Should a nylon brush be used for Pap smears from pregnant women?",
+        "answer": "Use of a nylon brush (Cytobrush and others) with spatula to obtain Papanicolaou (Pap) smears from pregnant women is more likely to obtain sufficient endocervical cells, without adverse consequence for the mother or for the fetus. This method is also most likely to be cost-effective. However, current evidence does not support any superiority of the nylon brush with spatula for any patient-oriented outcomes (eg, fewer procedures, less cancer, etc) during or after pregnancy."
+    },
+    {
+        "question": "History, exam, and labs: Is one enough to diagnose acute adult appendicitis?",
+        "answer": "No, none of the 3-history, exam, or labs- is sufficiently accurate to diagnose acute appendicitis."
+    },
+    {
+        "question": "What is the recommended evaluation and treatment for elevated serum prolactin?",
+        "answer": "History and physical examination can distinguish among most physiologic, pharmacologic, or pathologic causes of an elevated serum prolactin level (SPL)."
+    },
+    {
+        "question": "Which healthy adults should take aspirin?",
+        "answer": "In adults with no history of cardiovascular disease, aspirin reduces the risk of nonfatal myocardial infarction (MI). Aspirin prophylaxis does not decrease all-cause mortality, risk of fatal coronary heart disease, or risk of first stroke."
+    },
+    {
+        "question": "Does a low-salt diet reduce morbidity and mortality in congestive heart failure?",
+        "answer": "No randomized controlled trials (RCTs) have addressed the independent role of sodium restriction in the morbidity or mortality of congestive heart failure. However, current guidelines recommend sodium restriction for secondary prevention of congestive heart failure exacerbation."
+    },
+    {
+        "question": "How much does smoking cessation cut CHD risk?",
+        "answer": "Significantly. Patients with coronary heart disease (CHD) who refrain from smoking over a 2-year follow-up period decrease their relative risk (RR) for morbidity and mortality by about one third."
+    },
+    {
+        "question": "What is the best workup for hypocalcemia?",
+        "answer": "Unexplained hypocalcemia can usually be diagnosed by a limited number of serum tests when the cause isn't obvious from the history recent neck surgery or renal failure: calcium (corrected for serum albumin), creatinine, phosphorus, magnesium and parathyroid hormone (PTH)."
+    },
+    {
+        "question": "What is the best treatment for Osgood-Schlatter disease?",
+        "answer": "Osgood-Schlatter disease is best managed with conservative measures activity (modification, ice, anti-inflammatory agents) and time."
+    },
+    {
+        "question": "Should you treat carriers of pharyngeal group A strep?",
+        "answer": "The jury is out as to whether you should treat asymptomatic carriers of group A streptococci (GAS), because no studies specifically address the issue. In addition, many patients are unlikely to care about their carrier status, although they probably care about symptoms and treatment side effects. Nonetheless, you may want to consider treating GAS carriers under the following circumstances: 1) Recurrent pharyngitis without cough or congestion. 2) Acute rheumatic fever or poststreptococcal glomerulonephritis outbreaks. 3) GAS pharyngitis outbreaks in a closed community. 4) Family history of acute rheumatic fever. 5) Multiple documented GAS pharyngitis episodes within a family over several weeks despite therapy. 6) Excessive patient/family anxiety about GAS. 7) All treatment options, except tonsillectomy, have been exhausted."
+    },
+    {
+        "question": "Alcoholic liver disease: Is acetaminophen safe?",
+        "answer": "Yes-acetaminophen is a safe and effective analgesic that can be appropriately used for adult patients with stable chronic alcoholic liver disease for at least a short period of time (studies have been limited to a maximum of 48-72 hours), up to the maximum recommended dosage of 4 g daily."
+    },
+    {
+        "question": "How should you treat Candida vaginitis in patients on antibiotics?",
+        "answer": "Oral and intravaginal antifungals for the treatment of uncomplicated vulvovaginal candidiasis (VVC) have similar effectiveness."
+    },
+    {
+        "question": "When should you admit a patient with suspected CAP?",
+        "answer": "When the patient has 2 or more of the following CURB-65 criteria: respiratory rate \u226530, acute confusion, low blood pressure (systolic blood pressure <90 or diastolic BP \u226460 mm Hg), blood urea nitrogen [BUN] >19.6 mg/dL, and age \u226565 years."
+    },
+    {
+        "question": "What's the best drug treatment for premature ejaculation?",
+        "answer": "Antidepressants-specifically clomipramine, fluoxetine, paroxetine, and sertraline-are best and have been shown to improve symptoms of premature ejaculation."
+    },
+    {
+        "question": "Is osteopathic manipulation effective for headaches?",
+        "answer": "It can be. Spinal manipulative therapy (SMT), a component of osteopathy, has been shown to be variably effective for the treatment of headaches. For the prophylactic treatment of cervicogenic headaches and for acute tension headaches, SMT is superior to placebo."
+    },
+    {
+        "question": "What is the differential diagnosis of chronic leg edema in primary care?",
+        "answer": "The differential diagnosis, in descending order, includes: elevated pulmonary artery pressure (often due to obstructive sleep apnea), congestive heart failure, idiopathic causes, venous insufficiency, use of nonsteroidal anti-inflammatory drugs (NSAIDs), and proteinuria (>1 g daily)."
+    },
+    {
+        "question": "What are the causes of elevated TSH in a newborn?",
+        "answer": "Congenital hypothyroidism is a critical cause of elevated thyroid-stimulating hormone (TSH) in newborns; evaluate all neonates with an elevated TSH for congenital hypothyroidism."
+    },
+    {
+        "question": "How does colonoscopy compare with fecal occult blood testing as a screening tool for colon cancer?",
+        "answer": "No studies have directly compared colonoscopy with fecal occult blood testing (FOBT)."
+    },
+    {
+        "question": "How can we best treat and monitor VTE during pregnancy?",
+        "answer": "Unfractionated heparin and low-molecular-weight heparin are equally effective for the treatment of acute venous thromboembolism (VTE) in pregnancy."
+    },
+    {
+        "question": "When is neuroimaging warranted for headache?",
+        "answer": "Neuroimaging is warranted to evaluate headaches when patients present to an emergency department with signs or symptoms of an intracranial lesion. These signs or symptoms include abrupt onset of headache, focal neurological abnormalities."
+    },
+    {
+        "question": "What are the best therapies for acute migraine in pregnancy?",
+        "answer": "Three treatment studies suggest that nonpharmacological therapies (combinations of skin warming, relaxation, biofeedback, and physical therapy) were effective for pain relief."
+    },
+    {
+        "question": "Which late-stage Alzheimer's patients should be referred for hospice care?",
+        "answer": "Medicare guidelines are used to determine eligibility for hospice care."
+    },
+    {
+        "question": "How can I improve patient adherence to prescribed medication?",
+        "answer": "Two randomized clinical trials have shown that simplified dosing schedules have improved patient adherence to medication as prescribed. Some, but not all, randomized controlled trials show multidimensional interventions can also improve adherence. These interventions include combinations of patient and family education, home monitoring of disease status, and increased convenience of care, such as workplace access."
+    },
+    {
+        "question": "What medications are safe and effective for heartburn during pregnancy?",
+        "answer": "Ranitidine is the best-studied agent effective for treatment of heartburn in pregnancy. Some antacids are effective, but it may be prudent to avoid them in the first trimester until better safety studies are published. Although sucralfate, metoclopromide, and the proton pump inhibitors are probably safe in pregnancy, there are no data about their efficacy."
+    },
+    {
+        "question": "Which asthma patients should get the pneumococcal vaccine?",
+        "answer": "Adults between the ages of 19 and 64 years who have chronic lung disease, including asthma, should get the vaccine, as should all patients 65 years and older."
+    },
+    {
+        "question": "Should you use antibiotics to treat acute otitis media in children?",
+        "answer": "Antibiotics are not necessary to treat uncomplicated acute otitis media (AOM) in an otherwise healthy child."
+    },
+    {
+        "question": "What are the best prophylactic drugs for migraine?",
+        "answer": "BETA-BLOCKERS without intrinsic sympathomimetic activity, amitriptyline, divalproex sodium/sodium valproate, and topiramate are the most effective drugs for preventing episodic migraine."
+    },
+    {
+        "question": "When should you consider implanted nerve stimulators for lower back pain?",
+        "answer": "Consider it for patients with failed back surgery syndrome. These patients can gain more pain relief from spinal cord stimulation (SCS) than from reoperation."
+    },
+    {
+        "question": "What's the best way to motivate patients to exercise?",
+        "answer": "There are several interventions for adults that are effective. They include: 1) Writing a patient-specific behavioral health \"green\" prescription. 2) Encouraging patients to join forces with accountability partners or support groups. 3)Recommending the use of pedometers."
+    },
+    {
+        "question": "Should you test or treat partners of patients with gonorrhea, chlamydia, or trichomoniasis?",
+        "answer": "Generally speaking, treating partners empirically is as effective or more effective than traditional referral and testing. Empiric treatment of partners of female or heterosexual male patients diagnosed with gonorrhea or chlamydia using expedited partner therapy (having the index patient deliver therapy to the partner) decreases the risk of persistent or recurrent infection in the index patient. The effect is greater for gonorrhea than chlamydia."
+    },
+    {
+        "question": "Do insulin-sensitizing drugs increase ovulation rates for women with PCOS?",
+        "answer": "Short-term use of metformin (Glucophage) improves ovulation rates for women with polycystic ovary syndrome (PCOS)."
+    },
+    {
+        "question": "What is the most effective treatment for ADHD in children?",
+        "answer": "Stimulant medication therapy is the most effective treatment for attention deficit/hyperactivity disorder (ADHD) in children, producing significant improvements in symptoms and modest improvements in academic achievement."
+    },
+    {
+        "question": "What are effective treatments for oppositional and defiant behaviors in preadolescents?",
+        "answer": "Parent training is effective for treating oppositional and defiant behaviors."
+    },
+    {
+        "question": "What's the best treatment for pyogenic granuloma?",
+        "answer": "It's difficult to say which treatment is best, since most studies don't compare treatments directly. Pros and cons vary. Simple surgical excision is associated with a low risk of recurrence, but often leaves a visible scar. Curettage or shave excision, with cautery, is more likely to succeed in 1 session than cryotherapy; both may leave a smaller scar than surgery. Laser therapy, which may require multiple sessions, and sclerotherapy may be least likely to cause visible scarring."
+    },
+    {
+        "question": "Which treatments work best for hemorrhoids?",
+        "answer": "Excision is the most effective treatment for thrombosed external hemorrhoids."
+    },
+    {
+        "question": "How effective are dietary interventions in lowering lipids in adults with dyslipidemia?",
+        "answer": "Diets lower in fat, higher in soy protein, or higher in fiber reduce serum total cholesterol, low-density lipoprotein (LDL), and triglycerides. More restrictive low-fat diets also lower high-density lipoprotein (HDL), while soy protein increases HDL. Average decreases in LDL range from 6.96 to 25.14 mg/dL, depending on the particular intervention and participants' baseline characteristics."
+    },
+    {
+        "question": "What GI stress ulcer prophylaxis should we provide hospitalized patients?",
+        "answer": "Patients in intensive care unit (ICE) settings who are receiving prolonged mechanical ventilation (for >48 hours) or who have a coagulopathy or multiple organ dysfunction (especially renal failure) should receive stress ulcer prophylaxis. Current evidence does not support prophylaxis for non-ICU patients."
+    },
+    {
+        "question": "What is the most effective treatment for acute low back pain?",
+        "answer": "Nonsteroidal anti inflammatory drugs (NSAIDs) are more effective than placebo for pain relief in patients with acute low back pain."
+    },
+    {
+        "question": "Is prostate-specific antigen PSA screening indicated for any subgroup of men?",
+        "answer": "Although African American men, men with a first-degree relative with prostate cancer (CaP), and older men constitute higher-risk subgroups, no well-designed randomized controlled trials are available that show PSA testing to improve mortality or quality of life for these or any other groups of men. A trend toward detecting more localized cancers and a possible decreasing mortality rate from CaP in all men may be related to PSA testing, lead-time bias, or both."
+    },
+    {
+        "question": "What is the best treatment for impacted cerumen?",
+        "answer": "Docusate sodium given 15 minutes before irrigation is most effective for facilitating cerumen removal during a single office visit."
+    },
+    {
+        "question": "Does increasing methylphenidate dose aid symptom control in ADHD?",
+        "answer": "Most children with attention deficit/hyperactivity disorder (ADHD) who are started on methylphenidate will respond favorably to a dose increase if the initial dose does not sufficiently reduce symptoms. Once titrated to an effective maintenance dose, frequent follow-up is necessary to monitor for side effects and recurring symptoms. The dose of methylphenidate can then be increased further for better symptom control, which may be warranted in most cases."
+    },
+    {
+        "question": "Are tympanostomy tubes indicated for recurrent acute otitis media?",
+        "answer": "For children with recurrent acute otitis media (here defined as 3 or more episodes in 6 months, or 4 or more in a year), tympanostomy tubes are indicated if middle-ear effusion is present. Tubes reduce the frequency of recurrent acute otitis media by 2 to 3 episodes per year in these patients."
+    },
+    {
+        "question": "How should we manage infants at risk for group B streptococcal disease?",
+        "answer": "Asymptomatic term infants whose mothers received adequate intrapartum antibiotic prophylaxis (defined as intravenous penicillin or ampicillin at least 4 hours before delivery) for group B streptococcal disease do not need work-up or treatment."
+    },
+    {
+        "question": "Are any alternative therapies effective in treating asthma?",
+        "answer": "Yes, some are. Acupuncture relieves subjective symptoms of asthma and reduces medication use in mild to moderate asthma."
+    },
+    {
+        "question": "Is pneumococcal vaccine effective in nursing home patients?",
+        "answer": "Evidence from clinical trials supports the use of pneumococcal polysaccharide vaccine for prevention of pneumonia in nursing home patients."
+    },
+    {
+        "question": "Does acyclovir help herpes simplex virus cold sores if treatment is delayed?",
+        "answer": "When herpes simplex virus (HSV) type 1 lesions are in the papule or vesicle stage, there is no benefit to starting oral acyclovir."
+    },
+    {
+        "question": "How should thyroid replacement be initiated?",
+        "answer": "Levothyroxine (LT4) should be used alone as initial replacement for patients with hypothyroidism."
+    },
+    {
+        "question": "Is nedocromil effective in preventing asthmatic attacks in patients with asthma?",
+        "answer": "Nedocromil (Tilade) is effective for the treatment of mild persistent asthma. It has not been shown to be effective in more severe forms of asthma for both children and adults. Although no studies looked specifically at exacerbation rates, multiple clinical and biologic outcomes (symptom scores, quality of life measures, bronchodilator use, forced expiratory flow in 1 second [FEV1], and peak expiratory flow rate [PEFR]) improved with nedocromil use compared with placebo."
+    },
+    {
+        "question": "How effective is gastric bypass for weight loss?",
+        "answer": "Gastric bypass results in weight loss of approximately 33% at 2 years and 25% at 8 years."
+    },
+    {
+        "question": "For knee pain, how predictive is physical examination for meniscal injury?",
+        "answer": "No single clinical examination element, or combination of such elements, reliably detects meniscal injury. The McMurray test is best for ruling in meniscal pathology. Assuming a 9% prevalence of meniscal tears among all knee injuries (a rate reflecting national primary care data), the posttest probability that a patient with McMurray's sign has a meniscal injury ranges from <30% to 63%."
+    },
+    {
+        "question": "Do steroid injections help with osteoarthritis of the knee?",
+        "answer": "Intra-articular steroid injections appear to provide 2 to 6 weeks of pain relief for patients with knee osteoarthritis."
+    },
+    {
+        "question": "Is therapy based on endoscopy results better than empiric therapy for dyspepsia?",
+        "answer": "In the initial management of dyspepsia for patients without \"alarm\" symptoms (weight loss, recurrent vomiting, dysphagia, anemia, evidence of bleeding, onset of dyspepsia after age 45 years), therapy based on the results of early endoscopy was not better than empiric acid suppression (antisecretory therapy) or a Helicobacter pylori \"test and treat\" strategy in reducing symptoms or improving quality of life."
+    },
+    {
+        "question": "Do TZDs increase the risk of heart failure for patients with diabetes?",
+        "answer": "Patients with diabetes who take thiazolidinediones (TZDs) have a higher incidence of congestive heart failure (CHF) than those who do not; the incidence of CHF is similar with the use of pioglitazone (Actos), troglitazone (Rezulin), or rosiglitazone (Avandia)."
+    },
+    {
+        "question": "What physical exam techniques are useful to detect malingering?",
+        "answer": "No examination technique objectively proves malingering."
+    },
+    {
+        "question": "What is the role of tacrolimus and pimecrolimus in atopic dermatitis?",
+        "answer": "When the standard therapies-mild topical corticosteroids and moisturizers-fail in the treatment of atopic dermatitis, patients are left with few proven remedies. The recently introduced topical immunosuppressive treatments-pimecrolimus and tacrolimus-offer an alternative to topical corticosteroids."
+    },
+    {
+        "question": "For those intolerant to ACE inhibitors and ARBs, what is the best therapy for reducing the risk of diabetic nephropathy?",
+        "answer": "Angiotensin-converting enzyme (ACE) inhibitors and angiotensin-receptor blockers (ARBs) are the first-line agents for reducing the risk of diabetic nephropathy. For patients intolerant to these agents, non-dihydropyridine calcium antagonists (NDCAs), such as verapamil and diltiazem, are preferred agents to treat hypertension in those with diabetes who have proteinuria."
+    },
+    {
+        "question": "Should we recommend universal neonatal hearing screening?",
+        "answer": "Universal neonatal hearing screening leads to both earlier detection and earlier treatment of infants with hearing loss."
+    },
+    {
+        "question": "What is the best management for patients with evidence of asymptomatic ischemia on exercise stress testing?",
+        "answer": "Patients with intermediate- or high-risk Duke Treadmill score (DTS) on exercise stress testing (EST) should undergo myocardial perfusion imaging or exercise echocardiography, especially if they have abnormal values of Chronotropic Index or post-EST Heart Rate Recovery. For patients who have a low-risk DTS, the 4-year mortality is less than 1% to 2%; therefore, risk-factor reduction without further investigation is appropriate."
+    },
+    {
+        "question": "Do testosterone injections increase libido for elderly hypogonadal patients?",
+        "answer": "Yes, testosterone therapy is effective in improving libido for elderly hypogonadal males."
+    },
+    {
+        "question": "How useful are autoantibodies in diagnosing thyroid disorders?",
+        "answer": "They're useful in diagnosing Graves' disease and, to a lesser extent, autoimmune thyroid disease; they can also help predict hypothyroidism. thyrotropin receptor antibodies (TRAb) may be mildly elevated in a variety of thyroid disorders, but a TRAb level >10 U/L increases the probability of Graves' disease by a moderate to large degree."
+    },
+    {
+        "question": "Which lab tests are best when you suspect hypothyroidism?",
+        "answer": "Thyroid-stimulating hormone (TSH) level is the preferred test for initial evaluation of suspected primary hypothyroidism."
+    },
+    {
+        "question": "What drugs are best for bipolar depression?",
+        "answer": "Antidepressants and lamotrigine are effective. Atypical antipsychotics, lithium, and anticonvulsants also may help. Antidepressants, including tricyclics and selective serotonin reuptake inhibitors (SSRIs), are useful adjuncts in short-term treatment of bipolar depression and have low rates of inducing mania."
+    },
+    {
+        "question": "Can recombinant growth hormone effectively treat idiopathic short stature?",
+        "answer": "Yes, treatment can increase a child's final height. Injections of recombinant human growth hormone (rGH) at least 3 times a week for 4 to 6 years add 3.7 to 7.5 cm to final height in children between 8 and 16 years of age with idiopathic short stature."
+    },
+    {
+        "question": "Is there a well-tested tool to detect drug-seeking behaviors in chronic pain patients?",
+        "answer": "No, there is no well-tested, easily administered screening tool to detect drug-seeking behaviors in primary care patients taking long-term opioids or being considered for such therapy."
+    },
+    {
+        "question": "Should we identify and treat hyperlipidemia in the advanced elderly?",
+        "answer": "No randomized controlled trials exist that identify and treat hyperlipidemia for advanced elderly patients (age >80 years). Expert and consensus guidelines state that hyperlipidemia found in any patient with coronary artery disease (CAD), or at risk of CAD, should be treated irrespective of age; however, evidence is limited to support lowering lipids for advanced elderly patients with and without known CAD."
+    },
+    {
+        "question": "What are the most practical primary care screens for post-traumatic stress disorder?",
+        "answer": "The 4-item Primary Care Post-Traumatic Stress Disorder screen (PC-PTSD) is a simple and effective tool to identify symptoms of post-traumatic stress disorder (PTSD) in primary care patients."
+    },
+    {
+        "question": "Which treatments are effective for cervical radiculopathy?",
+        "answer": "Initial treatment options comprise rest, cervical immobilization, anti-inflammatory drugs (nonsteroidal and steroidal), pain relievers including muscle relaxants and antiepileptics, and physical therapy."
+    },
+    {
+        "question": "Should we screen for ovarian cancer?",
+        "answer": "Ovarian cancer screening using pelvic examination, CA-125 serum tumor marker, transvaginal ultrasound (TVU), or any combination of tests is not recommended in average-risk women, or in women with only 1 first-degree relative with ovarian cancer."
+    },
+    {
+        "question": "Are nasal steroid sprays effective for otitis media with effusion?",
+        "answer": "Treatment of otitis media with effusion (OME) with nasal steroids is not recommended."
+    },
+    {
+        "question": "Does glucosamine relieve arthritis joint pain?",
+        "answer": "Glucosamine may provide some pain relief. Studies have shown varied results, ranging from glucosamine being superior or equivalent to other agents, to no difference between glucosamine and placebo. However, most of these studies have small sample sizes, short duration, and often other significant flaws. Meta-analyses of available studies suggest a trend toward benefit from glucosamine."
+    },
+    {
+        "question": "How should patients with mitral regurgitation be followed?",
+        "answer": "Patients with mild to moderate mitral regurgitation should be assessed periodically for a worsening condition; those with severe mitral regurgitation should be monitored for development of congestive heart failure, atrial fibrillation, and decline in left ventricular ejection fraction or increase in left ventricular end-diastolic diameter."
+    },
+    {
+        "question": "What is the best test to detect herpes in skin lesions?",
+        "answer": "Polymerase chain reaction (PCR) techniques appear to be more sensitive and specific in detecting herpes simplex virus (HSV) in genital lesions."
+    },
+    {
+        "question": "When are empiric antibiotics appropriate for urinary tract infection symptoms?",
+        "answer": "Healthy, nonpregnant women presenting with the triad of frequency, dysuria, and no vaginal symptoms have about a 96% chance of having an urinary tract infection (UTI) (positive likelihood ratio [LR+]=24.6). Since no urinalysis result would substantially change the high likelihood of disease for these patients, empiric therapy is appropriate."
+    },
+    {
+        "question": "How long is expectant management safe in first-trimester miscarriage?",
+        "answer": "More than 80% of women with a first-trimester spontaneous abortion have complete natural passage of tissue within 2 to 6 weeks with no higher complication rate than that from surgical intervention."
+    },
+    {
+        "question": "Should we treat elevated cholesterol in elderly patients?",
+        "answer": "HMG-CoA reductase inhibitors, or statins, have been shown to decrease all-cause mortality in individuals aged 65 and older with known coronary heart disease (CHD) and elevated cholesterol levels."
+    },
+    {
+        "question": "What is the most effective diagnostic evaluation of streptococcal pharyngitis?",
+        "answer": "Standardized clinical decision rules, such as the Centor criteria, can identify patients with low likelihood of group A beta-hemolytic streptococ-cal (GABHS) pharyngitis who require no further evaluation or antibiotics."
+    },
+    {
+        "question": "What is the most effective way for relieving constipation in children aged >1 year?",
+        "answer": "A combination of laxatives, behavioral therapy, and balanced diet is the treatment of choice for pediatric constipation."
+    },
+    {
+        "question": "First- or second-generation antihistamines: which are more effective at controlling pruritus?",
+        "answer": "For urticarial itch, first- and second-generation antihistamines have similar clinical benefit and are superior to placebo."
+    },
+    {
+        "question": "What is the best approach to the evaluation and treatment of chronic cough?",
+        "answer": "Potentially cough-inducing agents, such as tobacco products and angiotensin-converting enzyme (ACE) inhibitors, should be eliminated first. Evaluation and treatment for postnasal drip syndrome (PNDS), asthma, and gastroesophageal reflux disease (GERD) should remedy symptoms in the vast majority of patients."
+    },
+    {
+        "question": "Does ambulatory blood pressure monitoring aid in the management of patients with hypertension?",
+        "answer": "Twenty-four hour ambulatory blood pressure monitoring (ABPM) has a higher correlation with target end-organ damage than standard office measurements and is superior for risk stratification. Because it is more complicated to implement than office-based measurements, it should be reserved for: establishing the diagnosis of white-coat hypertension or borderline hypertension in previously untreated patients; evaluating previously treated patients with resistant hypertension; diagnosing and treating hypertension disorders of pregnancy; and identifying nocturnal hypertension."
+    },
+    {
+        "question": "What is the target for low-density lipoprotein cholesterol in patients with heart disease?",
+        "answer": "Large published randomized controlled trials (RCTs) show that pravastatin and simvastatin are well-tolerated and reduce major coronary events such as death, myocardial infarction, and revascularization by about 25%. The Heart Protection Study suggested this benefit is noted even among individuals with pretreatment low-density lipoprotein (LDL) cholesterol of less than 100 mg/dL. Fluvastatin reduces major coronary events, but current studies are too small to prove reduced overall mortality. The best evidence to date suggests that most patients at significant risk for major coronary events should be given pravastatin or simvastatin 40 mg daily, without concern for the initial or follow-up LDL levels."
+    },
+    {
+        "question": "Is the ThinPrep better than conventional Pap smear at detecting cervical cancer?",
+        "answer": "Conclusions regarding the ThinPrep are difficult to make due to the complexity of cervical cancer screening and the lack of adequate outcome-based data. However, current evidence supports the following: the ThinPrep is more sensitive than the conventional Papanicolaou (Pap) smear at detecting cervical cancer."
+    },
+    {
+        "question": "What is the best oral antifungal medication for tinea capitis?",
+        "answer": "Terbinafine is effective, safe for use in children, and relatively inexpensive, and it offers a shorter course of therapy than griseofulvin. Unfortunately, it is not available in liquid form. Fluconazole is available in liquid form and appears to be effective and safe, but fewer clinical trials have been published about it. Griseofulvin taken for 6 to 8 weeks remains an effective therapy for tinea capitis. There are insufficient randomized controlled trials directly comparing these agents to clearly establish a superior medication."
+    },
+    {
+        "question": "Should people with a first-degree relative who died from subarachnoid hemorrhage be screened for aneurysms?",
+        "answer": "Patients whose family history includes 1 first-degree relative with subarachnoid hemorrhage caused by intracranial aneurysm (ICA) need not be screened for ICAs."
+    },
+    {
+        "question": "What are effective medication combinations for dyslipidemia?",
+        "answer": "Many combination drug therapies are effective in treating dyslipidemia. Compared with statin monotherapy, combinations that include ezetimibe (Zetia), a bile acid sequestrant, or niacin further lower low-density lipoprotein (LDL) cholesterol."
+    },
+    {
+        "question": "How effective are lifestyle changes for controlling hypertension?",
+        "answer": "Regular aerobic exercise, weight loss of 3% to 9% of body weight, reduced dietary salt, the DASH diet, and moderation of alcohol intake are all lifestyle interventions that lower blood pressure. Average blood pressure decreases range from 3 to 11 mm Hg systolic and 2.5 to 5.5 mm Hg diastolic, depending on the particular intervention."
+    },
+    {
+        "question": "What precautions should we use with statins for women of childbearing age?",
+        "answer": "Statins are contraindicated for women who are pregnant or breastfeeding. Data evaluating statin use for women of childbearing age is limited; however, they may be used cautiously with adequate contraception. Pravastatin may be preferred based on its low tissue-penetration properties. Cholesterol-lowering with simvastatin 40 mg/d did not disrupt menstrual cycles or effect luteal phase duration."
+    },
+    {
+        "question": "When should we screen children for hyperlipidemia?",
+        "answer": "Children should be screened for hyperlipidemia when there is a history of familial hypercholesterolemia."
+    },
+    {
+        "question": "What are contraindications to IUDs?",
+        "answer": "Based on limited evidence, use of intrauterine devices (IUDs) is not contraindicated for women with HIV/AIDS."
+    },
+    {
+        "question": "Which nondrug alternatives can help with insomnia?",
+        "answer": "Cognitive behavioral therapy (CBT) interventions-particularly stimulus control and sleep hygiene-are well-validated, effective treatments for chronic insomnia that are equivalent or superior to pharmacological interventions."
+    },
+    {
+        "question": "What regimens eradicate Heliobacter pylori?",
+        "answer": "Fourteen-day triple therapy with a proton pump inhibitor (PPI) plus clarithromycin and either amoxicillin or metronidazole is superior to 7-day therapy in eradicating Heliobacter pylori."
+    },
+    {
+        "question": "Which infants need lumbar puncture for suspected sepsis?",
+        "answer": "Evidence from prospective and retrospective clinical trials suggests that for infants <2 months old, only those at high risk for serious bacterial infection by standardized criteria (eg, Rochester classification) require lumbar puncture."
+    },
+    {
+        "question": "Does a knee brace decrease recurrent ACL injuries?",
+        "answer": "After surgical anterior cruciate ligament (ACL) reconstruction, knee bracing does not significantly protect against injury during recovery or afterwards"
+    },
+    {
+        "question": "What medication best prevents migraine in children?",
+        "answer": "Propranolol, valproic acid, and amitriptyline are effective prophylaxis for migraine in children to varying degrees, are widely available, and have a reasonable safety profile."
+    },
+    {
+        "question": "What is the best approach to prevention and treatment of osteoporosis?",
+        "answer": "Randomized controlled trials (RCTs) have demonstrated decreased vertebral and nonvertebral fracture rates in postmenopausal osteoporotic women taking a bisphosphonate (alendronate or risedronate). Hormone replacement therapy (HRT) also has some evidence for osteoporotic fracture prevention. Concurrent calcium and vitamin D may also prevent fractures. Physical exercise and smoking cessation have been associated with increased bone density, but fracture prevention has not been reported"
+    },
+    {
+        "question": "Does tamoxifen prevent breast cancer?",
+        "answer": "Tamoxifen prevents breast cancer in women older than 60 years and in younger women with equally high risk because of breast disease and reproductive and family history, but there is no current evidence for or against long-term survival or overall health benefits. A 49% reduction in 5-year incidence of invasive and noninvasive breast cancer but increased risk for endometrial cancer, pulmonary emboli, deep vein thrombosis, and cataracts. The long-term benefits and overall health effects of tamoxifen for primary prevention of breast cancer remain unclear; the ongoing International Breast Cancer Intervention Study trial is designed to address this question."
+    },
+    {
+        "question": "Do calcium supplements prevent postmenopausal osteoporotic fractures?",
+        "answer": "Calcium supplementation (1000-1200 mg daily) decreases menopause-related bone loss and reduces the rate of vertebral and non-vertebral fractures. Calcium is more efficacious in conjunction with vitamin D (700-800 IU daily), particularly in elderly patients, who have a high rate of vitamin D deficiency."
+    },
+    {
+        "question": "In patients with a previous CVA, do antioxidants protect against subsequent stroke?",
+        "answer": "Most recent randomized controlled clinical trials have not found a benefit in antioxidants (vitamin C, vitamin E, and/or beta-carotene) for preventing cardiovascular disease, including stroke. These recent clinical studies have not confirmed earlier observational studies that suggested a benefit. No studies have assessed only stroke patients and stroke outcomes."
+    },
+    {
+        "question": "What interventions can help patients stop using chewing tobacco?",
+        "answer": "Nicotine replacement therapy (NRT), including gum and patches, decreases cravings and short-term abstinence rates, but does not improve long-term abstinence."
+    },
+    {
+        "question": "Do antioxidants vitamins C, E improve outcomes in patients with coronary artery disease?",
+        "answer": "Antioxidant supplements of vitamins E and C do not reduce cardiovascular death in people with coronary artery disease. Vitamin E supplementation, in a variety of doses, does not decrease the incidence of cardiovascular or all-cause mortality."
+    },
+    {
+        "question": "What are the best treatments for herpes labialis?",
+        "answer": "There are 3: valacyclovir, acyclovir, and topical penciclovir. Valacyclovir, 2 g twice in 1 day taken during the prodromal stage of herpes labialis, reduces the episode duration and time to healing. Acyclovir, 400 mg, taken 5 times a day for 5 days, decreases the pain duration and healing time to loss of crust."
+    },
+    {
+        "question": "What is the best way to evaluate secondary infertility?",
+        "answer": "The work-up for secondary infertility-the inability to conceive after 1 year of regular unprotected intercourse for a couple who have previously had a child should include a history and physical exam for both patients, plus evaluation of ovulation, semen analysis, and imaging of the uterus and fallopian tubes."
+    },
+    {
+        "question": "Which oral antifungal is best for toenail onychomycosis?",
+        "answer": "Terbinafine, 250 mg taken daily for 12 weeks, is the best regimen for toenail onychomycosis due to better clinical and mycologic cure rates, tolerability, and cost effectiveness."
+    },
+    {
+        "question": "Do ACE inhibitors prevent nephropathy in type 2 diabetes without proteinuria?",
+        "answer": "Angiotensin-converting enzyme (ACE) inhibitors make a significant difference for patients with diabetes as a whole. If patients both with and without microalbuminuria are included together, ACE inhibitors significantly reduce the progression of the albumin excretion rate."
+    },
+    {
+        "question": "When is it OK for children to start drinking fruit juice?",
+        "answer": "Children should be at least 6 months of age and parents should provide only 100% fruit juice in a cup (not a bottle)."
+    },
+    {
+        "question": "What is the role of herpes virus serology in sexually transmitted disease screening?",
+        "answer": "Screening for herpes simplex virus type 2 (HSV-2) infection with antibody testing is not indicated for asymptomatic adults."
+    },
+    {
+        "question": "Which interventions are best for alleviating nipple pain in nursing mothers?",
+        "answer": "The best intervention is education on proper positioning and attachment of the infant."
+    },
+    {
+        "question": "Does birth weight predict childhood obesity?",
+        "answer": "Yes. A birth weight greater than 4,000 g is associated with an increased risk of obesity in both childhood and adolescence."
+    },
+    {
+        "question": "What is the best test for peripheral vascular disease?",
+        "answer": "An ankle-brachial index is best for evaluating patients with symptoms of claudication."
+    },
+    {
+        "question": "What are the indications for evaluating a patient with cough for pertussis?",
+        "answer": "Pertussis should be considered in infants with apnea or severe coughing illnesses of any duration, and in older children or adults with prolonged cough (eg, longer than 2 weeks), especially if accompanied by inspiratory whoop or household exposure to a prolonged cough illness."
+    },
+    {
+        "question": "Can type 2 diabetes be prevented through diet and exercise?",
+        "answer": "Diets that result in long-term weight loss of 5% to 7%, along with moderate-intensity exercise for more than 150 minutes per week, reduce the incidence of type 2 diabetes for patients with impaired glucose tolerance (IGT)."
+    },
+    {
+        "question": "Are liver function tests required for patients taking isoniazid for latent TB?",
+        "answer": "Routine liver function test monitoring is not required for all patients on isoniazid therapy for latent tuberculosis (TB) infection."
+    },
+    {
+        "question": "What is the clinical workup for failure to thrive?",
+        "answer": "The clinical evaluation of failure to thrive (FTT) includes a thorough history and physical examination; observation of parent-child interactions; observation and documentation of the child's feeding patterns; and a home visit by an appropriately trained health care professional."
+    },
+    {
+        "question": "What's the most effective treatment for giardiasis?",
+        "answer": "A single 2-g dose of tinidazole is the best treatment."
+    },
+    {
+        "question": "How soon should serum potassium levels be monitored for patients started on diuretics?",
+        "answer": "Case series show that hypokalemia following initiation of diuretic therapy occurs in most patients within 2 to 8 weeks. However, no studies are available that adequately predict the risk of this complex and multifactorial condition. Patients taking diuretics should have a potassium level checked in the first 2 to 8 weeks after initiating therapy. Mild hypokalemia (3.1 to 3.4 mmol/L) may be transient, so a repeat measurement may be considered before initiating potassium replacement. Dietary sodium restriction may also help to conserve potassium, because this will decrease urinary flow rate and potassium loss. The frequency with which to check potassium levels should be guided by the patients' underlying clinical conditions and dietary potassium and sodium intake."
+    },
+    {
+        "question": "What is the best treatment for plantar fasciitis?",
+        "answer": "Mechanical therapies-such as taping, tension night splinting, and rigid arch support-are the most effective treatment for plantar fasciitis"
+    },
+    {
+        "question": "Does cranberry juice prevent or treat urinary tract infection?",
+        "answer": "Cranberry juice (200 mL daily to 250 mL 3 times daily) or cranberry concentrate tablets (at least 1:30 parts concentrated juice twice daily) reduce recurrent, symptomatic urinary tract infection (UTI) in women by 12% to 20% (absolute risk reduction [ARR]) compared with placebo (number needed to treat [NNT]=58)"
+    },
+    {
+        "question": "What are the treatment options for SSRI-related sexual dysfunction?",
+        "answer": "Substituting bupropion, nefazodone, or mirtazapine is beneficial."
+    },
+    {
+        "question": "Do beta-blockers worsen respiratory status for patients with COPD?",
+        "answer": "Patients with chronic obstructive pulmonary disease (COPD) who use cardioselective beta-blockers (beta1-blockers) do not experience a significant worsening of their short-term pulmonary status as measured by changes in forced expiratory volume in 1 second (FEV1), or by changes in patients' self-reported symptoms. If such harmful effects do exist, they are likely to be less clinically important than the substantial proven benefits of beta-blockade for patients with concomitant cardiovascular disease."
+    },
+    {
+        "question": "What is angular cheilitis and how is it treated?",
+        "answer": "Cheilitis is a broad term that describes inflammation of the lip surface characterized by dry scaling and fissuring. Specific types are atopic, angular, granulomatous, and actinic. Angular cheilitis is commonly seen in primary care settings, and it specifically refers to cheilitis that radiates from the commissures or corners of the mouth. Other terms synonymous with angular cheilitis are perl\u00e8che, commissural cheilitis, and angular stomatitis. Evidence reveals that topical ointment preparations of nystatin or amphotericin B treat angular cheilitis."
+    },
+    {
+        "question": "Is DEET safe for children?",
+        "answer": "Reported evidence suggests that DEET use is safe for children older than 2 months, with only very rare incidence of major adverse effects."
+    },
+    {
+        "question": "How accurate is an MRI at diagnosing injured knee ligaments?",
+        "answer": "It is highly accurate in diagnosing injury to the anterior cruciate ligament (ACL)."
+    },
+    {
+        "question": "Do endovascular filters prevent PE as effectively as anticoagulants in patients with DVT?",
+        "answer": "IT'S UNCLEAR, given that no studies directly compare the efficacy of endovascular filters with other types of prophylaxis to prevent pulmonary embolism (PE) in adults with deep venous thrombosis (DVT). Although inferior vena cava filters (IVCFs) reduced the incidence of PE in a randomized controlled trial (RCT), patients treated with IVCFs and anticoagulation with unfractionated heparin or low-molecular-weight heparin had a greater risk of developing recurrent DVT than patients treated with anticoagulation alone."
+    },
+    {
+        "question": "What's the most practical way to rule out adrenal insufficiency?",
+        "answer": "A morning serum cortisol level >13 mcg/dL reliably rules out adrenal insufficiency, and the test is easy and safe to perform. Because of low specificity, patients with a level of \u226413 mcg/dL need further evaluation with the cosyntropin stimulation test (CST)."
+    },
+    {
+        "question": "Do hyaluronic acid injections relieve OA knee pain?",
+        "answer": "Yes, hyaluronic acid (HA) injections relieve pain more than placebo. The effect is small but similar to results from oral nonsteroidal anti-inflammatory drugs (NSAIDs) or steroid injection."
+    },
+    {
+        "question": "When should you suspect community-acquired MRSA? How should you treat it?",
+        "answer": "There are no clinical or epidemiologic features that will help you to clearly distinguish community-acquired methicillin-resistant Staphylococcus aureus infections (CA-MRSA) from methicillin-sensitive (CA-MSSA) infections."
+    },
+    {
+        "question": "Do nonmedicated topicals relieve childhood eczema?",
+        "answer": "Yes. Emollients are effective first-line treatment to decrease symptoms of eczema and reduce the need to use steroids in children."
+    },
+    {
+        "question": "Heat or ice for acute ankle sprain?",
+        "answer": "For grade 3 and 4 ankle sprains, ice works better than heat to speed recovery (return to play)."
+    },
+    {
+        "question": "What's the best strategy for bipolar disorder during pregnancy?",
+        "answer": "Lithium is the first-line treatment for pregnant patients requiring medication."
+    },
+    {
+        "question": "Is guaifenesin safe during pregnancy?",
+        "answer": "It's not clear; little evidence supports or refutes the safety of guaifenesin, a common expectorant, in pregnancy. A small number of observational and case-control studies suggest a weak association between guaifenesin use and inguinal hernias and neural tube defects in newborns. However, substantial methodological flaws, the absence of statistical significance, and low rates of prevalence cast a shadow of a doubt over the data."
+    },
+    {
+        "question": "Is combining ACE inhibitors and ARBs helpful or harmful?",
+        "answer": "The combination of angiotensin-converting enzyme (ACE) inhibitors and angiotensin receptor blockers (ARBs) has been studied for treatment of heart failure, hypertension, and proteinuric renal disease. Combination therapy with an ACE inhibitor and an ARB decreases symptoms in heart failure patients, but does not appear to have an impact on overall mortality."
+    },
+    {
+        "question": "When should we treat isolated high triglycerides?",
+        "answer": "No evidence exists that treating isolated high triglyceride levels in the absence of other risk factors prevents coronary events. Although elevated triglycerides in some studies correlates with coronary events, the association weakens when controlled for factors such as diabetes, high-density lipoprotein (HDL) and low-density lipoprotein (LDL) cholesterol, body mass index, and other cardiac risk factors."
+    },
+    {
+        "question": "Does lowering diastolic BP to less than 90 mm Hg decrease cardiovascular risk?",
+        "answer": "Although lowering diastolic blood pressure (DBP) is associated with reduced cardiovascular events, systolic blood pressure (SBP) is a more robust predictor of cardiovascular risk than DBP and should now be used to diagnose, stage, and treat hypertension. Lowering diastolic blood pressure (DBP) to <90 mm Hg in hypertensive individuals of all ages decreases the risk of cardiovascular events including myocardial infarction (MI), heart failure, and sudden death. However, there is no consensus regarding how far to lower DBP. A \"J-shaped\" increase in cardiovascular risks with DBP <85 mm Hg may apply under certain conditions."
+    },
+    {
+        "question": "Do statins reduce the risk of stroke?",
+        "answer": "HMG Co-A reductase inhibitors (statins) are effective for primary prevention of ischemic stroke in people who have a history of occlusive artery disease, coronary artery disease, or diabetes without history of cerebrovascular disease."
+    },
+    {
+        "question": "Does combining aspirin and warfarin decrease the risk of stroke for patients with nonvalvular atrial fibrillation?",
+        "answer": "Adjusted-dose warfarin (international normalized ratio [INR]=2.0-3.0) remains the most efficacious antithrombotic regimen for the primary and secondary prevention of cardioembolic stroke in high-risk patients with nonvalvular atrial fibrillation (NVAF)."
+    },
+    {
+        "question": "What is the best therapy for superficial thrombophlebitis?",
+        "answer": "For proximal saphenous vein thrombosis, anticoagulation is more effective than venous ligation (with or without stripping) in preventing deep venous thrombosis (DVT) and pulmonary embolus (PE)."
+    },
+    {
+        "question": "What's the best treatment for CIN 2 or 3?",
+        "answer": "Excision or ablation of the transformation zone are equally effective for treating an initial diagnosis of cervical intraepithelial neoplasia (CIN) grades 2 or 3 in women with a satisfactory colposcopy and no suggestion of microinvasive or invasive disease."
+    },
+    {
+        "question": "What is the recommended workup for a man with a first UTI?",
+        "answer": "Obtain a urine culture in all men with suspected urinary tract infection (UTI), to reliably diagnose an infection."
+    },
+    {
+        "question": "What is the best initial treatment for orbital cellulitis in children?",
+        "answer": "Although antibiotics are the best initial treatment, surgical intervention is warranted when a child has: visual impairment, complete ophthalmoplegia, or well-defined abscess on presentation, or no clearly apparent clinical improvement by 24 hours."
+    },
+    {
+        "question": "What's the best way to screen for anxiety and panic disorders?",
+        "answer": "The GAD-7 has the best evidence and utility in the primary care setting for generalized anxiety disorder."
+    },
+    {
+        "question": "What is the best way to diagnose menopause?",
+        "answer": "No single test for menopause is highly sensitive and specific. The best predictors that a woman will enter menopause within 4 years include age at least 50 years, amenorrhea for 3 to 11 months, and menstrual cycle irregularity within 12 months."
+    },
+    {
+        "question": "Does a low-fat diet help prevent breast cancer?",
+        "answer": "No. Studies show no evidence that reducing dietary fat decreases a woman's risk of developing postmenopausal breast cancer within the subsequent 14 years. Overall, evidence is insufficient to recommend for or against reduction in dietary fat to reduce risk of breast cancer for women, although recommendations for prudent fat intake may be justified on other grounds."
+    },
+    {
+        "question": "What's the best way to manage athletes with amenorrhea?",
+        "answer": "Ruling out secondary causes of amenorrhea is, of course, the first step. Once that's done, you can make a presumptive diagnosis of hypothalamic amenorrhea and advise the patient to increase caloric intake or decrease energy expenditure to promote the return of normal menses."
+    },
+    {
+        "question": "What is the best way to manage benign paroxysmal positional vertigo?",
+        "answer": "A simple repositioning maneuver, such as the Epley maneuver, performed by an experienced clinician, can provide symptom relief from benign paroxysmal positional vertigo (BPPV) lasting at least 1 month."
+    },
+    {
+        "question": "What is the best hypnotic for use in the elderly?",
+        "answer": "Short-acting hypnotics such as zolpidem (Ambien) or zaleplon (Sonata) are the preferred hypnotics in the elderly because of an improved side-effect profile compared with traditional hypnotics such as benzodiazepines. Zolpidem and zaleplon have a quick onset and short duration of action, making them less likely to cause residual sedation, cognitive changes, and falls than benzodiazepines. More comparative clinical trials in the elderly are needed to determine if zolpidem and zaleplon are truly safer than benzodiazepines in this population. Hypnotics should be prescribed on a short-term, intermittent basis as part of a comprehensive treatment plan that addresses any underlying causes of poor sleep."
+    },
+    {
+        "question": "Do statins cause myopathy?",
+        "answer": "If statins (HMG-CoA reductase inhibitors) cause myopathy, the risk is very low."
+    },
+    {
+        "question": "Should you use steroids to treat infectious mononucleosis?",
+        "answer": "Generally, no. Studies of steroids to treat infectious mononucleosis have found no significant effect on the clinical course of the illness at 1 to 3 months."
+    },
+    {
+        "question": "What screening tests should you use to evaluate a man with low testosterone?",
+        "answer": "Obtain a repeat morning testosterone level, as well as levels of follicle-stimulating hormone (FSH), luteinizing hormone (LH), and prolactin to help understand the cause of low testosterone when there is a lack of adequate empiric evidence to guide evaluation, advise the experts. When low or normal FSH and LH levels accompany low testosterone, evaluation of the pituitary gland is recommended. Chromosomal studies are indicated in prepubertal males with low testosterone and elevated FSH and LH levels to assess for Klinefelter syndrome. Perform a semen analysis if fertility is an issue. Bone densitometry is indicated in men with chronic hypogonadism to identify increased risk of hip fracture."
+    },
+    {
+        "question": "How beneficial are thiazolidinediones for diabetes mellitus?",
+        "answer": "The thiazolidinediones pioglitazone (Actos) and rosiglitazone (Avandia) are effective at lowering fasting plasma glucose (FPG) and glycosylated hemoglobin (Hb A1c) in patients with type 2 diabetes when used either as monotherapy or in combination with sulfonylureas, metformin, or insulin. The glucose-lowering effects appear comparable with those of sulfonylureas and metformin alone. Currently, there are no randomized trials directly comparing patient-oriented outcomes of the thiazolidinediones with those of sulfonylureas and metformin."
+    },
+    {
+        "question": "What is the prognosis for acute low back pain?",
+        "answer": "The proportion of patients who are pain free or completely recovered after an acute episode of low back pain within 2 weeks to 6 months ranges from 21% to 90%, depending on the population studied and the method of measuring outcomes. The reported recurrence rates are also variable, from a low of 35% to a high of 75%, again depending on the length of follow-up and the study design."
+    },
+    {
+        "question": "What levels of cholesterol should be treated for primary prevention?",
+        "answer": "The levels of cholesterol that should be treated for primary prevention are based on low-density lipoprotein cholesterol (LDL-C) levels of > 100 mg/dL to > 190 mg/dL and vary according to whether the patient's risk is high, moderate, or low. Medication indications."
+    },
+    {
+        "question": "What's the best way to treat Achilles tendonopathy?",
+        "answer": "Rest and ice are considered first-line therapy for acute Achilles tendonopathy."
+    },
+    {
+        "question": "How should you evaluate elevated calcium in an asymptomatic patient?",
+        "answer": "First, establish that true hypercalcemia exists by repeating the serum calcium and measuring or calculating the physiologically active serum calcium when abnormalities in blood pH or albumin are found."
+    },
+    {
+        "question": "Is there much risk in using fluoroquinolones in children?",
+        "answer": "No, the risks seem to be minimal. Arthralgias and myalgias have been observed clinically in children and adolescents exposed to fluoroquinolones, but they're transient, disappear when the drug is discontinued, and appear to be no more prevalent than with other antibiotics."
+    },
+    {
+        "question": "How much can exercise raise creatine kinase level-and does it matter?",
+        "answer": "Moderate-intensity exercise (maintaining heart rate between 55% and 90% of maximum) may elevate creatine kinase (CK) to levels that meet the diagnostic criteria for rhabdomyolysis if the exercises involve eccentric muscle contractions, such as weight lifting or downhill running. The clinical significance of exercise-induced elevations in CK is unclear because the renal complications associated with classic rhabdomyolysis haven't been observed."
+    },
+    {
+        "question": "Do any folk remedies or herbals help induce labor?",
+        "answer": "Yes, some do. Breast stimulation and electroacupuncture help, while other common remedies that have been studied are ineffective, possibly unsafe, or both. Unilateral breast stimulation shortens the time until the onset of labor in women at term."
+    },
+    {
+        "question": "When should acute nonvenereal conjunctivitis be treated with topical antibiotics?",
+        "answer": "Children with suspected or culture-proven acute nonvenereal bacterial conjunctivitis should be treated with topical antibiotics, which hastens clinical and microbiological remission and may prevent potentially serious morbidity. In light of recent evidence regarding the self-limiting nature of conjunctivitis in adults and the development of antibiotic resistance, a \"wait-and-see\" approach with careful follow-up may be reasonable for adults, but this approach has not been evaluated."
+    },
+    {
+        "question": "What is the most effective treatment for external genital warts?",
+        "answer": "Podofilox (Condylox), imiquimod (Aldara), cryotherapy, and surgical options all seem reasonable alternatives that are superior to podophyllin. No studies of surgical options versus home use preparations have been reported. Trichloroacetic acid and 5-fluorouracil (5-FU) have not been sufficiently studied."
+    },
+    {
+        "question": "What are the indications for tonsillectomy in children?",
+        "answer": "Tonsillectomy with or without adenoidectomy is minimally effective when combined with tympanostomy tube placement in preventing recurrent otitis media in the 3 years following surgery. The risks of surgery must be weighed against potential benefit."
+    },
+    {
+        "question": "How do you evaluate macrocytosis without anemia?",
+        "answer": "Start with a detailed history, paying particular attention to medications and alcohol use."
+    },
+    {
+        "question": "Do allergy shots help seasonal allergies more than antihistamines and nasal steroids?",
+        "answer": "Multiple randomized controlled trials (RCTs) demonstrate the effectiveness of both allergen immunotherapy and antihistamines, with or without nasal steroids, in the treatment of seasonal allergic rhinitis."
+    },
+    {
+        "question": "What common substances can cause false positives on urine screens for drugs of abuse?",
+        "answer": "False-positive reports on urine drug screens by immunoassay are rare. Nonsteroidal anti-inflammatory drugs, fluoroquinolones, and Vicks Inhaler are most frequently implicated."
+    },
+    {
+        "question": "What is the best regimen for newly diagnosed hypertension?",
+        "answer": "Low-dose thiazide diuretics (eg, hydrochlorothiazide 12.5 to 25 mg/d) are the best first-line pharmacotherapy for treating uncomplicated hypertension."
+    },
+    {
+        "question": "How effective are pharmacologic agents for alcoholism?",
+        "answer": "Naltrexone (ReVia) and nalmefene (Revex) are the most effective agents for treating alcoholism. Acamprosate is effective but not available in the United States. Serotonergic agents, selective serotonin reuptake inhibitors (SSRIs), and lithium work best in patients with alcoholism and comorbid depression, anxiety, or bipolar disorder. Disulfiram (Antabuse) decreases drink frequency, but is no better than placebo for other outcomes. Greater effectiveness is achieved when pharmacologic agents are combined with either counseling or Alcoholics Anonymous programs."
+    },
+    {
+        "question": "Can patients with steatohepatitis take statins?",
+        "answer": "Patients with steatohepatitis who take HMG Co-A reductase inhibitors statins lower their elevated liver enzymes and show evidence of improvement in fatty liver on follow-up imaging."
+    },
+    {
+        "question": "How useful is high-sensitivity CRP as a risk factor for coronary artery disease?",
+        "answer": "Little evidence supports the use of the high-sensitivity C-reactive protein assay (hs-CRP) as a screening test for cardiovascular disease (CVD) in the healthy adult population. There is significant debate about its use in populations at moderate risk for cardiovascular disease, with some evidence suggesting its use if the results of the test will alter treatment recommendations."
+    },
+    {
+        "question": "How should we follow up a positive screen for anemia in a 1-year old?",
+        "answer": "Healthy infants who test positive for anemia on routine screening at 1 year of age are most likely iron-deficient and may be treated empirically with a trial of iron therapy (3-6 mg of elemental iron/kg/d). Documentation of response to iron confirms the diagnosis of iron-deficiency."
+    },
+    {
+        "question": "What is the best treatment for analgesic rebound headaches?",
+        "answer": "Abrupt discontinuation of the offending analgesic(s), and treating rebound headaches with dihydroergotamine (DHE) as needed, results in significant improvement for most patients."
+    },
+    {
+        "question": "Should patients with acute DVT limit activity?",
+        "answer": "Probably not. Ambulation, combined with compression of the affected extremity, appears to be safe for medically stable patients with deep venous thromboses (DVT)."
+    },
+    {
+        "question": "Does warfarin prevent venous thromboembolic events in aPL-positive patients?",
+        "answer": "Yes, warfarin is effective in the secondary prevention of venous thromboembolic events (VTEs) for patients positive for lupus anticoagulant or anticardiolipin antibody (also known as antiphospholipid antibodies [aPL])."
+    },
+    {
+        "question": "How should we treat major depression combined with anxiety?",
+        "answer": "One approach is to use antidepressants alone, which reduce symptoms for patients with major depression plus symptoms of anxiety or major depression plus generalized anxiety disorder. Selective serotonin reuptake inhibitors (SSRIs), tricyclics (TCAs), bupropion, mirtazapine, nefazodone, and venlafaxine are equally effective for combined symptom relief."
+    },
+    {
+        "question": "What other STI testing should we do for a patient with chlamydia?",
+        "answer": "Testing for gonorrhea is recommended for a patient with genital chlamydia; also test for gonorrhea and chlamydia in their sexual partner because of the high prevalence of coinfection, particularly among younger patients."
+    },
+    {
+        "question": "How do we evaluate a marginally low B12 level?",
+        "answer": "The best way to evaluate a low-normal B12 level is to check serum methylmalonic acid and homocysteine levels."
+    },
+    {
+        "question": "What is the best way to evaluate acute diarrhea?",
+        "answer": "Limited evidence delineates the relative probabilities of causes of acute diarrhea, typically defined as a diarrheal disease lasting 14 days or fewer, in the developed world. Viruses (rotavirus, Norwalk, and other enteric viruses) are responsible for most cases. Stool culture helps to identify bacterial causes (Salmonella, Shigella, enterotoxic Escherichia coli), especially in patients with fever and bloody stool. A modified 3-day rule (eg, performing only Clostridium difficile toxin tests on low-risk patients who have been hospitalized for 3 or more days) leads to a more rational use of stool cultures without missing cases of clinically significant disease."
+    },
+    {
+        "question": "What's the best treatment for sebaceous cysts?",
+        "answer": "Punch biopsy excision appears to be superior to traditional wide elliptical excision for the treatment of sebaceous cysts when intervention is necessary."
+    },
+    {
+        "question": "Are there big differences among beta-blockers in treating essential hypertension?",
+        "answer": "Yes, a number of beta-blockers are effective in lowering blood pressure."
+    },
+    {
+        "question": "What is the best treatment for mild to moderate acne?",
+        "answer": "For mild comedonal acne, monotherapy with topical retinoids is the treatment of choice."
+    },
+    {
+        "question": "What are the risks and benefits of elective induction for uncomplicated term pregnancies?",
+        "answer": "Elective induction of labor for term, singleton, uncomplicated pregnancies appears safe for both the mother and infant."
+    },
+    {
+        "question": "What is the risk of adverse outcomes in a woman who develops mild hypertension from OCs?",
+        "answer": "Women who take oral contraceptives (OCs) have an increased risk of developing new hypertension, which returns to baseline within 1 to 3 months of OC cessation."
+    },
+    {
+        "question": "What is the best medical therapy for new-onset type 2 diabetes?",
+        "answer": "Sulfonylureas, metformin, thiazolidinediones, and non-sulfonylurea secretagogues differ little in their ability to decrease glycosylated hemoglobin (HbA1c) levels when used as initial monotherapy for diabetes mellitus type 2."
+    },
+    {
+        "question": "What is the role of combination therapy insulin plus oral medication in type 2 diabetes?",
+        "answer": "Combination therapy using insulin plus metformin (Glucophage), a sulfonylurea, or both produces glycemic control comparable with using insulin alone, but there is less weight gain when metformin is used."
+    },
+    {
+        "question": "Is training patients in self-examination an effective way to screen for melanoma?",
+        "answer": "No, it's not. No studies demonstrate that training patients to examine their skin decreases mortality from melanoma in the general population. Nor is there any evidence to suggest that teaching patients to monitor their skin for suspicious lesions results in earlier detection of melanoma, better prognosis at diagnosis, or better clinical outcomes. However, patients who have had melanoma and perform self-examination have a lower risk of death from subsequent occurrences than those who do not."
+    },
+    {
+        "question": "What could be behind your elderly patient's subjective memory complaints?",
+        "answer": "Depression, anxiety, and dementia, as well as older age, female gender, lower education level, and decreased physical activity, have all been associated with memory loss reported by patients or family members."
+    },
+    {
+        "question": "Which drugs are most effective for moderate to severe depression in adolescents?",
+        "answer": "Fluoxetine is the only selective serotonin-reuptake inhibitor (SSRI) approved by the US Food and Drug Administration (FDA) to treat depression in children 8 years of age and older; it also has the most favorable benefit-to-risk profile compared with placebo in trials lasting up to 12 weeks."
+    },
+    {
+        "question": "Which drugs are safest for moderate to severe depression in adolescents?",
+        "answer": "Information about the safety of tricyclic antidepressants in young people is limited because adverse effects have not been systematically reported in trials."
+    },
+    {
+        "question": "Should you evaluate for CAD in seniors with premature ventricular contractions?",
+        "answer": "Yes. Current guidelines suggest evaluating patients with premature ventricular contractions (PVCs) and associated risk factors for underlying coronary artery disease."
+    },
+    {
+        "question": "What is the most effective beta-blocker for heart failure?",
+        "answer": "Three beta-blockers-carvedilol, metoprolol, and bisoprolol-reduce mortality in chronic heart failure caused by left ventricular systolic dysfunction, when used in addition to diuretics and angiotensin converting enzyme (ACE) inhibitors."
+    },
+    {
+        "question": "Which technique for removing nevi is least scarring?",
+        "answer": "A shave biopsy with a razor blade or#15 scalpel is the best approach for a facial nevus, assuming malignancy is not suspected. the resulting scar is usually flat, smaller than the lesion, has no suture lines, and-if shaved in mid or upper dermis-has a low risk of producing a hypertrophic or hypotrophic scar."
+    },
+    {
+        "question": "Can infants/toddlers get enough fluoride through brushing?",
+        "answer": "Yes. Brushing twice daily with topical fluoride toothpaste decreases the incidence of dental caries in infants and toddlers."
+    },
+    {
+        "question": "Does the age you introduce food to an infant affect allergies later?",
+        "answer": "Yes. In children at high risk for atopy (those with a family history of allergy, asthma, or eczema in at least 1 first-degree relative), breastfeeding or giving hydrolyzed protein formula during the first 4 to 6 months reduces the risk of atopy in the first year of life, when compared with introducing cow's milk or soy formula."
+    },
+    {
+        "question": "Should we use SSRIs to treat adolescents with depression?",
+        "answer": "Yes. Based on current evidence, fluoxetine is the most effective selective serotonin reuptake inhibitor (SSRI) for treatment of major depressive disorder in adolescents. It is the only agent approved by the US Food and Drug Administration (FDA) for use in children."
+    },
+    {
+        "question": "What's the best treatment for gestational diabetes?",
+        "answer": "There is no single approach to glycemic control that is better than another for reducing neonatal mortality and morbidity. Glycemic control-regardless of whether it involves diet, glyburide, or insulin-leads to fewer cases of shoulder dystocia, hyperbilirubinemia requiring phototherapy, nerve palsy, bone fracture, being large for gestational age, and fetal macrosomia."
+    },
+    {
+        "question": "Should we use appetite stimulants for malnourished elderly patients?",
+        "answer": "Probably not. Only 1 appetite stimulate, megestrol acetate oral suspension (Megace) at 400 mg or 800 mg daily, has been studied in this population. The data show only limited benefit, mixed outcomes, and potential harm."
+    },
+    {
+        "question": "What is the best macrolide for atypical pneumonia?",
+        "answer": "Erythromycin, clarithromycin, and azithromycin are equally effective in treating pneumonia caused by Mycoplasma pneumoniae or Chlamydophila (formerly Chlamydia) pneumoniae."
+    },
+    {
+        "question": "What test is the best for diagnosing infectious mononucleosis?",
+        "answer": "Tests for antibodies to Epstein-Barr viral capsid antigen (EBVCA) or Epstein-Barr nuclear antigen (EBNA) are the most sensitive, are highly specific, and are also the most expensive for diagnosing infectious mononucleosis."
+    },
+    {
+        "question": "What nonpharmacological treatments are effective against common nongenital warts?",
+        "answer": "Cryotherapy has similar cure rates to topical salicylate (a pharmacologic therapy) for non-genital common warts."
+    },
+    {
+        "question": "What are appropriate screening tests for infants and children?",
+        "answer": "There is adequate evidence for screening neonates for hemoglobinopathies, congenital hypothyroidism, phenylketonuria."
+    },
+    {
+        "question": "Should patients receive 23-valent pneumococcal vaccination more than once?",
+        "answer": "No patient-oriented evidence supports pneumococcal revaccination of any patient (high-risk or otherwise). Antibody levels may be augmented by revaccination; however, the clinical efficacy of revaccination, even among high-risk patients, is unknown. Revaccination is recommended by the Advisory Committee on Immunization Practices (ACIP) in certain circumstances."
+    },
+    {
+        "question": "What is the most beneficial diet for patients with diverticulosis?",
+        "answer": "A diet high in fiber (particularly fruit and vegetable fiber) and low in fat and red meat may help to decrease the risk of symptomatic diverticular disease."
+    },
+    {
+        "question": "How accurate is the clinical diagnosis of pneumonia?",
+        "answer": "No element or combination of elements from the clinical history and physical examination are sufficiently sensitive or specific to confirm or exclude acute community-acquired pneumonia (CAP). A chest x-ray is recommended to make the diagnosis."
+    },
+    {
+        "question": "Who should have colposcopy?",
+        "answer": "Colposcopy is the preferred test in the work-up of patients with abnormal cervical cytology: Low-grade squamous intraepithelial lesion (LSIL): mild dysplasia. High-grade squamous intraepithelial lesion (HSIL): moderate to severe dysplasia. Atypical squamous cells of undetermined significance (ASC-US) with high-risk human papillo-mavirus (HPV) DNA. Atypical squamous cells, cannot rule out HSIL (ASC-H). Atypical glandular cells (AGC). Adenocarcinoma in situ (AIS)."
+    },
+    {
+        "question": "What's the best test for renal artery stenosis in patients with refractory hypertension?",
+        "answer": "Magnetic resonance angiography (MRA) and computed tomography angiography (CTA) are the most consistently accurate, noninvasive screening methods. MRA is likely the preferred option because of its lack of radiation and reduced risk of contrast media."
+    },
+    {
+        "question": "What are the indications for meningococcal vaccination?",
+        "answer": "Routine vaccination with the meningococcal conjugate vaccine MCV4 (Menactra) is indicated for all US adolescents entering high school and for college freshmen living in dormitories."
+    },
+    {
+        "question": "What is the role of prokinetic agents for constipation?",
+        "answer": "Erythromycin has a limited role in treating pediatric patients."
+    },
+    {
+        "question": "Do abnormal fetal kick counts predict intrauterine death in average-risk pregnancies?",
+        "answer": "No. Structured daily monitoring of fetal movement doesn't decrease the rate of all-cause antenatal death in average-risk pregnancies."
+    },
+    {
+        "question": "Can you differentiate bacterial from viral pediatric infections based on the CBC?",
+        "answer": "No-the complete blood count (CBC) alone does not have adequate sensitivity or specificity to tell bacterial from viral infections."
+    }
+]

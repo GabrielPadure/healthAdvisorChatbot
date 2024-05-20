@@ -1,14 +1,14 @@
 import json
 import torch
 from torch.utils.data import DataLoader, Dataset
-from transformers import BertTokenizer, BertForQuestionAnswering, AdamW, get_linear_schedule_with_warmup, pipeline
+from transformers import BertTokenizer, BertForQuestionAnswering, AdamW, get_linear_schedule_with_warmup
+
 
 class QADataset(Dataset):
     def __init__(self, json_file, tokenizer, max_len=512):
         self.data = []
         self.tokenizer = tokenizer
         self.max_len = max_len
-        self.summarizer = pipeline("summarization", model="facebook/bart-large-cnn")
 
         print(f"Loading data from {json_file}")
         with open(json_file, 'r') as f:
@@ -19,18 +19,13 @@ class QADataset(Dataset):
             # Tokenize context to check its length
             encoded_context = tokenizer.encode(context)
             if len(encoded_context) > max_len:
-                # Summarize context if it exceeds max length
-                context = self.summarize_text(context)
+                # Truncate context if it exceeds max length
+                context = tokenizer.decode(encoded_context[:max_len], skip_special_tokens=True)
             self.data.append({
                 "question": item['question'],
                 "context": context,
                 "label": item['label']
             })
-
-    def summarize_text(self, text):
-        # Summarize text using the summarizer pipeline
-        summary = self.summarizer(text, max_length=self.max_len, min_length=30, do_sample=False)[0]['summary_text']
-        return summary
 
     def __len__(self):
         return len(self.data)
@@ -50,6 +45,7 @@ class QADataset(Dataset):
 
         return encoding, start_positions, end_positions
 
+
 def train(model, tokenizer, dataset, device, epochs=3, batch_size=8):
     dataloader = DataLoader(dataset, batch_size=batch_size, shuffle=True)
     optimizer = AdamW(model.parameters(), lr=2e-5)
@@ -67,7 +63,8 @@ def train(model, tokenizer, dataset, device, epochs=3, batch_size=8):
             start_positions = start_positions.squeeze().to(device)
             end_positions = end_positions.squeeze().to(device)
 
-            outputs = model(input_ids, attention_mask=attention_mask, start_positions=start_positions, end_positions=end_positions)
+            outputs = model(input_ids, attention_mask=attention_mask, start_positions=start_positions,
+                            end_positions=end_positions)
             loss = outputs[0]
             loss.backward()
             optimizer.step()
@@ -78,18 +75,19 @@ def train(model, tokenizer, dataset, device, epochs=3, batch_size=8):
     print("Training completed")
     return model
 
+
 def main():
     device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
     tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')
     model = BertForQuestionAnswering.from_pretrained('bert-base-uncased').to(device)
 
     dataset_files = [
-        '/Users/alexandruvalah/IdeaProjects/healthAdvisorChatbot/DataPreprocessing/Resources/CleanData/clean_ComprehensiveMedicalQ&A.json',
-        '/Users/alexandruvalah/IdeaProjects/healthAdvisorChatbot/DataPreprocessing/Resources/CleanData/clean_Fitness.json',
-        '/Users/alexandruvalah/IdeaProjects/healthAdvisorChatbot/DataPreprocessing/Resources/CleanData/clean_MentalHealth.json',
-        '/Users/alexandruvalah/IdeaProjects/healthAdvisorChatbot/DataPreprocessing/Resources/CleanData/clean_Symp&Cond.json',
-        '/Users/alexandruvalah/IdeaProjects/healthAdvisorChatbot/DataPreprocessing/Resources/CleanData/clean_Med&Suppl.json',
-        '/Users/alexandruvalah/IdeaProjects/healthAdvisorChatbot/DataPreprocessing/Resources/CleanData/clean_Nutr&Diet.json'
+        '/Users/alexandruvalah/IdeaProjects/healthAdvisorChatbot/DataPreprocessing/Resources/CleanData/WithLabels/clean_ComprehensiveMedicalQ&A.json',
+        '/Users/alexandruvalah/IdeaProjects/healthAdvisorChatbot/DataPreprocessing/Resources/CleanData/WithLabels/clean_Fitness.json',
+        '/Users/alexandruvalah/IdeaProjects/healthAdvisorChatbot/DataPreprocessing/Resources/CleanData/WithLabels/clean_MentalHealth.json',
+        '/Users/alexandruvalah/IdeaProjects/healthAdvisorChatbot/DataPreprocessing/Resources/CleanData/WithLabels/clean_Symp&Cond.json',
+        '/Users/alexandruvalah/IdeaProjects/healthAdvisorChatbot/DataPreprocessing/Resources/CleanData/WithLabels/clean_Med&Suppl.json',
+        '/Users/alexandruvalah/IdeaProjects/healthAdvisorChatbot/DataPreprocessing/Resources/CleanData/WithLabels/clean_Nutr&Diet.json'
     ]
 
     datasets = [QADataset(file, tokenizer) for file in dataset_files]
@@ -101,6 +99,7 @@ def main():
     model.save_pretrained('fine_tuned_bert_qa')
     tokenizer.save_pretrained('fine_tuned_bert_qa')
     print("Model and tokenizer saved")
+
 
 if __name__ == '__main__':
     main()
