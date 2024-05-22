@@ -1,5 +1,7 @@
 package org.implementation.KeywordBasedImpl;
 
+
+import org.implementation.BotConfig;
 import org.json.JSONArray;
 import org.json.JSONObject;
 import java.io.IOException;
@@ -10,9 +12,9 @@ import java.util.*;
 public class KeywordBasedImpl {
     private Map<String, String> keywordToAnswerMap;
 
-    public KeywordBasedImpl(List<String> jsonFilePaths) throws IOException {
+    public KeywordBasedImpl() throws IOException {
         this.keywordToAnswerMap = new HashMap<>();
-        for (String path : jsonFilePaths) {
+        for (String path : BotConfig.getJsonFilePaths()) {
             loadFAQs(path);
         }
     }
@@ -49,13 +51,7 @@ public class KeywordBasedImpl {
     }
 
     public static void main(String[] args) throws IOException {
-        List<String> jsonFiles = new ArrayList<>();
-        jsonFiles.add("/Users/alexandruvalah/IdeaProjects/healthAdvisorChatbot/DataPreprocessing/Resources/RawData/Fitness.json");
-        jsonFiles.add("/Users/alexandruvalah/IdeaProjects/healthAdvisorChatbot/DataPreprocessing/Resources/RawData/Med&Suppl.json");
-        jsonFiles.add("/Users/alexandruvalah/IdeaProjects/healthAdvisorChatbot/DataPreprocessing/Resources/RawData/MentalHealth.json");
-        jsonFiles.add("/Users/alexandruvalah/IdeaProjects/healthAdvisorChatbot/DataPreprocessing/Resources/RawData/Nutr&Diet.json");
-        jsonFiles.add("/Users/alexandruvalah/IdeaProjects/healthAdvisorChatbot/DataPreprocessing/Resources/RawData/Symp&Cond.json");
-        KeywordBasedImpl bot = new KeywordBasedImpl(jsonFiles);
+        KeywordBasedImpl bot = new KeywordBasedImpl();
         try (Scanner scanner = new Scanner(System.in)) {
             System.out.println("Welcome, how may I help you? Type 'exit' to quit.");
 

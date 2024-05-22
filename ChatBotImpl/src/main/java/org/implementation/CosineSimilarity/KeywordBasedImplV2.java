@@ -1,5 +1,6 @@
 package org.implementation.CosineSimilarity;
 
+import org.implementation.BotConfig;
 import org.json.JSONArray;
 import org.json.JSONObject;
 import java.io.IOException;
@@ -12,14 +13,15 @@ public class KeywordBasedImplV2 {
     private CosineSimilarity cosineSimilarity;
     private Set<String> allWords;
 
-    public KeywordBasedImplV2(List<String> jsonFilePaths) throws IOException {
+    public KeywordBasedImplV2() throws IOException {
         this.questionToAnswerMap = new HashMap<>();
         this.allWords = new HashSet<>();
-        for (String path : jsonFilePaths) {
+        for (String path : BotConfig.getJsonFilePaths()) {
             loadFAQs(path);
         }
         this.cosineSimilarity = new CosineSimilarity(allWords);
     }
+
 
     private void loadFAQs(String jsonFilePath) throws IOException {
         String content = new String(Files.readAllBytes(Paths.get(jsonFilePath)));
@@ -54,13 +56,7 @@ public class KeywordBasedImplV2 {
     }
 
     public static void main(String[] args) throws IOException {
-        List<String> jsonFiles = new ArrayList<>();
-        jsonFiles.add("/Users/User/Documents/GitHub/healthAdvisorChatbot/DataPreprocessing/Resources/RawData/Fitness.json");
-        jsonFiles.add("/Users/User/Documents/GitHub/healthAdvisorChatbot/DataPreprocessing/Resources/RawData/Med&Suppl.json");
-        jsonFiles.add("/Users/User/Documents/GitHub/healthAdvisorChatbot/DataPreprocessing/Resources/RawData/MentalHealth.json");
-        jsonFiles.add("/Users/User/Documents/GitHub/healthAdvisorChatbot/DataPreprocessing/Resources/RawData/Nutr&Diet.json");
-        jsonFiles.add("/Users/User/Documents/GitHub/healthAdvisorChatbot/DataPreprocessing/Resources/RawData/Symp&Cond.json");
-        KeywordBasedImplV2 bot = new KeywordBasedImplV2(jsonFiles);
+        KeywordBasedImplV2 bot = new KeywordBasedImplV2();
 
         System.out.println("Welcome, how may I help you? Type 'exit' to quit.");
 

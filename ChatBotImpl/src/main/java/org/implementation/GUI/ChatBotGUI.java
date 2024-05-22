@@ -24,15 +24,10 @@ public class ChatBotGUI extends Application {
     @Override
     public void start(Stage primaryStage) {
         try {
-            chatBot = new KeywordBasedImplV2(Arrays.asList(
-                    "/Users/User/Documents/GitHub/healthAdvisorChatbot/DataPreprocessing/Resources/RawData/Fitness.json",
-                    "/Users/User/Documents/GitHub/healthAdvisorChatbot/DataPreprocessing/Resources/RawData/Med&Suppl.json",
-                    "/Users/User/Documents/GitHub/healthAdvisorChatbot/DataPreprocessing/Resources/RawData/MentalHealth.json",
-                    "/Users/User/Documents/GitHub/healthAdvisorChatbot/DataPreprocessing/Resources/RawData/Nutr&Diet.json",
-                    "/Users/User/Documents/GitHub/healthAdvisorChatbot/DataPreprocessing/Resources/RawData/Symp&Cond.json"
-            ));
+            chatBot = new KeywordBasedImplV2();
         } catch (IOException e) {
             e.printStackTrace();
+            return;
         }
 
         // Header section
