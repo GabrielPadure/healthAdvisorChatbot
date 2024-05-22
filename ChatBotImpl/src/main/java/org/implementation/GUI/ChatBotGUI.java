@@ -25,11 +25,11 @@ public class ChatBotGUI extends Application {
     public void start(Stage primaryStage) {
         try {
             chatBot = new KeywordBasedImplV2(Arrays.asList(
-                    "/Users/alexandruvalah/IdeaProjects/healthAdvisorChatbot/DataPreprocessing/Resources/RawData/Fitness.json",
-                    "/Users/alexandruvalah/IdeaProjects/healthAdvisorChatbot/DataPreprocessing/Resources/RawData/Med&Suppl.json",
-                    "/Users/alexandruvalah/IdeaProjects/healthAdvisorChatbot/DataPreprocessing/Resources/RawData/MentalHealth.json",
-                    "/Users/alexandruvalah/IdeaProjects/healthAdvisorChatbot/DataPreprocessing/Resources/RawData/Nutr&Diet.json",
-                    "/Users/alexandruvalah/IdeaProjects/healthAdvisorChatbot/DataPreprocessing/Resources/RawData/Symp&Cond.json"
+                    "/Users/User/Documents/GitHub/healthAdvisorChatbot/DataPreprocessing/Resources/RawData/Fitness.json",
+                    "/Users/User/Documents/GitHub/healthAdvisorChatbot/DataPreprocessing/Resources/RawData/Med&Suppl.json",
+                    "/Users/User/Documents/GitHub/healthAdvisorChatbot/DataPreprocessing/Resources/RawData/MentalHealth.json",
+                    "/Users/User/Documents/GitHub/healthAdvisorChatbot/DataPreprocessing/Resources/RawData/Nutr&Diet.json",
+                    "/Users/User/Documents/GitHub/healthAdvisorChatbot/DataPreprocessing/Resources/RawData/Symp&Cond.json"
             ));
         } catch (IOException e) {
             e.printStackTrace();
@@ -128,6 +128,8 @@ public class ChatBotGUI extends Application {
 
         Label messageLabel = new Label(message);
         messageLabel.setStyle("-fx-font-size: 14px; -fx-text-fill: " + textColor + ";");
+        messageLabel.setWrapText(true); // Enable text wrapping
+        messageLabel.setMaxWidth(350); // Set a max width to ensure wrapping
 
         messageContainer.getChildren().addAll(senderLabel, messageLabel);
         messageBox.getChildren().add(messageContainer);

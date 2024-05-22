@@ -55,11 +55,11 @@ public class KeywordBasedImplV2 {
 
     public static void main(String[] args) throws IOException {
         List<String> jsonFiles = new ArrayList<>();
-        jsonFiles.add("/Users/alexandruvalah/IdeaProjects/healthAdvisorChatbot/DataPreprocessing/Resources/RawData/Fitness.json");
-        jsonFiles.add("/Users/alexandruvalah/IdeaProjects/healthAdvisorChatbot/DataPreprocessing/Resources/RawData/Med&Suppl.json");
-        jsonFiles.add("/Users/alexandruvalah/IdeaProjects/healthAdvisorChatbot/DataPreprocessing/Resources/RawData/MentalHealth.json");
-        jsonFiles.add("/Users/alexandruvalah/IdeaProjects/healthAdvisorChatbot/DataPreprocessing/Resources/RawData/Nutr&Diet.json");
-        jsonFiles.add("/Users/alexandruvalah/IdeaProjects/healthAdvisorChatbot/DataPreprocessing/Resources/RawData/Symp&Cond.json");
+        jsonFiles.add("/Users/User/Documents/GitHub/healthAdvisorChatbot/DataPreprocessing/Resources/RawData/Fitness.json");
+        jsonFiles.add("/Users/User/Documents/GitHub/healthAdvisorChatbot/DataPreprocessing/Resources/RawData/Med&Suppl.json");
+        jsonFiles.add("/Users/User/Documents/GitHub/healthAdvisorChatbot/DataPreprocessing/Resources/RawData/MentalHealth.json");
+        jsonFiles.add("/Users/User/Documents/GitHub/healthAdvisorChatbot/DataPreprocessing/Resources/RawData/Nutr&Diet.json");
+        jsonFiles.add("/Users/User/Documents/GitHub/healthAdvisorChatbot/DataPreprocessing/Resources/RawData/Symp&Cond.json");
         KeywordBasedImplV2 bot = new KeywordBasedImplV2(jsonFiles);
 
         System.out.println("Welcome, how may I help you? Type 'exit' to quit.");
