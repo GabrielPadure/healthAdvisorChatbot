@@ -70,7 +70,7 @@ def correct_spelling_with_bert(text, vocabulary):
     return corrected_text
 
 # Example usage
-text = "I awnt ot eta an aple."
+text = "I wnt t eat n aple."
 # Initial correction with TextBlob
 initial_corrected_text = correct_spelling_with_textblob(text)
 print("Initial correction with TextBlob:", initial_corrected_text)

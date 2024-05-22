@@ -11,16 +11,30 @@ import javafx.scene.image.Image;
 import javafx.scene.image.ImageView;
 import javafx.scene.layout.*;
 import javafx.stage.Stage;
+import org.implementation.CosineSimilarity.KeywordBasedImplV2;
 
-import java.text.SimpleDateFormat;
-import java.util.Date;
+import java.io.IOException;
+import java.util.Arrays;
 
 public class ChatBotGUI extends Application {
     private VBox chatPane;
     private TextField userInputField;
+    private KeywordBasedImplV2 chatBot;
 
     @Override
     public void start(Stage primaryStage) {
+        try {
+            chatBot = new KeywordBasedImplV2(Arrays.asList(
+                    "/Users/alexandruvalah/IdeaProjects/healthAdvisorChatbot/DataPreprocessing/Resources/RawData/Fitness.json",
+                    "/Users/alexandruvalah/IdeaProjects/healthAdvisorChatbot/DataPreprocessing/Resources/RawData/Med&Suppl.json",
+                    "/Users/alexandruvalah/IdeaProjects/healthAdvisorChatbot/DataPreprocessing/Resources/RawData/MentalHealth.json",
+                    "/Users/alexandruvalah/IdeaProjects/healthAdvisorChatbot/DataPreprocessing/Resources/RawData/Nutr&Diet.json",
+                    "/Users/alexandruvalah/IdeaProjects/healthAdvisorChatbot/DataPreprocessing/Resources/RawData/Symp&Cond.json"
+            ));
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+
         // Header section
         HBox header = new HBox();
         header.setStyle("-fx-background-color: #007bff; -fx-padding: 10;");
@@ -85,7 +99,14 @@ public class ChatBotGUI extends Application {
             addMessage("You", userMessage, Pos.TOP_RIGHT, "#D9EDF7", "#333333");
             userInputField.clear();
 
-            String botResponse = getBotResponse(userMessage);
+            String botResponse;
+            try {
+                botResponse = chatBot.findAnswer(userMessage);
+            } catch (IOException e) {
+                botResponse = "Error in getting response.";
+                e.printStackTrace();
+            }
+
             addMessage("ChatBot", botResponse, Pos.TOP_LEFT, "#F7F7F9", "#333333");
         }
     }
@@ -111,14 +132,6 @@ public class ChatBotGUI extends Application {
         messageContainer.getChildren().addAll(senderLabel, messageLabel);
         messageBox.getChildren().add(messageContainer);
         chatPane.getChildren().add(messageBox);
-    }
-
-    private String getBotResponse(String userMessage) {
-        if (userMessage.toLowerCase().contains("hello")) {
-            return "Hello! How can I assist you?";
-        } else {
-            return "I'm sorry, I didn't understand that.";
-        }
     }
 
     public static void main(String[] args) {
