@@ -1,0 +1,596 @@
+[
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why am I feeling so tired lately?",
+        "context": "'Fatigue can be caused by factors like lack of sleep, stress, poor nutrition, or health conditions. It's important to consider your lifestyle and consult a healthcare professional if needed.' is the answer to 'Why am I feeling so tired lately?'.",
+        "answer": "Fatigue can be caused by factors like lack of sleep, stress, poor nutrition, or health conditions. It's important to consider your lifestyle and consult a healthcare professional if needed."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What should I do about my frequent headaches?",
+        "context": "'Headaches can be triggered by dehydration, stress, eye strain, or health issues. Hydration, stress management, and breaks from screens can help. If headaches persist, it's best to consult a healthcare professional.' is the answer to 'What should I do about my frequent headaches?'.",
+        "answer": "Headaches can be triggered by dehydration, stress, eye strain, or health issues. Hydration, stress management, and breaks from screens can help. If headaches persist, it's best to consult a healthcare professional."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why am I suddenly gaining weight?",
+        "context": "'Unexplained weight changes may indicate health issues like thyroid problems or hormonal imbalances. Monitoring your weight and consulting a healthcare provider if changes persist is advisable.' is the answer to 'Why am I suddenly gaining weight?'.",
+        "answer": "Unexplained weight changes may indicate health issues like thyroid problems or hormonal imbalances. Monitoring your weight and consulting a healthcare provider if changes persist is advisable."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What can I do about anxiety?",
+        "context": "The answer to the question 'What can I do about anxiety?' is 'Techniques like deep breathing, exercise, and seeking support can help manage anxiety. If it affects daily life, consulting a mental health professional is recommended.'.",
+        "answer": "Techniques like deep breathing, exercise, and seeking support can help manage anxiety. If it affects daily life, consulting a mental health professional is recommended."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "How can I improve my sleep?",
+        "context": "'Establishing a bedtime routine, creating a relaxing environment, and avoiding stimulants before bed may improve sleep quality. If problems persist, consulting a healthcare provider is advisable.' is the answer to 'How can I improve my sleep?'.",
+        "answer": "Establishing a bedtime routine, creating a relaxing environment, and avoiding stimulants before bed may improve sleep quality. If problems persist, consulting a healthcare provider is advisable."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Should I be concerned about changes in my skin?",
+        "context": "If you want to know 'Should I be concerned about changes in my skin?', the answer is 'Changes in skin appearance should be monitored, especially new moles or persistent rashes. Consulting a dermatologist for evaluation is recommended.\"'.",
+        "answer": "Changes in skin appearance should be monitored, especially new moles or persistent rashes. Consulting a dermatologist for evaluation is recommended.\""
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why do I have stomach pain and bloating?",
+        "context": "To the question 'Why do I have stomach pain and bloating?', one should reply with 'Stomach pain and bloating can be caused by digestive issues or food intolerances. Keeping a food diary and consulting a healthcare provider if symptoms persist is advisable.'.",
+        "answer": "Stomach pain and bloating can be caused by digestive issues or food intolerances. Keeping a food diary and consulting a healthcare provider if symptoms persist is advisable."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why am I feeling weak and shaky?",
+        "context": "When asked 'Why am I feeling weak and shaky?', the response is 'Factors like dehydration, low blood sugar, or health conditions may cause weakness and shakiness. Adequate hydration, nutrition, and rest are important. Consultation with a healthcare provider is recommended if symptoms persist.'.",
+        "answer": "Factors like dehydration, low blood sugar, or health conditions may cause weakness and shakiness. Adequate hydration, nutrition, and rest are important. Consultation with a healthcare provider is recommended if symptoms persist."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What should I do about my persistent cough?",
+        "context": "To the question 'What should I do about my persistent cough?', one should reply with 'Persistent coughing may be due to respiratory infections or other conditions. Monitoring symptoms and consulting a healthcare provider if they persist is advisable.\"'.",
+        "answer": "Persistent coughing may be due to respiratory infections or other conditions. Monitoring symptoms and consulting a healthcare provider if they persist is advisable.\""
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why do I have joint pain and stiffness?",
+        "context": "The answer to the question 'Why do I have joint pain and stiffness?' is 'Joint pain and stiffness, especially in the mornings, can be due to arthritis or other conditions. Gentle exercises and maintaining a healthy weight can help. Consultation with a healthcare provider for further evaluation is recommended if symptoms persist.'.",
+        "answer": "Joint pain and stiffness, especially in the mornings, can be due to arthritis or other conditions. Gentle exercises and maintaining a healthy weight can help. Consultation with a healthcare provider for further evaluation is recommended if symptoms persist."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "How can I get rid of constant stomach pains?",
+        "context": "The answer to the question 'How can I get rid of constant stomach pains?' is 'Constant stomach pains may be caused by dietary issues, stress, or underlying health conditions. Keeping track of your symptoms and discussing them with a healthcare provider is advisable.'.",
+        "answer": "Constant stomach pains may be caused by dietary issues, stress, or underlying health conditions. Keeping track of your symptoms and discussing them with a healthcare provider is advisable."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "How do I deal with muscle cramps?",
+        "context": "The answer to the question 'How do I deal with muscle cramps?' is 'Dealing with muscle cramps might involve stretching, staying hydrated, or adjusting your physical activity level. If they persist, consulting a healthcare provider is recommended.'.",
+        "answer": "Dealing with muscle cramps might involve stretching, staying hydrated, or adjusting your physical activity level. If they persist, consulting a healthcare provider is recommended."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What can I do about my constant fatigue?",
+        "context": "To the question 'What can I do about my constant fatigue?', one should reply with 'Constant fatigue could be due to lack of sleep, stress, or health issues. Prioritizing rest, managing stress, and seeking medical advice if it continues is important.\"'.",
+        "answer": "Constant fatigue could be due to lack of sleep, stress, or health issues. Prioritizing rest, managing stress, and seeking medical advice if it continues is important.\""
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "How do I improve my mood?",
+        "context": "To the question 'How do I improve my mood?', one should reply with 'Improving your mood may involve activities like exercising, spending time outdoors, or engaging in hobbies you enjoy. Seeking support from friends and professionals can also be beneficial.'.",
+        "answer": "Improving your mood may involve activities like exercising, spending time outdoors, or engaging in hobbies you enjoy. Seeking support from friends and professionals can also be beneficial."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "How do I stop persistent headaches?",
+        "context": "'Stopping persistent headaches might involve staying hydrated, managing stress, or identifying and avoiding triggers. If headaches persist, consulting a healthcare provider for further evaluation and treatment is recommended.' is the answer to 'How do I stop persistent headaches?'.",
+        "answer": "Stopping persistent headaches might involve staying hydrated, managing stress, or identifying and avoiding triggers. If headaches persist, consulting a healthcare provider for further evaluation and treatment is recommended."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "How can I alleviate persistent back pain?",
+        "context": "If you want to know 'How can I alleviate persistent back pain?', the answer is 'Persistent back pain may result from factors like poor posture, muscle strain, or underlying spinal conditions. Incorporating gentle stretches, practicing good posture, and consulting a healthcare provider for tailored treatment options can help.'.",
+        "answer": "Persistent back pain may result from factors like poor posture, muscle strain, or underlying spinal conditions. Incorporating gentle stretches, practicing good posture, and consulting a healthcare provider for tailored treatment options can help."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What could be behind sudden vision changes?",
+        "context": "'Sudden changes in vision may indicate eye problems, migraines, or other health issues. It's essential to schedule an eye exam and consult a healthcare provider for further evaluation.' is the answer to 'What could be behind sudden vision changes?'.",
+        "answer": "Sudden changes in vision may indicate eye problems, migraines, or other health issues. It's essential to schedule an eye exam and consult a healthcare provider for further evaluation."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "How do I manage chronic allergy symptoms?",
+        "context": "When asked 'How do I manage chronic allergy symptoms?', the response is 'Managing chronic allergy symptoms involves identifying triggers, such as pollen or dust, and taking preventive measures like using air purifiers or allergy medications. Consulting an allergist for personalized treatment options is recommended.'.",
+        "answer": "Managing chronic allergy symptoms involves identifying triggers, such as pollen or dust, and taking preventive measures like using air purifiers or allergy medications. Consulting an allergist for personalized treatment options is recommended."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why am I experiencing cough with chest tightness?",
+        "context": "If you want to know 'Why am I experiencing cough with chest tightness?', the answer is 'Persistent cough with chest tightness may be signs of respiratory conditions like asthma, allergies, or bronchitis. It's crucial to seek medical attention for proper diagnosis and management.'.",
+        "answer": "Persistent cough with chest tightness may be signs of respiratory conditions like asthma, allergies, or bronchitis. It's crucial to seek medical attention for proper diagnosis and management."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What's causing sudden weight loss?",
+        "context": "To the question 'What's causing sudden weight loss?', one should reply with 'Sudden weight loss can be a sign of underlying health issues such as thyroid problems, diabetes, or gastrointestinal disorders. It's important to consult a healthcare provider for proper evaluation and diagnosis.'.",
+        "answer": "Sudden weight loss can be a sign of underlying health issues such as thyroid problems, diabetes, or gastrointestinal disorders. It's important to consult a healthcare provider for proper evaluation and diagnosis."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "How can I manage these sudden mood swings and irritability?",
+        "context": "'Managing sudden mood swings and irritability involves identifying triggers, practicing relaxation techniques, and seeking support from loved ones or a mental health professional. Consulting a healthcare provider for further evaluation and guidance is advisable.' is the answer to 'How can I manage these sudden mood swings and irritability?'.",
+        "answer": "Managing sudden mood swings and irritability involves identifying triggers, practicing relaxation techniques, and seeking support from loved ones or a mental health professional. Consulting a healthcare provider for further evaluation and guidance is advisable."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why do I feel nauseous after exercising?",
+        "context": "To the question 'Why do I feel nauseous after exercising?', one should reply with 'Feeling nauseous after exercise could be due to various factors like dehydration, low blood sugar, or pushing too hard during workouts. It's important to stay hydrated and eat a balanced meal before exercising. If nausea persists, it's advisable to consult a healthcare provider.'.",
+        "answer": "Feeling nauseous after exercise could be due to various factors like dehydration, low blood sugar, or pushing too hard during workouts. It's important to stay hydrated and eat a balanced meal before exercising. If nausea persists, it's advisable to consult a healthcare provider."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What's causing persistent muscle cramps during workouts?",
+        "context": "When asked 'What's causing persistent muscle cramps during workouts?', the response is 'Persistent muscle cramps during workouts may result from dehydration, electrolyte imbalances, or overexertion. Ensuring proper hydration, electrolyte balance, and warming up before exercise can help prevent cramps. If they continue, consulting a healthcare provider or fitness professional is recommended.'.",
+        "answer": "Persistent muscle cramps during workouts may result from dehydration, electrolyte imbalances, or overexertion. Ensuring proper hydration, electrolyte balance, and warming up before exercise can help prevent cramps. If they continue, consulting a healthcare provider or fitness professional is recommended."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why do I experience shortness of breath during cardio workouts?",
+        "context": "When asked 'Why do I experience shortness of breath during cardio workouts?', the response is 'Shortness of breath during cardio workouts could be due to factors like poor cardiovascular fitness, asthma, or underlying respiratory conditions. Gradually increasing intensity, practicing proper breathing techniques, and consulting a healthcare provider for evaluation is important.'.",
+        "answer": "Shortness of breath during cardio workouts could be due to factors like poor cardiovascular fitness, asthma, or underlying respiratory conditions. Gradually increasing intensity, practicing proper breathing techniques, and consulting a healthcare provider for evaluation is important."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "How can I prevent lower back pain during weightlifting?",
+        "context": "'Preventing lower back pain during weightlifting involves maintaining proper form, strengthening the core muscles, and avoiding lifting weights that are too heavy. If lower back pain persists, consulting a fitness professional or physical therapist for evaluation and personalized recommendations is advisable.' is the answer to 'How can I prevent lower back pain during weightlifting?'.",
+        "answer": "Preventing lower back pain during weightlifting involves maintaining proper form, strengthening the core muscles, and avoiding lifting weights that are too heavy. If lower back pain persists, consulting a fitness professional or physical therapist for evaluation and personalized recommendations is advisable."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why do I feel dizzy and lightheaded after high-intensity interval training (HIIT)?",
+        "context": "If you want to know 'Why do I feel dizzy and lightheaded after high-intensity interval training (HIIT)?', the answer is 'Feeling dizzy and lightheaded after HIIT workouts may be due to factors like dehydration, low blood sugar, or pushing too hard during intervals. Ensuring proper hydration, fueling your body with a balanced meal before workouts, and listening to your body's signals are important. If symptoms persist, consulting a healthcare provider is recommended.'.",
+        "answer": "Feeling dizzy and lightheaded after HIIT workouts may be due to factors like dehydration, low blood sugar, or pushing too hard during intervals. Ensuring proper hydration, fueling your body with a balanced meal before workouts, and listening to your body's signals are important. If symptoms persist, consulting a healthcare provider is recommended."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What's causing frequent shoulder injuries during weightlifting?",
+        "context": "To the question 'What's causing frequent shoulder injuries during weightlifting?', one should reply with 'Frequent shoulder injuries during weightlifting may result from factors like overuse, improper form, or underlying shoulder instability. Ensuring proper warm-up, using appropriate weights, and incorporating shoulder-strengthening exercises into your routine can help prevent injuries. If shoulder pain persists, consulting a fitness professional or physical therapist for evaluation and guidance is advisable.'.",
+        "answer": "Frequent shoulder injuries during weightlifting may result from factors like overuse, improper form, or underlying shoulder instability. Ensuring proper warm-up, using appropriate weights, and incorporating shoulder-strengthening exercises into your routine can help prevent injuries. If shoulder pain persists, consulting a fitness professional or physical therapist for evaluation and guidance is advisable."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What's causing persistent fatigue and lack of energy during my workouts?",
+        "context": "If you want to know 'What's causing persistent fatigue and lack of energy during my workouts?', the answer is 'Persistent fatigue and lack of energy during workouts could be due to factors like inadequate nutrition, poor sleep quality, or overtraining. Ensuring proper rest, nutrition, and recovery between workouts is important. If fatigue persists, consulting a healthcare provider for evaluation and personalized recommendations is advisable.'.",
+        "answer": "Persistent fatigue and lack of energy during workouts could be due to factors like inadequate nutrition, poor sleep quality, or overtraining. Ensuring proper rest, nutrition, and recovery between workouts is important. If fatigue persists, consulting a healthcare provider for evaluation and personalized recommendations is advisable."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "How can I reduce the risk of developing exercise-induced asthma?",
+        "context": "When asked 'How can I reduce the risk of developing exercise-induced asthma?', the response is 'Reducing the risk of exercise-induced asthma involves warming up before exercise, avoiding triggers like cold air or allergens, and using prescribed inhalers as directed by a healthcare provider. If symptoms persist or worsen, consulting a healthcare provider for evaluation and management is important.'.",
+        "answer": "Reducing the risk of exercise-induced asthma involves warming up before exercise, avoiding triggers like cold air or allergens, and using prescribed inhalers as directed by a healthcare provider. If symptoms persist or worsen, consulting a healthcare provider for evaluation and management is important."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Is it safe to exercise if I have high blood pressure?",
+        "context": "To the question 'Is it safe to exercise if I have high blood pressure?', one should reply with 'Exercising with high blood pressure can be safe and beneficial, but it's important to consult your healthcare provider for personalized recommendations. They can advise on suitable exercises and precautions to take.'.",
+        "answer": "Exercising with high blood pressure can be safe and beneficial, but it's important to consult your healthcare provider for personalized recommendations. They can advise on suitable exercises and precautions to take."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Can I still do weightlifting if I have arthritis?",
+        "context": "To the question 'Can I still do weightlifting if I have arthritis?', one should reply with 'Weightlifting can be possible with arthritis, but it's crucial to adapt your routine to avoid exacerbating joint pain. Consulting a fitness professional or physical therapist for tailored exercises and modifications is advisable.'.",
+        "answer": "Weightlifting can be possible with arthritis, but it's crucial to adapt your routine to avoid exacerbating joint pain. Consulting a fitness professional or physical therapist for tailored exercises and modifications is advisable."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Is it okay to do cardio workouts if I have asthma?",
+        "context": "If you want to know 'Is it okay to do cardio workouts if I have asthma?', the answer is 'Cardio workouts can be safe with asthma, but it's essential to choose low-impact activities and monitor your breathing. Consulting your healthcare provider for personalized advice and ensuring you have your inhaler on hand is recommended.'.",
+        "answer": "Cardio workouts can be safe with asthma, but it's essential to choose low-impact activities and monitor your breathing. Consulting your healthcare provider for personalized advice and ensuring you have your inhaler on hand is recommended."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Can I participate in high-intensity interval training (HIIT) with diabetes?",
+        "context": "When asked 'Can I participate in high-intensity interval training (HIIT) with diabetes?', the response is 'Participating in HIIT with diabetes can be possible, but it's important to monitor your blood sugar levels closely and adjust your workout intensity accordingly. Consulting a healthcare provider or diabetes educator for guidance is advisable.'.",
+        "answer": "Participating in HIIT with diabetes can be possible, but it's important to monitor your blood sugar levels closely and adjust your workout intensity accordingly. Consulting a healthcare provider or diabetes educator for guidance is advisable."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Can I still do yoga if I have back pain?",
+        "context": "'Yes, yoga can be beneficial for back pain, but choose gentle poses and avoid ones that strain your back. Consider consulting a yoga instructor for modifications.' is the answer to 'Can I still do yoga if I have back pain?'.",
+        "answer": "Yes, yoga can be beneficial for back pain, but choose gentle poses and avoid ones that strain your back. Consider consulting a yoga instructor for modifications."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Should I avoid weightlifting if I have a herniated disc?",
+        "context": "When asked 'Should I avoid weightlifting if I have a herniated disc?', the response is 'Weightlifting with a herniated disc can be risky, but it may be possible with modifications and proper technique. Consulting a physical therapist or spine specialist for personalized guidance is advisable to prevent further injury.'.",
+        "answer": "Weightlifting with a herniated disc can be risky, but it may be possible with modifications and proper technique. Consulting a physical therapist or spine specialist for personalized guidance is advisable to prevent further injury."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Is it safe for me to do strength training if I have heart disease?",
+        "context": "'Strength training can be safe with heart disease, but it's crucial to start slowly, monitor your heart rate, and avoid holding your breath during exercises. Consulting your healthcare provider for personalized recommendations and monitoring is important.' is the answer to 'Is it safe for me to do strength training if I have heart disease?'.",
+        "answer": "Strength training can be safe with heart disease, but it's crucial to start slowly, monitor your heart rate, and avoid holding your breath during exercises. Consulting your healthcare provider for personalized recommendations and monitoring is important."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Can I still do Pilates if I have scoliosis?",
+        "context": "'Pilates can be beneficial with scoliosis, but it's essential to work with an experienced instructor who can modify exercises to accommodate your condition. Consulting a healthcare provider or physical therapist for personalized guidance is advisable.' is the answer to 'Can I still do Pilates if I have scoliosis?'.",
+        "answer": "Pilates can be beneficial with scoliosis, but it's essential to work with an experienced instructor who can modify exercises to accommodate your condition. Consulting a healthcare provider or physical therapist for personalized guidance is advisable."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Should I avoid running if I have knee pain?",
+        "context": "To the question 'Should I avoid running if I have knee pain?', one should reply with 'If you have knee pain, running may exacerbate it. Consider low-impact exercises like swimming or cycling and consult a healthcare provider for guidance.'.",
+        "answer": "If you have knee pain, running may exacerbate it. Consider low-impact exercises like swimming or cycling and consult a healthcare provider for guidance."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why am I experiencing chest pain?",
+        "context": "When asked 'Why am I experiencing chest pain?', the response is 'Chest pain can be caused by various factors, including heartburn, muscle strain, or more serious conditions like heart problems. If you're experiencing chest pain, especially with other symptoms like shortness of breath, seek medical attention immediately.'.",
+        "answer": "Chest pain can be caused by various factors, including heartburn, muscle strain, or more serious conditions like heart problems. If you're experiencing chest pain, especially with other symptoms like shortness of breath, seek medical attention immediately."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why am I experiencing frequent heartburn?",
+        "context": "To the question 'Why am I experiencing frequent heartburn?', one should reply with 'Frequent heartburn could be due to factors like diet, stress, or underlying gastrointestinal conditions like acid reflux. Consider avoiding trigger foods, eating smaller meals, and consulting a healthcare provider for proper evaluation and treatment.'.",
+        "answer": "Frequent heartburn could be due to factors like diet, stress, or underlying gastrointestinal conditions like acid reflux. Consider avoiding trigger foods, eating smaller meals, and consulting a healthcare provider for proper evaluation and treatment."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why do I feel lightheaded when I stand up?",
+        "context": "When asked 'Why do I feel lightheaded when I stand up?', the response is 'Feeling lightheaded when standing up could be due to factors like dehydration, low blood pressure, or orthostatic hypotension. Consider staying hydrated, standing up slowly, and consulting a healthcare provider for proper evaluation and management if symptoms persist.'.",
+        "answer": "Feeling lightheaded when standing up could be due to factors like dehydration, low blood pressure, or orthostatic hypotension. Consider staying hydrated, standing up slowly, and consulting a healthcare provider for proper evaluation and management if symptoms persist."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Can I still exercise if I have diabetes?",
+        "context": "To the question 'Can I still exercise if I have diabetes?', one should reply with 'Yes, exercising with diabetes can help manage blood sugar levels, but it's important to monitor your levels closely and choose appropriate activities. Consult your healthcare provider for personalized recommendations.'.",
+        "answer": "Yes, exercising with diabetes can help manage blood sugar levels, but it's important to monitor your levels closely and choose appropriate activities. Consult your healthcare provider for personalized recommendations."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Is it okay to do cardio workouts if I have high cholesterol?",
+        "context": "To the question 'Is it okay to do cardio workouts if I have high cholesterol?', one should reply with 'Yes, cardio workouts can help improve cholesterol levels, but it's important to start slowly and gradually increase intensity. Consult your healthcare provider for personalized advice and monitoring.'.",
+        "answer": "Yes, cardio workouts can help improve cholesterol levels, but it's important to start slowly and gradually increase intensity. Consult your healthcare provider for personalized advice and monitoring."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Can I still do strength training if I have a heart condition?",
+        "context": "When asked 'Can I still do strength training if I have a heart condition?', the response is 'Yes, strength training can be safe with a heart condition, but it's important to start slowly, use light weights, and avoid holding your breath during exercises. Consult your healthcare provider for personalized recommendations and monitoring.'.",
+        "answer": "Yes, strength training can be safe with a heart condition, but it's important to start slowly, use light weights, and avoid holding your breath during exercises. Consult your healthcare provider for personalized recommendations and monitoring."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Should I avoid exercising if I have a cold?",
+        "context": "If you want to know 'Should I avoid exercising if I have a cold?', the answer is 'Exercising with a cold can be possible, but it's important to listen to your body and avoid pushing yourself too hard. Consider choosing lower-intensity activities like walking or gentle yoga until you feel better. If symptoms worsen or persist, consult your healthcare provider.'.",
+        "answer": "Exercising with a cold can be possible, but it's important to listen to your body and avoid pushing yourself too hard. Consider choosing lower-intensity activities like walking or gentle yoga until you feel better. If symptoms worsen or persist, consult your healthcare provider."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why am I experiencing muscle soreness after lifting weights?",
+        "context": "The answer to the question 'Why am I experiencing muscle soreness after lifting weights?' is 'Muscle soreness after lifting weights, also known as delayed onset muscle soreness (DOMS), occurs when muscles are worked harder than usual. It's a normal response to exercise and typically resolves within a few days. Ensure you're warming up properly and gradually increasing weights to minimize soreness.'.",
+        "answer": "Muscle soreness after lifting weights, also known as delayed onset muscle soreness (DOMS), occurs when muscles are worked harder than usual. It's a normal response to exercise and typically resolves within a few days. Ensure you're warming up properly and gradually increasing weights to minimize soreness."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What are the symptoms of dehydration?",
+        "context": "When asked 'What are the symptoms of dehydration?', the response is 'Symptoms of dehydration include increased thirst, dry mouth, dark-colored urine, fatigue, dizziness, and decreased urine output. Severe dehydration can lead to confusion, rapid heartbeat, and fainting.'.",
+        "answer": "Symptoms of dehydration include increased thirst, dry mouth, dark-colored urine, fatigue, dizziness, and decreased urine output. Severe dehydration can lead to confusion, rapid heartbeat, and fainting."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What foods should I avoid if I have acid reflux?",
+        "context": "If you want to know 'What foods should I avoid if I have acid reflux?', the answer is 'If you have acid reflux, it's best to avoid acidic and spicy foods, citrus fruits, caffeinated beverages, chocolate, and fatty or fried foods. Opt for smaller, more frequent meals and avoid eating close to bedtime.'.",
+        "answer": "If you have acid reflux, it's best to avoid acidic and spicy foods, citrus fruits, caffeinated beverages, chocolate, and fatty or fried foods. Opt for smaller, more frequent meals and avoid eating close to bedtime."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What are the symptoms of a migraine headache?",
+        "context": "To the question 'What are the symptoms of a migraine headache?', one should reply with 'Symptoms of a migraine headache can include severe throbbing pain, usually on one side of the head, nausea, vomiting, sensitivity to light and sound, and visual disturbances such as aura.'.",
+        "answer": "Symptoms of a migraine headache can include severe throbbing pain, usually on one side of the head, nausea, vomiting, sensitivity to light and sound, and visual disturbances such as aura."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What are the signs of a sprained ankle?",
+        "context": "To the question 'What are the signs of a sprained ankle?', one should reply with 'Signs of a sprained ankle include pain, swelling, bruising, difficulty bearing weight on the affected foot, and instability. In severe cases, there may be a popping sensation at the time of injury.'.",
+        "answer": "Signs of a sprained ankle include pain, swelling, bruising, difficulty bearing weight on the affected foot, and instability. In severe cases, there may be a popping sensation at the time of injury."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What are the symptoms of an allergic reaction?",
+        "context": "The answer to the question 'What are the symptoms of an allergic reaction?' is 'Symptoms of an allergic reaction can vary but may include hives, itching, swelling, rash, difficulty breathing, wheezing, throat tightness, or anaphylaxis in severe cases. Seek medical help immediately for severe allergic reactions.'.",
+        "answer": "Symptoms of an allergic reaction can vary but may include hives, itching, swelling, rash, difficulty breathing, wheezing, throat tightness, or anaphylaxis in severe cases. Seek medical help immediately for severe allergic reactions."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What are the symptoms of a urinary tract infection (UTI)?",
+        "context": "The answer to the question 'What are the symptoms of a urinary tract infection (UTI)?' is 'Symptoms of a UTI can include a strong, persistent urge to urinate, burning sensation during urination, passing frequent, small amounts of urine, cloudy or bloody urine, and pelvic pain in women.'.",
+        "answer": "Symptoms of a UTI can include a strong, persistent urge to urinate, burning sensation during urination, passing frequent, small amounts of urine, cloudy or bloody urine, and pelvic pain in women."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What are the symptoms of high blood pressure?",
+        "context": "When asked 'What are the symptoms of high blood pressure?', the response is 'Symptoms of high blood pressure may include headaches, shortness of breath, dizziness, chest pain, visual changes, and nosebleeds. However, high blood pressure often has no symptoms and is known as the 'silent killer.' Regular blood pressure monitoring is crucial.'.",
+        "answer": "Symptoms of high blood pressure may include headaches, shortness of breath, dizziness, chest pain, visual changes, and nosebleeds. However, high blood pressure often has no symptoms and is known as the 'silent killer.' Regular blood pressure monitoring is crucial."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What are the signs of a sinus infection?",
+        "context": "The answer to the question 'What are the signs of a sinus infection?' is 'Signs of a sinus infection can include facial pain or pressure, nasal congestion, thick nasal discharge, postnasal drip, coughing, and reduced sense of smell or taste.'.",
+        "answer": "Signs of a sinus infection can include facial pain or pressure, nasal congestion, thick nasal discharge, postnasal drip, coughing, and reduced sense of smell or taste."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What could be causing my persistent cough at night?",
+        "context": "To the question 'What could be causing my persistent cough at night?', one should reply with 'A persistent cough at night could be caused by factors like postnasal drip, asthma, gastroesophageal reflux disease (GERD), or allergies. It's advisable to consult a healthcare provider for proper evaluation and treatment.'.",
+        "answer": "A persistent cough at night could be caused by factors like postnasal drip, asthma, gastroesophageal reflux disease (GERD), or allergies. It's advisable to consult a healthcare provider for proper evaluation and treatment."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What are the symptoms of a stomach ulcer?",
+        "context": "If you want to know 'What are the symptoms of a stomach ulcer?', the answer is 'Symptoms of a stomach ulcer may include burning stomach pain, bloating, nausea, vomiting, indigestion, and loss of appetite. In severe cases, there may be bloody or black stool.'.",
+        "answer": "Symptoms of a stomach ulcer may include burning stomach pain, bloating, nausea, vomiting, indigestion, and loss of appetite. In severe cases, there may be bloody or black stool."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What are the symptoms of an allergic reaction to food?",
+        "context": "'Symptoms of an allergic reaction to food can include hives, itching or tingling in the mouth, swelling of the lips, tongue, or throat, difficulty breathing, nausea, vomiting, or diarrhea.' is the answer to 'What are the symptoms of an allergic reaction to food?'.",
+        "answer": "Symptoms of an allergic reaction to food can include hives, itching or tingling in the mouth, swelling of the lips, tongue, or throat, difficulty breathing, nausea, vomiting, or diarrhea."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What could be causing joint swelling?",
+        "context": "When asked 'What could be causing joint swelling?', the response is 'Joint swelling could be caused by factors like arthritis, injury, infection, or autoimmune conditions. It's important to consult a healthcare provider for proper evaluation and treatment.'.",
+        "answer": "Joint swelling could be caused by factors like arthritis, injury, infection, or autoimmune conditions. It's important to consult a healthcare provider for proper evaluation and treatment."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What are the signs of heat exhaustion?",
+        "context": "'Signs of heat exhaustion can include heavy sweating, weakness, dizziness, headache, nausea, vomiting, fast heartbeat, and cool, moist skin. If not treated promptly, heat exhaustion can progress to heatstroke, which is a medical emergency.' is the answer to 'What are the signs of heat exhaustion?'.",
+        "answer": "Signs of heat exhaustion can include heavy sweating, weakness, dizziness, headache, nausea, vomiting, fast heartbeat, and cool, moist skin. If not treated promptly, heat exhaustion can progress to heatstroke, which is a medical emergency."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What could be causing frequent nosebleeds?",
+        "context": "If you want to know 'What could be causing frequent nosebleeds?', the answer is 'Frequent nosebleeds could be caused by factors like dry air, nasal allergies, sinusitis, nasal polyps, or trauma to the nose. It's advisable to consult a healthcare provider if nosebleeds occur frequently or are difficult to control.'.",
+        "answer": "Frequent nosebleeds could be caused by factors like dry air, nasal allergies, sinusitis, nasal polyps, or trauma to the nose. It's advisable to consult a healthcare provider if nosebleeds occur frequently or are difficult to control."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What are the symptoms of seasonal allergies?",
+        "context": "To the question 'What are the symptoms of seasonal allergies?', one should reply with 'Symptoms of seasonal allergies, also known as hay fever, include sneezing, runny or stuffy nose, itchy or watery eyes, and sometimes coughing and wheezing. These symptoms are triggered by exposure to allergens like pollen.'.",
+        "answer": "Symptoms of seasonal allergies, also known as hay fever, include sneezing, runny or stuffy nose, itchy or watery eyes, and sometimes coughing and wheezing. These symptoms are triggered by exposure to allergens like pollen."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What are the symptoms of the common cold?",
+        "context": "When asked 'What are the symptoms of the common cold?', the response is 'Symptoms of the common cold typically include a runny or stuffy nose, sore throat, coughing, sneezing, mild headache, and sometimes a low-grade fever. These symptoms usually resolve within a week.'.",
+        "answer": "Symptoms of the common cold typically include a runny or stuffy nose, sore throat, coughing, sneezing, mild headache, and sometimes a low-grade fever. These symptoms usually resolve within a week."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What could be causing sudden hair loss?",
+        "context": "To the question 'What could be causing sudden hair loss?', one should reply with 'Sudden hair loss can be caused by factors such as stress, hormonal changes, nutritional deficiencies, certain medications, autoimmune conditions like alopecia areata, or underlying medical conditions. Consultation with a healthcare provider or dermatologist is advisable for proper evaluation.'.",
+        "answer": "Sudden hair loss can be caused by factors such as stress, hormonal changes, nutritional deficiencies, certain medications, autoimmune conditions like alopecia areata, or underlying medical conditions. Consultation with a healthcare provider or dermatologist is advisable for proper evaluation."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What are the symptoms of acne?",
+        "context": "To the question 'What are the symptoms of acne?', one should reply with 'Symptoms of acne include the presence of pimples, blackheads, whiteheads, and cysts on the skin, especially on the face, neck, chest, and back. Acne can also cause redness, inflammation, and scarring.'.",
+        "answer": "Symptoms of acne include the presence of pimples, blackheads, whiteheads, and cysts on the skin, especially on the face, neck, chest, and back. Acne can also cause redness, inflammation, and scarring."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What are the symptoms of eczema?",
+        "context": "'Symptoms of eczema, also known as atopic dermatitis, include dry, itchy, inflamed skin, red or brownish patches, and rough, scaly patches that may blister or ooze. Eczema can appear on different parts of the body, depending on age and environmental factors.' is the answer to 'What are the symptoms of eczema?'.",
+        "answer": "Symptoms of eczema, also known as atopic dermatitis, include dry, itchy, inflamed skin, red or brownish patches, and rough, scaly patches that may blister or ooze. Eczema can appear on different parts of the body, depending on age and environmental factors."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What could be causing sudden changes in skin pigmentation?",
+        "context": "The answer to the question 'What could be causing sudden changes in skin pigmentation?' is 'Sudden changes in skin pigmentation, such as darkening or lightening of patches of skin, can be caused by factors such as hormonal changes, sun exposure, skin trauma, certain medications, or underlying medical conditions like vitiligo or melasma. Consultation with a dermatologist is recommended for proper evaluation and management.'.",
+        "answer": "Sudden changes in skin pigmentation, such as darkening or lightening of patches of skin, can be caused by factors such as hormonal changes, sun exposure, skin trauma, certain medications, or underlying medical conditions like vitiligo or melasma. Consultation with a dermatologist is recommended for proper evaluation and management."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What are the symptoms of a concussion?",
+        "context": "If you want to know 'What are the symptoms of a concussion?', the answer is 'Symptoms of a concussion may include headache, dizziness, nausea, confusion, memory problems, sensitivity to light or noise, and changes in mood or behavior.'.",
+        "answer": "Symptoms of a concussion may include headache, dizziness, nausea, confusion, memory problems, sensitivity to light or noise, and changes in mood or behavior."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What are the symptoms of anemia?",
+        "context": "'Symptoms of anemia can include fatigue, weakness, pale skin, shortness of breath, dizziness, headache, cold hands and feet, and irregular heartbeat.' is the answer to 'What are the symptoms of anemia?'.",
+        "answer": "Symptoms of anemia can include fatigue, weakness, pale skin, shortness of breath, dizziness, headache, cold hands and feet, and irregular heartbeat."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What could be causing my sudden muscle cramps?",
+        "context": "To the question 'What could be causing my sudden muscle cramps?', one should reply with 'Sudden muscle cramps can be caused by factors such as dehydration, electrolyte imbalances, muscle fatigue, overuse, or underlying medical conditions like peripheral artery disease.'.",
+        "answer": "Sudden muscle cramps can be caused by factors such as dehydration, electrolyte imbalances, muscle fatigue, overuse, or underlying medical conditions like peripheral artery disease."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What are the symptoms of a thyroid disorder?",
+        "context": "The answer to the question 'What are the symptoms of a thyroid disorder?' is 'Symptoms of a thyroid disorder can include fatigue, weight changes, sensitivity to cold or heat, dry skin, hair loss, muscle weakness, and changes in heart rate.'.",
+        "answer": "Symptoms of a thyroid disorder can include fatigue, weight changes, sensitivity to cold or heat, dry skin, hair loss, muscle weakness, and changes in heart rate."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What could be causing my sudden loss of appetite?",
+        "context": "When asked 'What could be causing my sudden loss of appetite?', the response is 'Sudden loss of appetite can be caused by factors such as stress, illness, medication side effects, depression, or underlying medical conditions like digestive disorders or thyroid problems.'.",
+        "answer": "Sudden loss of appetite can be caused by factors such as stress, illness, medication side effects, depression, or underlying medical conditions like digestive disorders or thyroid problems."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What could be causing my sudden difficulty sleeping?",
+        "context": "If you want to know 'What could be causing my sudden difficulty sleeping?', the answer is 'Sudden difficulty sleeping can be caused by factors such as stress, anxiety, caffeine or alcohol consumption, irregular sleep schedule, or underlying sleep disorders like insomnia or sleep apnea.'.",
+        "answer": "Sudden difficulty sleeping can be caused by factors such as stress, anxiety, caffeine or alcohol consumption, irregular sleep schedule, or underlying sleep disorders like insomnia or sleep apnea."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What could be causing sudden skin rash?",
+        "context": "To the question 'What could be causing sudden skin rash?', one should reply with 'A sudden skin rash can be caused by factors such as allergic reactions, insect bites, contact dermatitis, infections (bacterial, viral, or fungal), or underlying medical conditions like eczema or psoriasis.'.",
+        "answer": "A sudden skin rash can be caused by factors such as allergic reactions, insect bites, contact dermatitis, infections (bacterial, viral, or fungal), or underlying medical conditions like eczema or psoriasis."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What are the symptoms of a panic attack?",
+        "context": "To the question 'What are the symptoms of a panic attack?', one should reply with 'Symptoms of a panic attack can include sudden onset of intense fear or discomfort, rapid heartbeat, sweating, trembling or shaking, shortness of breath, chest pain, nausea, dizziness, or feeling lightheaded.'.",
+        "answer": "Symptoms of a panic attack can include sudden onset of intense fear or discomfort, rapid heartbeat, sweating, trembling or shaking, shortness of breath, chest pain, nausea, dizziness, or feeling lightheaded."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What could be causing muscle weakness?",
+        "context": "When asked 'What could be causing muscle weakness?', the response is 'Muscle weakness can be caused by factors such as dehydration, electrolyte imbalances, fatigue, overexertion, nerve damage, or underlying medical conditions like multiple sclerosis or muscular dystrophy.'.",
+        "answer": "Muscle weakness can be caused by factors such as dehydration, electrolyte imbalances, fatigue, overexertion, nerve damage, or underlying medical conditions like multiple sclerosis or muscular dystrophy."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What are the symptoms of diabetes?",
+        "context": "To the question 'What are the symptoms of diabetes?', one should reply with 'Symptoms of diabetes include increased thirst, frequent urination, unexplained weight loss, fatigue, blurred vision, and slow-healing sores or frequent infections.'.",
+        "answer": "Symptoms of diabetes include increased thirst, frequent urination, unexplained weight loss, fatigue, blurred vision, and slow-healing sores or frequent infections."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What are the symptoms of COVID-19?",
+        "context": "To the question 'What are the symptoms of COVID-19?', one should reply with 'Symptoms of COVID-19 include fever or chills, cough, shortness of breath or difficulty breathing, fatigue, muscle or body aches, headache, new loss of taste or smell, sore throat, congestion, or runny nose.'.",
+        "answer": "Symptoms of COVID-19 include fever or chills, cough, shortness of breath or difficulty breathing, fatigue, muscle or body aches, headache, new loss of taste or smell, sore throat, congestion, or runny nose."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why do my joints hurt after exercising?",
+        "context": "To the question 'Why do my joints hurt after exercising?', one should reply with 'Joint pain after exercising could be due to factors like overuse, improper form, or underlying conditions like arthritis or tendinitis. It's important to listen to your body and avoid activities that exacerbate the pain.'.",
+        "answer": "Joint pain after exercising could be due to factors like overuse, improper form, or underlying conditions like arthritis or tendinitis. It's important to listen to your body and avoid activities that exacerbate the pain."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why do I get headaches when I'm dehydrated?",
+        "context": "If you want to know 'Why do I get headaches when I'm dehydrated?', the answer is 'Dehydration can lead to headaches because it reduces the volume of blood and oxygen flow to the brain. Proper hydration is essential for maintaining overall health and preventing headaches.'.",
+        "answer": "Dehydration can lead to headaches because it reduces the volume of blood and oxygen flow to the brain. Proper hydration is essential for maintaining overall health and preventing headaches."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What are the symptoms of anxiety?",
+        "context": "'Symptoms of anxiety include excessive worry, restlessness, irritability, muscle tension, difficulty concentrating, fatigue, rapid heartbeat, sweating, trembling, and gastrointestinal issues.' is the answer to 'What are the symptoms of anxiety?'.",
+        "answer": "Symptoms of anxiety include excessive worry, restlessness, irritability, muscle tension, difficulty concentrating, fatigue, rapid heartbeat, sweating, trembling, and gastrointestinal issues."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why do I feel tired after eating a big meal?",
+        "context": "'Feeling tired after eating a big meal, also known as postprandial fatigue, can be due to factors like digestion, blood sugar fluctuations, and diverting blood flow to the digestive system. Eating smaller, balanced meals may help.' is the answer to 'Why do I feel tired after eating a big meal?'.",
+        "answer": "Feeling tired after eating a big meal, also known as postprandial fatigue, can be due to factors like digestion, blood sugar fluctuations, and diverting blood flow to the digestive system. Eating smaller, balanced meals may help."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What are the symptoms of a pulled muscle?",
+        "context": "When asked 'What are the symptoms of a pulled muscle?', the response is 'Symptoms of a pulled muscle, also known as a muscle strain, include sudden onset of pain, swelling, bruising, and difficulty moving the affected muscle or joint. Rest, ice, compression, and elevation (RICE) can help alleviate symptoms.'.",
+        "answer": "Symptoms of a pulled muscle, also known as a muscle strain, include sudden onset of pain, swelling, bruising, and difficulty moving the affected muscle or joint. Rest, ice, compression, and elevation (RICE) can help alleviate symptoms."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why do I get a headache after drinking alcohol?",
+        "context": "To the question 'Why do I get a headache after drinking alcohol?', one should reply with 'Headaches after drinking alcohol can be due to factors like dehydration, vasodilation (widening of blood vessels), or the release of certain chemicals during alcohol metabolism. Drinking water and pacing alcohol consumption may help prevent headaches.'.",
+        "answer": "Headaches after drinking alcohol can be due to factors like dehydration, vasodilation (widening of blood vessels), or the release of certain chemicals during alcohol metabolism. Drinking water and pacing alcohol consumption may help prevent headaches."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why do I feel breathless when climbing stairs?",
+        "context": "When asked 'Why do I feel breathless when climbing stairs?', the response is 'Feeling breathless when climbing stairs can be due to factors like poor cardiovascular fitness, asthma, or underlying heart or lung conditions. It's essential to gradually increase physical activity and consult a healthcare provider if symptoms persist.'.",
+        "answer": "Feeling breathless when climbing stairs can be due to factors like poor cardiovascular fitness, asthma, or underlying heart or lung conditions. It's essential to gradually increase physical activity and consult a healthcare provider if symptoms persist."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why do I feel nauseous during high-intensity workouts?",
+        "context": "To the question 'Why do I feel nauseous during high-intensity workouts?', one should reply with 'Feeling nauseous during high-intensity workouts can be due to factors like dehydration, low blood sugar, or gastrointestinal distress. It's important to hydrate properly and eat a balanced meal or snack before exercising.'.",
+        "answer": "Feeling nauseous during high-intensity workouts can be due to factors like dehydration, low blood sugar, or gastrointestinal distress. It's important to hydrate properly and eat a balanced meal or snack before exercising."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What are the symptoms of runner's knee?",
+        "context": "If you want to know 'What are the symptoms of runner's knee?', the answer is 'Symptoms of runner's knee include pain around or behind the kneecap, especially when bending the knee or climbing stairs, swelling, and popping or grinding sensations. It's essential to rest and perform exercises to strengthen the muscles around the knee.'.",
+        "answer": "Symptoms of runner's knee include pain around or behind the kneecap, especially when bending the knee or climbing stairs, swelling, and popping or grinding sensations. It's essential to rest and perform exercises to strengthen the muscles around the knee."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why do I feel fatigued after starting a new exercise routine?",
+        "context": "When asked 'Why do I feel fatigued after starting a new exercise routine?', the response is 'Feeling fatigued after starting a new exercise routine can be due to factors like muscle soreness, insufficient recovery time, or pushing too hard too soon. It's important to start gradually and allow time for rest and recovery between workouts.'.",
+        "answer": "Feeling fatigued after starting a new exercise routine can be due to factors like muscle soreness, insufficient recovery time, or pushing too hard too soon. It's important to start gradually and allow time for rest and recovery between workouts."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What are the symptoms of overtraining syndrome?",
+        "context": "The answer to the question 'What are the symptoms of overtraining syndrome?' is 'Symptoms of overtraining syndrome include persistent fatigue, decreased performance, increased susceptibility to illness, mood disturbances, insomnia, and elevated resting heart rate. It's essential to listen to your body and adjust your training accordingly.'.",
+        "answer": "Symptoms of overtraining syndrome include persistent fatigue, decreased performance, increased susceptibility to illness, mood disturbances, insomnia, and elevated resting heart rate. It's essential to listen to your body and adjust your training accordingly."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why do I experience chest pain during intense cardio workouts?",
+        "context": "If you want to know 'Why do I experience chest pain during intense cardio workouts?', the answer is 'Experiencing chest pain during intense cardio workouts can be due to factors like exercise-induced asthma, muscle strain, or rarely, underlying heart conditions. It's crucial to stop exercising and seek medical attention if chest pain persists or worsens.'.",
+        "answer": "Experiencing chest pain during intense cardio workouts can be due to factors like exercise-induced asthma, muscle strain, or rarely, underlying heart conditions. It's crucial to stop exercising and seek medical attention if chest pain persists or worsens."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What are the symptoms of food poisoning?",
+        "context": "When asked 'What are the symptoms of food poisoning?', the response is 'Symptoms of food poisoning include nausea, vomiting, diarrhea, abdominal pain or cramps, fever, and headache. These symptoms can occur shortly after consuming contaminated food or beverages.'.",
+        "answer": "Symptoms of food poisoning include nausea, vomiting, diarrhea, abdominal pain or cramps, fever, and headache. These symptoms can occur shortly after consuming contaminated food or beverages."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why do I wake up feeling groggy even after a full night's sleep?",
+        "context": "If you want to know 'Why do I wake up feeling groggy even after a full night's sleep?', the answer is 'Feeling groggy upon waking can be due to poor sleep quality, sleep disorders like sleep apnea, or inconsistent sleep patterns. It's important to maintain a regular sleep schedule and practice good sleep hygiene.'.",
+        "answer": "Feeling groggy upon waking can be due to poor sleep quality, sleep disorders like sleep apnea, or inconsistent sleep patterns. It's important to maintain a regular sleep schedule and practice good sleep hygiene."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why do I feel bloated after eating certain foods?",
+        "context": "'Feeling bloated after eating certain foods can be due to gas production, food intolerances, or eating too quickly. Common culprits include beans, cruciferous vegetables, dairy products, and carbonated beverages.' is the answer to 'Why do I feel bloated after eating certain foods?'.",
+        "answer": "Feeling bloated after eating certain foods can be due to gas production, food intolerances, or eating too quickly. Common culprits include beans, cruciferous vegetables, dairy products, and carbonated beverages."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why do I experience chest pain when I'm stressed?",
+        "context": "The answer to the question 'Why do I experience chest pain when I'm stressed?' is 'Experiencing chest pain when stressed can be due to increased muscle tension, shallow breathing, or stress-induced changes in heart rate and blood pressure. However, chest pain should always be taken seriously and evaluated by a healthcare professional.'.",
+        "answer": "Experiencing chest pain when stressed can be due to increased muscle tension, shallow breathing, or stress-induced changes in heart rate and blood pressure. However, chest pain should always be taken seriously and evaluated by a healthcare professional."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What could be causing my frequent digestive issues?",
+        "context": "When asked 'What could be causing my frequent digestive issues?', the response is 'Frequent digestive issues like bloating, gas, diarrhea, or constipation can be caused by factors such as diet (e.g., high-fat or high-fiber foods), food intolerances, stress, medications, or underlying gastrointestinal conditions like irritable bowel syndrome (IBS) or inflammatory bowel disease (IBD). Keeping a food diary, eating a balanced diet, and managing stress can help improve digestive health.'.",
+        "answer": "Frequent digestive issues like bloating, gas, diarrhea, or constipation can be caused by factors such as diet (e.g., high-fat or high-fiber foods), food intolerances, stress, medications, or underlying gastrointestinal conditions like irritable bowel syndrome (IBS) or inflammatory bowel disease (IBD). Keeping a food diary, eating a balanced diet, and managing stress can help improve digestive health."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What could be causing my frequent skin breakouts?",
+        "context": "If you want to know 'What could be causing my frequent skin breakouts?', the answer is 'Frequent skin breakouts can be caused by factors such as hormonal changes, stress, diet (e.g., high sugar or dairy intake), skincare products, or underlying conditions like acne vulgaris or rosacea.'.",
+        "answer": "Frequent skin breakouts can be caused by factors such as hormonal changes, stress, diet (e.g., high sugar or dairy intake), skincare products, or underlying conditions like acne vulgaris or rosacea."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why do I feel fatigued even after getting enough sleep?",
+        "context": "'Feeling fatigued despite adequate sleep can be due to factors like poor sleep quality, sleep disorders like sleep apnea, or underlying medical conditions such as thyroid disorders or anemia.' is the answer to 'Why do I feel fatigued even after getting enough sleep?'.",
+        "answer": "Feeling fatigued despite adequate sleep can be due to factors like poor sleep quality, sleep disorders like sleep apnea, or underlying medical conditions such as thyroid disorders or anemia."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why do I often experience chest tightness or discomfort?",
+        "context": "If you want to know 'Why do I often experience chest tightness or discomfort?', the answer is 'Chest tightness or discomfort can be caused by factors such as anxiety, stress, asthma, heartburn, muscle strain, or underlying heart conditions like angina or coronary artery disease.'.",
+        "answer": "Chest tightness or discomfort can be caused by factors such as anxiety, stress, asthma, heartburn, muscle strain, or underlying heart conditions like angina or coronary artery disease."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why do I often wake up with a sore throat?",
+        "context": "The answer to the question 'Why do I often wake up with a sore throat?' is 'Waking up with a sore throat can be due to factors such as mouth breathing, dry air, allergies, postnasal drip, acid reflux, or viral infections like the common cold or flu.'.",
+        "answer": "Waking up with a sore throat can be due to factors such as mouth breathing, dry air, allergies, postnasal drip, acid reflux, or viral infections like the common cold or flu."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why do I feel nauseous after eating certain foods?",
+        "context": "When asked 'Why do I feel nauseous after eating certain foods?', the response is 'Feeling nauseous after eating certain foods can be due to factors such as food intolerances, allergies, gastrointestinal issues, or consuming foods that are high in fat or spices. It's essential to identify trigger foods and consider dietary modifications to alleviate symptoms.'.",
+        "answer": "Feeling nauseous after eating certain foods can be due to factors such as food intolerances, allergies, gastrointestinal issues, or consuming foods that are high in fat or spices. It's essential to identify trigger foods and consider dietary modifications to alleviate symptoms."
+    }
+]

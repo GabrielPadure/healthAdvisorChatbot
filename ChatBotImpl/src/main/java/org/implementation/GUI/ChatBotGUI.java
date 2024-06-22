@@ -11,25 +11,28 @@ import javafx.scene.image.Image;
 import javafx.scene.image.ImageView;
 import javafx.scene.layout.*;
 import javafx.stage.Stage;
-import org.implementation.CosineSimilarity.KeywordBasedImplV2;
+import org.json.JSONObject;
 
 import java.io.IOException;
-import java.util.Arrays;
+import java.net.URI;
+import java.net.http.HttpClient;
+import java.net.http.HttpRequest;
+import java.net.http.HttpResponse;
+import java.util.HashSet;
+import java.util.Set;
+import java.util.concurrent.CompletableFuture;
 
 public class ChatBotGUI extends Application {
     private VBox chatPane;
     private TextField userInputField;
-    private KeywordBasedImplV2 chatBot;
+    private HttpClient httpClient = HttpClient.newHttpClient();
+    private String currentQuestion;
+    private String currentContext;
+    private double currentThreshold;
+    private Set<String> suggestedQuestions = new HashSet<>();
 
     @Override
     public void start(Stage primaryStage) {
-        try {
-            chatBot = new KeywordBasedImplV2();
-        } catch (IOException e) {
-            e.printStackTrace();
-            return;
-        }
-
         // Header section
         HBox header = new HBox();
         header.setStyle("-fx-background-color: #007bff; -fx-padding: 10;");
@@ -94,16 +97,82 @@ public class ChatBotGUI extends Application {
             addMessage("You", userMessage, Pos.TOP_RIGHT, "#D9EDF7", "#333333");
             userInputField.clear();
 
-            String botResponse;
-            try {
-                botResponse = chatBot.findAnswer(userMessage);
-            } catch (IOException e) {
-                botResponse = "Error in getting response.";
-                e.printStackTrace();
+            if ("yes".equalsIgnoreCase(userMessage) && currentQuestion != null && currentContext != null) {
+                getAnswer(currentQuestion, currentContext);
+            } else if ("no".equalsIgnoreCase(userMessage) && currentQuestion != null && currentThreshold > 0.5) {
+                currentThreshold -= 0.05;
+                searchForMatch(currentQuestion, currentThreshold);
+            } else {
+                currentQuestion = userMessage;
+                currentThreshold = 0.7;
+                searchForMatch(userMessage, currentThreshold);
             }
-
-            addMessage("ChatBot", botResponse, Pos.TOP_LEFT, "#F7F7F9", "#333333");
         }
+    }
+
+    private void searchForMatch(String userMessage, double threshold) {
+        CompletableFuture.runAsync(() -> {
+            try {
+                JSONObject requestJson = new JSONObject();
+                requestJson.put("question", userMessage);
+                requestJson.put("threshold", threshold);
+
+                HttpRequest request = HttpRequest.newBuilder()
+                        .uri(URI.create("http://localhost:5000/ask"))
+                        .header("Content-Type", "application/json")
+                        .POST(HttpRequest.BodyPublishers.ofString(requestJson.toString()))
+                        .build();
+
+                HttpResponse<String> response = httpClient.send(request, HttpResponse.BodyHandlers.ofString());
+                JSONObject jsonResponse = new JSONObject(response.body());
+                boolean foundMatch = jsonResponse.getBoolean("found_match");
+
+                if (foundMatch) {
+                    String matchedQuestion = jsonResponse.getString("matched_question");
+                    currentContext = jsonResponse.getString("context");
+                    if (!suggestedQuestions.contains(matchedQuestion) && threshold < 0.7) {
+                        suggestedQuestions.add(matchedQuestion);
+                        javafx.application.Platform.runLater(() -> addMessage("ChatBot", "Did you mean: '" + matchedQuestion + "'? (yes/no)", Pos.TOP_LEFT, "#F7F7F9", "#333333"));
+                    } else {
+                        getAnswer(matchedQuestion, currentContext);
+                    }
+                } else {
+                    if (threshold > 0.5) {
+                        searchForMatch(userMessage, threshold - 0.05);
+                    } else {
+                        javafx.application.Platform.runLater(() -> addMessage("ChatBot", "Sorry, I couldn't find a good match for your question.", Pos.TOP_LEFT, "#F7F7F9", "#333333"));
+                    }
+                }
+            } catch (IOException | InterruptedException e) {
+                e.printStackTrace();
+                javafx.application.Platform.runLater(() -> addMessage("ChatBot", "Error in getting response.", Pos.TOP_LEFT, "#F7F7F9", "#333333"));
+            }
+        });
+    }
+
+    private void getAnswer(String userMessage, String context) {
+        CompletableFuture.runAsync(() -> {
+            try {
+                JSONObject requestJson = new JSONObject();
+                requestJson.put("question", userMessage);
+                requestJson.put("context", context);
+
+                HttpRequest request = HttpRequest.newBuilder()
+                        .uri(URI.create("http://localhost:5000/get_answer"))
+                        .header("Content-Type", "application/json")
+                        .POST(HttpRequest.BodyPublishers.ofString(requestJson.toString()))
+                        .build();
+
+                HttpResponse<String> response = httpClient.send(request, HttpResponse.BodyHandlers.ofString());
+                JSONObject jsonResponse = new JSONObject(response.body());
+                String answer = jsonResponse.getString("answer");
+
+                javafx.application.Platform.runLater(() -> addMessage("ChatBot", answer, Pos.TOP_LEFT, "#F7F7F9", "#333333"));
+            } catch (IOException | InterruptedException e) {
+                e.printStackTrace();
+                javafx.application.Platform.runLater(() -> addMessage("ChatBot", "Error in getting response.", Pos.TOP_LEFT, "#F7F7F9", "#333333"));
+            }
+        });
     }
 
     private void addMessage(String sender, String message, Pos alignment, String bgColor, String textColor) {
@@ -128,7 +197,7 @@ public class ChatBotGUI extends Application {
 
         messageContainer.getChildren().addAll(senderLabel, messageLabel);
         messageBox.getChildren().add(messageContainer);
-        chatPane.getChildren().add(messageBox);
+        javafx.application.Platform.runLater(() -> chatPane.getChildren().add(messageBox));
     }
 
     public static void main(String[] args) {

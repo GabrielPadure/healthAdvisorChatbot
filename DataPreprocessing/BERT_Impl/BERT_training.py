@@ -1,7 +1,7 @@
 import json
 import torch
 from torch.utils.data import DataLoader, Dataset
-from transformers import BertTokenizer, BertForQuestionAnswering, AdamW, get_linear_schedule_with_warmup
+from transformers import BertTokenizerFast, BertForQuestionAnswering, AdamW, get_linear_schedule_with_warmup
 
 
 class QADataset(Dataset):
@@ -15,16 +15,45 @@ class QADataset(Dataset):
             self.raw_data = json.load(f)
 
         for item in self.raw_data:
-            context = item['answer']
-            # Tokenize context to check its length
-            encoded_context = tokenizer.encode(context)
-            if len(encoded_context) > max_len:
-                # Truncate context if it exceeds max length
-                context = tokenizer.decode(encoded_context[:max_len], skip_special_tokens=True)
+            question = item['question']
+            context = item['context']
+            answer = item['answer']
+            start_idx = context.find(answer)
+            end_idx = start_idx + len(answer)
+
+            if start_idx == -1 or end_idx == -1:
+                continue  # skip if the answer is not found in the context
+
+            encoded_dict = tokenizer.encode_plus(
+                question,
+                context,
+                max_length=max_len,
+                truncation=True,
+                padding='max_length',
+                return_tensors='pt',
+                return_offsets_mapping=True
+            )
+
+            # Find start and end token positions using offset_mapping
+            offsets = encoded_dict['offset_mapping'].squeeze().tolist()
+            start_positions = None
+            end_positions = None
+
+            for idx, (start, end) in enumerate(offsets):
+                if start <= start_idx < end:
+                    start_positions = idx
+                if start < end_idx <= end:
+                    end_positions = idx
+                    break
+
+            if start_positions is None or end_positions is None:
+                continue  # skip if positions are not found
+
             self.data.append({
-                "question": item['question'],
-                "context": context,
-                "label": item['label']
+                "input_ids": encoded_dict['input_ids'].flatten(),
+                "attention_mask": encoded_dict['attention_mask'].flatten(),
+                "start_positions": torch.tensor(start_positions, dtype=torch.long),
+                "end_positions": torch.tensor(end_positions, dtype=torch.long)
             })
 
     def __len__(self):
@@ -32,21 +61,15 @@ class QADataset(Dataset):
 
     def __getitem__(self, index):
         item = self.data[index]
-        encoding = self.tokenizer.encode_plus(
-            item['question'], item['context'],
-            max_length=self.max_len,
-            truncation=True,
-            padding='max_length',
-            return_tensors='pt'
-        )
-        # Adding dummy start and end positions for training
-        start_positions = torch.tensor([0], dtype=torch.long)
-        end_positions = torch.tensor([min(len(encoding['input_ids'][0]) - 1, self.max_len - 1)], dtype=torch.long)
-
-        return encoding, start_positions, end_positions
+        return {
+            "input_ids": item['input_ids'],
+            "attention_mask": item['attention_mask'],
+            "start_positions": item['start_positions'],
+            "end_positions": item['end_positions']
+        }
 
 
-def train(model, tokenizer, dataset, device, epochs=3, batch_size=8):
+def train(model, dataset, device, epochs=3, batch_size=8):
     dataloader = DataLoader(dataset, batch_size=batch_size, shuffle=True)
     optimizer = AdamW(model.parameters(), lr=2e-5)
     total_steps = len(dataloader) * epochs
@@ -55,22 +78,24 @@ def train(model, tokenizer, dataset, device, epochs=3, batch_size=8):
     model.train()
     for epoch in range(epochs):
         print(f"Starting epoch {epoch + 1}/{epochs}")
+        total_loss = 0
         for batch in dataloader:
             model.zero_grad()
-            inputs, start_positions, end_positions = batch
-            input_ids = inputs['input_ids'].squeeze().to(device)
-            attention_mask = inputs['attention_mask'].squeeze().to(device)
-            start_positions = start_positions.squeeze().to(device)
-            end_positions = end_positions.squeeze().to(device)
 
-            outputs = model(input_ids, attention_mask=attention_mask, start_positions=start_positions,
-                            end_positions=end_positions)
-            loss = outputs[0]
+            input_ids = batch['input_ids'].to(device)
+            attention_mask = batch['attention_mask'].to(device)
+            start_positions = batch['start_positions'].to(device)
+            end_positions = batch['end_positions'].to(device)
+
+            outputs = model(input_ids, attention_mask=attention_mask, start_positions=start_positions, end_positions=end_positions)
+            loss = outputs.loss
+            total_loss += loss.item()
             loss.backward()
             optimizer.step()
             scheduler.step()
 
-        print(f"Epoch {epoch + 1}/{epochs} completed with loss: {loss.item()}")
+        avg_loss = total_loss / len(dataloader)
+        print(f"Epoch {epoch + 1}/{epochs} completed with average loss: {avg_loss}")
 
     print("Training completed")
     return model
@@ -78,23 +103,22 @@ def train(model, tokenizer, dataset, device, epochs=3, batch_size=8):
 
 def main():
     device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
-    tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')
+    tokenizer = BertTokenizerFast.from_pretrained('bert-base-uncased')
     model = BertForQuestionAnswering.from_pretrained('bert-base-uncased').to(device)
 
     dataset_files = [
-        '/Users/alexandruvalah/IdeaProjects/healthAdvisorChatbot/DataPreprocessing/Resources/CleanData/WithLabels/clean_ComprehensiveMedicalQ&A.json',
-        '/Users/alexandruvalah/IdeaProjects/healthAdvisorChatbot/DataPreprocessing/Resources/CleanData/WithLabels/clean_Fitness.json',
-        '/Users/alexandruvalah/IdeaProjects/healthAdvisorChatbot/DataPreprocessing/Resources/CleanData/WithLabels/clean_MentalHealth.json',
-        '/Users/alexandruvalah/IdeaProjects/healthAdvisorChatbot/DataPreprocessing/Resources/CleanData/WithLabels/clean_Symp&Cond.json',
-        '/Users/alexandruvalah/IdeaProjects/healthAdvisorChatbot/DataPreprocessing/Resources/CleanData/WithLabels/clean_Med&Suppl.json',
-        '/Users/alexandruvalah/IdeaProjects/healthAdvisorChatbot/DataPreprocessing/Resources/CleanData/WithLabels/clean_Nutr&Diet.json'
+        '/Users/alexandruvalah/IdeaProjects/healthAdvisorChatbot/DataPreprocessing/Resources/CleanData/WithContext/Fitness.json',
+        '/Users/alexandruvalah/IdeaProjects/healthAdvisorChatbot/DataPreprocessing/Resources/CleanData/WithContext/Med&Suppl.json',
+        '/Users/alexandruvalah/IdeaProjects/healthAdvisorChatbot/DataPreprocessing/Resources/CleanData/WithContext/MentalHealth.json',
+        '/Users/alexandruvalah/IdeaProjects/healthAdvisorChatbot/DataPreprocessing/Resources/CleanData/WithContext/Nutr&Diet.json',
+        '/Users/alexandruvalah/IdeaProjects/healthAdvisorChatbot/DataPreprocessing/Resources/CleanData/WithContext/Symp&Cond.json'
     ]
 
     datasets = [QADataset(file, tokenizer) for file in dataset_files]
 
     for dataset in datasets:
-        print(f"Training on dataset: {dataset.data[0]['label']}")
-        model = train(model, tokenizer, dataset, device)
+        print(f"Training on dataset: {dataset_files[datasets.index(dataset)]}")
+        model = train(model, dataset, device)
 
     model.save_pretrained('fine_tuned_bert_qa')
     tokenizer.save_pretrained('fine_tuned_bert_qa')

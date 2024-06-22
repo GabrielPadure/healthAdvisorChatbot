@@ -12,18 +12,20 @@ def load_datasets(file_paths):
             data.extend(json.load(f))
     return data
 
+
 dataset_files = [
-    '/Users/alexandruvalah/IdeaProjects/healthAdvisorChatbot/DataPreprocessing/Resources/CleanData/Fitness.json',
-    '/Users/alexandruvalah/IdeaProjects/healthAdvisorChatbot/DataPreprocessing/Resources/CleanData/MentalHealth.json',
-    '/Users/alexandruvalah/IdeaProjects/healthAdvisorChatbot/DataPreprocessing/Resources/CleanData/Symp&Cond.json',
-    '/Users/alexandruvalah/IdeaProjects/healthAdvisorChatbot/DataPreprocessing/Resources/CleanData/Med&Suppl.json',
-    '/Users/alexandruvalah/IdeaProjects/healthAdvisorChatbot/DataPreprocessing/Resources/CleanData/Nutr&Diet.json'
+    'healthAdvisorChatbot/DataPreprocessing/Resources/CleanData/Fitness.json',
+    'healthAdvisorChatbot/DataPreprocessing/Resources/CleanData/MentalHealth.json',
+    'healthAdvisorChatbot/DataPreprocessing/Resources/CleanData/Symp&Cond.json',
+    'healthAdvisorChatbot/DataPreprocessing/Resources/CleanData/Med&Suppl.json',
+    'healthAdvisorChatbot/DataPreprocessing/Resources/CleanData/Nutr&Diet.json'
 ]
 
 qa_data = load_datasets(dataset_files)
 
 # Prepare TF-IDF vectorizer and fit on the questions
 vectorizer = TfidfVectorizer().fit([item['question'] for item in qa_data])
+
 
 def retrieve_context(question, threshold):
     question_vec = vectorizer.transform([question])
@@ -39,15 +41,18 @@ def retrieve_context(question, threshold):
     best_match = qa_data[best_match_index]
     return best_match['answer'], best_match['question'], best_match_score
 
+
 def load_model_and_tokenizer(model_path, tokenizer_path):
     model = BertForQuestionAnswering.from_pretrained(model_path)
     tokenizer = BertTokenizer.from_pretrained(tokenizer_path)
     return model, tokenizer
 
+
 def clean_answer(answer):
     if '?' in answer:
-        answer = answer.split('?')[1]  # Remove everything before the '?'
+        answer = answer.split('?')[1]
     return answer.strip()
+
 
 def answer_question(model, tokenizer, question, context, device):
     inputs = tokenizer.encode_plus(
@@ -76,10 +81,11 @@ def answer_question(model, tokenizer, question, context, device):
 
     # Clean up the answer tokens
     answer = answer.replace('[CLS]', '').replace('[SEP]', '').replace('[PAD]', '').strip()
-    answer = ' '.join(answer.split())  # remove extra spaces
-    answer = clean_answer(answer)  # Remove text before '?'
+    answer = ' '.join(answer.split())
+    answer = clean_answer(answer)
 
     return answer
+
 
 def main():
     device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
@@ -105,8 +111,6 @@ def main():
                 print(f"Did you mean: '{matched_question}'? (yes/no)")
                 user_response = input().strip().lower()
                 if user_response == 'yes':
-                    print(f"Matched Question: {matched_question}")
-                    print(f"Context: {context}")
                     answer = answer_question(model, tokenizer, question, context, device)
                     print(f"Answer: {answer}")
                     break
@@ -118,6 +122,7 @@ def main():
 
         if not found_match:
             print("Sorry, I couldn't find a good match for your question.")
+
 
 if __name__ == '__main__':
     main()
