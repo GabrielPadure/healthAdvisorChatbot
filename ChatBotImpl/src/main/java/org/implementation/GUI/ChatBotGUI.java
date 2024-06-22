@@ -11,6 +11,7 @@ import javafx.scene.image.Image;
 import javafx.scene.image.ImageView;
 import javafx.scene.layout.*;
 import javafx.stage.Stage;
+import org.json.JSONArray;
 import org.json.JSONObject;
 
 import java.io.IOException;
@@ -29,7 +30,7 @@ public class ChatBotGUI extends Application {
     private String currentQuestion;
     private String currentContext;
     private double currentThreshold;
-    private Set<String> suggestedQuestions = new HashSet<>();
+    private Set<String> previousSuggestions = new HashSet<>();
 
     @Override
     public void start(Stage primaryStage) {
@@ -99,12 +100,19 @@ public class ChatBotGUI extends Application {
 
             if ("yes".equalsIgnoreCase(userMessage) && currentQuestion != null && currentContext != null) {
                 getAnswer(currentQuestion, currentContext);
-            } else if ("no".equalsIgnoreCase(userMessage) && currentQuestion != null && currentThreshold > 0.5) {
+            } else if ("no".equalsIgnoreCase(userMessage)) {
                 currentThreshold -= 0.05;
-                searchForMatch(currentQuestion, currentThreshold);
+                if (currentThreshold >= 0.5) {
+                    searchForMatch(currentQuestion, currentThreshold);
+                } else {
+                    String fallbackAnswer = "I'm sorry, I couldn't find a good match. Here is a general answer:";
+                    addMessage("ChatBot", fallbackAnswer, Pos.TOP_LEFT, "#F7F7F9", "#333333");
+                    generateGPTNeoAnswer(currentQuestion);
+                }
             } else {
                 currentQuestion = userMessage;
                 currentThreshold = 0.7;
+                previousSuggestions.clear();  // Reset previous suggestions for a new question
                 searchForMatch(userMessage, currentThreshold);
             }
         }
@@ -116,9 +124,11 @@ public class ChatBotGUI extends Application {
                 JSONObject requestJson = new JSONObject();
                 requestJson.put("question", userMessage);
                 requestJson.put("threshold", threshold);
+                JSONArray previousSuggestionsJson = new JSONArray(previousSuggestions);
+                requestJson.put("previous_suggestions", previousSuggestionsJson);
 
                 HttpRequest request = HttpRequest.newBuilder()
-                        .uri(URI.create("http://localhost:5000/ask"))
+                        .uri(URI.create("http://localhost:5001/ask"))
                         .header("Content-Type", "application/json")
                         .POST(HttpRequest.BodyPublishers.ofString(requestJson.toString()))
                         .build();
@@ -130,17 +140,15 @@ public class ChatBotGUI extends Application {
                 if (foundMatch) {
                     String matchedQuestion = jsonResponse.getString("matched_question");
                     currentContext = jsonResponse.getString("context");
-                    if (!suggestedQuestions.contains(matchedQuestion) && threshold < 0.7) {
-                        suggestedQuestions.add(matchedQuestion);
-                        javafx.application.Platform.runLater(() -> addMessage("ChatBot", "Did you mean: '" + matchedQuestion + "'? (yes/no)", Pos.TOP_LEFT, "#F7F7F9", "#333333"));
-                    } else {
-                        getAnswer(matchedQuestion, currentContext);
-                    }
+                    previousSuggestions.add(matchedQuestion);
+                    currentThreshold = threshold;  // Update the current threshold
+                    javafx.application.Platform.runLater(() -> addMessage("ChatBot", "Did you mean: '" + matchedQuestion + "'? (yes/no)", Pos.TOP_LEFT, "#F7F7F9", "#333333"));
                 } else {
                     if (threshold > 0.5) {
                         searchForMatch(userMessage, threshold - 0.05);
                     } else {
-                        javafx.application.Platform.runLater(() -> addMessage("ChatBot", "Sorry, I couldn't find a good match for your question.", Pos.TOP_LEFT, "#F7F7F9", "#333333"));
+                        String gptAnswer = jsonResponse.getString("answer");
+                        javafx.application.Platform.runLater(() -> addMessage("ChatBot", gptAnswer, Pos.TOP_LEFT, "#F7F7F9", "#333333"));
                     }
                 }
             } catch (IOException | InterruptedException e) {
@@ -150,15 +158,39 @@ public class ChatBotGUI extends Application {
         });
     }
 
-    private void getAnswer(String userMessage, String context) {
+    private void getAnswer(String question, String context) {
         CompletableFuture.runAsync(() -> {
             try {
                 JSONObject requestJson = new JSONObject();
-                requestJson.put("question", userMessage);
+                requestJson.put("question", question);
                 requestJson.put("context", context);
 
                 HttpRequest request = HttpRequest.newBuilder()
-                        .uri(URI.create("http://localhost:5000/get_answer"))
+                        .uri(URI.create("http://localhost:5001/get_answer"))
+                        .header("Content-Type", "application/json")
+                        .POST(HttpRequest.BodyPublishers.ofString(requestJson.toString()))
+                        .build();
+
+                HttpResponse<String> response = httpClient.send(request, HttpResponse.BodyHandlers.ofString());
+                JSONObject jsonResponse = new JSONObject(response.body());
+                String answer = jsonResponse.getString("answer");
+
+                javafx.application.Platform.runLater(() -> addMessage("ChatBot", answer, Pos.TOP_LEFT, "#F7F7F9", "#333333"));
+            } catch (IOException | InterruptedException e) {
+                e.printStackTrace();
+                javafx.application.Platform.runLater(() -> addMessage("ChatBot", "Error in getting response.", Pos.TOP_LEFT, "#F7F7F9", "#333333"));
+            }
+        });
+    }
+
+    private void generateGPTNeoAnswer(String question) {
+        CompletableFuture.runAsync(() -> {
+            try {
+                JSONObject requestJson = new JSONObject();
+                requestJson.put("question", question);
+
+                HttpRequest request = HttpRequest.newBuilder()
+                        .uri(URI.create("http://localhost:5001/generate_gpt_neo_response"))
                         .header("Content-Type", "application/json")
                         .POST(HttpRequest.BodyPublishers.ofString(requestJson.toString()))
                         .build();
