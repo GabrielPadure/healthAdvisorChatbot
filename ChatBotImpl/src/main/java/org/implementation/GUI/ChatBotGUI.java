@@ -1,16 +1,16 @@
 package org.implementation.GUI;
 
+import javafx.animation.PauseTransition;
 import javafx.application.Application;
 import javafx.geometry.Insets;
 import javafx.geometry.Pos;
 import javafx.scene.Scene;
-import javafx.scene.control.Label;
-import javafx.scene.control.ScrollPane;
-import javafx.scene.control.TextField;
+import javafx.scene.control.*;
 import javafx.scene.image.Image;
 import javafx.scene.image.ImageView;
 import javafx.scene.layout.*;
 import javafx.stage.Stage;
+import javafx.util.Duration;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
@@ -175,7 +175,13 @@ public class ChatBotGUI extends Application {
                 JSONObject jsonResponse = new JSONObject(response.body());
                 String answer = jsonResponse.getString("answer");
 
-                javafx.application.Platform.runLater(() -> addMessage("ChatBot", answer, Pos.TOP_LEFT, "#F7F7F9", "#333333"));
+                javafx.application.Platform.runLater(() -> {
+                    addMessage("ChatBot", answer, Pos.TOP_LEFT, "#F7F7F9", "#333333");
+                    // Delay before asking for feedback
+                    PauseTransition pause = new PauseTransition(Duration.seconds(2));
+                    pause.setOnFinished(event -> askForFeedback());
+                    pause.play();
+                });
             } catch (IOException | InterruptedException e) {
                 e.printStackTrace();
                 javafx.application.Platform.runLater(() -> addMessage("ChatBot", "Error in getting response.", Pos.TOP_LEFT, "#F7F7F9", "#333333"));
@@ -205,6 +211,58 @@ public class ChatBotGUI extends Application {
                 javafx.application.Platform.runLater(() -> addMessage("ChatBot", "Error in getting response.", Pos.TOP_LEFT, "#F7F7F9", "#333333"));
             }
         });
+    }
+
+    private void askForFeedback() {
+        Label feedbackLabel = new Label("Would you like to provide feedback? (yes/no)");
+        feedbackLabel.setStyle("-fx-font-size: 14px; -fx-text-fill: #333333;");
+
+        TextField feedbackInput = new TextField();
+        feedbackInput.setPromptText("Type 'yes' or 'no'...");
+        feedbackInput.setOnAction(e -> {
+            String response = feedbackInput.getText().trim();
+            if ("yes".equalsIgnoreCase(response)) {
+                showRatingWindow();
+            }
+            chatPane.getChildren().removeAll(feedbackLabel, feedbackInput);
+        });
+
+        chatPane.getChildren().addAll(feedbackLabel, feedbackInput);
+    }
+
+    private void showRatingWindow() {
+        Stage ratingStage = new Stage();
+        ratingStage.setTitle("Rate the Answer");
+
+        VBox layout = new VBox();
+        layout.setPadding(new Insets(10));
+        layout.setSpacing(10);
+        layout.setAlignment(Pos.CENTER);
+
+        Label rateLabel = new Label("Rate the answer (1 to 5 stars):");
+        ChoiceBox<Integer> ratingChoiceBox = new ChoiceBox<>();
+        ratingChoiceBox.getItems().addAll(1, 2, 3, 4, 5);
+
+        Label commentLabel = new Label("Leave a comment:");
+        TextArea commentTextArea = new TextArea();
+        commentTextArea.setPromptText("Type your comment here...");
+        commentTextArea.setWrapText(true);
+
+        Button submitButton = new Button("Submit");
+        submitButton.setOnAction(e -> {
+            int rating = ratingChoiceBox.getValue();
+            String comment = commentTextArea.getText().trim();
+            // Handle the rating and comment (e.g., send to server or log them)
+            System.out.println("Rating: " + rating);
+            System.out.println("Comment: " + comment);
+            ratingStage.close();
+        });
+
+        layout.getChildren().addAll(rateLabel, ratingChoiceBox, commentLabel, commentTextArea, submitButton);
+
+        Scene scene = new Scene(layout, 300, 400);
+        ratingStage.setScene(scene);
+        ratingStage.show();
     }
 
     private void addMessage(String sender, String message, Pos alignment, String bgColor, String textColor) {
