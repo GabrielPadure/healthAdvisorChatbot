@@ -3,7 +3,6 @@ import torch
 from torch.utils.data import DataLoader, Dataset
 from transformers import BertTokenizerFast, BertForQuestionAnswering, AdamW, get_linear_schedule_with_warmup
 
-
 class QADataset(Dataset):
     def __init__(self, json_file, tokenizer, max_len=512):
         self.data = []
@@ -68,7 +67,6 @@ class QADataset(Dataset):
             "end_positions": item['end_positions']
         }
 
-
 def train(model, dataset, device, epochs=3, batch_size=8):
     dataloader = DataLoader(dataset, batch_size=batch_size, shuffle=True)
     optimizer = AdamW(model.parameters(), lr=2e-5)
@@ -87,7 +85,7 @@ def train(model, dataset, device, epochs=3, batch_size=8):
             start_positions = batch['start_positions'].to(device)
             end_positions = batch['end_positions'].to(device)
 
-            outputs = model(input_ids, attention_mask=attention_mask, start_positions=start_positions, end_positions=end_positions)
+            outputs = model(input_ids, attenion_mask=attention_mask, start_positions=start_positions, end_positions=end_positions)
             loss = outputs.loss
             total_loss += loss.item()
             loss.backward()
@@ -100,30 +98,20 @@ def train(model, dataset, device, epochs=3, batch_size=8):
     print("Training completed")
     return model
 
-
 def main():
     device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
-    tokenizer = BertTokenizerFast.from_pretrained('bert-base-uncased')
-    model = BertForQuestionAnswering.from_pretrained('bert-base-uncased').to(device)
+    tokenizer = BertTokenizerFast.from_pretrained('fine_tuned_bert_qa')  # Load previously fine-tuned tokenizer
+    model = BertForQuestionAnswering.from_pretrained('fine_tuned_bert_qa').to(device)  # Load previously fine-tuned model
 
-    dataset_files = [
-        '/Users/alexandruvalah/IdeaProjects/healthAdvisorChatbot/DataPreprocessing/Resources/CleanData/WithContext/Fitness.json',
-        '/Users/alexandruvalah/IdeaProjects/healthAdvisorChatbot/DataPreprocessing/Resources/CleanData/WithContext/Med&Suppl.json',
-        '/Users/alexandruvalah/IdeaProjects/healthAdvisorChatbot/DataPreprocessing/Resources/CleanData/WithContext/MentalHealth.json',
-        '/Users/alexandruvalah/IdeaProjects/healthAdvisorChatbot/DataPreprocessing/Resources/CleanData/WithContext/Nutr&Diet.json',
-        '/Users/alexandruvalah/IdeaProjects/healthAdvisorChatbot/DataPreprocessing/Resources/CleanData/WithContext/Symp&Cond.json'
-    ]
+    new_dataset_file = '/PythonImplementation/Resources/CleanData/WithContext/exercisesURL1.json'  # Path to your new dataset
+    new_dataset = QADataset(new_dataset_file, tokenizer)
 
-    datasets = [QADataset(file, tokenizer) for file in dataset_files]
-
-    for dataset in datasets:
-        print(f"Training on dataset: {dataset_files[datasets.index(dataset)]}")
-        model = train(model, dataset, device)
+    print(f"Training on new dataset: {new_dataset_file}")
+    model = train(model, new_dataset, device)
 
     model.save_pretrained('fine_tuned_bert_qa')
     tokenizer.save_pretrained('fine_tuned_bert_qa')
     print("Model and tokenizer saved")
-
 
 if __name__ == '__main__':
     main()

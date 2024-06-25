@@ -670,5 +670,599 @@
         "question": "How can I support a friend or family member who has survived a suicide attempt?",
         "context": "To the question 'How can I support a friend or family member who has survived a suicide attempt?', one should reply with 'Supporting a friend or family member who has survived a suicide attempt involves offering empathy, compassion, and non-judgmental support, listening actively and without trying to fix or minimize their feelings, and encouraging them to seek professional help and ongoing support from mental health professionals or support groups. It's essential to validate their experiences and feelings, and to provide practical assistance with tasks such as accessing treatment or connecting with resources for survivors of suicide attempts.'.",
         "answer": "Supporting a friend or family member who has survived a suicide attempt involves offering empathy, compassion, and non-judgmental support, listening actively and without trying to fix or minimize their feelings, and encouraging them to seek professional help and ongoing support from mental health professionals or support groups. It's essential to validate their experiences and feelings, and to provide practical assistance with tasks such as accessing treatment or connecting with resources for survivors of suicide attempts."
+    },
+    {
+        "label": "Mental Health",
+        "question": "How does cognitive-behavioral therapy (CBT) help with anxiety?",
+        "context": "The answer to the question 'How does cognitive-behavioral therapy (CBT) help with anxiety?' is 'CBT helps by changing negative thought patterns and behaviors associated with anxiety.'.",
+        "answer": "CBT helps by changing negative thought patterns and behaviors associated with anxiety."
+    },
+    {
+        "label": "Mental Health",
+        "question": "What is the role of serotonin in mental health?",
+        "context": "When asked 'What is the role of serotonin in mental health?', the response is 'Serotonin helps regulate mood, anxiety, and happiness, and imbalances are linked to depression and anxiety disorders.'.",
+        "answer": "Serotonin helps regulate mood, anxiety, and happiness, and imbalances are linked to depression and anxiety disorders."
+    },
+    {
+        "label": "Mental Health",
+        "question": "How can mindfulness meditation benefit mental health?",
+        "context": "'It reduces stress, anxiety, and depression by promoting present-moment awareness and acceptance.' is the answer to 'How can mindfulness meditation benefit mental health?'.",
+        "answer": "It reduces stress, anxiety, and depression by promoting present-moment awareness and acceptance."
+    },
+    {
+        "label": "Mental Health",
+        "question": "What are the signs of a panic attack?",
+        "context": "'Rapid heart rate, sweating, trembling, shortness of breath, and a feeling of impending doom.' is the answer to 'What are the signs of a panic attack?'.",
+        "answer": "Rapid heart rate, sweating, trembling, shortness of breath, and a feeling of impending doom."
+    },
+    {
+        "label": "Mental Health",
+        "question": "How does exercise improve mental health?",
+        "context": "'Exercise releases endorphins, reduces stress hormones, and improves mood and self-esteem.' is the answer to 'How does exercise improve mental health?'.",
+        "answer": "Exercise releases endorphins, reduces stress hormones, and improves mood and self-esteem."
+    },
+    {
+        "label": "Mental Health",
+        "question": "What is the impact of chronic stress on mental health?",
+        "context": "The answer to the question 'What is the impact of chronic stress on mental health?' is 'Chronic stress can lead to anxiety, depression, and physical health issues like heart disease.'.",
+        "answer": "Chronic stress can lead to anxiety, depression, and physical health issues like heart disease."
+    },
+    {
+        "label": "Mental Health",
+        "question": "How does sleep affect mental health?",
+        "context": "When asked 'How does sleep affect mental health?', the response is 'Poor sleep can worsen mental health conditions like anxiety and depression and impair cognitive function.'.",
+        "answer": "Poor sleep can worsen mental health conditions like anxiety and depression and impair cognitive function."
+    },
+    {
+        "label": "Mental Health",
+        "question": "What are the symptoms of bipolar disorder?",
+        "context": "If you want to know 'What are the symptoms of bipolar disorder?', the answer is 'Bipolar disorder includes episodes of mania (elevated mood, increased activity) and depression (low mood, lethargy).'.",
+        "answer": "Bipolar disorder includes episodes of mania (elevated mood, increased activity) and depression (low mood, lethargy)."
+    },
+    {
+        "label": "Mental Health",
+        "question": "How does social support impact mental health?",
+        "context": "To the question 'How does social support impact mental health?', one should reply with 'Strong social support can reduce stress, improve mood, and increase resilience against mental health issues.'.",
+        "answer": "Strong social support can reduce stress, improve mood, and increase resilience against mental health issues."
+    },
+    {
+        "label": "Mental Health",
+        "question": "What is the difference between generalized anxiety disorder (GAD) and panic disorder?",
+        "context": "If you want to know 'What is the difference between generalized anxiety disorder (GAD) and panic disorder?', the answer is 'GAD involves chronic worry about various aspects of life, while panic disorder involves sudden, intense panic attacks.'.",
+        "answer": "GAD involves chronic worry about various aspects of life, while panic disorder involves sudden, intense panic attacks."
+    },
+    {
+        "label": "Mental Health",
+        "question": "How can one manage symptoms of PTSD (Post-Traumatic Stress Disorder)?",
+        "context": "If you want to know 'How can one manage symptoms of PTSD (Post-Traumatic Stress Disorder)?', the answer is 'Through therapy (such as EMDR or CBT), medication, and support from trusted individuals or groups.'.",
+        "answer": "Through therapy (such as EMDR or CBT), medication, and support from trusted individuals or groups."
+    },
+    {
+        "label": "Mental Health",
+        "question": "What are common treatments for obsessive-compulsive disorder (OCD)?",
+        "context": "If you want to know 'What are common treatments for obsessive-compulsive disorder (OCD)?', the answer is 'CBT, specifically exposure and response prevention (ERP), and medications like SSRIs.'.",
+        "answer": "CBT, specifically exposure and response prevention (ERP), and medications like SSRIs."
+    },
+    {
+        "label": "Mental Health",
+        "question": "How does neuroplasticity affect mental health treatment?",
+        "context": "'Neuroplasticity allows the brain to change and adapt in response to therapy, improving mental health outcomes.' is the answer to 'How does neuroplasticity affect mental health treatment?'.",
+        "answer": "Neuroplasticity allows the brain to change and adapt in response to therapy, improving mental health outcomes."
+    },
+    {
+        "label": "Mental Health",
+        "question": "What is the role of neurotransmitters in mental health?",
+        "context": "The answer to the question 'What is the role of neurotransmitters in mental health?' is 'Neurotransmitters like serotonin, dopamine, and norepinephrine play key roles in mood regulation and cognitive functions.'.",
+        "answer": "Neurotransmitters like serotonin, dopamine, and norepinephrine play key roles in mood regulation and cognitive functions."
+    },
+    {
+        "label": "Mental Health",
+        "question": "How can mindfulness-based stress reduction (MBSR) help with mental health?",
+        "context": "When asked 'How can mindfulness-based stress reduction (MBSR) help with mental health?', the response is 'MBSR reduces stress and anxiety by teaching mindfulness meditation and awareness techniques.'.",
+        "answer": "MBSR reduces stress and anxiety by teaching mindfulness meditation and awareness techniques."
+    },
+    {
+        "label": "Mental Health",
+        "question": "What are the symptoms of schizophrenia?",
+        "context": "The answer to the question 'What are the symptoms of schizophrenia?' is 'Symptoms include hallucinations, delusions, disorganized thinking, and impaired daily functioning.'.",
+        "answer": "Symptoms include hallucinations, delusions, disorganized thinking, and impaired daily functioning."
+    },
+    {
+        "label": "Mental Health",
+        "question": "How does early childhood trauma affect mental health in adulthood?",
+        "context": "To the question 'How does early childhood trauma affect mental health in adulthood?', one should reply with 'Early trauma can increase the risk of developing mental health disorders like depression, anxiety, and PTSD.'.",
+        "answer": "Early trauma can increase the risk of developing mental health disorders like depression, anxiety, and PTSD."
+    },
+    {
+        "label": "Mental Health",
+        "question": "What is the importance of self-care in maintaining mental health?",
+        "context": "The answer to the question 'What is the importance of self-care in maintaining mental health?' is 'Self-care practices, such as regular exercise, healthy eating, and relaxation, can improve mood and reduce stress.'.",
+        "answer": "Self-care practices, such as regular exercise, healthy eating, and relaxation, can improve mood and reduce stress."
+    },
+    {
+        "label": "Mental Health",
+        "question": "How can art therapy benefit mental health?",
+        "context": "To the question 'How can art therapy benefit mental health?', one should reply with 'Art therapy allows for emotional expression and processing, reducing symptoms of anxiety, depression, and trauma.'.",
+        "answer": "Art therapy allows for emotional expression and processing, reducing symptoms of anxiety, depression, and trauma."
+    },
+    {
+        "label": "Mental Health",
+        "question": "What are the signs of borderline personality disorder (BPD)?",
+        "context": "To the question 'What are the signs of borderline personality disorder (BPD)?', one should reply with 'Signs include unstable relationships, impulsive behaviors, mood swings, and fear of abandonment.'.",
+        "answer": "Signs include unstable relationships, impulsive behaviors, mood swings, and fear of abandonment."
+    },
+    {
+        "label": "Mental Health",
+        "question": "How can nutrition impact mental health?",
+        "context": "When asked 'How can nutrition impact mental health?', the response is 'A balanced diet supports brain health, while deficiencies in nutrients like omega-3s and vitamins can worsen mental health issues.'.",
+        "answer": "A balanced diet supports brain health, while deficiencies in nutrients like omega-3s and vitamins can worsen mental health issues."
+    },
+    {
+        "label": "Mental Health",
+        "question": "What is the role of a psychiatrist in mental health care?",
+        "context": "The answer to the question 'What is the role of a psychiatrist in mental health care?' is 'Psychiatrists diagnose and treat mental health disorders, often using medication management.'.",
+        "answer": "Psychiatrists diagnose and treat mental health disorders, often using medication management."
+    },
+    {
+        "label": "Mental Health",
+        "question": "How can cognitive distortions contribute to mental health problems?",
+        "context": "The answer to the question 'How can cognitive distortions contribute to mental health problems?' is 'Cognitive distortions are irrational thought patterns that can perpetuate anxiety, depression, and other mental health issues.'.",
+        "answer": "Cognitive distortions are irrational thought patterns that can perpetuate anxiety, depression, and other mental health issues."
+    },
+    {
+        "label": "Mental Health",
+        "question": "What is the impact of substance abuse on mental health?",
+        "context": "If you want to know 'What is the impact of substance abuse on mental health?', the answer is 'Substance abuse can exacerbate mental health disorders, leading to a cycle of addiction and worsening symptoms.'.",
+        "answer": "Substance abuse can exacerbate mental health disorders, leading to a cycle of addiction and worsening symptoms."
+    },
+    {
+        "label": "Mental Health",
+        "question": "How does gratitude practice affect mental health?",
+        "context": "When asked 'How does gratitude practice affect mental health?', the response is 'Regular gratitude practice can enhance mood, reduce stress, and improve overall mental well-being.'.",
+        "answer": "Regular gratitude practice can enhance mood, reduce stress, and improve overall mental well-being."
+    },
+    {
+        "label": "Mental Health",
+        "question": "What are the benefits of group therapy?",
+        "context": "If you want to know 'What are the benefits of group therapy?', the answer is 'Group therapy provides social support, reduces feelings of isolation, and allows for shared experiences and feedback.'.",
+        "answer": "Group therapy provides social support, reduces feelings of isolation, and allows for shared experiences and feedback."
+    },
+    {
+        "label": "Mental Health",
+        "question": "How does trauma-focused cognitive-behavioral therapy (TF-CBT) work?",
+        "context": "The answer to the question 'How does trauma-focused cognitive-behavioral therapy (TF-CBT) work?' is 'TF-CBT addresses trauma-related thoughts and behaviors, helping individuals process and heal from traumatic experiences.'.",
+        "answer": "TF-CBT addresses trauma-related thoughts and behaviors, helping individuals process and heal from traumatic experiences."
+    },
+    {
+        "label": "Mental Health",
+        "question": "What are the symptoms of attention deficit hyperactivity disorder (ADHD) in adults?",
+        "context": "When asked 'What are the symptoms of attention deficit hyperactivity disorder (ADHD) in adults?', the response is 'Symptoms include difficulty focusing, disorganization, impulsiveness, and restlessness.'.",
+        "answer": "Symptoms include difficulty focusing, disorganization, impulsiveness, and restlessness."
+    },
+    {
+        "label": "Mental Health",
+        "question": "How does exposure therapy help with phobias?",
+        "context": "When asked 'How does exposure therapy help with phobias?', the response is 'Exposure therapy gradually exposes individuals to feared objects or situations, reducing fear and avoidance behaviors.'.",
+        "answer": "Exposure therapy gradually exposes individuals to feared objects or situations, reducing fear and avoidance behaviors."
+    },
+    {
+        "label": "Mental Health",
+        "question": "What is the role of the amygdala in anxiety disorders?",
+        "context": "If you want to know 'What is the role of the amygdala in anxiety disorders?', the answer is 'The amygdala processes fear and emotional responses, and its overactivity is linked to anxiety disorders.'.",
+        "answer": "The amygdala processes fear and emotional responses, and its overactivity is linked to anxiety disorders."
+    },
+    {
+        "label": "Mental Health",
+        "question": "How can journaling benefit mental health?",
+        "context": "'Journaling helps process emotions, clarify thoughts, and reduce stress and anxiety.' is the answer to 'How can journaling benefit mental health?'.",
+        "answer": "Journaling helps process emotions, clarify thoughts, and reduce stress and anxiety."
+    },
+    {
+        "label": "Mental Health",
+        "question": "What are the effects of social media on mental health?",
+        "context": "'Social media can both positively and negatively impact mental health, depending on usage and individual susceptibility.' is the answer to 'What are the effects of social media on mental health?'.",
+        "answer": "Social media can both positively and negatively impact mental health, depending on usage and individual susceptibility."
+    },
+    {
+        "label": "Mental Health",
+        "question": "How can one improve emotional resilience?",
+        "context": "To the question 'How can one improve emotional resilience?', one should reply with 'By building coping skills, maintaining social connections, and practicing self-care and mindfulness.'.",
+        "answer": "By building coping skills, maintaining social connections, and practicing self-care and mindfulness."
+    },
+    {
+        "label": "Mental Health",
+        "question": "What is the relationship between physical and mental health?",
+        "context": "To the question 'What is the relationship between physical and mental health?', one should reply with 'Physical health and mental health are interconnected, with each influencing the other; poor physical health can lead to mental health issues and vice versa.'.",
+        "answer": "Physical health and mental health are interconnected, with each influencing the other; poor physical health can lead to mental health issues and vice versa."
+    },
+    {
+        "label": "Mental Health",
+        "question": "How does dialectical behavior therapy (DBT) help with BPD?",
+        "context": "The answer to the question 'How does dialectical behavior therapy (DBT) help with BPD?' is 'DBT teaches skills for emotional regulation, distress tolerance, interpersonal effectiveness, and mindfulness.'.",
+        "answer": "DBT teaches skills for emotional regulation, distress tolerance, interpersonal effectiveness, and mindfulness."
+    },
+    {
+        "label": "Mental Health",
+        "question": "What is the impact of loneliness on mental health?",
+        "context": "When asked 'What is the impact of loneliness on mental health?', the response is 'Loneliness can increase the risk of depression, anxiety, and other mental health disorders.'.",
+        "answer": "Loneliness can increase the risk of depression, anxiety, and other mental health disorders."
+    },
+    {
+        "label": "Mental Health",
+        "question": "How does genetics influence mental health?",
+        "context": "To the question 'How does genetics influence mental health?', one should reply with 'Genetic predispositions can increase the likelihood of developing mental health disorders, though environment and lifestyle also play roles.'.",
+        "answer": "Genetic predispositions can increase the likelihood of developing mental health disorders, though environment and lifestyle also play roles."
+    },
+    {
+        "label": "Mental Health",
+        "question": "What are the benefits of practicing yoga for mental health?",
+        "context": "When asked 'What are the benefits of practicing yoga for mental health?', the response is 'Yoga reduces stress, improves mood, and enhances emotional regulation through physical movement and mindfulness.'.",
+        "answer": "Yoga reduces stress, improves mood, and enhances emotional regulation through physical movement and mindfulness."
+    },
+    {
+        "label": "Mental Health",
+        "question": "What is the role of the prefrontal cortex in mental health?",
+        "context": "To the question 'What is the role of the prefrontal cortex in mental health?', one should reply with 'The prefrontal cortex regulates decision-making, impulse control, and emotional responses, and dysfunctions can contribute to mental health issues.'.",
+        "answer": "The prefrontal cortex regulates decision-making, impulse control, and emotional responses, and dysfunctions can contribute to mental health issues."
+    },
+    {
+        "label": "Mental Health",
+        "question": "How does seasonal affective disorder (SAD) differ from depression?",
+        "context": "When asked 'How does seasonal affective disorder (SAD) differ from depression?', the response is 'SAD is a type of depression that occurs seasonally, typically in winter, and is linked to reduced sunlight exposure.'.",
+        "answer": "SAD is a type of depression that occurs seasonally, typically in winter, and is linked to reduced sunlight exposure."
+    },
+    {
+        "label": "Mental Health",
+        "question": "How can pet therapy benefit mental health?",
+        "context": "If you want to know 'How can pet therapy benefit mental health?', the answer is 'Pet therapy provides companionship, reduces anxiety, and promotes positive emotional states.'.",
+        "answer": "Pet therapy provides companionship, reduces anxiety, and promotes positive emotional states."
+    },
+    {
+        "label": "Mental Health",
+        "question": "What are the symptoms of anorexia nervosa?",
+        "context": "When asked 'What are the symptoms of anorexia nervosa?', the response is 'Symptoms include extreme weight loss, fear of gaining weight, and a distorted body image.'.",
+        "answer": "Symptoms include extreme weight loss, fear of gaining weight, and a distorted body image."
+    },
+    {
+        "label": "Mental Health",
+        "question": "How does neurofeedback therapy work?",
+        "context": "To the question 'How does neurofeedback therapy work?', one should reply with 'Neurofeedback trains individuals to regulate brain activity, potentially improving conditions like ADHD and anxiety.'.",
+        "answer": "Neurofeedback trains individuals to regulate brain activity, potentially improving conditions like ADHD and anxiety."
+    },
+    {
+        "label": "Mental Health",
+        "question": "What are the effects of chronic pain on mental health?",
+        "context": "To the question 'What are the effects of chronic pain on mental health?', one should reply with 'Chronic pain can lead to depression, anxiety, and reduced quality of life.'.",
+        "answer": "Chronic pain can lead to depression, anxiety, and reduced quality of life."
+    },
+    {
+        "label": "Mental Health",
+        "question": "How can someone build a healthy self-esteem?",
+        "context": "'Through self-acceptance, positive self-talk, setting realistic goals, and nurturing supportive relationships.' is the answer to 'How can someone build a healthy self-esteem?'.",
+        "answer": "Through self-acceptance, positive self-talk, setting realistic goals, and nurturing supportive relationships."
+    },
+    {
+        "label": "Mental Health",
+        "question": "What is the impact of prenatal stress on child development?",
+        "context": "When asked 'What is the impact of prenatal stress on child development?', the response is 'Prenatal stress can affect brain development, increasing the risk of emotional and behavioral issues in children.'.",
+        "answer": "Prenatal stress can affect brain development, increasing the risk of emotional and behavioral issues in children."
+    },
+    {
+        "label": "Mental Health",
+        "question": "How does neuroinflammation relate to mental health disorders?",
+        "context": "When asked 'How does neuroinflammation relate to mental health disorders?', the response is 'Neuroinflammation is linked to the development of disorders like depression, Alzheimer's, and schizophrenia.'.",
+        "answer": "Neuroinflammation is linked to the development of disorders like depression, Alzheimer's, and schizophrenia."
+    },
+    {
+        "label": "Mental Health",
+        "question": "What is the role of the hypothalamic-pituitary-adrenal (HPA) axis in stress response?",
+        "context": "When asked 'What is the role of the hypothalamic-pituitary-adrenal (HPA) axis in stress response?', the response is 'The HPA axis regulates the body's response to stress, and dysregulation can contribute to anxiety and depression.'.",
+        "answer": "The HPA axis regulates the body's response to stress, and dysregulation can contribute to anxiety and depression."
+    },
+    {
+        "label": "Mental Health",
+        "question": "How can positive psychology interventions improve mental health?",
+        "context": "If you want to know 'How can positive psychology interventions improve mental health?', the answer is 'By focusing on strengths, gratitude, and positive experiences, enhancing well-being and resilience.'.",
+        "answer": "By focusing on strengths, gratitude, and positive experiences, enhancing well-being and resilience."
+    },
+    {
+        "label": "Mental Health",
+        "question": "What are the benefits of nature exposure for mental health?",
+        "context": "To the question 'What are the benefits of nature exposure for mental health?', one should reply with 'Nature exposure reduces stress, improves mood, and enhances cognitive function.'.",
+        "answer": "Nature exposure reduces stress, improves mood, and enhances cognitive function."
+    },
+    {
+        "label": "Mental Health",
+        "question": "How does the gut-brain axis influence mental health?",
+        "context": "When asked 'How does the gut-brain axis influence mental health?', the response is 'Gut health affects brain function and mood through the gut-brain axis, with imbalances linked to anxiety and depression.'.",
+        "answer": "Gut health affects brain function and mood through the gut-brain axis, with imbalances linked to anxiety and depression."
+    },
+    {
+        "label": "Mental Health",
+        "question": "What are the symptoms of postnatal depression?",
+        "context": "To the question 'What are the symptoms of postnatal depression?', one should reply with 'Symptoms include persistent sadness, fatigue, and difficulty bonding with the baby after childbirth.'.",
+        "answer": "Symptoms include persistent sadness, fatigue, and difficulty bonding with the baby after childbirth."
+    },
+    {
+        "label": "Mental Health",
+        "question": "How does the stigma around mental health affect individuals?",
+        "context": "The answer to the question 'How does the stigma around mental health affect individuals?' is 'Stigma can prevent individuals from seeking help, worsen symptoms, and lead to social isolation.'.",
+        "answer": "Stigma can prevent individuals from seeking help, worsen symptoms, and lead to social isolation."
+    },
+    {
+        "label": "Mental Health",
+        "question": "What is the role of dopamine in mental health?",
+        "context": "'Dopamine regulates mood, motivation, and reward, and imbalances are linked to disorders like depression and schizophrenia.' is the answer to 'What is the role of dopamine in mental health?'.",
+        "answer": "Dopamine regulates mood, motivation, and reward, and imbalances are linked to disorders like depression and schizophrenia."
+    },
+    {
+        "label": "Mental Health",
+        "question": "How can someone manage social anxiety disorder?",
+        "context": "If you want to know 'How can someone manage social anxiety disorder?', the answer is 'Through CBT, exposure therapy, medication, and practicing social skills in safe environments.'.",
+        "answer": "Through CBT, exposure therapy, medication, and practicing social skills in safe environments."
+    },
+    {
+        "label": "Mental Health",
+        "question": "What is the impact of screen time on mental health?",
+        "context": "When asked 'What is the impact of screen time on mental health?', the response is 'Excessive screen time can lead to sleep problems, anxiety, and depression, while moderate use can have positive effects.'.",
+        "answer": "Excessive screen time can lead to sleep problems, anxiety, and depression, while moderate use can have positive effects."
+    },
+    {
+        "label": "Mental Health",
+        "question": "How does early attachment affect mental health?",
+        "context": "If you want to know 'How does early attachment affect mental health?', the answer is 'Secure attachment in childhood fosters emotional regulation and resilience, while insecure attachment can lead to mental health issues.'.",
+        "answer": "Secure attachment in childhood fosters emotional regulation and resilience, while insecure attachment can lead to mental health issues."
+    },
+    {
+        "label": "Mental Health",
+        "question": "What are the benefits of laughter therapy?",
+        "context": "The answer to the question 'What are the benefits of laughter therapy?' is 'Laughter therapy reduces stress, improves mood, and enhances social connections.'.",
+        "answer": "Laughter therapy reduces stress, improves mood, and enhances social connections."
+    },
+    {
+        "label": "Mental Health",
+        "question": "How can someone cope with grief and loss?",
+        "context": "'Through support groups, therapy, self-care, and allowing oneself to experience and express emotions.' is the answer to 'How can someone cope with grief and loss?'.",
+        "answer": "Through support groups, therapy, self-care, and allowing oneself to experience and express emotions."
+    },
+    {
+        "label": "Mental Health",
+        "question": "What are the symptoms of generalized anxiety disorder (GAD)?",
+        "context": "If you want to know 'What are the symptoms of generalized anxiety disorder (GAD)?', the answer is 'Excessive worry, restlessness, fatigue, difficulty concentrating, and sleep disturbances.'.",
+        "answer": "Excessive worry, restlessness, fatigue, difficulty concentrating, and sleep disturbances."
+    },
+    {
+        "label": "Mental Health",
+        "question": "How does the diathesis-stress model explain mental health?",
+        "context": "When asked 'How does the diathesis-stress model explain mental health?', the response is 'The diathesis-stress model posits that mental health disorders arise from a combination of genetic vulnerability (diathesis) and environmental stressors.'.",
+        "answer": "The diathesis-stress model posits that mental health disorders arise from a combination of genetic vulnerability (diathesis) and environmental stressors."
+    },
+    {
+        "label": "Mental Health",
+        "question": "How can mindfulness-based cognitive therapy (MBCT) prevent depression relapse?",
+        "context": "When asked 'How can mindfulness-based cognitive therapy (MBCT) prevent depression relapse?', the response is 'MBCT combines mindfulness practices with cognitive therapy to break the cycle of negative thought patterns.'.",
+        "answer": "MBCT combines mindfulness practices with cognitive therapy to break the cycle of negative thought patterns."
+    },
+    {
+        "label": "Mental Health",
+        "question": "What are the effects of childhood neglect on mental health?",
+        "context": "'Childhood neglect can lead to attachment disorders, low self-esteem, and increased risk of anxiety and depression.' is the answer to 'What are the effects of childhood neglect on mental health?'.",
+        "answer": "Childhood neglect can lead to attachment disorders, low self-esteem, and increased risk of anxiety and depression."
+    },
+    {
+        "label": "Mental Health",
+        "question": "How does the polyvagal theory relate to mental health?",
+        "context": "'The polyvagal theory explains how the vagus nerve influences emotional regulation and social behavior, impacting mental health.' is the answer to 'How does the polyvagal theory relate to mental health?'.",
+        "answer": "The polyvagal theory explains how the vagus nerve influences emotional regulation and social behavior, impacting mental health."
+    },
+    {
+        "label": "Mental Health",
+        "question": "What is the role of family therapy in treating mental health disorders?",
+        "context": "The answer to the question 'What is the role of family therapy in treating mental health disorders?' is 'Family therapy addresses family dynamics and improves communication and support within the family system.'.",
+        "answer": "Family therapy addresses family dynamics and improves communication and support within the family system."
+    },
+    {
+        "label": "Mental Health",
+        "question": "How can breathing exercises help manage anxiety?",
+        "context": "If you want to know 'How can breathing exercises help manage anxiety?', the answer is 'Breathing exercises activate the parasympathetic nervous system, reducing the physiological symptoms of anxiety.'.",
+        "answer": "Breathing exercises activate the parasympathetic nervous system, reducing the physiological symptoms of anxiety."
+    },
+    {
+        "label": "Mental Health",
+        "question": "What are the symptoms of dissociative identity disorder (DID)?",
+        "context": "'Symptoms include the presence of two or more distinct identities, memory gaps, and a sense of disconnection from oneself.' is the answer to 'What are the symptoms of dissociative identity disorder (DID)?'.",
+        "answer": "Symptoms include the presence of two or more distinct identities, memory gaps, and a sense of disconnection from oneself."
+    },
+    {
+        "label": "Mental Health",
+        "question": "How does rumination contribute to depression?",
+        "context": "To the question 'How does rumination contribute to depression?', one should reply with 'Rumination involves repetitive negative thinking, which can exacerbate depressive symptoms and hinder recovery.'.",
+        "answer": "Rumination involves repetitive negative thinking, which can exacerbate depressive symptoms and hinder recovery."
+    },
+    {
+        "label": "Mental Health",
+        "question": "What is the role of a clinical psychologist in mental health care?",
+        "context": "If you want to know 'What is the role of a clinical psychologist in mental health care?', the answer is 'Clinical psychologists diagnose and treat mental health disorders using therapeutic techniques and interventions.'.",
+        "answer": "Clinical psychologists diagnose and treat mental health disorders using therapeutic techniques and interventions."
+    },
+    {
+        "label": "Mental Health",
+        "question": "How can one develop emotional intelligence (EQ)?",
+        "context": "When asked 'How can one develop emotional intelligence (EQ)?', the response is 'By improving self-awareness, self-regulation, empathy, and social skills through practice and reflection.'.",
+        "answer": "By improving self-awareness, self-regulation, empathy, and social skills through practice and reflection."
+    },
+    {
+        "label": "Mental Health",
+        "question": "What is the impact of adverse childhood experiences (ACEs) on mental health?",
+        "context": "The answer to the question 'What is the impact of adverse childhood experiences (ACEs) on mental health?' is 'ACEs increase the risk of developing mental health disorders and negative health behaviors in adulthood.'.",
+        "answer": "ACEs increase the risk of developing mental health disorders and negative health behaviors in adulthood."
+    },
+    {
+        "label": "Mental Health",
+        "question": "How can progressive muscle relaxation (PMR) reduce stress?",
+        "context": "The answer to the question 'How can progressive muscle relaxation (PMR) reduce stress?' is 'PMR involves tensing and relaxing muscle groups, which helps reduce physical tension and mental stress.'.",
+        "answer": "PMR involves tensing and relaxing muscle groups, which helps reduce physical tension and mental stress."
+    },
+    {
+        "label": "Mental Health",
+        "question": "What are the benefits of online therapy?",
+        "context": "The answer to the question 'What are the benefits of online therapy?' is 'Online therapy offers accessibility, convenience, and flexibility for individuals who may not have access to traditional in-person therapy.'.",
+        "answer": "Online therapy offers accessibility, convenience, and flexibility for individuals who may not have access to traditional in-person therapy."
+    },
+    {
+        "label": "Mental Health",
+        "question": "How does chronic illness impact mental health?",
+        "context": "'Chronic illness can lead to feelings of helplessness, depression, and anxiety, and requires coping strategies for mental well-being.' is the answer to 'How does chronic illness impact mental health?'.",
+        "answer": "Chronic illness can lead to feelings of helplessness, depression, and anxiety, and requires coping strategies for mental well-being."
+    },
+    {
+        "label": "Mental Health",
+        "question": "What are the signs of burnout?",
+        "context": "To the question 'What are the signs of burnout?', one should reply with 'Signs include physical and emotional exhaustion, cynicism, reduced performance, and detachment from work.'.",
+        "answer": "Signs include physical and emotional exhaustion, cynicism, reduced performance, and detachment from work."
+    },
+    {
+        "label": "Mental Health",
+        "question": "How can practicing gratitude improve mental health?",
+        "context": "'Gratitude enhances mood, reduces stress, and fosters a positive outlook on life.' is the answer to 'How can practicing gratitude improve mental health?'.",
+        "answer": "Gratitude enhances mood, reduces stress, and fosters a positive outlook on life."
+    },
+    {
+        "label": "Mental Health",
+        "question": "What is the role of the limbic system in emotional regulation?",
+        "context": "To the question 'What is the role of the limbic system in emotional regulation?', one should reply with 'The limbic system, including structures like the amygdala and hippocampus, regulates emotions and memory.'.",
+        "answer": "The limbic system, including structures like the amygdala and hippocampus, regulates emotions and memory."
+    },
+    {
+        "label": "Mental Health",
+        "question": "How can peer support benefit individuals with mental health issues?",
+        "context": "To the question 'How can peer support benefit individuals with mental health issues?', one should reply with 'Peer support provides understanding, shared experiences, and encouragement, reducing feelings of isolation.'.",
+        "answer": "Peer support provides understanding, shared experiences, and encouragement, reducing feelings of isolation."
+    },
+    {
+        "label": "Mental Health",
+        "question": "What are the symptoms of somatic symptom disorder?",
+        "context": "'Symptoms include excessive focus on physical symptoms, leading to significant distress and impairment.' is the answer to 'What are the symptoms of somatic symptom disorder?'.",
+        "answer": "Symptoms include excessive focus on physical symptoms, leading to significant distress and impairment."
+    },
+    {
+        "label": "Mental Health",
+        "question": "How can nature therapy or ecotherapy improve mental health?",
+        "context": "If you want to know 'How can nature therapy or ecotherapy improve mental health?', the answer is 'Nature therapy reduces stress, improves mood, and enhances overall well-being through connection with the natural environment.'.",
+        "answer": "Nature therapy reduces stress, improves mood, and enhances overall well-being through connection with the natural environment."
+    },
+    {
+        "label": "Mental Health",
+        "question": "What is the impact of bullying on mental health?",
+        "context": "'Bullying can lead to anxiety, depression, low self-esteem, and long-term psychological trauma.' is the answer to 'What is the impact of bullying on mental health?'.",
+        "answer": "Bullying can lead to anxiety, depression, low self-esteem, and long-term psychological trauma."
+    },
+    {
+        "label": "Mental Health",
+        "question": "How does hormonal imbalance affect mental health?",
+        "context": "'Hormonal imbalances, such as those involving thyroid or reproductive hormones, can contribute to mood swings, anxiety, and depression.' is the answer to 'How does hormonal imbalance affect mental health?'.",
+        "answer": "Hormonal imbalances, such as those involving thyroid or reproductive hormones, can contribute to mood swings, anxiety, and depression."
+    },
+    {
+        "label": "Mental Health",
+        "question": "How can setting boundaries improve mental health?",
+        "context": "When asked 'How can setting boundaries improve mental health?', the response is 'Setting boundaries helps protect personal space, reduces stress, and promotes healthy relationships.'.",
+        "answer": "Setting boundaries helps protect personal space, reduces stress, and promotes healthy relationships."
+    },
+    {
+        "label": "Mental Health",
+        "question": "What are the benefits of laughter yoga?",
+        "context": "If you want to know 'What are the benefits of laughter yoga?', the answer is 'Laughter yoga combines laughter exercises with yoga breathing, reducing stress and improving mood.'.",
+        "answer": "Laughter yoga combines laughter exercises with yoga breathing, reducing stress and improving mood."
+    },
+    {
+        "label": "Mental Health",
+        "question": "How does cultural background influence mental health?",
+        "context": "When asked 'How does cultural background influence mental health?', the response is 'Cultural background affects the perception, expression, and treatment of mental health issues, with varying stigma and support systems.'.",
+        "answer": "Cultural background affects the perception, expression, and treatment of mental health issues, with varying stigma and support systems."
+    },
+    {
+        "label": "Mental Health",
+        "question": "What is the impact of financial stress on mental health?",
+        "context": "If you want to know 'What is the impact of financial stress on mental health?', the answer is 'Financial stress can lead to anxiety, depression, and strained relationships, affecting overall mental well-being.'.",
+        "answer": "Financial stress can lead to anxiety, depression, and strained relationships, affecting overall mental well-being."
+    },
+    {
+        "label": "Mental Health",
+        "question": "How can positive affirmations benefit mental health?",
+        "context": "When asked 'How can positive affirmations benefit mental health?', the response is 'Positive affirmations can improve self-esteem, reduce negative thinking, and enhance overall mood.'.",
+        "answer": "Positive affirmations can improve self-esteem, reduce negative thinking, and enhance overall mood."
+    },
+    {
+        "label": "Mental Health",
+        "question": "What are the symptoms of histrionic personality disorder (HPD)?",
+        "context": "'Symptoms include excessive emotionality, attention-seeking behavior, and a need for approval.' is the answer to 'What are the symptoms of histrionic personality disorder (HPD)?'.",
+        "answer": "Symptoms include excessive emotionality, attention-seeking behavior, and a need for approval."
+    },
+    {
+        "label": "Mental Health",
+        "question": "How does the placebo effect relate to mental health treatment?",
+        "context": "The answer to the question 'How does the placebo effect relate to mental health treatment?' is 'The placebo effect demonstrates the power of belief and expectation in improving mental health symptoms, highlighting the mind-body connection'.",
+        "answer": "The placebo effect demonstrates the power of belief and expectation in improving mental health symptoms, highlighting the mind-body connection"
+    },
+    {
+        "label": "Mental Health",
+        "question": "How can one manage work-related stress?",
+        "context": "The answer to the question 'How can one manage work-related stress?' is 'By practicing time management, setting realistic goals, taking breaks, and seeking support from colleagues or supervisors.'.",
+        "answer": "By practicing time management, setting realistic goals, taking breaks, and seeking support from colleagues or supervisors."
+    },
+    {
+        "label": "Mental Health",
+        "question": "What is the role of emotional regulation in mental health?",
+        "context": "The answer to the question 'What is the role of emotional regulation in mental health?' is 'Emotional regulation involves managing and responding to emotional experiences in healthy ways, crucial for mental well-being.'.",
+        "answer": "Emotional regulation involves managing and responding to emotional experiences in healthy ways, crucial for mental well-being."
+    },
+    {
+        "label": "Mental Health",
+        "question": "How does virtual reality therapy work for mental health?",
+        "context": "To the question 'How does virtual reality therapy work for mental health?', one should reply with 'Virtual reality therapy uses immersive environments to treat conditions like PTSD, anxiety, and phobias through exposure and cognitive-behavioral techniques.'.",
+        "answer": "Virtual reality therapy uses immersive environments to treat conditions like PTSD, anxiety, and phobias through exposure and cognitive-behavioral techniques."
+    },
+    {
+        "label": "Mental Health",
+        "question": "What are the benefits of expressive writing for mental health?",
+        "context": "If you want to know 'What are the benefits of expressive writing for mental health?', the answer is 'Expressive writing helps process emotions, reduce stress, and gain insight into personal experiences.'.",
+        "answer": "Expressive writing helps process emotions, reduce stress, and gain insight into personal experiences."
+    },
+    {
+        "label": "Mental Health",
+        "question": "How can someone practice self-compassion?",
+        "context": "When asked 'How can someone practice self-compassion?', the response is 'By treating oneself with kindness, understanding, and forgiveness, especially during times of failure or difficulty'.",
+        "answer": "By treating oneself with kindness, understanding, and forgiveness, especially during times of failure or difficulty"
+    },
+    {
+        "label": "Mental Health",
+        "question": "What is the impact of trauma on brain development?",
+        "context": "When asked 'What is the impact of trauma on brain development?', the response is 'Trauma can alter brain development, affecting areas responsible for emotion regulation, memory, and stress response.'.",
+        "answer": "Trauma can alter brain development, affecting areas responsible for emotion regulation, memory, and stress response."
+    },
+    {
+        "label": "Mental Health",
+        "question": "How does interpersonal therapy (IPT) help with depression?",
+        "context": "'IPT focuses on improving interpersonal relationships and social functioning to alleviate depressive symptoms' is the answer to 'How does interpersonal therapy (IPT) help with depression?'.",
+        "answer": "IPT focuses on improving interpersonal relationships and social functioning to alleviate depressive symptoms"
+    },
+    {
+        "label": "Mental Health",
+        "question": "What are the symptoms of avoidant personality disorder (AvPD)?",
+        "context": "To the question 'What are the symptoms of avoidant personality disorder (AvPD)?', one should reply with 'Symptoms include extreme shyness, fear of rejection, and social inhibition, leading to avoidance of social interactions.'.",
+        "answer": "Symptoms include extreme shyness, fear of rejection, and social inhibition, leading to avoidance of social interactions."
+    },
+    {
+        "label": "Mental Health",
+        "question": "How can one develop resilience to stress?",
+        "context": "To the question 'How can one develop resilience to stress?', one should reply with 'By building strong social connections, practicing self-care, maintaining a positive outlook, and developing problem-solving skills.'.",
+        "answer": "By building strong social connections, practicing self-care, maintaining a positive outlook, and developing problem-solving skills."
+    },
+    {
+        "label": "Mental Health",
+        "question": "What is the role of forgiveness in mental health?",
+        "context": "If you want to know 'What is the role of forgiveness in mental health?', the answer is 'Forgiveness reduces resentment and stress, promoting emotional healing and improving mental well-being.'.",
+        "answer": "Forgiveness reduces resentment and stress, promoting emotional healing and improving mental well-being."
     }
 ]

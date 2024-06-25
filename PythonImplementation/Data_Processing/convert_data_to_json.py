@@ -2,7 +2,7 @@ import pandas as pd
 import json
 
 # Assuming the preprocess_question function is correctly defined in the imported module
-from DataPreprocessing.Data_Processing.data_preprocessing import preprocess_question
+from PythonImplementation.Data_Processing.data_preprocessing import preprocess_question
 
 
 def excel_to_json(excel_path, json_path):
@@ -18,8 +18,8 @@ def excel_to_json(excel_path, json_path):
 
 
 def main():
-    excel_path = '/Users/alexandruvalah/IdeaProjects/healthAdvisorChatbot/DataPreprocessing/Resources/RawData/newdataset.xlsx'  # Correct the path and file extension
-    json_path = '/Users/alexandruvalah/IdeaProjects/healthAdvisorChatbot/DataPreprocessing/Resources/RawData/ComprehensiveMedicalQ&A.json'  # Correct the path for the JSON output
+    excel_path = '/PythonImplementation/Resources/RawData/newdataset.xlsx'  # Correct the path and file extension
+    json_path = '/PythonImplementation/Resources/RawData/ComprehensiveMedicalQ&A.json'  # Correct the path for the JSON output
     excel_to_json(excel_path, json_path)
     print("Conversion completed successfully!")
 

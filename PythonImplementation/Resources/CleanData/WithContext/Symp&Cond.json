@@ -1,0 +1,1790 @@
+[
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why am I feeling so tired lately?",
+        "context": "'Fatigue can be caused by factors like lack of sleep, stress, poor nutrition, or health conditions. It's important to consider your lifestyle and consult a healthcare professional if needed.' is the answer to 'Why am I feeling so tired lately?'.",
+        "answer": "Fatigue can be caused by factors like lack of sleep, stress, poor nutrition, or health conditions. It's important to consider your lifestyle and consult a healthcare professional if needed."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What should I do about my frequent headaches?",
+        "context": "'Headaches can be triggered by dehydration, stress, eye strain, or health issues. Hydration, stress management, and breaks from screens can help. If headaches persist, it's best to consult a healthcare professional.' is the answer to 'What should I do about my frequent headaches?'.",
+        "answer": "Headaches can be triggered by dehydration, stress, eye strain, or health issues. Hydration, stress management, and breaks from screens can help. If headaches persist, it's best to consult a healthcare professional."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why am I suddenly gaining weight?",
+        "context": "'Unexplained weight changes may indicate health issues like thyroid problems or hormonal imbalances. Monitoring your weight and consulting a healthcare provider if changes persist is advisable.' is the answer to 'Why am I suddenly gaining weight?'.",
+        "answer": "Unexplained weight changes may indicate health issues like thyroid problems or hormonal imbalances. Monitoring your weight and consulting a healthcare provider if changes persist is advisable."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What can I do about anxiety?",
+        "context": "The answer to the question 'What can I do about anxiety?' is 'Techniques like deep breathing, exercise, and seeking support can help manage anxiety. If it affects daily life, consulting a mental health professional is recommended.'.",
+        "answer": "Techniques like deep breathing, exercise, and seeking support can help manage anxiety. If it affects daily life, consulting a mental health professional is recommended."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "How can I improve my sleep?",
+        "context": "'Establishing a bedtime routine, creating a relaxing environment, and avoiding stimulants before bed may improve sleep quality. If problems persist, consulting a healthcare provider is advisable.' is the answer to 'How can I improve my sleep?'.",
+        "answer": "Establishing a bedtime routine, creating a relaxing environment, and avoiding stimulants before bed may improve sleep quality. If problems persist, consulting a healthcare provider is advisable."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Should I be concerned about changes in my skin?",
+        "context": "If you want to know 'Should I be concerned about changes in my skin?', the answer is 'Changes in skin appearance should be monitored, especially new moles or persistent rashes. Consulting a dermatologist for evaluation is recommended.\"'.",
+        "answer": "Changes in skin appearance should be monitored, especially new moles or persistent rashes. Consulting a dermatologist for evaluation is recommended.\""
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why do I have stomach pain and bloating?",
+        "context": "To the question 'Why do I have stomach pain and bloating?', one should reply with 'Stomach pain and bloating can be caused by digestive issues or food intolerances. Keeping a food diary and consulting a healthcare provider if symptoms persist is advisable.'.",
+        "answer": "Stomach pain and bloating can be caused by digestive issues or food intolerances. Keeping a food diary and consulting a healthcare provider if symptoms persist is advisable."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why am I feeling weak and shaky?",
+        "context": "When asked 'Why am I feeling weak and shaky?', the response is 'Factors like dehydration, low blood sugar, or health conditions may cause weakness and shakiness. Adequate hydration, nutrition, and rest are important. Consultation with a healthcare provider is recommended if symptoms persist.'.",
+        "answer": "Factors like dehydration, low blood sugar, or health conditions may cause weakness and shakiness. Adequate hydration, nutrition, and rest are important. Consultation with a healthcare provider is recommended if symptoms persist."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What should I do about my persistent cough?",
+        "context": "To the question 'What should I do about my persistent cough?', one should reply with 'Persistent coughing may be due to respiratory infections or other conditions. Monitoring symptoms and consulting a healthcare provider if they persist is advisable.\"'.",
+        "answer": "Persistent coughing may be due to respiratory infections or other conditions. Monitoring symptoms and consulting a healthcare provider if they persist is advisable.\""
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why do I have joint pain and stiffness?",
+        "context": "The answer to the question 'Why do I have joint pain and stiffness?' is 'Joint pain and stiffness, especially in the mornings, can be due to arthritis or other conditions. Gentle exercises and maintaining a healthy weight can help. Consultation with a healthcare provider for further evaluation is recommended if symptoms persist.'.",
+        "answer": "Joint pain and stiffness, especially in the mornings, can be due to arthritis or other conditions. Gentle exercises and maintaining a healthy weight can help. Consultation with a healthcare provider for further evaluation is recommended if symptoms persist."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "How can I get rid of constant stomach pains?",
+        "context": "The answer to the question 'How can I get rid of constant stomach pains?' is 'Constant stomach pains may be caused by dietary issues, stress, or underlying health conditions. Keeping track of your symptoms and discussing them with a healthcare provider is advisable.'.",
+        "answer": "Constant stomach pains may be caused by dietary issues, stress, or underlying health conditions. Keeping track of your symptoms and discussing them with a healthcare provider is advisable."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "How do I deal with muscle cramps?",
+        "context": "The answer to the question 'How do I deal with muscle cramps?' is 'Dealing with muscle cramps might involve stretching, staying hydrated, or adjusting your physical activity level. If they persist, consulting a healthcare provider is recommended.'.",
+        "answer": "Dealing with muscle cramps might involve stretching, staying hydrated, or adjusting your physical activity level. If they persist, consulting a healthcare provider is recommended."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What can I do about my constant fatigue?",
+        "context": "To the question 'What can I do about my constant fatigue?', one should reply with 'Constant fatigue could be due to lack of sleep, stress, or health issues. Prioritizing rest, managing stress, and seeking medical advice if it continues is important.\"'.",
+        "answer": "Constant fatigue could be due to lack of sleep, stress, or health issues. Prioritizing rest, managing stress, and seeking medical advice if it continues is important.\""
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "How do I improve my mood?",
+        "context": "To the question 'How do I improve my mood?', one should reply with 'Improving your mood may involve activities like exercising, spending time outdoors, or engaging in hobbies you enjoy. Seeking support from friends and professionals can also be beneficial.'.",
+        "answer": "Improving your mood may involve activities like exercising, spending time outdoors, or engaging in hobbies you enjoy. Seeking support from friends and professionals can also be beneficial."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "How do I stop persistent headaches?",
+        "context": "'Stopping persistent headaches might involve staying hydrated, managing stress, or identifying and avoiding triggers. If headaches persist, consulting a healthcare provider for further evaluation and treatment is recommended.' is the answer to 'How do I stop persistent headaches?'.",
+        "answer": "Stopping persistent headaches might involve staying hydrated, managing stress, or identifying and avoiding triggers. If headaches persist, consulting a healthcare provider for further evaluation and treatment is recommended."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "How can I alleviate persistent back pain?",
+        "context": "If you want to know 'How can I alleviate persistent back pain?', the answer is 'Persistent back pain may result from factors like poor posture, muscle strain, or underlying spinal conditions. Incorporating gentle stretches, practicing good posture, and consulting a healthcare provider for tailored treatment options can help.'.",
+        "answer": "Persistent back pain may result from factors like poor posture, muscle strain, or underlying spinal conditions. Incorporating gentle stretches, practicing good posture, and consulting a healthcare provider for tailored treatment options can help."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What could be behind sudden vision changes?",
+        "context": "'Sudden changes in vision may indicate eye problems, migraines, or other health issues. It's essential to schedule an eye exam and consult a healthcare provider for further evaluation.' is the answer to 'What could be behind sudden vision changes?'.",
+        "answer": "Sudden changes in vision may indicate eye problems, migraines, or other health issues. It's essential to schedule an eye exam and consult a healthcare provider for further evaluation."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "How do I manage chronic allergy symptoms?",
+        "context": "When asked 'How do I manage chronic allergy symptoms?', the response is 'Managing chronic allergy symptoms involves identifying triggers, such as pollen or dust, and taking preventive measures like using air purifiers or allergy medications. Consulting an allergist for personalized treatment options is recommended.'.",
+        "answer": "Managing chronic allergy symptoms involves identifying triggers, such as pollen or dust, and taking preventive measures like using air purifiers or allergy medications. Consulting an allergist for personalized treatment options is recommended."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why am I experiencing cough with chest tightness?",
+        "context": "If you want to know 'Why am I experiencing cough with chest tightness?', the answer is 'Persistent cough with chest tightness may be signs of respiratory conditions like asthma, allergies, or bronchitis. It's crucial to seek medical attention for proper diagnosis and management.'.",
+        "answer": "Persistent cough with chest tightness may be signs of respiratory conditions like asthma, allergies, or bronchitis. It's crucial to seek medical attention for proper diagnosis and management."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What's causing sudden weight loss?",
+        "context": "To the question 'What's causing sudden weight loss?', one should reply with 'Sudden weight loss can be a sign of underlying health issues such as thyroid problems, diabetes, or gastrointestinal disorders. It's important to consult a healthcare provider for proper evaluation and diagnosis.'.",
+        "answer": "Sudden weight loss can be a sign of underlying health issues such as thyroid problems, diabetes, or gastrointestinal disorders. It's important to consult a healthcare provider for proper evaluation and diagnosis."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "How can I manage these sudden mood swings and irritability?",
+        "context": "'Managing sudden mood swings and irritability involves identifying triggers, practicing relaxation techniques, and seeking support from loved ones or a mental health professional. Consulting a healthcare provider for further evaluation and guidance is advisable.' is the answer to 'How can I manage these sudden mood swings and irritability?'.",
+        "answer": "Managing sudden mood swings and irritability involves identifying triggers, practicing relaxation techniques, and seeking support from loved ones or a mental health professional. Consulting a healthcare provider for further evaluation and guidance is advisable."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why do I feel nauseous after exercising?",
+        "context": "To the question 'Why do I feel nauseous after exercising?', one should reply with 'Feeling nauseous after exercise could be due to various factors like dehydration, low blood sugar, or pushing too hard during workouts. It's important to stay hydrated and eat a balanced meal before exercising. If nausea persists, it's advisable to consult a healthcare provider.'.",
+        "answer": "Feeling nauseous after exercise could be due to various factors like dehydration, low blood sugar, or pushing too hard during workouts. It's important to stay hydrated and eat a balanced meal before exercising. If nausea persists, it's advisable to consult a healthcare provider."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What's causing persistent muscle cramps during workouts?",
+        "context": "When asked 'What's causing persistent muscle cramps during workouts?', the response is 'Persistent muscle cramps during workouts may result from dehydration, electrolyte imbalances, or overexertion. Ensuring proper hydration, electrolyte balance, and warming up before exercise can help prevent cramps. If they continue, consulting a healthcare provider or fitness professional is recommended.'.",
+        "answer": "Persistent muscle cramps during workouts may result from dehydration, electrolyte imbalances, or overexertion. Ensuring proper hydration, electrolyte balance, and warming up before exercise can help prevent cramps. If they continue, consulting a healthcare provider or fitness professional is recommended."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why do I experience shortness of breath during cardio workouts?",
+        "context": "When asked 'Why do I experience shortness of breath during cardio workouts?', the response is 'Shortness of breath during cardio workouts could be due to factors like poor cardiovascular fitness, asthma, or underlying respiratory conditions. Gradually increasing intensity, practicing proper breathing techniques, and consulting a healthcare provider for evaluation is important.'.",
+        "answer": "Shortness of breath during cardio workouts could be due to factors like poor cardiovascular fitness, asthma, or underlying respiratory conditions. Gradually increasing intensity, practicing proper breathing techniques, and consulting a healthcare provider for evaluation is important."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "How can I prevent lower back pain during weightlifting?",
+        "context": "'Preventing lower back pain during weightlifting involves maintaining proper form, strengthening the core muscles, and avoiding lifting weights that are too heavy. If lower back pain persists, consulting a fitness professional or physical therapist for evaluation and personalized recommendations is advisable.' is the answer to 'How can I prevent lower back pain during weightlifting?'.",
+        "answer": "Preventing lower back pain during weightlifting involves maintaining proper form, strengthening the core muscles, and avoiding lifting weights that are too heavy. If lower back pain persists, consulting a fitness professional or physical therapist for evaluation and personalized recommendations is advisable."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why do I feel dizzy and lightheaded after high-intensity interval training (HIIT)?",
+        "context": "If you want to know 'Why do I feel dizzy and lightheaded after high-intensity interval training (HIIT)?', the answer is 'Feeling dizzy and lightheaded after HIIT workouts may be due to factors like dehydration, low blood sugar, or pushing too hard during intervals. Ensuring proper hydration, fueling your body with a balanced meal before workouts, and listening to your body's signals are important. If symptoms persist, consulting a healthcare provider is recommended.'.",
+        "answer": "Feeling dizzy and lightheaded after HIIT workouts may be due to factors like dehydration, low blood sugar, or pushing too hard during intervals. Ensuring proper hydration, fueling your body with a balanced meal before workouts, and listening to your body's signals are important. If symptoms persist, consulting a healthcare provider is recommended."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What's causing frequent shoulder injuries during weightlifting?",
+        "context": "To the question 'What's causing frequent shoulder injuries during weightlifting?', one should reply with 'Frequent shoulder injuries during weightlifting may result from factors like overuse, improper form, or underlying shoulder instability. Ensuring proper warm-up, using appropriate weights, and incorporating shoulder-strengthening exercises into your routine can help prevent injuries. If shoulder pain persists, consulting a fitness professional or physical therapist for evaluation and guidance is advisable.'.",
+        "answer": "Frequent shoulder injuries during weightlifting may result from factors like overuse, improper form, or underlying shoulder instability. Ensuring proper warm-up, using appropriate weights, and incorporating shoulder-strengthening exercises into your routine can help prevent injuries. If shoulder pain persists, consulting a fitness professional or physical therapist for evaluation and guidance is advisable."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What's causing persistent fatigue and lack of energy during my workouts?",
+        "context": "If you want to know 'What's causing persistent fatigue and lack of energy during my workouts?', the answer is 'Persistent fatigue and lack of energy during workouts could be due to factors like inadequate nutrition, poor sleep quality, or overtraining. Ensuring proper rest, nutrition, and recovery between workouts is important. If fatigue persists, consulting a healthcare provider for evaluation and personalized recommendations is advisable.'.",
+        "answer": "Persistent fatigue and lack of energy during workouts could be due to factors like inadequate nutrition, poor sleep quality, or overtraining. Ensuring proper rest, nutrition, and recovery between workouts is important. If fatigue persists, consulting a healthcare provider for evaluation and personalized recommendations is advisable."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "How can I reduce the risk of developing exercise-induced asthma?",
+        "context": "When asked 'How can I reduce the risk of developing exercise-induced asthma?', the response is 'Reducing the risk of exercise-induced asthma involves warming up before exercise, avoiding triggers like cold air or allergens, and using prescribed inhalers as directed by a healthcare provider. If symptoms persist or worsen, consulting a healthcare provider for evaluation and management is important.'.",
+        "answer": "Reducing the risk of exercise-induced asthma involves warming up before exercise, avoiding triggers like cold air or allergens, and using prescribed inhalers as directed by a healthcare provider. If symptoms persist or worsen, consulting a healthcare provider for evaluation and management is important."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Is it safe to exercise if I have high blood pressure?",
+        "context": "To the question 'Is it safe to exercise if I have high blood pressure?', one should reply with 'Exercising with high blood pressure can be safe and beneficial, but it's important to consult your healthcare provider for personalized recommendations. They can advise on suitable exercises and precautions to take.'.",
+        "answer": "Exercising with high blood pressure can be safe and beneficial, but it's important to consult your healthcare provider for personalized recommendations. They can advise on suitable exercises and precautions to take."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Can I still do weightlifting if I have arthritis?",
+        "context": "To the question 'Can I still do weightlifting if I have arthritis?', one should reply with 'Weightlifting can be possible with arthritis, but it's crucial to adapt your routine to avoid exacerbating joint pain. Consulting a fitness professional or physical therapist for tailored exercises and modifications is advisable.'.",
+        "answer": "Weightlifting can be possible with arthritis, but it's crucial to adapt your routine to avoid exacerbating joint pain. Consulting a fitness professional or physical therapist for tailored exercises and modifications is advisable."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Is it okay to do cardio workouts if I have asthma?",
+        "context": "If you want to know 'Is it okay to do cardio workouts if I have asthma?', the answer is 'Cardio workouts can be safe with asthma, but it's essential to choose low-impact activities and monitor your breathing. Consulting your healthcare provider for personalized advice and ensuring you have your inhaler on hand is recommended.'.",
+        "answer": "Cardio workouts can be safe with asthma, but it's essential to choose low-impact activities and monitor your breathing. Consulting your healthcare provider for personalized advice and ensuring you have your inhaler on hand is recommended."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Can I participate in high-intensity interval training (HIIT) with diabetes?",
+        "context": "When asked 'Can I participate in high-intensity interval training (HIIT) with diabetes?', the response is 'Participating in HIIT with diabetes can be possible, but it's important to monitor your blood sugar levels closely and adjust your workout intensity accordingly. Consulting a healthcare provider or diabetes educator for guidance is advisable.'.",
+        "answer": "Participating in HIIT with diabetes can be possible, but it's important to monitor your blood sugar levels closely and adjust your workout intensity accordingly. Consulting a healthcare provider or diabetes educator for guidance is advisable."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Can I still do yoga if I have back pain?",
+        "context": "'Yes, yoga can be beneficial for back pain, but choose gentle poses and avoid ones that strain your back. Consider consulting a yoga instructor for modifications.' is the answer to 'Can I still do yoga if I have back pain?'.",
+        "answer": "Yes, yoga can be beneficial for back pain, but choose gentle poses and avoid ones that strain your back. Consider consulting a yoga instructor for modifications."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Should I avoid weightlifting if I have a herniated disc?",
+        "context": "When asked 'Should I avoid weightlifting if I have a herniated disc?', the response is 'Weightlifting with a herniated disc can be risky, but it may be possible with modifications and proper technique. Consulting a physical therapist or spine specialist for personalized guidance is advisable to prevent further injury.'.",
+        "answer": "Weightlifting with a herniated disc can be risky, but it may be possible with modifications and proper technique. Consulting a physical therapist or spine specialist for personalized guidance is advisable to prevent further injury."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Is it safe for me to do strength training if I have heart disease?",
+        "context": "'Strength training can be safe with heart disease, but it's crucial to start slowly, monitor your heart rate, and avoid holding your breath during exercises. Consulting your healthcare provider for personalized recommendations and monitoring is important.' is the answer to 'Is it safe for me to do strength training if I have heart disease?'.",
+        "answer": "Strength training can be safe with heart disease, but it's crucial to start slowly, monitor your heart rate, and avoid holding your breath during exercises. Consulting your healthcare provider for personalized recommendations and monitoring is important."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Can I still do Pilates if I have scoliosis?",
+        "context": "'Pilates can be beneficial with scoliosis, but it's essential to work with an experienced instructor who can modify exercises to accommodate your condition. Consulting a healthcare provider or physical therapist for personalized guidance is advisable.' is the answer to 'Can I still do Pilates if I have scoliosis?'.",
+        "answer": "Pilates can be beneficial with scoliosis, but it's essential to work with an experienced instructor who can modify exercises to accommodate your condition. Consulting a healthcare provider or physical therapist for personalized guidance is advisable."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Should I avoid running if I have knee pain?",
+        "context": "To the question 'Should I avoid running if I have knee pain?', one should reply with 'If you have knee pain, running may exacerbate it. Consider low-impact exercises like swimming or cycling and consult a healthcare provider for guidance.'.",
+        "answer": "If you have knee pain, running may exacerbate it. Consider low-impact exercises like swimming or cycling and consult a healthcare provider for guidance."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why am I experiencing chest pain?",
+        "context": "When asked 'Why am I experiencing chest pain?', the response is 'Chest pain can be caused by various factors, including heartburn, muscle strain, or more serious conditions like heart problems. If you're experiencing chest pain, especially with other symptoms like shortness of breath, seek medical attention immediately.'.",
+        "answer": "Chest pain can be caused by various factors, including heartburn, muscle strain, or more serious conditions like heart problems. If you're experiencing chest pain, especially with other symptoms like shortness of breath, seek medical attention immediately."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why am I experiencing frequent heartburn?",
+        "context": "To the question 'Why am I experiencing frequent heartburn?', one should reply with 'Frequent heartburn could be due to factors like diet, stress, or underlying gastrointestinal conditions like acid reflux. Consider avoiding trigger foods, eating smaller meals, and consulting a healthcare provider for proper evaluation and treatment.'.",
+        "answer": "Frequent heartburn could be due to factors like diet, stress, or underlying gastrointestinal conditions like acid reflux. Consider avoiding trigger foods, eating smaller meals, and consulting a healthcare provider for proper evaluation and treatment."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why do I feel lightheaded when I stand up?",
+        "context": "When asked 'Why do I feel lightheaded when I stand up?', the response is 'Feeling lightheaded when standing up could be due to factors like dehydration, low blood pressure, or orthostatic hypotension. Consider staying hydrated, standing up slowly, and consulting a healthcare provider for proper evaluation and management if symptoms persist.'.",
+        "answer": "Feeling lightheaded when standing up could be due to factors like dehydration, low blood pressure, or orthostatic hypotension. Consider staying hydrated, standing up slowly, and consulting a healthcare provider for proper evaluation and management if symptoms persist."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Can I still exercise if I have diabetes?",
+        "context": "To the question 'Can I still exercise if I have diabetes?', one should reply with 'Yes, exercising with diabetes can help manage blood sugar levels, but it's important to monitor your levels closely and choose appropriate activities. Consult your healthcare provider for personalized recommendations.'.",
+        "answer": "Yes, exercising with diabetes can help manage blood sugar levels, but it's important to monitor your levels closely and choose appropriate activities. Consult your healthcare provider for personalized recommendations."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Is it okay to do cardio workouts if I have high cholesterol?",
+        "context": "To the question 'Is it okay to do cardio workouts if I have high cholesterol?', one should reply with 'Yes, cardio workouts can help improve cholesterol levels, but it's important to start slowly and gradually increase intensity. Consult your healthcare provider for personalized advice and monitoring.'.",
+        "answer": "Yes, cardio workouts can help improve cholesterol levels, but it's important to start slowly and gradually increase intensity. Consult your healthcare provider for personalized advice and monitoring."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Can I still do strength training if I have a heart condition?",
+        "context": "When asked 'Can I still do strength training if I have a heart condition?', the response is 'Yes, strength training can be safe with a heart condition, but it's important to start slowly, use light weights, and avoid holding your breath during exercises. Consult your healthcare provider for personalized recommendations and monitoring.'.",
+        "answer": "Yes, strength training can be safe with a heart condition, but it's important to start slowly, use light weights, and avoid holding your breath during exercises. Consult your healthcare provider for personalized recommendations and monitoring."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Should I avoid exercising if I have a cold?",
+        "context": "If you want to know 'Should I avoid exercising if I have a cold?', the answer is 'Exercising with a cold can be possible, but it's important to listen to your body and avoid pushing yourself too hard. Consider choosing lower-intensity activities like walking or gentle yoga until you feel better. If symptoms worsen or persist, consult your healthcare provider.'.",
+        "answer": "Exercising with a cold can be possible, but it's important to listen to your body and avoid pushing yourself too hard. Consider choosing lower-intensity activities like walking or gentle yoga until you feel better. If symptoms worsen or persist, consult your healthcare provider."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why am I experiencing muscle soreness after lifting weights?",
+        "context": "The answer to the question 'Why am I experiencing muscle soreness after lifting weights?' is 'Muscle soreness after lifting weights, also known as delayed onset muscle soreness (DOMS), occurs when muscles are worked harder than usual. It's a normal response to exercise and typically resolves within a few days. Ensure you're warming up properly and gradually increasing weights to minimize soreness.'.",
+        "answer": "Muscle soreness after lifting weights, also known as delayed onset muscle soreness (DOMS), occurs when muscles are worked harder than usual. It's a normal response to exercise and typically resolves within a few days. Ensure you're warming up properly and gradually increasing weights to minimize soreness."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What are the symptoms of dehydration?",
+        "context": "When asked 'What are the symptoms of dehydration?', the response is 'Symptoms of dehydration include increased thirst, dry mouth, dark-colored urine, fatigue, dizziness, and decreased urine output. Severe dehydration can lead to confusion, rapid heartbeat, and fainting.'.",
+        "answer": "Symptoms of dehydration include increased thirst, dry mouth, dark-colored urine, fatigue, dizziness, and decreased urine output. Severe dehydration can lead to confusion, rapid heartbeat, and fainting."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What foods should I avoid if I have acid reflux?",
+        "context": "If you want to know 'What foods should I avoid if I have acid reflux?', the answer is 'If you have acid reflux, it's best to avoid acidic and spicy foods, citrus fruits, caffeinated beverages, chocolate, and fatty or fried foods. Opt for smaller, more frequent meals and avoid eating close to bedtime.'.",
+        "answer": "If you have acid reflux, it's best to avoid acidic and spicy foods, citrus fruits, caffeinated beverages, chocolate, and fatty or fried foods. Opt for smaller, more frequent meals and avoid eating close to bedtime."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What are the symptoms of a migraine headache?",
+        "context": "To the question 'What are the symptoms of a migraine headache?', one should reply with 'Symptoms of a migraine headache can include severe throbbing pain, usually on one side of the head, nausea, vomiting, sensitivity to light and sound, and visual disturbances such as aura.'.",
+        "answer": "Symptoms of a migraine headache can include severe throbbing pain, usually on one side of the head, nausea, vomiting, sensitivity to light and sound, and visual disturbances such as aura."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What are the signs of a sprained ankle?",
+        "context": "To the question 'What are the signs of a sprained ankle?', one should reply with 'Signs of a sprained ankle include pain, swelling, bruising, difficulty bearing weight on the affected foot, and instability. In severe cases, there may be a popping sensation at the time of injury.'.",
+        "answer": "Signs of a sprained ankle include pain, swelling, bruising, difficulty bearing weight on the affected foot, and instability. In severe cases, there may be a popping sensation at the time of injury."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What are the symptoms of an allergic reaction?",
+        "context": "The answer to the question 'What are the symptoms of an allergic reaction?' is 'Symptoms of an allergic reaction can vary but may include hives, itching, swelling, rash, difficulty breathing, wheezing, throat tightness, or anaphylaxis in severe cases. Seek medical help immediately for severe allergic reactions.'.",
+        "answer": "Symptoms of an allergic reaction can vary but may include hives, itching, swelling, rash, difficulty breathing, wheezing, throat tightness, or anaphylaxis in severe cases. Seek medical help immediately for severe allergic reactions."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What are the symptoms of a urinary tract infection (UTI)?",
+        "context": "The answer to the question 'What are the symptoms of a urinary tract infection (UTI)?' is 'Symptoms of a UTI can include a strong, persistent urge to urinate, burning sensation during urination, passing frequent, small amounts of urine, cloudy or bloody urine, and pelvic pain in women.'.",
+        "answer": "Symptoms of a UTI can include a strong, persistent urge to urinate, burning sensation during urination, passing frequent, small amounts of urine, cloudy or bloody urine, and pelvic pain in women."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What are the symptoms of high blood pressure?",
+        "context": "When asked 'What are the symptoms of high blood pressure?', the response is 'Symptoms of high blood pressure may include headaches, shortness of breath, dizziness, chest pain, visual changes, and nosebleeds. However, high blood pressure often has no symptoms and is known as the 'silent killer.' Regular blood pressure monitoring is crucial.'.",
+        "answer": "Symptoms of high blood pressure may include headaches, shortness of breath, dizziness, chest pain, visual changes, and nosebleeds. However, high blood pressure often has no symptoms and is known as the 'silent killer.' Regular blood pressure monitoring is crucial."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What are the signs of a sinus infection?",
+        "context": "The answer to the question 'What are the signs of a sinus infection?' is 'Signs of a sinus infection can include facial pain or pressure, nasal congestion, thick nasal discharge, postnasal drip, coughing, and reduced sense of smell or taste.'.",
+        "answer": "Signs of a sinus infection can include facial pain or pressure, nasal congestion, thick nasal discharge, postnasal drip, coughing, and reduced sense of smell or taste."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What could be causing my persistent cough at night?",
+        "context": "To the question 'What could be causing my persistent cough at night?', one should reply with 'A persistent cough at night could be caused by factors like postnasal drip, asthma, gastroesophageal reflux disease (GERD), or allergies. It's advisable to consult a healthcare provider for proper evaluation and treatment.'.",
+        "answer": "A persistent cough at night could be caused by factors like postnasal drip, asthma, gastroesophageal reflux disease (GERD), or allergies. It's advisable to consult a healthcare provider for proper evaluation and treatment."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What are the symptoms of a stomach ulcer?",
+        "context": "If you want to know 'What are the symptoms of a stomach ulcer?', the answer is 'Symptoms of a stomach ulcer may include burning stomach pain, bloating, nausea, vomiting, indigestion, and loss of appetite. In severe cases, there may be bloody or black stool.'.",
+        "answer": "Symptoms of a stomach ulcer may include burning stomach pain, bloating, nausea, vomiting, indigestion, and loss of appetite. In severe cases, there may be bloody or black stool."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What are the symptoms of an allergic reaction to food?",
+        "context": "'Symptoms of an allergic reaction to food can include hives, itching or tingling in the mouth, swelling of the lips, tongue, or throat, difficulty breathing, nausea, vomiting, or diarrhea.' is the answer to 'What are the symptoms of an allergic reaction to food?'.",
+        "answer": "Symptoms of an allergic reaction to food can include hives, itching or tingling in the mouth, swelling of the lips, tongue, or throat, difficulty breathing, nausea, vomiting, or diarrhea."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What could be causing joint swelling?",
+        "context": "When asked 'What could be causing joint swelling?', the response is 'Joint swelling could be caused by factors like arthritis, injury, infection, or autoimmune conditions. It's important to consult a healthcare provider for proper evaluation and treatment.'.",
+        "answer": "Joint swelling could be caused by factors like arthritis, injury, infection, or autoimmune conditions. It's important to consult a healthcare provider for proper evaluation and treatment."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What are the signs of heat exhaustion?",
+        "context": "'Signs of heat exhaustion can include heavy sweating, weakness, dizziness, headache, nausea, vomiting, fast heartbeat, and cool, moist skin. If not treated promptly, heat exhaustion can progress to heatstroke, which is a medical emergency.' is the answer to 'What are the signs of heat exhaustion?'.",
+        "answer": "Signs of heat exhaustion can include heavy sweating, weakness, dizziness, headache, nausea, vomiting, fast heartbeat, and cool, moist skin. If not treated promptly, heat exhaustion can progress to heatstroke, which is a medical emergency."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What could be causing frequent nosebleeds?",
+        "context": "If you want to know 'What could be causing frequent nosebleeds?', the answer is 'Frequent nosebleeds could be caused by factors like dry air, nasal allergies, sinusitis, nasal polyps, or trauma to the nose. It's advisable to consult a healthcare provider if nosebleeds occur frequently or are difficult to control.'.",
+        "answer": "Frequent nosebleeds could be caused by factors like dry air, nasal allergies, sinusitis, nasal polyps, or trauma to the nose. It's advisable to consult a healthcare provider if nosebleeds occur frequently or are difficult to control."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What are the symptoms of seasonal allergies?",
+        "context": "To the question 'What are the symptoms of seasonal allergies?', one should reply with 'Symptoms of seasonal allergies, also known as hay fever, include sneezing, runny or stuffy nose, itchy or watery eyes, and sometimes coughing and wheezing. These symptoms are triggered by exposure to allergens like pollen.'.",
+        "answer": "Symptoms of seasonal allergies, also known as hay fever, include sneezing, runny or stuffy nose, itchy or watery eyes, and sometimes coughing and wheezing. These symptoms are triggered by exposure to allergens like pollen."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What are the symptoms of the common cold?",
+        "context": "When asked 'What are the symptoms of the common cold?', the response is 'Symptoms of the common cold typically include a runny or stuffy nose, sore throat, coughing, sneezing, mild headache, and sometimes a low-grade fever. These symptoms usually resolve within a week.'.",
+        "answer": "Symptoms of the common cold typically include a runny or stuffy nose, sore throat, coughing, sneezing, mild headache, and sometimes a low-grade fever. These symptoms usually resolve within a week."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What could be causing sudden hair loss?",
+        "context": "To the question 'What could be causing sudden hair loss?', one should reply with 'Sudden hair loss can be caused by factors such as stress, hormonal changes, nutritional deficiencies, certain medications, autoimmune conditions like alopecia areata, or underlying medical conditions. Consultation with a healthcare provider or dermatologist is advisable for proper evaluation.'.",
+        "answer": "Sudden hair loss can be caused by factors such as stress, hormonal changes, nutritional deficiencies, certain medications, autoimmune conditions like alopecia areata, or underlying medical conditions. Consultation with a healthcare provider or dermatologist is advisable for proper evaluation."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What are the symptoms of acne?",
+        "context": "To the question 'What are the symptoms of acne?', one should reply with 'Symptoms of acne include the presence of pimples, blackheads, whiteheads, and cysts on the skin, especially on the face, neck, chest, and back. Acne can also cause redness, inflammation, and scarring.'.",
+        "answer": "Symptoms of acne include the presence of pimples, blackheads, whiteheads, and cysts on the skin, especially on the face, neck, chest, and back. Acne can also cause redness, inflammation, and scarring."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What are the symptoms of eczema?",
+        "context": "'Symptoms of eczema, also known as atopic dermatitis, include dry, itchy, inflamed skin, red or brownish patches, and rough, scaly patches that may blister or ooze. Eczema can appear on different parts of the body, depending on age and environmental factors.' is the answer to 'What are the symptoms of eczema?'.",
+        "answer": "Symptoms of eczema, also known as atopic dermatitis, include dry, itchy, inflamed skin, red or brownish patches, and rough, scaly patches that may blister or ooze. Eczema can appear on different parts of the body, depending on age and environmental factors."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What could be causing sudden changes in skin pigmentation?",
+        "context": "The answer to the question 'What could be causing sudden changes in skin pigmentation?' is 'Sudden changes in skin pigmentation, such as darkening or lightening of patches of skin, can be caused by factors such as hormonal changes, sun exposure, skin trauma, certain medications, or underlying medical conditions like vitiligo or melasma. Consultation with a dermatologist is recommended for proper evaluation and management.'.",
+        "answer": "Sudden changes in skin pigmentation, such as darkening or lightening of patches of skin, can be caused by factors such as hormonal changes, sun exposure, skin trauma, certain medications, or underlying medical conditions like vitiligo or melasma. Consultation with a dermatologist is recommended for proper evaluation and management."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What are the symptoms of a concussion?",
+        "context": "If you want to know 'What are the symptoms of a concussion?', the answer is 'Symptoms of a concussion may include headache, dizziness, nausea, confusion, memory problems, sensitivity to light or noise, and changes in mood or behavior.'.",
+        "answer": "Symptoms of a concussion may include headache, dizziness, nausea, confusion, memory problems, sensitivity to light or noise, and changes in mood or behavior."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What are the symptoms of anemia?",
+        "context": "'Symptoms of anemia can include fatigue, weakness, pale skin, shortness of breath, dizziness, headache, cold hands and feet, and irregular heartbeat.' is the answer to 'What are the symptoms of anemia?'.",
+        "answer": "Symptoms of anemia can include fatigue, weakness, pale skin, shortness of breath, dizziness, headache, cold hands and feet, and irregular heartbeat."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What could be causing my sudden muscle cramps?",
+        "context": "To the question 'What could be causing my sudden muscle cramps?', one should reply with 'Sudden muscle cramps can be caused by factors such as dehydration, electrolyte imbalances, muscle fatigue, overuse, or underlying medical conditions like peripheral artery disease.'.",
+        "answer": "Sudden muscle cramps can be caused by factors such as dehydration, electrolyte imbalances, muscle fatigue, overuse, or underlying medical conditions like peripheral artery disease."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What are the symptoms of a thyroid disorder?",
+        "context": "The answer to the question 'What are the symptoms of a thyroid disorder?' is 'Symptoms of a thyroid disorder can include fatigue, weight changes, sensitivity to cold or heat, dry skin, hair loss, muscle weakness, and changes in heart rate.'.",
+        "answer": "Symptoms of a thyroid disorder can include fatigue, weight changes, sensitivity to cold or heat, dry skin, hair loss, muscle weakness, and changes in heart rate."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What could be causing my sudden loss of appetite?",
+        "context": "When asked 'What could be causing my sudden loss of appetite?', the response is 'Sudden loss of appetite can be caused by factors such as stress, illness, medication side effects, depression, or underlying medical conditions like digestive disorders or thyroid problems.'.",
+        "answer": "Sudden loss of appetite can be caused by factors such as stress, illness, medication side effects, depression, or underlying medical conditions like digestive disorders or thyroid problems."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What could be causing my sudden difficulty sleeping?",
+        "context": "If you want to know 'What could be causing my sudden difficulty sleeping?', the answer is 'Sudden difficulty sleeping can be caused by factors such as stress, anxiety, caffeine or alcohol consumption, irregular sleep schedule, or underlying sleep disorders like insomnia or sleep apnea.'.",
+        "answer": "Sudden difficulty sleeping can be caused by factors such as stress, anxiety, caffeine or alcohol consumption, irregular sleep schedule, or underlying sleep disorders like insomnia or sleep apnea."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What could be causing sudden skin rash?",
+        "context": "To the question 'What could be causing sudden skin rash?', one should reply with 'A sudden skin rash can be caused by factors such as allergic reactions, insect bites, contact dermatitis, infections (bacterial, viral, or fungal), or underlying medical conditions like eczema or psoriasis.'.",
+        "answer": "A sudden skin rash can be caused by factors such as allergic reactions, insect bites, contact dermatitis, infections (bacterial, viral, or fungal), or underlying medical conditions like eczema or psoriasis."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What are the symptoms of a panic attack?",
+        "context": "To the question 'What are the symptoms of a panic attack?', one should reply with 'Symptoms of a panic attack can include sudden onset of intense fear or discomfort, rapid heartbeat, sweating, trembling or shaking, shortness of breath, chest pain, nausea, dizziness, or feeling lightheaded.'.",
+        "answer": "Symptoms of a panic attack can include sudden onset of intense fear or discomfort, rapid heartbeat, sweating, trembling or shaking, shortness of breath, chest pain, nausea, dizziness, or feeling lightheaded."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What could be causing muscle weakness?",
+        "context": "When asked 'What could be causing muscle weakness?', the response is 'Muscle weakness can be caused by factors such as dehydration, electrolyte imbalances, fatigue, overexertion, nerve damage, or underlying medical conditions like multiple sclerosis or muscular dystrophy.'.",
+        "answer": "Muscle weakness can be caused by factors such as dehydration, electrolyte imbalances, fatigue, overexertion, nerve damage, or underlying medical conditions like multiple sclerosis or muscular dystrophy."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What are the symptoms of diabetes?",
+        "context": "To the question 'What are the symptoms of diabetes?', one should reply with 'Symptoms of diabetes include increased thirst, frequent urination, unexplained weight loss, fatigue, blurred vision, and slow-healing sores or frequent infections.'.",
+        "answer": "Symptoms of diabetes include increased thirst, frequent urination, unexplained weight loss, fatigue, blurred vision, and slow-healing sores or frequent infections."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What are the symptoms of COVID-19?",
+        "context": "To the question 'What are the symptoms of COVID-19?', one should reply with 'Symptoms of COVID-19 include fever or chills, cough, shortness of breath or difficulty breathing, fatigue, muscle or body aches, headache, new loss of taste or smell, sore throat, congestion, or runny nose.'.",
+        "answer": "Symptoms of COVID-19 include fever or chills, cough, shortness of breath or difficulty breathing, fatigue, muscle or body aches, headache, new loss of taste or smell, sore throat, congestion, or runny nose."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why do my joints hurt after exercising?",
+        "context": "To the question 'Why do my joints hurt after exercising?', one should reply with 'Joint pain after exercising could be due to factors like overuse, improper form, or underlying conditions like arthritis or tendinitis. It's important to listen to your body and avoid activities that exacerbate the pain.'.",
+        "answer": "Joint pain after exercising could be due to factors like overuse, improper form, or underlying conditions like arthritis or tendinitis. It's important to listen to your body and avoid activities that exacerbate the pain."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why do I get headaches when I'm dehydrated?",
+        "context": "If you want to know 'Why do I get headaches when I'm dehydrated?', the answer is 'Dehydration can lead to headaches because it reduces the volume of blood and oxygen flow to the brain. Proper hydration is essential for maintaining overall health and preventing headaches.'.",
+        "answer": "Dehydration can lead to headaches because it reduces the volume of blood and oxygen flow to the brain. Proper hydration is essential for maintaining overall health and preventing headaches."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What are the symptoms of anxiety?",
+        "context": "'Symptoms of anxiety include excessive worry, restlessness, irritability, muscle tension, difficulty concentrating, fatigue, rapid heartbeat, sweating, trembling, and gastrointestinal issues.' is the answer to 'What are the symptoms of anxiety?'.",
+        "answer": "Symptoms of anxiety include excessive worry, restlessness, irritability, muscle tension, difficulty concentrating, fatigue, rapid heartbeat, sweating, trembling, and gastrointestinal issues."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why do I feel tired after eating a big meal?",
+        "context": "'Feeling tired after eating a big meal, also known as postprandial fatigue, can be due to factors like digestion, blood sugar fluctuations, and diverting blood flow to the digestive system. Eating smaller, balanced meals may help.' is the answer to 'Why do I feel tired after eating a big meal?'.",
+        "answer": "Feeling tired after eating a big meal, also known as postprandial fatigue, can be due to factors like digestion, blood sugar fluctuations, and diverting blood flow to the digestive system. Eating smaller, balanced meals may help."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What are the symptoms of a pulled muscle?",
+        "context": "When asked 'What are the symptoms of a pulled muscle?', the response is 'Symptoms of a pulled muscle, also known as a muscle strain, include sudden onset of pain, swelling, bruising, and difficulty moving the affected muscle or joint. Rest, ice, compression, and elevation (RICE) can help alleviate symptoms.'.",
+        "answer": "Symptoms of a pulled muscle, also known as a muscle strain, include sudden onset of pain, swelling, bruising, and difficulty moving the affected muscle or joint. Rest, ice, compression, and elevation (RICE) can help alleviate symptoms."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why do I get a headache after drinking alcohol?",
+        "context": "To the question 'Why do I get a headache after drinking alcohol?', one should reply with 'Headaches after drinking alcohol can be due to factors like dehydration, vasodilation (widening of blood vessels), or the release of certain chemicals during alcohol metabolism. Drinking water and pacing alcohol consumption may help prevent headaches.'.",
+        "answer": "Headaches after drinking alcohol can be due to factors like dehydration, vasodilation (widening of blood vessels), or the release of certain chemicals during alcohol metabolism. Drinking water and pacing alcohol consumption may help prevent headaches."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why do I feel breathless when climbing stairs?",
+        "context": "When asked 'Why do I feel breathless when climbing stairs?', the response is 'Feeling breathless when climbing stairs can be due to factors like poor cardiovascular fitness, asthma, or underlying heart or lung conditions. It's essential to gradually increase physical activity and consult a healthcare provider if symptoms persist.'.",
+        "answer": "Feeling breathless when climbing stairs can be due to factors like poor cardiovascular fitness, asthma, or underlying heart or lung conditions. It's essential to gradually increase physical activity and consult a healthcare provider if symptoms persist."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why do I feel nauseous during high-intensity workouts?",
+        "context": "To the question 'Why do I feel nauseous during high-intensity workouts?', one should reply with 'Feeling nauseous during high-intensity workouts can be due to factors like dehydration, low blood sugar, or gastrointestinal distress. It's important to hydrate properly and eat a balanced meal or snack before exercising.'.",
+        "answer": "Feeling nauseous during high-intensity workouts can be due to factors like dehydration, low blood sugar, or gastrointestinal distress. It's important to hydrate properly and eat a balanced meal or snack before exercising."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What are the symptoms of runner's knee?",
+        "context": "If you want to know 'What are the symptoms of runner's knee?', the answer is 'Symptoms of runner's knee include pain around or behind the kneecap, especially when bending the knee or climbing stairs, swelling, and popping or grinding sensations. It's essential to rest and perform exercises to strengthen the muscles around the knee.'.",
+        "answer": "Symptoms of runner's knee include pain around or behind the kneecap, especially when bending the knee or climbing stairs, swelling, and popping or grinding sensations. It's essential to rest and perform exercises to strengthen the muscles around the knee."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why do I feel fatigued after starting a new exercise routine?",
+        "context": "When asked 'Why do I feel fatigued after starting a new exercise routine?', the response is 'Feeling fatigued after starting a new exercise routine can be due to factors like muscle soreness, insufficient recovery time, or pushing too hard too soon. It's important to start gradually and allow time for rest and recovery between workouts.'.",
+        "answer": "Feeling fatigued after starting a new exercise routine can be due to factors like muscle soreness, insufficient recovery time, or pushing too hard too soon. It's important to start gradually and allow time for rest and recovery between workouts."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What are the symptoms of overtraining syndrome?",
+        "context": "The answer to the question 'What are the symptoms of overtraining syndrome?' is 'Symptoms of overtraining syndrome include persistent fatigue, decreased performance, increased susceptibility to illness, mood disturbances, insomnia, and elevated resting heart rate. It's essential to listen to your body and adjust your training accordingly.'.",
+        "answer": "Symptoms of overtraining syndrome include persistent fatigue, decreased performance, increased susceptibility to illness, mood disturbances, insomnia, and elevated resting heart rate. It's essential to listen to your body and adjust your training accordingly."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why do I experience chest pain during intense cardio workouts?",
+        "context": "If you want to know 'Why do I experience chest pain during intense cardio workouts?', the answer is 'Experiencing chest pain during intense cardio workouts can be due to factors like exercise-induced asthma, muscle strain, or rarely, underlying heart conditions. It's crucial to stop exercising and seek medical attention if chest pain persists or worsens.'.",
+        "answer": "Experiencing chest pain during intense cardio workouts can be due to factors like exercise-induced asthma, muscle strain, or rarely, underlying heart conditions. It's crucial to stop exercising and seek medical attention if chest pain persists or worsens."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What are the symptoms of food poisoning?",
+        "context": "When asked 'What are the symptoms of food poisoning?', the response is 'Symptoms of food poisoning include nausea, vomiting, diarrhea, abdominal pain or cramps, fever, and headache. These symptoms can occur shortly after consuming contaminated food or beverages.'.",
+        "answer": "Symptoms of food poisoning include nausea, vomiting, diarrhea, abdominal pain or cramps, fever, and headache. These symptoms can occur shortly after consuming contaminated food or beverages."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why do I wake up feeling groggy even after a full night's sleep?",
+        "context": "If you want to know 'Why do I wake up feeling groggy even after a full night's sleep?', the answer is 'Feeling groggy upon waking can be due to poor sleep quality, sleep disorders like sleep apnea, or inconsistent sleep patterns. It's important to maintain a regular sleep schedule and practice good sleep hygiene.'.",
+        "answer": "Feeling groggy upon waking can be due to poor sleep quality, sleep disorders like sleep apnea, or inconsistent sleep patterns. It's important to maintain a regular sleep schedule and practice good sleep hygiene."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why do I feel bloated after eating certain foods?",
+        "context": "'Feeling bloated after eating certain foods can be due to gas production, food intolerances, or eating too quickly. Common culprits include beans, cruciferous vegetables, dairy products, and carbonated beverages.' is the answer to 'Why do I feel bloated after eating certain foods?'.",
+        "answer": "Feeling bloated after eating certain foods can be due to gas production, food intolerances, or eating too quickly. Common culprits include beans, cruciferous vegetables, dairy products, and carbonated beverages."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why do I experience chest pain when I'm stressed?",
+        "context": "The answer to the question 'Why do I experience chest pain when I'm stressed?' is 'Experiencing chest pain when stressed can be due to increased muscle tension, shallow breathing, or stress-induced changes in heart rate and blood pressure. However, chest pain should always be taken seriously and evaluated by a healthcare professional.'.",
+        "answer": "Experiencing chest pain when stressed can be due to increased muscle tension, shallow breathing, or stress-induced changes in heart rate and blood pressure. However, chest pain should always be taken seriously and evaluated by a healthcare professional."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What could be causing my frequent digestive issues?",
+        "context": "When asked 'What could be causing my frequent digestive issues?', the response is 'Frequent digestive issues like bloating, gas, diarrhea, or constipation can be caused by factors such as diet (e.g., high-fat or high-fiber foods), food intolerances, stress, medications, or underlying gastrointestinal conditions like irritable bowel syndrome (IBS) or inflammatory bowel disease (IBD). Keeping a food diary, eating a balanced diet, and managing stress can help improve digestive health.'.",
+        "answer": "Frequent digestive issues like bloating, gas, diarrhea, or constipation can be caused by factors such as diet (e.g., high-fat or high-fiber foods), food intolerances, stress, medications, or underlying gastrointestinal conditions like irritable bowel syndrome (IBS) or inflammatory bowel disease (IBD). Keeping a food diary, eating a balanced diet, and managing stress can help improve digestive health."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What could be causing my frequent skin breakouts?",
+        "context": "If you want to know 'What could be causing my frequent skin breakouts?', the answer is 'Frequent skin breakouts can be caused by factors such as hormonal changes, stress, diet (e.g., high sugar or dairy intake), skincare products, or underlying conditions like acne vulgaris or rosacea.'.",
+        "answer": "Frequent skin breakouts can be caused by factors such as hormonal changes, stress, diet (e.g., high sugar or dairy intake), skincare products, or underlying conditions like acne vulgaris or rosacea."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why do I feel fatigued even after getting enough sleep?",
+        "context": "'Feeling fatigued despite adequate sleep can be due to factors like poor sleep quality, sleep disorders like sleep apnea, or underlying medical conditions such as thyroid disorders or anemia.' is the answer to 'Why do I feel fatigued even after getting enough sleep?'.",
+        "answer": "Feeling fatigued despite adequate sleep can be due to factors like poor sleep quality, sleep disorders like sleep apnea, or underlying medical conditions such as thyroid disorders or anemia."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why do I often experience chest tightness or discomfort?",
+        "context": "If you want to know 'Why do I often experience chest tightness or discomfort?', the answer is 'Chest tightness or discomfort can be caused by factors such as anxiety, stress, asthma, heartburn, muscle strain, or underlying heart conditions like angina or coronary artery disease.'.",
+        "answer": "Chest tightness or discomfort can be caused by factors such as anxiety, stress, asthma, heartburn, muscle strain, or underlying heart conditions like angina or coronary artery disease."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why do I often wake up with a sore throat?",
+        "context": "The answer to the question 'Why do I often wake up with a sore throat?' is 'Waking up with a sore throat can be due to factors such as mouth breathing, dry air, allergies, postnasal drip, acid reflux, or viral infections like the common cold or flu.'.",
+        "answer": "Waking up with a sore throat can be due to factors such as mouth breathing, dry air, allergies, postnasal drip, acid reflux, or viral infections like the common cold or flu."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why do I feel nauseous after eating certain foods?",
+        "context": "When asked 'Why do I feel nauseous after eating certain foods?', the response is 'Feeling nauseous after eating certain foods can be due to factors such as food intolerances, allergies, gastrointestinal issues, or consuming foods that are high in fat or spices. It's essential to identify trigger foods and consider dietary modifications to alleviate symptoms.'.",
+        "answer": "Feeling nauseous after eating certain foods can be due to factors such as food intolerances, allergies, gastrointestinal issues, or consuming foods that are high in fat or spices. It's essential to identify trigger foods and consider dietary modifications to alleviate symptoms."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why do I experience heartburn after eating certain foods?",
+        "context": "'Heartburn occurs when stomach acid flows back into the esophagus, causing a burning sensation. This can be triggered by eating spicy, fatty, or acidic foods, overeating, lying down after a meal, or consuming alcohol or caffeine.' is the answer to 'Why do I experience heartburn after eating certain foods?'.",
+        "answer": "Heartburn occurs when stomach acid flows back into the esophagus, causing a burning sensation. This can be triggered by eating spicy, fatty, or acidic foods, overeating, lying down after a meal, or consuming alcohol or caffeine."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What are the symptoms of dehydration?",
+        "context": "When asked 'What are the symptoms of dehydration?', the response is 'Symptoms of dehydration include thirst, dry mouth, dark yellow urine, fatigue, dizziness, confusion, and decreased urine output. Severe dehydration can lead to more serious symptoms such as rapid heartbeat, low blood pressure, and fainting.'.",
+        "answer": "Symptoms of dehydration include thirst, dry mouth, dark yellow urine, fatigue, dizziness, confusion, and decreased urine output. Severe dehydration can lead to more serious symptoms such as rapid heartbeat, low blood pressure, and fainting."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why do I get muscle cramps during exercise?",
+        "context": "The answer to the question 'Why do I get muscle cramps during exercise?' is 'Muscle cramps during exercise can be caused by dehydration, electrolyte imbalances, muscle fatigue, or inadequate stretching. Ensuring proper hydration, balanced electrolyte intake, and a thorough warm-up can help prevent cramps.'.",
+        "answer": "Muscle cramps during exercise can be caused by dehydration, electrolyte imbalances, muscle fatigue, or inadequate stretching. Ensuring proper hydration, balanced electrolyte intake, and a thorough warm-up can help prevent cramps."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why do I feel bloated after eating certain foods?",
+        "context": "To the question 'Why do I feel bloated after eating certain foods?', one should reply with 'Bloating after eating can be caused by overeating, eating too quickly, consuming gas-producing foods (such as beans, cabbage, or carbonated drinks), food intolerances, or digestive disorders like irritable bowel syndrome (IBS).'.",
+        "answer": "Bloating after eating can be caused by overeating, eating too quickly, consuming gas-producing foods (such as beans, cabbage, or carbonated drinks), food intolerances, or digestive disorders like irritable bowel syndrome (IBS)."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What are the symptoms of lactose intolerance?",
+        "context": "The answer to the question 'What are the symptoms of lactose intolerance?' is 'Symptoms of lactose intolerance include bloating, gas, diarrhea, abdominal pain, and nausea after consuming dairy products. These symptoms occur because the body lacks sufficient lactase enzyme to digest lactose.'.",
+        "answer": "Symptoms of lactose intolerance include bloating, gas, diarrhea, abdominal pain, and nausea after consuming dairy products. These symptoms occur because the body lacks sufficient lactase enzyme to digest lactose."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why do I get a sore throat after shouting or talking loudly?",
+        "context": "The answer to the question 'Why do I get a sore throat after shouting or talking loudly?' is 'A sore throat after shouting or talking loudly can result from strain and irritation of the vocal cords. This can cause inflammation and discomfort. Resting the voice and staying hydrated can help alleviate symptoms.'.",
+        "answer": "A sore throat after shouting or talking loudly can result from strain and irritation of the vocal cords. This can cause inflammation and discomfort. Resting the voice and staying hydrated can help alleviate symptoms."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why do I feel nauseous after intense exercise?",
+        "context": "To the question 'Why do I feel nauseous after intense exercise?', one should reply with 'Nausea after intense exercise can be caused by dehydration, low blood sugar, reduced blood flow to the digestive system, or consuming food too close to the workout. Gradual warm-up and cool-down, proper hydration, and appropriate meal timing can help prevent exercise-induced nausea.'.",
+        "answer": "Nausea after intense exercise can be caused by dehydration, low blood sugar, reduced blood flow to the digestive system, or consuming food too close to the workout. Gradual warm-up and cool-down, proper hydration, and appropriate meal timing can help prevent exercise-induced nausea."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why do I get cold hands and feet even when it's warm?",
+        "context": "To the question 'Why do I get cold hands and feet even when it's warm?', one should reply with 'Cold hands and feet can be caused by poor circulation, Raynaud's disease, anemia, hypothyroidism, or stress and anxiety. It is important to address any underlying conditions and take measures to improve circulation and warmth.'.",
+        "answer": "Cold hands and feet can be caused by poor circulation, Raynaud's disease, anemia, hypothyroidism, or stress and anxiety. It is important to address any underlying conditions and take measures to improve circulation and warmth."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What are the symptoms of a urinary tract infection (UTI)?",
+        "context": "The answer to the question 'What are the symptoms of a urinary tract infection (UTI)?' is 'Symptoms of a UTI include a strong, persistent urge to urinate, a burning sensation during urination, frequent, small amounts of urine, cloudy or strong-smelling urine, and pelvic pain. UTIs are commonly caused by bacteria entering the urinary tract.'.",
+        "answer": "Symptoms of a UTI include a strong, persistent urge to urinate, a burning sensation during urination, frequent, small amounts of urine, cloudy or strong-smelling urine, and pelvic pain. UTIs are commonly caused by bacteria entering the urinary tract."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why do I feel lightheaded when I skip meals?",
+        "context": "The answer to the question 'Why do I feel lightheaded when I skip meals?' is 'Feeling lightheaded when skipping meals can be due to low blood sugar levels (hypoglycemia). Without regular food intake, the body lacks the necessary glucose for energy, leading to dizziness, weakness, and lightheadedness.'.",
+        "answer": "Feeling lightheaded when skipping meals can be due to low blood sugar levels (hypoglycemia). Without regular food intake, the body lacks the necessary glucose for energy, leading to dizziness, weakness, and lightheadedness."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What are the symptoms of hypothyroidism?",
+        "context": "To the question 'What are the symptoms of hypothyroidism?', one should reply with 'Symptoms of hypothyroidism include fatigue, weight gain, cold intolerance, dry skin, constipation, muscle weakness, depression, and slowed heart rate. Hypothyroidism occurs when the thyroid gland does not produce enough thyroid hormones.'.",
+        "answer": "Symptoms of hypothyroidism include fatigue, weight gain, cold intolerance, dry skin, constipation, muscle weakness, depression, and slowed heart rate. Hypothyroidism occurs when the thyroid gland does not produce enough thyroid hormones."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why do I experience leg pain at night?",
+        "context": "When asked 'Why do I experience leg pain at night?', the response is 'Leg pain at night can be caused by conditions such as restless legs syndrome (RLS), peripheral artery disease (PAD), muscle cramps, or varicose veins. Proper diagnosis and treatment depend on the underlying cause'.",
+        "answer": "Leg pain at night can be caused by conditions such as restless legs syndrome (RLS), peripheral artery disease (PAD), muscle cramps, or varicose veins. Proper diagnosis and treatment depend on the underlying cause"
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What are the symptoms of gastroesophageal reflux disease (GERD)?",
+        "context": "'Symptoms of GERD include frequent heartburn, acid regurgitation, difficulty swallowing, chest pain, chronic cough, and hoarseness. GERD occurs when stomach acid frequently flows back into the esophagus, irritating its lining.' is the answer to 'What are the symptoms of gastroesophageal reflux disease (GERD)?'.",
+        "answer": "Symptoms of GERD include frequent heartburn, acid regurgitation, difficulty swallowing, chest pain, chronic cough, and hoarseness. GERD occurs when stomach acid frequently flows back into the esophagus, irritating its lining."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why do I feel fatigued even after a full night's sleep?",
+        "context": "To the question 'Why do I feel fatigued even after a full night's sleep?', one should reply with 'Feeling fatigued despite adequate sleep can be caused by sleep disorders (such as sleep apnea or insomnia), poor sleep quality, chronic stress, depression, nutritional deficiencies, or underlying medical conditions like hypothyroidism or anemia. Identifying and addressing the root cause is important for improving energy levels.'.",
+        "answer": "Feeling fatigued despite adequate sleep can be caused by sleep disorders (such as sleep apnea or insomnia), poor sleep quality, chronic stress, depression, nutritional deficiencies, or underlying medical conditions like hypothyroidism or anemia. Identifying and addressing the root cause is important for improving energy levels."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What are the symptoms of celiac disease?",
+        "context": "The answer to the question 'What are the symptoms of celiac disease?' is 'ymptoms of celiac disease include diarrhea, bloating, gas, fatigue, weight loss, anemia, and malnutrition. Some individuals may also experience skin rashes, joint pain, and headaches. Celiac disease is an autoimmune disorder where ingestion of gluten leads to damage in the small intestine.'.",
+        "answer": "ymptoms of celiac disease include diarrhea, bloating, gas, fatigue, weight loss, anemia, and malnutrition. Some individuals may also experience skin rashes, joint pain, and headaches. Celiac disease is an autoimmune disorder where ingestion of gluten leads to damage in the small intestine."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why do I feel dizzy after standing for long periods?",
+        "context": "To the question 'Why do I feel dizzy after standing for long periods?', one should reply with 'Feeling dizzy after standing for long periods can be caused by orthostatic hypotension, dehydration, or vasovagal syncope. It may also result from blood pooling in the legs, reducing blood flow to the brain. Staying hydrated and moving periodically can help alleviate symptoms.'.",
+        "answer": "Feeling dizzy after standing for long periods can be caused by orthostatic hypotension, dehydration, or vasovagal syncope. It may also result from blood pooling in the legs, reducing blood flow to the brain. Staying hydrated and moving periodically can help alleviate symptoms."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What are the symptoms of appendicitis?",
+        "context": "'Symptoms of appendicitis include sudden pain that begins around the navel and shifts to the lower right abdomen, pain that worsens with movement, nausea, vomiting, loss of appetite, fever, and abdominal bloating. Appendicitis is a medical emergency requiring prompt treatment.' is the answer to 'What are the symptoms of appendicitis?'.",
+        "answer": "Symptoms of appendicitis include sudden pain that begins around the navel and shifts to the lower right abdomen, pain that worsens with movement, nausea, vomiting, loss of appetite, fever, and abdominal bloating. Appendicitis is a medical emergency requiring prompt treatment."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why do I get a stuffy nose at night?",
+        "context": "To the question 'Why do I get a stuffy nose at night?', one should reply with 'A stuffy nose at night can be caused by allergies, sinus infections, dry air, or lying in a position that restricts nasal airflow. Using a humidifier, keeping the bedroom clean, and elevating the head during sleep can help reduce nasal congestion.'.",
+        "answer": "A stuffy nose at night can be caused by allergies, sinus infections, dry air, or lying in a position that restricts nasal airflow. Using a humidifier, keeping the bedroom clean, and elevating the head during sleep can help reduce nasal congestion."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why do I feel nauseous in the morning?",
+        "context": "'Morning nausea can be caused by pregnancy (morning sickness), low blood sugar, dehydration, acid reflux, or anxiety. Addressing the underlying cause, eating small meals, staying hydrated, and managing stress can help alleviate symptoms.' is the answer to 'Why do I feel nauseous in the morning?'.",
+        "answer": "Morning nausea can be caused by pregnancy (morning sickness), low blood sugar, dehydration, acid reflux, or anxiety. Addressing the underlying cause, eating small meals, staying hydrated, and managing stress can help alleviate symptoms."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What are the symptoms of carpal tunnel syndrome?",
+        "context": "'Symptoms of carpal tunnel syndrome include numbness, tingling, and pain in the thumb, index, middle, and ring fingers, as well as weakness in the hand. These symptoms are caused by compression of the median nerve as it travels through the wrist.' is the answer to 'What are the symptoms of carpal tunnel syndrome?'.",
+        "answer": "Symptoms of carpal tunnel syndrome include numbness, tingling, and pain in the thumb, index, middle, and ring fingers, as well as weakness in the hand. These symptoms are caused by compression of the median nerve as it travels through the wrist."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What are the symptoms of irritable bowel syndrome (IBS)?",
+        "context": "'Symptoms of IBS include abdominal pain, cramping, bloating, gas, diarrhea, constipation, or alternating episodes of diarrhea and constipation. IBS is a chronic gastrointestinal disorder with no known cure, but symptoms can be managed with diet and lifestyle changes.' is the answer to 'What are the symptoms of irritable bowel syndrome (IBS)?'.",
+        "answer": "Symptoms of IBS include abdominal pain, cramping, bloating, gas, diarrhea, constipation, or alternating episodes of diarrhea and constipation. IBS is a chronic gastrointestinal disorder with no known cure, but symptoms can be managed with diet and lifestyle changes."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why do I feel short of breath when lying down?",
+        "context": "If you want to know 'Why do I feel short of breath when lying down?', the answer is 'Shortness of breath when lying down, known as orthopnea, can be caused by heart failure, chronic obstructive pulmonary disease (COPD), or severe asthma. It may also result from obesity or anxiety. Proper diagnosis and treatment depend on the underlying cause.'.",
+        "answer": "Shortness of breath when lying down, known as orthopnea, can be caused by heart failure, chronic obstructive pulmonary disease (COPD), or severe asthma. It may also result from obesity or anxiety. Proper diagnosis and treatment depend on the underlying cause."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What are the symptoms of a tension headache?",
+        "context": "When asked 'What are the symptoms of a tension headache?', the response is 'Symptoms of a tension headache include a dull, aching pain or pressure across the forehead, sides, and back of the head, as well as tenderness in the scalp, neck, and shoulders. Tension headaches are often caused by stress, poor posture, or muscle tension.'.",
+        "answer": "Symptoms of a tension headache include a dull, aching pain or pressure across the forehead, sides, and back of the head, as well as tenderness in the scalp, neck, and shoulders. Tension headaches are often caused by stress, poor posture, or muscle tension."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why do I get night sweats?",
+        "context": "If you want to know 'Why do I get night sweats?', the answer is 'Night sweats can be caused by hormonal changes (such as menopause), infections, certain medications, anxiety, or underlying medical conditions like hyperthyroidism or cancer. Identifying and addressing the root cause is important for managing night sweats.'.",
+        "answer": "Night sweats can be caused by hormonal changes (such as menopause), infections, certain medications, anxiety, or underlying medical conditions like hyperthyroidism or cancer. Identifying and addressing the root cause is important for managing night sweats."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why do I feel tired after eating a carbohydrate-heavy meal?",
+        "context": "The answer to the question 'Why do I feel tired after eating a carbohydrate-heavy meal?' is 'Feeling tired after eating a carbohydrate-heavy meal can be caused by a spike and subsequent drop in blood sugar levels. Carbohydrates increase the production of insulin, which helps glucose enter cells but can also lead to a rapid decline in blood sugar, causing fatigue.'.",
+        "answer": "Feeling tired after eating a carbohydrate-heavy meal can be caused by a spike and subsequent drop in blood sugar levels. Carbohydrates increase the production of insulin, which helps glucose enter cells but can also lead to a rapid decline in blood sugar, causing fatigue."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What are the symptoms of a kidney stone?",
+        "context": "When asked 'What are the symptoms of a kidney stone?', the response is 'Symptoms of a kidney stone include severe pain in the side and back, below the ribs, pain that radiates to the lower abdomen and groin, pain during urination, pink, red, or brown urine, nausea, vomiting, and frequent urination. Kidney stones form when minerals crystallize in the kidneys.'.",
+        "answer": "Symptoms of a kidney stone include severe pain in the side and back, below the ribs, pain that radiates to the lower abdomen and groin, pain during urination, pink, red, or brown urine, nausea, vomiting, and frequent urination. Kidney stones form when minerals crystallize in the kidneys."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why do I experience chest pain after eating?",
+        "context": "When asked 'Why do I experience chest pain after eating?', the response is 'Chest pain after eating can be caused by gastroesophageal reflux disease (GERD), esophageal spasms, gallbladder issues, or gastritis. Identifying and addressing the underlying cause is important for managing symptoms.'.",
+        "answer": "Chest pain after eating can be caused by gastroesophageal reflux disease (GERD), esophageal spasms, gallbladder issues, or gastritis. Identifying and addressing the underlying cause is important for managing symptoms."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What are the symptoms of a pinched nerve?",
+        "context": "To the question 'What are the symptoms of a pinched nerve?', one should reply with 'Symptoms of a pinched nerve include sharp, burning, or radiating pain, numbness, tingling, and muscle weakness. These symptoms occur when excessive pressure is applied to a nerve by surrounding tissues, such as bones, cartilage, muscles, or tendons.'.",
+        "answer": "Symptoms of a pinched nerve include sharp, burning, or radiating pain, numbness, tingling, and muscle weakness. These symptoms occur when excessive pressure is applied to a nerve by surrounding tissues, such as bones, cartilage, muscles, or tendons."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why do I get a headache after drinking alcohol?",
+        "context": "'Headaches after drinking alcohol, often referred to as hangovers, can be caused by dehydration, the toxic effects of alcohol on the brain, and the dilation of blood vessels. Drinking water, consuming alcohol in moderation, and avoiding congeners (substances in alcoholic drinks that can contribute to hangovers) can help reduce the likelihood of headaches.' is the answer to 'Why do I get a headache after drinking alcohol?'.",
+        "answer": "Headaches after drinking alcohol, often referred to as hangovers, can be caused by dehydration, the toxic effects of alcohol on the brain, and the dilation of blood vessels. Drinking water, consuming alcohol in moderation, and avoiding congeners (substances in alcoholic drinks that can contribute to hangovers) can help reduce the likelihood of headaches."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What are the symptoms of high blood pressure (hypertension)?",
+        "context": "To the question 'What are the symptoms of high blood pressure (hypertension)?', one should reply with 'High blood pressure often has no symptoms, but it can cause headaches, shortness of breath, nosebleeds, and chest pain in severe cases. Chronic hypertension increases the risk of heart disease, stroke, and kidney damage.'.",
+        "answer": "High blood pressure often has no symptoms, but it can cause headaches, shortness of breath, nosebleeds, and chest pain in severe cases. Chronic hypertension increases the risk of heart disease, stroke, and kidney damage."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why do I get dizzy after a hot shower?",
+        "context": "To the question 'Why do I get dizzy after a hot shower?', one should reply with 'Feeling dizzy after a hot shower can be caused by the dilation of blood vessels, leading to a drop in blood pressure. It can also be due to dehydration, heat exhaustion, or a sudden change in body temperature. Staying hydrated and ensuring the shower temperature is not excessively hot can help prevent dizziness.'.",
+        "answer": "Feeling dizzy after a hot shower can be caused by the dilation of blood vessels, leading to a drop in blood pressure. It can also be due to dehydration, heat exhaustion, or a sudden change in body temperature. Staying hydrated and ensuring the shower temperature is not excessively hot can help prevent dizziness."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why do I feel a burning sensation in my chest after eating spicy food?",
+        "context": "The answer to the question 'Why do I feel a burning sensation in my chest after eating spicy food?' is 'A burning sensation in the chest after eating spicy food can be caused by acid reflux, where stomach acid flows back into the esophagus. Spicy foods can irritate the lining of the esophagus and lower esophageal sphincter, leading to discomfort and heartburn.'.",
+        "answer": "A burning sensation in the chest after eating spicy food can be caused by acid reflux, where stomach acid flows back into the esophagus. Spicy foods can irritate the lining of the esophagus and lower esophageal sphincter, leading to discomfort and heartburn."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What are the symptoms of fibromyalgia?",
+        "context": "The answer to the question 'What are the symptoms of fibromyalgia?' is 'Symptoms of fibromyalgia include widespread musculoskeletal pain, fatigue, sleep disturbances, cognitive difficulties (often referred to as \"fibro fog\"), headaches, and mood issues. The exact cause is unknown, but it may involve abnormal pain signaling and sensitivity.'.",
+        "answer": "Symptoms of fibromyalgia include widespread musculoskeletal pain, fatigue, sleep disturbances, cognitive difficulties (often referred to as \"fibro fog\"), headaches, and mood issues. The exact cause is unknown, but it may involve abnormal pain signaling and sensitivity."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why do I get chills without having a fever?",
+        "context": "The answer to the question 'Why do I get chills without having a fever?' is 'Chills without a fever can be caused by anxiety, exposure to cold environments, hypoglycemia, dehydration, or a reaction to certain medications. They can also occur with the onset of an infection or due to other underlying medical conditions'.",
+        "answer": "Chills without a fever can be caused by anxiety, exposure to cold environments, hypoglycemia, dehydration, or a reaction to certain medications. They can also occur with the onset of an infection or due to other underlying medical conditions"
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What are the symptoms of chronic fatigue syndrome (CFS)?",
+        "context": "The answer to the question 'What are the symptoms of chronic fatigue syndrome (CFS)?' is 'Symptoms of chronic fatigue syndrome (CFS) include severe fatigue that doesn\u2019t improve with rest, muscle and joint pain, headaches, unrefreshing sleep, difficulty concentrating, sore throat, and swollen lymph nodes. The exact cause of CFS is not well understood.'.",
+        "answer": "Symptoms of chronic fatigue syndrome (CFS) include severe fatigue that doesn\u2019t improve with rest, muscle and joint pain, headaches, unrefreshing sleep, difficulty concentrating, sore throat, and swollen lymph nodes. The exact cause of CFS is not well understood."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why do I experience ear pain when flying or diving?",
+        "context": "'Ear pain when flying or diving is caused by changes in air pressure, which can create a pressure imbalance between the inside of the ear and the external environment. This can cause discomfort or pain and is commonly known as barotrauma.' is the answer to 'Why do I experience ear pain when flying or diving?'.",
+        "answer": "Ear pain when flying or diving is caused by changes in air pressure, which can create a pressure imbalance between the inside of the ear and the external environment. This can cause discomfort or pain and is commonly known as barotrauma."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What are the symptoms of Lyme disease?",
+        "context": "If you want to know 'What are the symptoms of Lyme disease?', the answer is 'Symptoms of Lyme disease include a characteristic bull\u2019s-eye rash (erythema migrans), fever, chills, headache, fatigue, muscle and joint aches, and swollen lymph nodes. If untreated, it can lead to more severe symptoms affecting the joints, heart, and nervous system.'.",
+        "answer": "Symptoms of Lyme disease include a characteristic bull\u2019s-eye rash (erythema migrans), fever, chills, headache, fatigue, muscle and joint aches, and swollen lymph nodes. If untreated, it can lead to more severe symptoms affecting the joints, heart, and nervous system."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What are the symptoms of mononucleosis (mono)?",
+        "context": "If you want to know 'What are the symptoms of mononucleosis (mono)?', the answer is 'Symptoms of mononucleosis include fatigue, fever, sore throat, swollen lymph nodes, swollen tonsils, headache, skin rash, and an enlarged spleen. Mono is typically caused by the Epstein-Barr virus (EBV).'.",
+        "answer": "Symptoms of mononucleosis include fatigue, fever, sore throat, swollen lymph nodes, swollen tonsils, headache, skin rash, and an enlarged spleen. Mono is typically caused by the Epstein-Barr virus (EBV)."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why do I get a metallic taste in my mouth?",
+        "context": "'A metallic taste in the mouth can be caused by certain medications, dental issues, sinus infections, poor oral hygiene, or underlying health conditions such as kidney disease or diabetes. Identifying and addressing the underlying cause can help alleviate the symptom.' is the answer to 'Why do I get a metallic taste in my mouth?'.",
+        "answer": "A metallic taste in the mouth can be caused by certain medications, dental issues, sinus infections, poor oral hygiene, or underlying health conditions such as kidney disease or diabetes. Identifying and addressing the underlying cause can help alleviate the symptom."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why do I experience joint pain in the morning?",
+        "context": "'Morning joint pain can be caused by arthritis (such as rheumatoid arthritis or osteoarthritis), inflammation, or stiffness from prolonged inactivity during sleep. Gentle stretching and movement can help alleviate morning stiffness and pain.' is the answer to 'Why do I experience joint pain in the morning?'.",
+        "answer": "Morning joint pain can be caused by arthritis (such as rheumatoid arthritis or osteoarthritis), inflammation, or stiffness from prolonged inactivity during sleep. Gentle stretching and movement can help alleviate morning stiffness and pain."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What are the symptoms of shingles?",
+        "context": "When asked 'What are the symptoms of shingles?', the response is 'Symptoms of shingles include a painful rash that usually appears on one side of the body or face, itching, tingling, or burning sensation, fever, headache, and fatigue. Shingles are caused by the reactivation of the varicella-zoster virus, which also causes chickenpox.'.",
+        "answer": "Symptoms of shingles include a painful rash that usually appears on one side of the body or face, itching, tingling, or burning sensation, fever, headache, and fatigue. Shingles are caused by the reactivation of the varicella-zoster virus, which also causes chickenpox."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why do I get hiccups frequently?",
+        "context": "To the question 'Why do I get hiccups frequently?', one should reply with 'Frequent hiccups can be caused by eating too quickly, consuming carbonated beverages, swallowing air, stress, excitement, or irritation of the diaphragm. Persistent hiccups may indicate an underlying medical condition and should be evaluated by a doctor.'.",
+        "answer": "Frequent hiccups can be caused by eating too quickly, consuming carbonated beverages, swallowing air, stress, excitement, or irritation of the diaphragm. Persistent hiccups may indicate an underlying medical condition and should be evaluated by a doctor."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What are the symptoms of multiple sclerosis (MS)?",
+        "context": "If you want to know 'What are the symptoms of multiple sclerosis (MS)?', the answer is 'Symptoms of multiple sclerosis (MS) include numbness or weakness in limbs, loss of vision (often in one eye at a time), double vision, tingling or pain, electric-shock sensations with neck movements, tremor, lack of coordination, and fatigue. MS is a chronic autoimmune disorder affecting the central nervous system.'.",
+        "answer": "Symptoms of multiple sclerosis (MS) include numbness or weakness in limbs, loss of vision (often in one eye at a time), double vision, tingling or pain, electric-shock sensations with neck movements, tremor, lack of coordination, and fatigue. MS is a chronic autoimmune disorder affecting the central nervous system."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why do I feel itchy after a hot shower?",
+        "context": "When asked 'Why do I feel itchy after a hot shower?', the response is 'Feeling itchy after a hot shower can be caused by dry skin, as hot water strips the skin of natural oils. It can also be due to sensitivity to water temperature changes or a condition called aquagenic pruritus. Using lukewarm water and moisturizing after showers can help.'.",
+        "answer": "Feeling itchy after a hot shower can be caused by dry skin, as hot water strips the skin of natural oils. It can also be due to sensitivity to water temperature changes or a condition called aquagenic pruritus. Using lukewarm water and moisturizing after showers can help."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why do I get swelling in my feet and ankles?",
+        "context": "To the question 'Why do I get swelling in my feet and ankles?', one should reply with 'Swelling in the feet and ankles can be caused by fluid retention (edema), prolonged sitting or standing, pregnancy, certain medications, or underlying medical conditions such as heart failure, kidney disease, or liver disease. Elevating the legs, staying active, and reducing salt intake can help reduce swelling.'.",
+        "answer": "Swelling in the feet and ankles can be caused by fluid retention (edema), prolonged sitting or standing, pregnancy, certain medications, or underlying medical conditions such as heart failure, kidney disease, or liver disease. Elevating the legs, staying active, and reducing salt intake can help reduce swelling."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What are the symptoms of chlamydia?",
+        "context": "'Symptoms of chlamydia can include abnormal genital discharge, burning sensation during urination, pain during intercourse, and in women, bleeding between periods. Many people, however, may not show symptoms.' is the answer to 'What are the symptoms of chlamydia?'.",
+        "answer": "Symptoms of chlamydia can include abnormal genital discharge, burning sensation during urination, pain during intercourse, and in women, bleeding between periods. Many people, however, may not show symptoms."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "How is gonorrhea transmitted?",
+        "context": "'Gonorrhea is transmitted through sexual contact with the penis, vagina, mouth, or anus of an infected partner. It can also be spread from mother to baby during childbirth.' is the answer to 'How is gonorrhea transmitted?'.",
+        "answer": "Gonorrhea is transmitted through sexual contact with the penis, vagina, mouth, or anus of an infected partner. It can also be spread from mother to baby during childbirth."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What are the symptoms of gonorrhea?",
+        "context": "To the question 'What are the symptoms of gonorrhea?', one should reply with 'Symptoms of gonorrhea can include painful urination, increased genital discharge, and in men, testicular pain. Women may experience vaginal bleeding between periods and pelvic pain. Some people may be asymptomatic.'.",
+        "answer": "Symptoms of gonorrhea can include painful urination, increased genital discharge, and in men, testicular pain. Women may experience vaginal bleeding between periods and pelvic pain. Some people may be asymptomatic."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "How can syphilis affect the body if left untreated?",
+        "context": "To the question 'How can syphilis affect the body if left untreated?', one should reply with 'Untreated syphilis can progress through stages: primary (sores), secondary (rash, mucous membrane lesions), latent (no symptoms), and tertiary (severe health problems affecting the heart, brain, and other organs).'.",
+        "answer": "Untreated syphilis can progress through stages: primary (sores), secondary (rash, mucous membrane lesions), latent (no symptoms), and tertiary (severe health problems affecting the heart, brain, and other organs)."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What are the signs of primary syphilis?",
+        "context": "To the question 'What are the signs of primary syphilis?', one should reply with 'Primary syphilis typically presents as a single sore (chancre) at the site of infection. The sore is usually firm, round, and painless, appearing 3 weeks after exposure and healing without treatment.'.",
+        "answer": "Primary syphilis typically presents as a single sore (chancre) at the site of infection. The sore is usually firm, round, and painless, appearing 3 weeks after exposure and healing without treatment."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "How is genital herpes transmitted?",
+        "context": "If you want to know 'How is genital herpes transmitted?', the answer is 'Genital herpes is transmitted through vaginal, anal, or oral sex with someone who has the virus. It can be spread even when sores are not visible.'.",
+        "answer": "Genital herpes is transmitted through vaginal, anal, or oral sex with someone who has the virus. It can be spread even when sores are not visible."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What are the symptoms of genital herpes?",
+        "context": "When asked 'What are the symptoms of genital herpes?', the response is 'Symptoms of genital herpes include painful blisters or sores on the genital or anal area, itching, and flu-like symptoms such as fever and swollen lymph nodes. Some people may have mild symptoms or none at all.'.",
+        "answer": "Symptoms of genital herpes include painful blisters or sores on the genital or anal area, itching, and flu-like symptoms such as fever and swollen lymph nodes. Some people may have mild symptoms or none at all."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "How is human papillomavirus (HPV) transmitted?",
+        "context": "'HPV is transmitted through intimate skin-to-skin contact, including vaginal, anal, and oral sex. It is one of the most common STDs.' is the answer to 'How is human papillomavirus (HPV) transmitted?'.",
+        "answer": "HPV is transmitted through intimate skin-to-skin contact, including vaginal, anal, and oral sex. It is one of the most common STDs."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What are the symptoms of HPV?",
+        "context": "When asked 'What are the symptoms of HPV?', the response is 'Most HPV infections are asymptomatic and clear on their own. Some types can cause genital warts, while others may lead to cancers of the cervix, anus, or throat.'.",
+        "answer": "Most HPV infections are asymptomatic and clear on their own. Some types can cause genital warts, while others may lead to cancers of the cervix, anus, or throat."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Can hepatitis B be sexually transmitted?",
+        "context": "When asked 'Can hepatitis B be sexually transmitted?', the response is 'Yes, hepatitis B can be transmitted through sexual contact with an infected person, as well as through exposure to infected blood, such as sharing needles.'.",
+        "answer": "Yes, hepatitis B can be transmitted through sexual contact with an infected person, as well as through exposure to infected blood, such as sharing needles."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What are the symptoms of hepatitis B?",
+        "context": "To the question 'What are the symptoms of hepatitis B?', one should reply with 'Symptoms of hepatitis B can include fatigue, nausea, vomiting, abdominal pain, dark urine, jaundice (yellowing of the skin and eyes), and joint pain. Some people may not show symptoms.'.",
+        "answer": "Symptoms of hepatitis B can include fatigue, nausea, vomiting, abdominal pain, dark urine, jaundice (yellowing of the skin and eyes), and joint pain. Some people may not show symptoms."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "How can trichomoniasis affect women and men?",
+        "context": "If you want to know 'How can trichomoniasis affect women and men?', the answer is 'Trichomoniasis in women can cause itching, burning, redness or soreness of the genitals, discomfort during urination, and vaginal discharge with an unusual smell. Men may experience itching or irritation inside the penis, burning after urination or ejaculation, and penile discharge.'.",
+        "answer": "Trichomoniasis in women can cause itching, burning, redness or soreness of the genitals, discomfort during urination, and vaginal discharge with an unusual smell. Men may experience itching or irritation inside the penis, burning after urination or ejaculation, and penile discharge."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "How is HIV transmitted?",
+        "context": "When asked 'How is HIV transmitted?', the response is 'HIV is transmitted through contact with infected blood, semen, vaginal fluids, rectal fluids, or breast milk. Common ways include unprotected sex, sharing needles, and from mother to baby during childbirth or breastfeeding.'.",
+        "answer": "HIV is transmitted through contact with infected blood, semen, vaginal fluids, rectal fluids, or breast milk. Common ways include unprotected sex, sharing needles, and from mother to baby during childbirth or breastfeeding."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What are the early symptoms of HIV infection?",
+        "context": "If you want to know 'What are the early symptoms of HIV infection?', the answer is 'Early symptoms of HIV infection (acute HIV infection) can include flu-like symptoms such as fever, chills, rash, night sweats, muscle aches, sore throat, fatigue, swollen lymph nodes, and mouth ulcers.'.",
+        "answer": "Early symptoms of HIV infection (acute HIV infection) can include flu-like symptoms such as fever, chills, rash, night sweats, muscle aches, sore throat, fatigue, swollen lymph nodes, and mouth ulcers."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What are the long-term effects of untreated HIV?",
+        "context": "'Untreated HIV can progress to AIDS (acquired immunodeficiency syndrome), severely weakening the immune system and making the body susceptible to opportunistic infections and cancers.' is the answer to 'What are the long-term effects of untreated HIV?'.",
+        "answer": "Untreated HIV can progress to AIDS (acquired immunodeficiency syndrome), severely weakening the immune system and making the body susceptible to opportunistic infections and cancers."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "How is pubic lice (crabs) transmitted?",
+        "context": "The answer to the question 'How is pubic lice (crabs) transmitted?' is 'Pubic lice are transmitted through close personal contact, including sexual contact, and can also spread through infested bedding, towels, and clothing.'.",
+        "answer": "Pubic lice are transmitted through close personal contact, including sexual contact, and can also spread through infested bedding, towels, and clothing."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What are the symptoms of pubic lice?",
+        "context": "If you want to know 'What are the symptoms of pubic lice?', the answer is 'Symptoms of pubic lice include intense itching in the genital area, visible nits (lice eggs) on pubic hair, and crawling lice.'.",
+        "answer": "Symptoms of pubic lice include intense itching in the genital area, visible nits (lice eggs) on pubic hair, and crawling lice."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "How is chancroid transmitted?",
+        "context": "'Chancroid is transmitted through sexual contact with an infected person. It causes painful genital ulcers and swollen lymph nodes in the groin.' is the answer to 'How is chancroid transmitted?'.",
+        "answer": "Chancroid is transmitted through sexual contact with an infected person. It causes painful genital ulcers and swollen lymph nodes in the groin."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What are the symptoms of chancroid?",
+        "context": "To the question 'What are the symptoms of chancroid?', one should reply with 'Symptoms of chancroid include painful sores on the genitalia and swollen, tender lymph nodes in the groin. The sores may produce pus and have soft, ragged edges.'.",
+        "answer": "Symptoms of chancroid include painful sores on the genitalia and swollen, tender lymph nodes in the groin. The sores may produce pus and have soft, ragged edges."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Can STDs be asymptomatic?",
+        "context": "The answer to the question 'Can STDs be asymptomatic?' is 'Yes, many STDs can be asymptomatic, meaning individuals may not show symptoms but can still transmit the infection to others. Regular screening is important for sexually active individuals.'.",
+        "answer": "Yes, many STDs can be asymptomatic, meaning individuals may not show symptoms but can still transmit the infection to others. Regular screening is important for sexually active individuals."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What are the symptoms of bacterial vaginosis (BV)?",
+        "context": "If you want to know 'What are the symptoms of bacterial vaginosis (BV)?', the answer is 'Symptoms of bacterial vaginosis include a thin, white or gray vaginal discharge, a strong fishy odor, especially after sex, vaginal itching, and burning during urination. BV is caused by an imbalance of bacteria in the vagina.'.",
+        "answer": "Symptoms of bacterial vaginosis include a thin, white or gray vaginal discharge, a strong fishy odor, especially after sex, vaginal itching, and burning during urination. BV is caused by an imbalance of bacteria in the vagina."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "How can STDs affect pregnancy?",
+        "context": "To the question 'How can STDs affect pregnancy?', one should reply with 'STDs can have serious effects on pregnancy, including preterm labor, low birth weight, and transmission of the infection to the baby. Some STDs can cause congenital infections, stillbirth, or severe newborn illnesses.'.",
+        "answer": "STDs can have serious effects on pregnancy, including preterm labor, low birth weight, and transmission of the infection to the baby. Some STDs can cause congenital infections, stillbirth, or severe newborn illnesses."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What is the incubation period for gonorrhea?",
+        "context": "If you want to know 'What is the incubation period for gonorrhea?', the answer is 'The incubation period for gonorrhea is typically 2 to 7 days after exposure, but symptoms can appear as late as 30 days in some cases. Early detection and treatment are crucial.'.",
+        "answer": "The incubation period for gonorrhea is typically 2 to 7 days after exposure, but symptoms can appear as late as 30 days in some cases. Early detection and treatment are crucial."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "How is syphilis diagnosed?",
+        "context": "'Syphilis is diagnosed through blood tests, such as the rapid plasma reagin (RPR) test or the Venereal Disease Research Laboratory (VDRL) test, and by examining fluid from sores.' is the answer to 'How is syphilis diagnosed?'.",
+        "answer": "Syphilis is diagnosed through blood tests, such as the rapid plasma reagin (RPR) test or the Venereal Disease Research Laboratory (VDRL) test, and by examining fluid from sores."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Can HPV be prevented with a vaccine?",
+        "context": "If you want to know 'Can HPV be prevented with a vaccine?', the answer is 'Yes, HPV can be prevented with vaccines like Gardasil and Cervarix, which protect against the most common and high-risk types of HPV associated with genital warts and cancers.'.",
+        "answer": "Yes, HPV can be prevented with vaccines like Gardasil and Cervarix, which protect against the most common and high-risk types of HPV associated with genital warts and cancers."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What are the symptoms of lymphogranuloma venereum (LGV)?",
+        "context": "To the question 'What are the symptoms of lymphogranuloma venereum (LGV)?', one should reply with 'Symptoms of LGV include small, painless ulcers on the genital or rectal area, swollen and painful lymph nodes in the groin, rectal pain, discharge, and bleeding. LGV is caused by certain strains of Chlamydia trachomatis.'.",
+        "answer": "Symptoms of LGV include small, painless ulcers on the genital or rectal area, swollen and painful lymph nodes in the groin, rectal pain, discharge, and bleeding. LGV is caused by certain strains of Chlamydia trachomatis."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "How can one reduce the risk of contracting an STD?",
+        "context": "If you want to know 'How can one reduce the risk of contracting an STD?', the answer is 'To reduce the risk of contracting an STD, practice safe sex by using condoms, engage in mutually monogamous relationships, get regularly tested, and avoid sharing needles or syringes.'.",
+        "answer": "To reduce the risk of contracting an STD, practice safe sex by using condoms, engage in mutually monogamous relationships, get regularly tested, and avoid sharing needles or syringes."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What is the \"window period\" in HIV testing?",
+        "context": "The answer to the question 'What is the \"window period\" in HIV testing?' is 'The \"window period\" in HIV testing is the time between potential exposure to HIV and when a test can reliably detect the virus or antibodies in the blood. This period can range from 10 days to 3 months, depending on the test used.'.",
+        "answer": "The \"window period\" in HIV testing is the time between potential exposure to HIV and when a test can reliably detect the virus or antibodies in the blood. This period can range from 10 days to 3 months, depending on the test used."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Can oral sex transmit STDs?",
+        "context": "When asked 'Can oral sex transmit STDs?', the response is 'Yes, oral sex can transmit STDs such as herpes, gonorrhea, syphilis, HPV, and HIV. Using barriers like condoms or dental dams during oral sex can reduce the risk of transmission.'.",
+        "answer": "Yes, oral sex can transmit STDs such as herpes, gonorrhea, syphilis, HPV, and HIV. Using barriers like condoms or dental dams during oral sex can reduce the risk of transmission."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What are the symptoms of pelvic inflammatory disease (PID)?",
+        "context": "If you want to know 'What are the symptoms of pelvic inflammatory disease (PID)?', the answer is 'Symptoms of PID include lower abdominal pain, fever, unusual vaginal discharge with a bad odor, painful intercourse, painful urination, and irregular menstrual bleeding. PID is often caused by untreated STDs like chlamydia and gonorrhea.'.",
+        "answer": "Symptoms of PID include lower abdominal pain, fever, unusual vaginal discharge with a bad odor, painful intercourse, painful urination, and irregular menstrual bleeding. PID is often caused by untreated STDs like chlamydia and gonorrhea."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "How is trichomoniasis treated?",
+        "context": "When asked 'How is trichomoniasis treated?', the response is 'Trichomoniasis is typically treated with oral antibiotics, such as metronidazole or tinidazole. It is important for both partners to be treated to prevent reinfection.'.",
+        "answer": "Trichomoniasis is typically treated with oral antibiotics, such as metronidazole or tinidazole. It is important for both partners to be treated to prevent reinfection."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Can STDs cause infertility?",
+        "context": "To the question 'Can STDs cause infertility?', one should reply with 'Yes, untreated STDs like chlamydia and gonorrhea can lead to infertility in both men and women by causing damage to the reproductive organs, such as the fallopian tubes in women and the epididymis in men.'.",
+        "answer": "Yes, untreated STDs like chlamydia and gonorrhea can lead to infertility in both men and women by causing damage to the reproductive organs, such as the fallopian tubes in women and the epididymis in men."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What are the signs of HIV progressing to AIDS?",
+        "context": "To the question 'What are the signs of HIV progressing to AIDS?', one should reply with 'Signs of HIV progressing to AIDS include severe weight loss, recurrent fever, chronic diarrhea, persistent fatigue, opportunistic infections, certain cancers (like Kaposi's sarcoma), and neurological symptoms.'.",
+        "answer": "Signs of HIV progressing to AIDS include severe weight loss, recurrent fever, chronic diarrhea, persistent fatigue, opportunistic infections, certain cancers (like Kaposi's sarcoma), and neurological symptoms."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "How often should sexually active individuals get tested for STDs?",
+        "context": "'Sexually active individuals should get tested for STDs at least once a year. Those with multiple partners, new partners, or those who engage in unprotected sex should consider more frequent testing.' is the answer to 'How often should sexually active individuals get tested for STDs?'.",
+        "answer": "Sexually active individuals should get tested for STDs at least once a year. Those with multiple partners, new partners, or those who engage in unprotected sex should consider more frequent testing."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What are the symptoms of molluscum contagiosum?",
+        "context": "If you want to know 'What are the symptoms of molluscum contagiosum?', the answer is 'Symptoms of molluscum contagiosum include small, firm, painless bumps on the skin that may become itchy or red. The bumps often have a dimple in the center and can appear on the genital area or other parts of the body.'.",
+        "answer": "Symptoms of molluscum contagiosum include small, firm, painless bumps on the skin that may become itchy or red. The bumps often have a dimple in the center and can appear on the genital area or other parts of the body."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Can herpes be cured?",
+        "context": "To the question 'Can herpes be cured?', one should reply with ': Herpes cannot be cured, but antiviral medications can manage outbreaks, reduce symptoms, and decrease the risk of transmission. Medications like acyclovir, valacyclovir, and famciclovir are commonly used.'.",
+        "answer": ": Herpes cannot be cured, but antiviral medications can manage outbreaks, reduce symptoms, and decrease the risk of transmission. Medications like acyclovir, valacyclovir, and famciclovir are commonly used."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "How is a syphilis sore (chancre) different from a herpes sore?",
+        "context": "To the question 'How is a syphilis sore (chancre) different from a herpes sore?', one should reply with 'A syphilis sore (chancre) is typically firm, round, and painless, appearing at the site of infection. Herpes sores are usually painful, fluid-filled blisters that can rupture and form painful ulcers.'.",
+        "answer": "A syphilis sore (chancre) is typically firm, round, and painless, appearing at the site of infection. Herpes sores are usually painful, fluid-filled blisters that can rupture and form painful ulcers."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What is the connection between STDs and increased HIV risk?",
+        "context": "To the question 'What is the connection between STDs and increased HIV risk?', one should reply with 'Having an STD increases the risk of contracting HIV due to inflammation and sores that compromise the mucosal barrier, making it easier for the virus to enter the body. STDs like syphilis, herpes, and gonorrhea particularly increase this risk.'.",
+        "answer": "Having an STD increases the risk of contracting HIV due to inflammation and sores that compromise the mucosal barrier, making it easier for the virus to enter the body. STDs like syphilis, herpes, and gonorrhea particularly increase this risk."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Can hepatitis C be sexually transmitted?",
+        "context": "To the question 'Can hepatitis C be sexually transmitted?', one should reply with 'Hepatitis C can be sexually transmitted, though the risk is lower compared to other STDs. The risk increases with the presence of other STDs, rough sex, or sex involving blood exposure.'.",
+        "answer": "Hepatitis C can be sexually transmitted, though the risk is lower compared to other STDs. The risk increases with the presence of other STDs, rough sex, or sex involving blood exposure."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What are the symptoms of anogenital warts caused by HPV?",
+        "context": "To the question 'What are the symptoms of anogenital warts caused by HPV?', one should reply with 'Symptoms of anogenital warts include small, flesh-colored or gray growths in the genital or anal area, itching, discomfort, and sometimes bleeding during intercourse. These warts are caused by certain types of HPV.'.",
+        "answer": "Symptoms of anogenital warts include small, flesh-colored or gray growths in the genital or anal area, itching, discomfort, and sometimes bleeding during intercourse. These warts are caused by certain types of HPV."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What are the symptoms of Mycoplasma genitalium infection?",
+        "context": "The answer to the question 'What are the symptoms of Mycoplasma genitalium infection?' is 'Symptoms of Mycoplasma genitalium infection can include urethritis (burning during urination and discharge) in men, and cervicitis (abnormal vaginal discharge and pelvic pain) in women. Some individuals may be asymptomatic.'.",
+        "answer": "Symptoms of Mycoplasma genitalium infection can include urethritis (burning during urination and discharge) in men, and cervicitis (abnormal vaginal discharge and pelvic pain) in women. Some individuals may be asymptomatic."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "How is chlamydia treated?",
+        "context": "When asked 'How is chlamydia treated?', the response is 'Chlamydia is typically treated with antibiotics such as azithromycin or doxycycline. It's important for sexual partners to be treated simultaneously to prevent reinfection.'.",
+        "answer": "Chlamydia is typically treated with antibiotics such as azithromycin or doxycycline. It's important for sexual partners to be treated simultaneously to prevent reinfection."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Can herpes be transmitted even when there are no visible sores?",
+        "context": "To the question 'Can herpes be transmitted even when there are no visible sores?', one should reply with 'Yes, herpes can be transmitted even when there are no visible sores through a process called asymptomatic shedding, where the virus is present on the skin without causing symptoms.'.",
+        "answer": "Yes, herpes can be transmitted even when there are no visible sores through a process called asymptomatic shedding, where the virus is present on the skin without causing symptoms."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What are the symptoms of scabies?",
+        "context": "The answer to the question 'What are the symptoms of scabies?' is 'Symptoms of scabies include intense itching, especially at night, and a pimple-like rash. It is caused by tiny mites that burrow into the skin.'.",
+        "answer": "Symptoms of scabies include intense itching, especially at night, and a pimple-like rash. It is caused by tiny mites that burrow into the skin."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "How is syphilis treated?",
+        "context": "'Syphilis is treated with antibiotics, typically penicillin. Early treatment is crucial to prevent progression to later stages, which can cause serious health problems.' is the answer to 'How is syphilis treated?'.",
+        "answer": "Syphilis is treated with antibiotics, typically penicillin. Early treatment is crucial to prevent progression to later stages, which can cause serious health problems."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Can HPV cause cancer?",
+        "context": "'Yes, certain high-risk types of HPV can cause cancer, including cervical, anal, oropharyngeal, penile, vulvar, and vaginal cancers. Regular screening and HPV vaccination can help prevent these cancers.' is the answer to 'Can HPV cause cancer?'.",
+        "answer": "Yes, certain high-risk types of HPV can cause cancer, including cervical, anal, oropharyngeal, penile, vulvar, and vaginal cancers. Regular screening and HPV vaccination can help prevent these cancers."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What are the symptoms of ureaplasma infection?",
+        "context": "The answer to the question 'What are the symptoms of ureaplasma infection?' is 'Symptoms of ureaplasma infection can include urethritis in men (burning during urination and discharge) and vaginitis or cervicitis in women (abnormal vaginal discharge and pelvic pain). Some people may be asymptomatic.'.",
+        "answer": "Symptoms of ureaplasma infection can include urethritis in men (burning during urination and discharge) and vaginitis or cervicitis in women (abnormal vaginal discharge and pelvic pain). Some people may be asymptomatic."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "How is trichomoniasis diagnosed?",
+        "context": "To the question 'How is trichomoniasis diagnosed?', one should reply with 'Trichomoniasis is diagnosed through laboratory tests, such as examining vaginal or urethral discharge under a microscope or using a rapid antigen test or nucleic acid amplification test (NAAT).'.",
+        "answer": "Trichomoniasis is diagnosed through laboratory tests, such as examining vaginal or urethral discharge under a microscope or using a rapid antigen test or nucleic acid amplification test (NAAT)."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What are the long-term effects of untreated chlamydia?",
+        "context": "The answer to the question 'What are the long-term effects of untreated chlamydia?' is 'Long-term effects of untreated chlamydia can include pelvic inflammatory disease (PID) in women, which can lead to infertility, chronic pelvic pain, and ectopic pregnancy. In men, it can cause epididymitis and infertility.'.",
+        "answer": "Long-term effects of untreated chlamydia can include pelvic inflammatory disease (PID) in women, which can lead to infertility, chronic pelvic pain, and ectopic pregnancy. In men, it can cause epididymitis and infertility."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Can STDs be transmitted through non-sexual means?",
+        "context": "If you want to know 'Can STDs be transmitted through non-sexual means?', the answer is 'Yes, some STDs can be transmitted through non-sexual means. For example, HIV, hepatitis B, and hepatitis C can be transmitted through sharing needles, and pubic lice can spread through infested bedding or clothing.'.",
+        "answer": "Yes, some STDs can be transmitted through non-sexual means. For example, HIV, hepatitis B, and hepatitis C can be transmitted through sharing needles, and pubic lice can spread through infested bedding or clothing."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What are the symptoms of granuloma inguinale (donovanosis)?",
+        "context": "To the question 'What are the symptoms of granuloma inguinale (donovanosis)?', one should reply with 'Symptoms of granuloma inguinale include painless, progressive ulcers on the genital or anal area. The ulcers can bleed easily and may be accompanied by a foul-smelling discharge.'.",
+        "answer": "Symptoms of granuloma inguinale include painless, progressive ulcers on the genital or anal area. The ulcers can bleed easily and may be accompanied by a foul-smelling discharge."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "How is hepatitis C treated?",
+        "context": "If you want to know 'How is hepatitis C treated?', the answer is 'Hepatitis C is treated with antiviral medications, often in combination, such as sofosbuvir, ledipasvir, and ribavirin. Treatment aims to clear the virus from the body and prevent liver damage.'.",
+        "answer": "Hepatitis C is treated with antiviral medications, often in combination, such as sofosbuvir, ledipasvir, and ribavirin. Treatment aims to clear the virus from the body and prevent liver damage."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What are the symptoms of molluscum contagiosum in adults?",
+        "context": "'Symptoms of molluscum contagiosum in adults include small, firm, painless bumps on the skin that may become itchy or red. These bumps can appear on the genital area, thighs, lower abdomen, and buttocks.' is the answer to 'What are the symptoms of molluscum contagiosum in adults?'.",
+        "answer": "Symptoms of molluscum contagiosum in adults include small, firm, painless bumps on the skin that may become itchy or red. These bumps can appear on the genital area, thighs, lower abdomen, and buttocks."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "How is HIV managed?",
+        "context": "If you want to know 'How is HIV managed?', the answer is 'HIV is managed with antiretroviral therapy (ART), which involves taking a combination of HIV medicines every day. ART helps control the virus, improves quality of life, and reduces the risk of HIV transmission.'.",
+        "answer": "HIV is managed with antiretroviral therapy (ART), which involves taking a combination of HIV medicines every day. ART helps control the virus, improves quality of life, and reduces the risk of HIV transmission."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What could be causing my frequent nausea?",
+        "context": "The answer to the question 'What could be causing my frequent nausea?' is 'Frequent nausea can be caused by a variety of factors including gastrointestinal issues, medications, pregnancy, and stress.'.",
+        "answer": "Frequent nausea can be caused by a variety of factors including gastrointestinal issues, medications, pregnancy, and stress."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why do I have a persistent cough?",
+        "context": "To the question 'Why do I have a persistent cough?', one should reply with 'A persistent cough can be due to infections, asthma, allergies, acid reflux, or chronic bronchitis.'.",
+        "answer": "A persistent cough can be due to infections, asthma, allergies, acid reflux, or chronic bronchitis."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": " What does it mean if I have chest pain when breathing deeply?",
+        "context": "When asked ' What does it mean if I have chest pain when breathing deeply?', the response is 'Chest pain when breathing deeply could indicate pleurisy, a pulmonary embolism, or other respiratory conditions and should be evaluated by a doctor.'.",
+        "answer": "Chest pain when breathing deeply could indicate pleurisy, a pulmonary embolism, or other respiratory conditions and should be evaluated by a doctor."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why am I experiencing dizziness when standing up?",
+        "context": "If you want to know 'Why am I experiencing dizziness when standing up?', the answer is 'Dizziness when standing up could be a sign of orthostatic hypotension, dehydration, or an inner ear problem.'.",
+        "answer": "Dizziness when standing up could be a sign of orthostatic hypotension, dehydration, or an inner ear problem."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What could cause a sudden loss of taste and smell?",
+        "context": "To the question 'What could cause a sudden loss of taste and smell?', one should reply with 'Sudden loss of taste and smell can be caused by viral infections like COVID-19, sinus infections, or head injuries.'.",
+        "answer": "Sudden loss of taste and smell can be caused by viral infections like COVID-19, sinus infections, or head injuries."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why do I have frequent muscle cramps?",
+        "context": "If you want to know 'Why do I have frequent muscle cramps?', the answer is 'Frequent muscle cramps can result from dehydration, electrolyte imbalances, overuse of muscles, or inadequate blood supply.'.",
+        "answer": "Frequent muscle cramps can result from dehydration, electrolyte imbalances, overuse of muscles, or inadequate blood supply."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What could be the reason for my hair falling out in patches?",
+        "context": "If you want to know 'What could be the reason for my hair falling out in patches?', the answer is 'Patchy hair loss may be due to conditions like alopecia areata, fungal infections, or severe stress.'.",
+        "answer": "Patchy hair loss may be due to conditions like alopecia areata, fungal infections, or severe stress."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why am I experiencing joint pain and stiffness?",
+        "context": "'Joint pain and stiffness can be symptoms of arthritis, bursitis, lupus, or other inflammatory conditions.' is the answer to 'Why am I experiencing joint pain and stiffness?'.",
+        "answer": "Joint pain and stiffness can be symptoms of arthritis, bursitis, lupus, or other inflammatory conditions."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What might be causing my hands to tremble?",
+        "context": "The answer to the question 'What might be causing my hands to tremble?' is 'Hand tremors can be caused by conditions like essential tremor, Parkinson's disease, anxiety, or medication side effects.'.",
+        "answer": "Hand tremors can be caused by conditions like essential tremor, Parkinson's disease, anxiety, or medication side effects."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why do I have a persistent sore throat?",
+        "context": "If you want to know 'Why do I have a persistent sore throat?', the answer is 'A persistent sore throat could be due to chronic infections, allergies, acid reflux, or smoking.'.",
+        "answer": "A persistent sore throat could be due to chronic infections, allergies, acid reflux, or smoking."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What causes frequent urination?",
+        "context": "'Frequent urination can be a sign of diabetes, urinary tract infections, prostate problems, or diuretic use.' is the answer to 'What causes frequent urination?'.",
+        "answer": "Frequent urination can be a sign of diabetes, urinary tract infections, prostate problems, or diuretic use."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why am I feeling short of breath even when resting?",
+        "context": "If you want to know 'Why am I feeling short of breath even when resting?', the answer is 'Shortness of breath at rest can be a symptom of heart failure, lung diseases, anxiety, or anemia.'.",
+        "answer": "Shortness of breath at rest can be a symptom of heart failure, lung diseases, anxiety, or anemia."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What could be the reason for my swollen ankles?",
+        "context": "'Swollen ankles can result from heart failure, kidney disease, liver disease, or venous insufficiency.' is the answer to 'What could be the reason for my swollen ankles?'.",
+        "answer": "Swollen ankles can result from heart failure, kidney disease, liver disease, or venous insufficiency."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why do I have recurring headaches?",
+        "context": "When asked 'Why do I have recurring headaches?', the response is 'Recurring headaches may be caused by migraines, tension headaches, sinus problems, or eyestrain.'.",
+        "answer": "Recurring headaches may be caused by migraines, tension headaches, sinus problems, or eyestrain."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What might be causing my skin to itch without a rash?",
+        "context": "To the question 'What might be causing my skin to itch without a rash?', one should reply with 'Itchy skin without a rash can be due to dry skin, allergies, liver disease, or thyroid problems.'.",
+        "answer": "Itchy skin without a rash can be due to dry skin, allergies, liver disease, or thyroid problems."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why am I experiencing night sweats?",
+        "context": "'Night sweats can be caused by infections, menopause, certain cancers, or medications.' is the answer to 'Why am I experiencing night sweats?'.",
+        "answer": "Night sweats can be caused by infections, menopause, certain cancers, or medications."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What causes a sudden onset of double vision?",
+        "context": "When asked 'What causes a sudden onset of double vision?', the response is 'Sudden double vision can be due to neurological conditions, eye muscle problems, or brain injuries.'.",
+        "answer": "Sudden double vision can be due to neurological conditions, eye muscle problems, or brain injuries."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why am I having trouble concentrating?",
+        "context": "If you want to know 'Why am I having trouble concentrating?', the answer is 'Trouble concentrating can result from ADHD, anxiety, depression, or sleep disorders.'.",
+        "answer": "Trouble concentrating can result from ADHD, anxiety, depression, or sleep disorders."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What could be the reason for my chronic fatigue?",
+        "context": "'Chronic fatigue can be a symptom of conditions like chronic fatigue syndrome, sleep apnea, anemia, or depression.' is the answer to 'What could be the reason for my chronic fatigue?'.",
+        "answer": "Chronic fatigue can be a symptom of conditions like chronic fatigue syndrome, sleep apnea, anemia, or depression."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why do I have frequent nosebleeds?",
+        "context": "To the question 'Why do I have frequent nosebleeds?', one should reply with 'Frequent nosebleeds can be caused by dry air, nasal irritation, blood disorders, or hypertension.'.",
+        "answer": "Frequent nosebleeds can be caused by dry air, nasal irritation, blood disorders, or hypertension."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What might be causing my persistent diarrhea?",
+        "context": "If you want to know 'What might be causing my persistent diarrhea?', the answer is 'Persistent diarrhea can be due to infections, irritable bowel syndrome, celiac disease, or medications.'.",
+        "answer": "Persistent diarrhea can be due to infections, irritable bowel syndrome, celiac disease, or medications."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why am I experiencing severe back pain?",
+        "context": "When asked 'Why am I experiencing severe back pain?', the response is 'Severe back pain can be a result of muscle strain, herniated discs, spinal stenosis, or osteoporosis.'.",
+        "answer": "Severe back pain can be a result of muscle strain, herniated discs, spinal stenosis, or osteoporosis."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What could cause my hands and feet to tingle?",
+        "context": "If you want to know 'What could cause my hands and feet to tingle?', the answer is 'Tingling in hands and feet can be a sign of peripheral neuropathy, diabetes, vitamin deficiencies, or nerve compression.'.",
+        "answer": "Tingling in hands and feet can be a sign of peripheral neuropathy, diabetes, vitamin deficiencies, or nerve compression."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why do I have a constant metallic taste in my mouth?",
+        "context": "When asked 'Why do I have a constant metallic taste in my mouth?', the response is 'A constant metallic taste can be due to medications, poor oral hygiene, sinus issues, or chemical exposures.'.",
+        "answer": "A constant metallic taste can be due to medications, poor oral hygiene, sinus issues, or chemical exposures."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What might be causing my eyes to be constantly dry?",
+        "context": "'Constantly dry eyes can be a symptom of conditions like Sjogren's syndrome, allergies, or prolonged screen use.' is the answer to 'What might be causing my eyes to be constantly dry?'.",
+        "answer": "Constantly dry eyes can be a symptom of conditions like Sjogren's syndrome, allergies, or prolonged screen use."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why am I losing weight without trying?",
+        "context": "If you want to know 'Why am I losing weight without trying?', the answer is 'Unintentional weight loss can be a sign of hyperthyroidism, cancer, gastrointestinal diseases, or chronic infections.'.",
+        "answer": "Unintentional weight loss can be a sign of hyperthyroidism, cancer, gastrointestinal diseases, or chronic infections."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What could be the reason for my swollen lymph nodes?",
+        "context": "If you want to know 'What could be the reason for my swollen lymph nodes?', the answer is 'Swollen lymph nodes can be due to infections, immune disorders, or cancers like lymphoma.'.",
+        "answer": "Swollen lymph nodes can be due to infections, immune disorders, or cancers like lymphoma."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why am I experiencing sudden sharp chest pain?",
+        "context": "If you want to know 'Why am I experiencing sudden sharp chest pain?', the answer is 'Sudden sharp chest pain can be caused by conditions like costochondritis, heart attack, or pulmonary embolism.'.",
+        "answer": "Sudden sharp chest pain can be caused by conditions like costochondritis, heart attack, or pulmonary embolism."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What causes frequent ear infections?",
+        "context": "If you want to know 'What causes frequent ear infections?', the answer is 'Frequent ear infections can be due to allergies, sinus infections, anatomical issues, or immune deficiencies.'.",
+        "answer": "Frequent ear infections can be due to allergies, sinus infections, anatomical issues, or immune deficiencies."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why do I have difficulty swallowing?",
+        "context": "If you want to know 'Why do I have difficulty swallowing?', the answer is 'Difficulty swallowing can result from conditions like esophageal stricture, GERD, neurological disorders, or throat cancer.'.",
+        "answer": "Difficulty swallowing can result from conditions like esophageal stricture, GERD, neurological disorders, or throat cancer."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What could be causing my vision to suddenly blur?",
+        "context": "To the question 'What could be causing my vision to suddenly blur?', one should reply with 'Sudden blurry vision can be a sign of eye conditions like cataracts, glaucoma, macular degeneration, or a stroke.'.",
+        "answer": "Sudden blurry vision can be a sign of eye conditions like cataracts, glaucoma, macular degeneration, or a stroke."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why am I experiencing sudden weight gain?",
+        "context": "When asked 'Why am I experiencing sudden weight gain?', the response is 'Sudden weight gain can be due to hypothyroidism, heart failure, kidney disease, or medication side effects.'.",
+        "answer": "Sudden weight gain can be due to hypothyroidism, heart failure, kidney disease, or medication side effects."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What causes persistent bloating?",
+        "context": "'Persistent bloating can be due to gastrointestinal disorders like IBS, celiac disease, lactose intolerance, or ovarian cancer.' is the answer to 'What causes persistent bloating?'.",
+        "answer": "Persistent bloating can be due to gastrointestinal disorders like IBS, celiac disease, lactose intolerance, or ovarian cancer."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why am I feeling unusually cold all the time",
+        "context": "'Feeling unusually cold can be a symptom of hypothyroidism, anemia, poor circulation, or inadequate body fat.' is the answer to 'Why am I feeling unusually cold all the time'.",
+        "answer": "Feeling unusually cold can be a symptom of hypothyroidism, anemia, poor circulation, or inadequate body fat."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What might be causing my severe headaches?",
+        "context": "When asked 'What might be causing my severe headaches?', the response is 'Severe headaches can be due to migraines, cluster headaches, tension headaches, or sinus infections.'.",
+        "answer": "Severe headaches can be due to migraines, cluster headaches, tension headaches, or sinus infections."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why do I have a constant feeling of fullness?",
+        "context": "The answer to the question 'Why do I have a constant feeling of fullness?' is 'A constant feeling of fullness can be a sign of gastroparesis, peptic ulcers, or certain types of cancers.'.",
+        "answer": "A constant feeling of fullness can be a sign of gastroparesis, peptic ulcers, or certain types of cancers."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What causes my fingers to turn white and blue?",
+        "context": "'Fingers turning white and blue can indicate Raynaud's phenomenon, which affects blood flow to certain parts of the body.' is the answer to 'What causes my fingers to turn white and blue?'.",
+        "answer": "Fingers turning white and blue can indicate Raynaud's phenomenon, which affects blood flow to certain parts of the body."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why am I experiencing frequent chest palpitations?",
+        "context": "When asked 'Why am I experiencing frequent chest palpitations?', the response is 'Frequent chest palpitations can be due to anxiety, arrhythmias, hyperthyroidism, or caffeine intake.'.",
+        "answer": "Frequent chest palpitations can be due to anxiety, arrhythmias, hyperthyroidism, or caffeine intake."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What might be causing my gums to bleed?",
+        "context": "If you want to know 'What might be causing my gums to bleed?', the answer is 'Bleeding gums can result from poor oral hygiene, gingivitis, vitamin deficiencies, or blood disorders.'.",
+        "answer": "Bleeding gums can result from poor oral hygiene, gingivitis, vitamin deficiencies, or blood disorders."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why do I have chronic sinus congestion?",
+        "context": "'Chronic sinus congestion can be caused by allergies, sinus infections, nasal polyps, or a deviated septum.' is the answer to 'Why do I have chronic sinus congestion?'.",
+        "answer": "Chronic sinus congestion can be caused by allergies, sinus infections, nasal polyps, or a deviated septum."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What could be the reason for my sudden hearing loss?",
+        "context": "The answer to the question 'What could be the reason for my sudden hearing loss?' is 'Sudden hearing loss can be due to ear infections, earwax buildup, loud noise exposure, or nerve damage.'.",
+        "answer": "Sudden hearing loss can be due to ear infections, earwax buildup, loud noise exposure, or nerve damage."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why am I feeling constantly thirsty?",
+        "context": "To the question 'Why am I feeling constantly thirsty?', one should reply with 'Constant thirst can be a symptom of diabetes, dehydration, or high salt intake.'.",
+        "answer": "Constant thirst can be a symptom of diabetes, dehydration, or high salt intake."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What might cause my hands and feet to feel cold?",
+        "context": "When asked 'What might cause my hands and feet to feel cold?', the response is 'Cold hands and feet can be due to poor circulation, anemia, hypothyroidism, or Raynaud's phenomenon.'.",
+        "answer": "Cold hands and feet can be due to poor circulation, anemia, hypothyroidism, or Raynaud's phenomenon."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why do I have a chronic cough?",
+        "context": "To the question 'Why do I have a chronic cough?', one should reply with 'A chronic cough can be a symptom of asthma, chronic bronchitis, GERD, or postnasal drip.'.",
+        "answer": "A chronic cough can be a symptom of asthma, chronic bronchitis, GERD, or postnasal drip."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What could cause my nails to be brittle and break easily?",
+        "context": "To the question 'What could cause my nails to be brittle and break easily?', one should reply with 'Brittle nails can result from nutritional deficiencies, fungal infections, thyroid disorders, or frequent exposure to water.'.",
+        "answer": "Brittle nails can result from nutritional deficiencies, fungal infections, thyroid disorders, or frequent exposure to water."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why am I experiencing unexplained bruising?",
+        "context": "'Unexplained bruising can be due to blood disorders, vitamin deficiencies, or certain medications.' is the answer to 'Why am I experiencing unexplained bruising?'.",
+        "answer": "Unexplained bruising can be due to blood disorders, vitamin deficiencies, or certain medications."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What might be causing my constant fatigue?",
+        "context": "When asked 'What might be causing my constant fatigue?', the response is 'Constant fatigue can be due to chronic fatigue syndrome, sleep disorders, depression, or thyroid issues.'.",
+        "answer": "Constant fatigue can be due to chronic fatigue syndrome, sleep disorders, depression, or thyroid issues."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why do I have frequent nosebleeds?",
+        "context": "To the question 'Why do I have frequent nosebleeds?', one should reply with 'Frequent nosebleeds can be caused by dry air, nasal irritation, blood disorders, or hypertension.'.",
+        "answer": "Frequent nosebleeds can be caused by dry air, nasal irritation, blood disorders, or hypertension."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What could be the reason for my skin rash?",
+        "context": "'Skin rashes can be due to allergies, infections, autoimmune diseases, or contact dermatitis.' is the answer to 'What could be the reason for my skin rash?'.",
+        "answer": "Skin rashes can be due to allergies, infections, autoimmune diseases, or contact dermatitis."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why am I experiencing difficulty breathing?",
+        "context": "When asked 'Why am I experiencing difficulty breathing?', the response is 'Difficulty breathing can be a symptom of asthma, COPD, heart disease, or anxiety disorders.'.",
+        "answer": "Difficulty breathing can be a symptom of asthma, COPD, heart disease, or anxiety disorders."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What might cause my lips to be constantly dry and cracked?",
+        "context": "The answer to the question 'What might cause my lips to be constantly dry and cracked?' is 'Constantly dry and cracked lips can be due to dehydration, allergies, vitamin deficiencies, or weather conditions.'.",
+        "answer": "Constantly dry and cracked lips can be due to dehydration, allergies, vitamin deficiencies, or weather conditions."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why do I have frequent infections?",
+        "context": "To the question 'Why do I have frequent infections?', one should reply with 'Frequent infections can be a sign of immune deficiencies, chronic illnesses, or poor hygiene.\n\n'.",
+        "answer": "Frequent infections can be a sign of immune deficiencies, chronic illnesses, or poor hygiene.\n\n"
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What could cause my hands to feel numb?",
+        "context": "The answer to the question 'What could cause my hands to feel numb?' is 'Numbness in hands can be due to carpal tunnel syndrome, nerve compression, diabetes, or poor circulation.'.",
+        "answer": "Numbness in hands can be due to carpal tunnel syndrome, nerve compression, diabetes, or poor circulation."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why am I experiencing hair loss?",
+        "context": "'Hair loss can be caused by stress, hormonal changes, nutritional deficiencies, or medical conditions like alopecia areata.' is the answer to 'Why am I experiencing hair loss?'.",
+        "answer": "Hair loss can be caused by stress, hormonal changes, nutritional deficiencies, or medical conditions like alopecia areata."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What might be causing my teeth to be sensitive?",
+        "context": "When asked 'What might be causing my teeth to be sensitive?', the response is 'Sensitive teeth can result from enamel erosion, gum recession, tooth decay, or teeth grinding.'.",
+        "answer": "Sensitive teeth can result from enamel erosion, gum recession, tooth decay, or teeth grinding."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why do I have frequent migraines?",
+        "context": "To the question 'Why do I have frequent migraines?', one should reply with 'Frequent migraines can be triggered by stress, certain foods, hormonal changes, or sensory stimuli.'.",
+        "answer": "Frequent migraines can be triggered by stress, certain foods, hormonal changes, or sensory stimuli."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What could be the reason for my chronic abdominal pain?",
+        "context": "To the question 'What could be the reason for my chronic abdominal pain?', one should reply with 'Chronic abdominal pain can be a symptom of conditions like IBS, ulcers, gallstones, or inflammatory bowel disease.'.",
+        "answer": "Chronic abdominal pain can be a symptom of conditions like IBS, ulcers, gallstones, or inflammatory bowel disease."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why am I experiencing difficulty sleeping?",
+        "context": "To the question 'Why am I experiencing difficulty sleeping?', one should reply with 'Difficulty sleeping can be due to insomnia, sleep apnea, stress, or poor sleep hygiene.'.",
+        "answer": "Difficulty sleeping can be due to insomnia, sleep apnea, stress, or poor sleep hygiene."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What might cause my vision to become cloudy?",
+        "context": "To the question 'What might cause my vision to become cloudy?', one should reply with 'Cloudy vision can be a sign of cataracts, glaucoma,'.",
+        "answer": "Cloudy vision can be a sign of cataracts, glaucoma,"
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why do I have frequent sinus infections?",
+        "context": "To the question 'Why do I have frequent sinus infections?', one should reply with 'Frequent sinus infections can be due to allergies, nasal polyps, a deviated septum, or immune deficiencies.\n'.",
+        "answer": "Frequent sinus infections can be due to allergies, nasal polyps, a deviated septum, or immune deficiencies.\n"
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What could be causing my irregular heartbeat?",
+        "context": "To the question 'What could be causing my irregular heartbeat?', one should reply with ' An irregular heartbeat can be due to arrhythmias, electrolyte imbalances, heart disease, or anxiety.'.",
+        "answer": " An irregular heartbeat can be due to arrhythmias, electrolyte imbalances, heart disease, or anxiety."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why am I experiencing pain during urination?",
+        "context": "To the question 'Why am I experiencing pain during urination?', one should reply with 'Pain during urination can be a symptom of urinary tract infections, bladder stones, sexually transmitted infections, or prostatitis.\n'.",
+        "answer": "Pain during urination can be a symptom of urinary tract infections, bladder stones, sexually transmitted infections, or prostatitis.\n"
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What might be causing my sudden high blood pressure?",
+        "context": "When asked 'What might be causing my sudden high blood pressure?', the response is ' Sudden high blood pressure can be due to stress, kidney disease, adrenal gland disorders, or certain medications.\n'.",
+        "answer": " Sudden high blood pressure can be due to stress, kidney disease, adrenal gland disorders, or certain medications.\n"
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why do I have a persistent metallic taste in my mouth?",
+        "context": "'A persistent metallic taste can be caused by medications, dental issues, sinus infections, or certain medical conditions.' is the answer to 'Why do I have a persistent metallic taste in my mouth?'.",
+        "answer": "A persistent metallic taste can be caused by medications, dental issues, sinus infections, or certain medical conditions."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What could cause my hands to feel weak?",
+        "context": "To the question 'What could cause my hands to feel weak?', one should reply with 'Hand weakness can be due to carpal tunnel syndrome, nerve damage, muscle disorders, or arthritis.'.",
+        "answer": "Hand weakness can be due to carpal tunnel syndrome, nerve damage, muscle disorders, or arthritis."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": " Why am I experiencing frequent abdominal bloating?",
+        "context": "To the question ' Why am I experiencing frequent abdominal bloating?', one should reply with ' Frequent abdominal bloating can be a symptom of gastrointestinal disorders, food intolerances, or irritable bowel syndrome.'.",
+        "answer": " Frequent abdominal bloating can be a symptom of gastrointestinal disorders, food intolerances, or irritable bowel syndrome."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What might be causing my chronic neck pain?",
+        "context": "To the question 'What might be causing my chronic neck pain?', one should reply with 'Chronic neck pain can be due to poor posture, muscle strain, cervical spine issues, or stress.\n'.",
+        "answer": "Chronic neck pain can be due to poor posture, muscle strain, cervical spine issues, or stress.\n"
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why do I have difficulty seeing at night?",
+        "context": "If you want to know 'Why do I have difficulty seeing at night?', the answer is 'Difficulty seeing at night can be due to conditions like night blindness, cataracts, or vitamin A deficiency.'.",
+        "answer": "Difficulty seeing at night can be due to conditions like night blindness, cataracts, or vitamin A deficiency."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What could cause my eyes to be constantly watery?",
+        "context": "'Constantly watery eyes can be due to allergies, infections, dry eye syndrome, or blocked tear ducts.\n' is the answer to 'What could cause my eyes to be constantly watery?'.",
+        "answer": "Constantly watery eyes can be due to allergies, infections, dry eye syndrome, or blocked tear ducts.\n"
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why am I experiencing frequent indigestion?",
+        "context": "When asked 'Why am I experiencing frequent indigestion?', the response is 'Frequent indigestion can be a symptom of GERD, peptic ulcers, lactose intolerance, or eating habits.'.",
+        "answer": "Frequent indigestion can be a symptom of GERD, peptic ulcers, lactose intolerance, or eating habits."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What might be causing my chronic hip pain?",
+        "context": "The answer to the question 'What might be causing my chronic hip pain?' is 'Chronic hip pain can be due to arthritis, bursitis, hip labral tears, or muscle strain.'.",
+        "answer": "Chronic hip pain can be due to arthritis, bursitis, hip labral tears, or muscle strain."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why do I have frequent heartburn?",
+        "context": "' Frequent heartburn can be a symptom of GERD, hiatal hernia, or certain foods and drinks.\n' is the answer to 'Why do I have frequent heartburn?'.",
+        "answer": " Frequent heartburn can be a symptom of GERD, hiatal hernia, or certain foods and drinks.\n"
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What could cause my hands to be constantly swollen?",
+        "context": "'Constantly swollen hands can be due to arthritis, carpal tunnel syndrome, fluid retention, or injuries.' is the answer to 'What could cause my hands to be constantly swollen?'.",
+        "answer": "Constantly swollen hands can be due to arthritis, carpal tunnel syndrome, fluid retention, or injuries."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why am I experiencing frequent gas?",
+        "context": "'Frequent gas can be a symptom of dietary issues, irritable bowel syndrome, lactose intolerance, or gastrointestinal infections.' is the answer to 'Why am I experiencing frequent gas?'.",
+        "answer": "Frequent gas can be a symptom of dietary issues, irritable bowel syndrome, lactose intolerance, or gastrointestinal infections."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What might be causing my chronic fatigue?",
+        "context": "If you want to know 'What might be causing my chronic fatigue?', the answer is 'Chronic fatigue can result from chronic fatigue syndrome, sleep disorders, depression, or thyroid disorders.'.",
+        "answer": "Chronic fatigue can result from chronic fatigue syndrome, sleep disorders, depression, or thyroid disorders."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why do I have frequent nosebleeds?",
+        "context": "To the question 'Why do I have frequent nosebleeds?', one should reply with 'Frequent nosebleeds can be due to dry air, nasal irritation, blood disorders, or hypertension.'.",
+        "answer": "Frequent nosebleeds can be due to dry air, nasal irritation, blood disorders, or hypertension."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What could cause my skin to be constantly itchy?",
+        "context": "'Constantly itchy skin can be due to dry skin, allergies, liver disease, or kidney disease.' is the answer to 'What could cause my skin to be constantly itchy?'.",
+        "answer": "Constantly itchy skin can be due to dry skin, allergies, liver disease, or kidney disease."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why am I experiencing frequent chest pain?",
+        "context": "'Frequent chest pain can be a symptom of angina, heart attack, gastroesophageal reflux disease, or anxiety.\n' is the answer to 'Why am I experiencing frequent chest pain?'.",
+        "answer": "Frequent chest pain can be a symptom of angina, heart attack, gastroesophageal reflux disease, or anxiety.\n"
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What might be causing my chronic lower back pain?",
+        "context": "The answer to the question 'What might be causing my chronic lower back pain?' is 'Chronic lower back pain can be due to muscle strain, herniated discs, spinal stenosis, or osteoarthritis.'.",
+        "answer": "Chronic lower back pain can be due to muscle strain, herniated discs, spinal stenosis, or osteoarthritis."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why do I have difficulty focusing?",
+        "context": "If you want to know 'Why do I have difficulty focusing?', the answer is 'Difficulty focusing can be a symptom of attention deficit disorder, anxiety, depression, or sleep deprivation.'.",
+        "answer": "Difficulty focusing can be a symptom of attention deficit disorder, anxiety, depression, or sleep deprivation."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What could cause my hands and feet to swell?",
+        "context": "The answer to the question 'What could cause my hands and feet to swell?' is 'Swelling in hands and feet can be due to heart failure, kidney disease, liver disease, or venous insufficiency.'.",
+        "answer": "Swelling in hands and feet can be due to heart failure, kidney disease, liver disease, or venous insufficiency."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why am I experiencing frequent diarrhea?",
+        "context": "If you want to know 'Why am I experiencing frequent diarrhea?', the answer is 'Frequent diarrhea can be a symptom of infections, irritable bowel syndrome, celiac disease, or food intolerances.'.",
+        "answer": "Frequent diarrhea can be a symptom of infections, irritable bowel syndrome, celiac disease, or food intolerances."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What might be causing my chronic joint pain?",
+        "context": "'Chronic joint pain can be due to arthritis, lupus, gout, or other inflammatory conditions.' is the answer to 'What might be causing my chronic joint pain?'.",
+        "answer": "Chronic joint pain can be due to arthritis, lupus, gout, or other inflammatory conditions."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why do I have frequent headaches?",
+        "context": "When asked 'Why do I have frequent headaches?', the response is 'Frequent headaches can be caused by migraines, tension headaches, sinus infections, or eyestrain.'.",
+        "answer": "Frequent headaches can be caused by migraines, tension headaches, sinus infections, or eyestrain."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What could cause my skin to be constantly dry?",
+        "context": "'Constantly dry skin can be due to dehydration, eczema, psoriasis, or environmental factors.' is the answer to 'What could cause my skin to be constantly dry?'.",
+        "answer": "Constantly dry skin can be due to dehydration, eczema, psoriasis, or environmental factors."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why am I experiencing frequent nosebleeds?",
+        "context": "'Frequent nosebleeds can be due to dry air, nasal irritation, blood disorders, or hypertension.' is the answer to 'Why am I experiencing frequent nosebleeds?'.",
+        "answer": "Frequent nosebleeds can be due to dry air, nasal irritation, blood disorders, or hypertension."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What might be causing my chronic muscle pain?",
+        "context": "When asked 'What might be causing my chronic muscle pain?', the response is 'Chronic muscle pain can be due to fibromyalgia, chronic fatigue syndrome, myofascial pain syndrome, or injuries.'.",
+        "answer": "Chronic muscle pain can be due to fibromyalgia, chronic fatigue syndrome, myofascial pain syndrome, or injuries."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why do I have frequent urinary tract infections?",
+        "context": "When asked 'Why do I have frequent urinary tract infections?', the response is 'Frequent urinary tract infections can be due to anatomical issues, poor hygiene, or certain medical conditions.'.",
+        "answer": "Frequent urinary tract infections can be due to anatomical issues, poor hygiene, or certain medical conditions."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What could cause my hands and feet to feel numb?",
+        "context": "If you want to know 'What could cause my hands and feet to feel numb?', the answer is 'Numbness in hands and feet can be due to peripheral neuropathy, diabetes, vitamin deficiencies, or nerve compression.'.",
+        "answer": "Numbness in hands and feet can be due to peripheral neuropathy, diabetes, vitamin deficiencies, or nerve compression."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why am I experiencing frequent dizziness?",
+        "context": "To the question 'Why am I experiencing frequent dizziness?', one should reply with 'Frequent dizziness can be a symptom of inner ear problems, low blood pressure, dehydration, or anemia.'.",
+        "answer": "Frequent dizziness can be a symptom of inner ear problems, low blood pressure, dehydration, or anemia."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What might be causing my chronic neck stiffness?",
+        "context": "If you want to know 'What might be causing my chronic neck stiffness?', the answer is 'Chronic neck stiffness can be due to poor posture, muscle strain, cervical spine issues, or stress.'.",
+        "answer": "Chronic neck stiffness can be due to poor posture, muscle strain, cervical spine issues, or stress."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why do I have frequent skin rashes?",
+        "context": "If you want to know 'Why do I have frequent skin rashes?', the answer is 'Frequent skin rashes can be caused by allergies, infections, autoimmune diseases, or contact dermatitis'.",
+        "answer": "Frequent skin rashes can be caused by allergies, infections, autoimmune diseases, or contact dermatitis"
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What could cause my vision to be constantly blurry?",
+        "context": "If you want to know 'What could cause my vision to be constantly blurry?', the answer is 'Constantly blurry vision can be a sign of refractive errors, cataracts, glaucoma, or macular degeneration.\n'.",
+        "answer": "Constantly blurry vision can be a sign of refractive errors, cataracts, glaucoma, or macular degeneration.\n"
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why am I experiencing frequent heart palpitations?",
+        "context": "When asked 'Why am I experiencing frequent heart palpitations?', the response is 'Frequent heart palpitations can be due to anxiety, arrhythmias, hyperthyroidism, or caffeine intake.'.",
+        "answer": "Frequent heart palpitations can be due to anxiety, arrhythmias, hyperthyroidism, or caffeine intake."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What might be causing my chronic shoulder pain?",
+        "context": "When asked 'What might be causing my chronic shoulder pain?', the response is 'Chronic shoulder pain can be due to rotator cuff injuries, arthritis, bursitis, or frozen shoulder.'.",
+        "answer": "Chronic shoulder pain can be due to rotator cuff injuries, arthritis, bursitis, or frozen shoulder."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why do I have frequent shortness of breath?",
+        "context": "The answer to the question 'Why do I have frequent shortness of breath?' is 'Frequent shortness of breath can be a symptom of asthma, chronic obstructive pulmonary disease, heart disease, or anxiety.'.",
+        "answer": "Frequent shortness of breath can be a symptom of asthma, chronic obstructive pulmonary disease, heart disease, or anxiety."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What could cause my eyes to be constantly dry?",
+        "context": "The answer to the question 'What could cause my eyes to be constantly dry?' is 'What could cause my eyes to be constantly dry?'.",
+        "answer": "What could cause my eyes to be constantly dry?"
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why am I experiencing frequent abdominal cramping?",
+        "context": "The answer to the question 'Why am I experiencing frequent abdominal cramping?' is 'Frequent abdominal cramping can be a symptom of irritable bowel syndrome, menstrual cramps, food intolerances, or gastrointestinal infections.'.",
+        "answer": "Frequent abdominal cramping can be a symptom of irritable bowel syndrome, menstrual cramps, food intolerances, or gastrointestinal infections."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "What might be causing my chronic wrist pain?",
+        "context": "When asked 'What might be causing my chronic wrist pain?', the response is 'Chronic wrist pain can be due to carpal tunnel syndrome, arthritis, tendonitis, or repetitive strain injuries.'.",
+        "answer": "Chronic wrist pain can be due to carpal tunnel syndrome, arthritis, tendonitis, or repetitive strain injuries."
+    },
+    {
+        "label": "Symptoms & Conditions",
+        "question": "Why do I have frequent leg cramps?",
+        "context": "If you want to know 'Why do I have frequent leg cramps?', the answer is 'Frequent leg cramps can be due to dehydration, electrolyte imbalances, poor circulation, or muscle overuse.'.",
+        "answer": "Frequent leg cramps can be due to dehydration, electrolyte imbalances, poor circulation, or muscle overuse."
+    }
+]

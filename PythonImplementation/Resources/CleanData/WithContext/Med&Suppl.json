@@ -598,5 +598,575 @@
         "question": "What medication should I take if I have a minor skin irritation or insect bite?",
         "context": "When asked 'What medication should I take if I have a minor skin irritation or insect bite?', the response is 'For minor skin irritation or insect bites, consider using over-the-counter topical corticosteroids like hydrocortisone cream to help reduce inflammation and itching. Additionally, antihistamines like diphenhydramine (Benadryl) may help relieve itching and discomfort associated with insect bites or allergic reactions.'.",
         "answer": "For minor skin irritation or insect bites, consider using over-the-counter topical corticosteroids like hydrocortisone cream to help reduce inflammation and itching. Additionally, antihistamines like diphenhydramine (Benadryl) may help relieve itching and discomfort associated with insect bites or allergic reactions."
+    },
+    {
+        "label": "Medication & Supplements",
+        "question": "Can medications cause side effects?",
+        "context": "'Yes, all medications can cause side effects, which vary depending on the drug and individual. Always consult a healthcare provider about potential side effects.' is the answer to 'Can medications cause side effects?'.",
+        "answer": "Yes, all medications can cause side effects, which vary depending on the drug and individual. Always consult a healthcare provider about potential side effects."
+    },
+    {
+        "label": "Medication & Supplements",
+        "question": "What is the difference between brand-name and generic drugs?",
+        "context": "If you want to know 'What is the difference between brand-name and generic drugs?', the answer is 'Brand-name drugs are marketed under a proprietary, trademark-protected name, while generic drugs are sold under their chemical name and are usually less expensive.'.",
+        "answer": "Brand-name drugs are marketed under a proprietary, trademark-protected name, while generic drugs are sold under their chemical name and are usually less expensive."
+    },
+    {
+        "label": "Medication & Supplements",
+        "question": "How should antibiotics be taken?",
+        "context": "'Antibiotics should be taken exactly as prescribed, completing the full course even if you feel better, to ensure all bacteria are killed and to prevent resistance.' is the answer to 'How should antibiotics be taken?'.",
+        "answer": "Antibiotics should be taken exactly as prescribed, completing the full course even if you feel better, to ensure all bacteria are killed and to prevent resistance."
+    },
+    {
+        "label": "Medication & Supplements",
+        "question": "What are anti-inflammatory medications?",
+        "context": "When asked 'What are anti-inflammatory medications?', the response is 'Anti-inflammatory medications, such as ibuprofen and aspirin, reduce inflammation and relieve pain'.",
+        "answer": "Anti-inflammatory medications, such as ibuprofen and aspirin, reduce inflammation and relieve pain"
+    },
+    {
+        "label": "Medication & Supplements",
+        "question": "What is a dosage?",
+        "context": "If you want to know 'What is a dosage?', the answer is 'A dosage is the specific amount of medication prescribed to be taken at one time or at specific intervals.'.",
+        "answer": "A dosage is the specific amount of medication prescribed to be taken at one time or at specific intervals."
+    },
+    {
+        "label": "Medication & Supplements",
+        "question": "Why is it important to follow medication instructions?",
+        "context": "'Following instructions ensures the medication's effectiveness and minimizes the risk of side effects and interactions.' is the answer to 'Why is it important to follow medication instructions?'.",
+        "answer": "Following instructions ensures the medication's effectiveness and minimizes the risk of side effects and interactions."
+    },
+    {
+        "label": "Medication & Supplements",
+        "question": "Can you drink alcohol while taking medication?",
+        "context": "'It depends on the medication. Alcohol can interfere with the effectiveness of some medications and increase the risk of side effects. Always check with your healthcare provider.' is the answer to 'Can you drink alcohol while taking medication?'.",
+        "answer": "It depends on the medication. Alcohol can interfere with the effectiveness of some medications and increase the risk of side effects. Always check with your healthcare provider."
+    },
+    {
+        "label": "Medication & Supplements",
+        "question": "What are topical medications?",
+        "context": "'Topical medications are applied to the skin to treat conditions such as rashes, infections, or inflammation.' is the answer to 'What are topical medications?'.",
+        "answer": "Topical medications are applied to the skin to treat conditions such as rashes, infections, or inflammation."
+    },
+    {
+        "label": "Medication & Supplements",
+        "question": "What should you do if you miss a dose of your medication?",
+        "context": "To the question 'What should you do if you miss a dose of your medication?', one should reply with 'Follow the specific instructions given by your healthcare provider or pharmacist, which may vary depending on the medication.'.",
+        "answer": "Follow the specific instructions given by your healthcare provider or pharmacist, which may vary depending on the medication."
+    },
+    {
+        "label": "Medication & Supplements",
+        "question": "Can medications interact with supplements?",
+        "context": "If you want to know 'Can medications interact with supplements?', the answer is 'Yes, medications can interact with supplements, potentially causing adverse effects. Always inform your healthcare provider about all supplements you are taking.'.",
+        "answer": "Yes, medications can interact with supplements, potentially causing adverse effects. Always inform your healthcare provider about all supplements you are taking."
+    },
+    {
+        "label": "Medication & Supplements",
+        "question": "What are antihistamines?",
+        "context": "To the question 'What are antihistamines?', one should reply with 'Antihistamines are drugs that treat allergic reactions by blocking the action of histamine, a substance in the body that causes allergy symptoms.'.",
+        "answer": "Antihistamines are drugs that treat allergic reactions by blocking the action of histamine, a substance in the body that causes allergy symptoms."
+    },
+    {
+        "label": "Medication & Supplements",
+        "question": "What is the role of a pharmacist?",
+        "context": "'Pharmacists dispense medications, counsel patients on their proper use, monitor drug interactions, and provide health advice.' is the answer to 'What is the role of a pharmacist?'.",
+        "answer": "Pharmacists dispense medications, counsel patients on their proper use, monitor drug interactions, and provide health advice."
+    },
+    {
+        "label": "Medication & Supplements",
+        "question": "What are pain relievers?",
+        "context": "'Pain relievers, or analgesics, are medications that reduce or eliminate pain. Examples include acetaminophen and ibuprofen.' is the answer to 'What are pain relievers?'.",
+        "answer": "Pain relievers, or analgesics, are medications that reduce or eliminate pain. Examples include acetaminophen and ibuprofen."
+    },
+    {
+        "label": "Medication & Supplements",
+        "question": "How are medications administered?",
+        "context": "If you want to know 'How are medications administered?', the answer is 'Medications can be administered orally, topically, by injection, inhalation, or through other routes depending on the drug and condition.'.",
+        "answer": "Medications can be administered orally, topically, by injection, inhalation, or through other routes depending on the drug and condition."
+    },
+    {
+        "label": "Medication & Supplements",
+        "question": "What is a controlled substance?",
+        "context": "If you want to know 'What is a controlled substance?', the answer is 'A controlled substance is a drug that is regulated by the government due to its potential for abuse or addiction.'.",
+        "answer": "A controlled substance is a drug that is regulated by the government due to its potential for abuse or addiction."
+    },
+    {
+        "label": "Medication & Supplements",
+        "question": "Can medications be taken during pregnancy?",
+        "context": "When asked 'Can medications be taken during pregnancy?', the response is 'Some medications are safe during pregnancy, while others can harm the baby. Always consult a healthcare provider before taking any medication during pregnancy.'.",
+        "answer": "Some medications are safe during pregnancy, while others can harm the baby. Always consult a healthcare provider before taking any medication during pregnancy."
+    },
+    {
+        "label": "Medication & Supplements",
+        "question": "What are immunosuppressants?",
+        "context": "The answer to the question 'What are immunosuppressants?' is 'immunosuppressants are drugs that reduce the strength of the body's immune system, often used to prevent organ rejection after a transplant.'.",
+        "answer": "immunosuppressants are drugs that reduce the strength of the body's immune system, often used to prevent organ rejection after a transplant."
+    },
+    {
+        "label": "Medication & Supplements",
+        "question": "What is medication adherence?",
+        "context": "The answer to the question 'What is medication adherence?' is 'Medication adherence refers to taking medications correctly as prescribed, including the right dose at the right time for the prescribed duration.'.",
+        "answer": "Medication adherence refers to taking medications correctly as prescribed, including the right dose at the right time for the prescribed duration."
+    },
+    {
+        "label": "Medication & Supplements",
+        "question": "Can expired medications be taken?",
+        "context": "To the question 'Can expired medications be taken?', one should reply with 'Expired medications may lose potency and effectiveness and could be unsafe. It's best to dispose of expired medications properly and consult a healthcare provider.'.",
+        "answer": "Expired medications may lose potency and effectiveness and could be unsafe. It's best to dispose of expired medications properly and consult a healthcare provider."
+    },
+    {
+        "label": "Medication & Supplements",
+        "question": "What is an over-the-counter medication?",
+        "context": "When asked 'What is an over-the-counter medication?', the response is 'Over-the-counter medications are drugs available without a prescription.'.",
+        "answer": "Over-the-counter medications are drugs available without a prescription."
+    },
+    {
+        "label": "Medication & Supplements",
+        "question": "What are the most common side effects of medications?",
+        "context": "The answer to the question 'What are the most common side effects of medications?' is 'Common side effects include nausea, headache, dizziness, and fatigue.'.",
+        "answer": "Common side effects include nausea, headache, dizziness, and fatigue."
+    },
+    {
+        "label": "Medication & Supplements",
+        "question": "How should liquid medications be measured?",
+        "context": "To the question 'How should liquid medications be measured?', one should reply with 'Liquid medications should be measured with a dosing syringe, cup, or spoon.'.",
+        "answer": "Liquid medications should be measured with a dosing syringe, cup, or spoon."
+    },
+    {
+        "label": "Medication & Supplements",
+        "question": "Can medications be taken on an empty stomach?",
+        "context": "'Some medications should be taken with food to avoid stomach upset, while others should be taken on an empty stomach for better absorption.' is the answer to 'Can medications be taken on an empty stomach?'.",
+        "answer": "Some medications should be taken with food to avoid stomach upset, while others should be taken on an empty stomach for better absorption."
+    },
+    {
+        "label": "Medication & Supplements",
+        "question": "What is the difference between a tablet and a capsule?",
+        "context": "If you want to know 'What is the difference between a tablet and a capsule?', the answer is 'Tablets are solid forms of medication that can be split or crushed, while capsules are gelatin-coated and contain powder or liquid.'.",
+        "answer": "Tablets are solid forms of medication that can be split or crushed, while capsules are gelatin-coated and contain powder or liquid."
+    },
+    {
+        "label": "Medication & Supplements",
+        "question": "How should medications be stored?",
+        "context": "The answer to the question 'How should medications be stored?' is 'Medications should be stored in a cool, dry place, away from direct sunlight and moisture.'.",
+        "answer": "Medications should be stored in a cool, dry place, away from direct sunlight and moisture."
+    },
+    {
+        "label": "Medication & Supplements",
+        "question": "What is a contraindication?",
+        "context": "When asked 'What is a contraindication?', the response is 'A contraindication is a specific situation in which a medication should not be used because it may be harmful to the patient.'.",
+        "answer": "A contraindication is a specific situation in which a medication should not be used because it may be harmful to the patient."
+    },
+    {
+        "label": "Medication & Supplements",
+        "question": "Can children take adult medications?",
+        "context": "To the question 'Can children take adult medications?', one should reply with 'No, children should not take adult medications unless prescribed by a healthcare provider due to differences in dosage and formulation.'.",
+        "answer": "No, children should not take adult medications unless prescribed by a healthcare provider due to differences in dosage and formulation."
+    },
+    {
+        "label": "Medication & Supplements",
+        "question": "What is a placebo?",
+        "context": "If you want to know 'What is a placebo?', the answer is 'A placebo is an inactive substance given to a patient in place of a medication, often used in clinical trials.'.",
+        "answer": "A placebo is an inactive substance given to a patient in place of a medication, often used in clinical trials."
+    },
+    {
+        "label": "Medication & Supplements",
+        "question": "What are antibiotics used for?",
+        "context": "If you want to know 'What are antibiotics used for?', the answer is 'Antibiotics are used to treat bacterial infections.'.",
+        "answer": "Antibiotics are used to treat bacterial infections."
+    },
+    {
+        "label": "Medication & Supplements",
+        "question": "How do antihypertensive medications work?",
+        "context": "When asked 'How do antihypertensive medications work?', the response is 'Antihypertensive medications lower blood pressure by relaxing blood vessels, reducing blood volume, or decreasing heart rate.'.",
+        "answer": "Antihypertensive medications lower blood pressure by relaxing blood vessels, reducing blood volume, or decreasing heart rate."
+    },
+    {
+        "label": "Medication & Supplements",
+        "question": "What is a drug interaction?",
+        "context": "The answer to the question 'What is a drug interaction?' is 'A drug interaction occurs when one medication affects the activity of another medication, potentially causing adverse effects.'.",
+        "answer": "A drug interaction occurs when one medication affects the activity of another medication, potentially causing adverse effects."
+    },
+    {
+        "label": "Medication & Supplements",
+        "question": "Can you crush or split all medications?",
+        "context": "To the question 'Can you crush or split all medications?', one should reply with 'No, not all medications can be crushed or split. Extended-release or enteric-coated medications should not be altered.'.",
+        "answer": "No, not all medications can be crushed or split. Extended-release or enteric-coated medications should not be altered."
+    },
+    {
+        "label": "Medication & Supplements",
+        "question": "What are anticoagulants?",
+        "context": "When asked 'What are anticoagulants?', the response is 'Anticoagulants are medications that help prevent blood clots.'.",
+        "answer": "Anticoagulants are medications that help prevent blood clots."
+    },
+    {
+        "label": "Medication & Supplements",
+        "question": "How should you dispose of unused medications?",
+        "context": "The answer to the question 'How should you dispose of unused medications?' is 'Unused medications should be disposed of according to local guidelines, often involving take-back programs or specific disposal instructions.'.",
+        "answer": "Unused medications should be disposed of according to local guidelines, often involving take-back programs or specific disposal instructions."
+    },
+    {
+        "label": "Medication & Supplements",
+        "question": "What are antacids?",
+        "context": "To the question 'What are antacids?', one should reply with 'Antacids are medications that neutralize stomach acid to relieve heartburn and indigestion.'.",
+        "answer": "Antacids are medications that neutralize stomach acid to relieve heartburn and indigestion."
+    },
+    {
+        "label": "Medication & Supplements",
+        "question": "What is the role of the FDA in medication approval?",
+        "context": "The answer to the question 'What is the role of the FDA in medication approval?' is 'The FDA reviews and approves medications for safety and effectiveness before they can be sold to the public'.",
+        "answer": "The FDA reviews and approves medications for safety and effectiveness before they can be sold to the public"
+    },
+    {
+        "label": "Medication & Supplements",
+        "question": "What are corticosteroids?",
+        "context": "The answer to the question 'What are corticosteroids?' is 'Corticosteroids are anti-inflammatory medications used to treat a variety of conditions such as asthma and arthritis.'.",
+        "answer": "Corticosteroids are anti-inflammatory medications used to treat a variety of conditions such as asthma and arthritis."
+    },
+    {
+        "label": "Medication & Supplements",
+        "question": "Can you take multiple medications at once?",
+        "context": "If you want to know 'Can you take multiple medications at once?', the answer is 'Yes, but it is important to consult a healthcare provider to manage potential interactions and side effects.'.",
+        "answer": "Yes, but it is important to consult a healthcare provider to manage potential interactions and side effects."
+    },
+    {
+        "label": "Medication & Supplements",
+        "question": "What are diuretics?",
+        "context": "'Diuretics are medications that help remove excess fluid from the body, often used to treat high blood pressure and heart failure.' is the answer to 'What are diuretics?'.",
+        "answer": "Diuretics are medications that help remove excess fluid from the body, often used to treat high blood pressure and heart failure."
+    },
+    {
+        "label": "Medication & Supplements",
+        "question": "What are beta-blockers?",
+        "context": "'Beta-blockers are medications that reduce blood pressure by blocking the effects of adrenaline on the heart.' is the answer to 'What are beta-blockers?'.",
+        "answer": "Beta-blockers are medications that reduce blood pressure by blocking the effects of adrenaline on the heart."
+    },
+    {
+        "label": "Medication & Supplements",
+        "question": "What is an antihistamine used for?",
+        "context": "When asked 'What is an antihistamine used for?', the response is 'Antihistamines are used to relieve symptoms of allergies, such as sneezing, itching, and runny nose.'.",
+        "answer": "Antihistamines are used to relieve symptoms of allergies, such as sneezing, itching, and runny nose."
+    },
+    {
+        "label": "Medication & Supplements",
+        "question": "How do pain relievers work?",
+        "context": "If you want to know 'How do pain relievers work?', the answer is 'Pain relievers, or analgesics, work by blocking pain signals to the brain or by interfering with the brain's interpretation of those signals.'.",
+        "answer": "Pain relievers, or analgesics, work by blocking pain signals to the brain or by interfering with the brain's interpretation of those signals."
+    },
+    {
+        "label": "Medication & Supplements",
+        "question": "What is a laxative?",
+        "context": "'A laxative is a medication that helps relieve constipation by stimulating bowel movements.' is the answer to 'What is a laxative?'.",
+        "answer": "A laxative is a medication that helps relieve constipation by stimulating bowel movements."
+    },
+    {
+        "label": "Medication & Supplements",
+        "question": "Can you take medication with other drinks besides water?",
+        "context": "The answer to the question 'Can you take medication with other drinks besides water?' is 'It's best to take medications with water unless otherwise directed, as other drinks can interfere with absorption or cause interactions.'.",
+        "answer": "It's best to take medications with water unless otherwise directed, as other drinks can interfere with absorption or cause interactions."
+    },
+    {
+        "label": "Medication & Supplements",
+        "question": "What is a sedative?",
+        "context": "When asked 'What is a sedative?', the response is 'A sedative is a medication that calms or induces sleep, often used to treat anxiety or insomnia.'.",
+        "answer": "A sedative is a medication that calms or induces sleep, often used to treat anxiety or insomnia."
+    },
+    {
+        "label": "Medication & Supplements",
+        "question": "What are antivirals?",
+        "context": "'Antivirals are medications used to treat viral infections by inhibiting the development of the virus.' is the answer to 'What are antivirals?'.",
+        "answer": "Antivirals are medications used to treat viral infections by inhibiting the development of the virus."
+    },
+    {
+        "label": "Medication & Supplements",
+        "question": "What are statins?",
+        "context": "When asked 'What are statins?', the response is 'Statins are medications used to lower cholesterol levels in the blood.'.",
+        "answer": "Statins are medications used to lower cholesterol levels in the blood."
+    },
+    {
+        "label": "Medication & Supplements",
+        "question": "How often should you review your medications with your doctor?",
+        "context": "The answer to the question 'How often should you review your medications with your doctor?' is 'You should review your medications with your doctor at least once a year or whenever there are changes in your health.'.",
+        "answer": "You should review your medications with your doctor at least once a year or whenever there are changes in your health."
+    },
+    {
+        "label": "Medication & Supplements",
+        "question": "What is an opioid?",
+        "context": "To the question 'What is an opioid?', one should reply with 'Opioids are a class of strong pain-relieving medications that act on the nervous system to relieve pain.'.",
+        "answer": "Opioids are a class of strong pain-relieving medications that act on the nervous system to relieve pain."
+    },
+    {
+        "label": "Medication & Supplements",
+        "question": "Can you take supplements while pregnant?",
+        "context": "'Some supplements are safe during pregnancy, but it's important to consult a healthcare provider before taking any supplements.' is the answer to 'Can you take supplements while pregnant?'.",
+        "answer": "Some supplements are safe during pregnancy, but it's important to consult a healthcare provider before taking any supplements."
+    },
+    {
+        "label": "Medication & Supplements",
+        "question": "What is an antidepressant?",
+        "context": "If you want to know 'What is an antidepressant?', the answer is 'An antidepressant is a medication used to treat depression and other mood disorders.'.",
+        "answer": "An antidepressant is a medication used to treat depression and other mood disorders."
+    },
+    {
+        "label": "Medication & Supplements",
+        "question": "What is a medication refill?",
+        "context": "When asked 'What is a medication refill?', the response is 'A medication refill is a prescription authorization that allows you to obtain more of your medication without seeing the doctor again.'.",
+        "answer": "A medication refill is a prescription authorization that allows you to obtain more of your medication without seeing the doctor again."
+    },
+    {
+        "label": "Medication & Supplements",
+        "question": "How do vaccines work?",
+        "context": "If you want to know 'How do vaccines work?', the answer is 'Vaccines stimulate the immune system to recognize and fight specific infections.'.",
+        "answer": "Vaccines stimulate the immune system to recognize and fight specific infections."
+    },
+    {
+        "label": "Medication & Supplements",
+        "question": "What are NSAIDs?",
+        "context": "The answer to the question 'What are NSAIDs?' is 'Nonsteroidal anti-inflammatory drugs (NSAIDs) are medications that reduce inflammation and relieve pain.'.",
+        "answer": "Nonsteroidal anti-inflammatory drugs (NSAIDs) are medications that reduce inflammation and relieve pain."
+    },
+    {
+        "label": "Medication & Supplements",
+        "question": "What is a muscle relaxant?",
+        "context": "To the question 'What is a muscle relaxant?', one should reply with 'A muscle relaxant is a medication that helps reduce muscle spasms and pain.'.",
+        "answer": "A muscle relaxant is a medication that helps reduce muscle spasms and pain."
+    },
+    {
+        "label": "Medication & Supplements",
+        "question": "Can you develop a tolerance to medication?",
+        "context": "If you want to know 'Can you develop a tolerance to medication?', the answer is 'Yes, over time, you can develop a tolerance to certain medications, which may reduce their effectiveness.'.",
+        "answer": "Yes, over time, you can develop a tolerance to certain medications, which may reduce their effectiveness."
+    },
+    {
+        "label": "Medication & Supplements",
+        "question": "What are anti-anxiety medications?",
+        "context": "'Anti-anxiety medications help reduce symptoms of anxiety, such as nervousness, panic attacks, and insomnia.\n\n' is the answer to 'What are anti-anxiety medications?'.",
+        "answer": "Anti-anxiety medications help reduce symptoms of anxiety, such as nervousness, panic attacks, and insomnia.\n\n"
+    },
+    {
+        "label": "Medication & Supplements",
+        "question": "How are inhalers used?",
+        "context": "When asked 'How are inhalers used?', the response is 'Inhalers deliver medication directly to the lungs, commonly used for asthma and other respiratory conditions.'.",
+        "answer": "Inhalers deliver medication directly to the lungs, commonly used for asthma and other respiratory conditions."
+    },
+    {
+        "label": "Medication & Supplements",
+        "question": "What is a time-release medication?",
+        "context": "If you want to know 'What is a time-release medication?', the answer is 'Time-release medications are formulated to release their active ingredients gradually over time.'.",
+        "answer": "Time-release medications are formulated to release their active ingredients gradually over time."
+    },
+    {
+        "label": "Medication & Supplements",
+        "question": "What are antifungal medications?",
+        "context": "If you want to know 'What are antifungal medications?', the answer is 'Antifungal medications treat fungal infections, such as athlete's foot and yeast infections.'.",
+        "answer": "Antifungal medications treat fungal infections, such as athlete's foot and yeast infections."
+    },
+    {
+        "label": "Medication & Supplements",
+        "question": "What is a suppository?",
+        "context": "If you want to know 'What is a suppository?', the answer is 'A suppository is a solid form of medication inserted into the rectum, vagina, or urethra, where it dissolves and is absorbed.'.",
+        "answer": "A suppository is a solid form of medication inserted into the rectum, vagina, or urethra, where it dissolves and is absorbed."
+    },
+    {
+        "label": "Medication & Supplements",
+        "question": "How do anticonvulsants work?",
+        "context": "'Anticonvulsants are medications that help control seizures in people with epilepsy.' is the answer to 'How do anticonvulsants work?'.",
+        "answer": "Anticonvulsants are medications that help control seizures in people with epilepsy."
+    },
+    {
+        "label": "Medication & Supplements",
+        "question": "What is a blood thinner?",
+        "context": "The answer to the question 'What is a blood thinner?' is 'Blood thinners, or anticoagulants, prevent blood clots from forming.'.",
+        "answer": "Blood thinners, or anticoagulants, prevent blood clots from forming."
+    },
+    {
+        "label": "Medication & Supplements",
+        "question": "What are probiotics?",
+        "context": "To the question 'What are probiotics?', one should reply with 'Probiotics are supplements containing beneficial bacteria that support digestive health.'.",
+        "answer": "Probiotics are supplements containing beneficial bacteria that support digestive health."
+    },
+    {
+        "label": "Medication & Supplements",
+        "question": "What is the purpose of a medication's inactive ingredients?",
+        "context": "When asked 'What is the purpose of a medication's inactive ingredients?', the response is 'Inactive ingredients in medications help with the formulation, stability, and delivery of the active ingredient.'.",
+        "answer": "Inactive ingredients in medications help with the formulation, stability, and delivery of the active ingredient."
+    },
+    {
+        "label": "Medication & Supplements",
+        "question": "Can supplements cause side effects?",
+        "context": "The answer to the question 'Can supplements cause side effects?' is 'Yes, supplements can cause side effects, especially if taken in large doses or if they interact with other medications.'.",
+        "answer": "Yes, supplements can cause side effects, especially if taken in large doses or if they interact with other medications."
+    },
+    {
+        "label": "Medication & Supplements",
+        "question": "What are antipsychotic medications?",
+        "context": "If you want to know 'What are antipsychotic medications?', the answer is 'Antipsychotic medications are used to manage symptoms of psychotic disorders, such as schizophrenia.'.",
+        "answer": "Antipsychotic medications are used to manage symptoms of psychotic disorders, such as schizophrenia."
+    },
+    {
+        "label": "Medication & Supplements",
+        "question": "What is a topical analgesic?",
+        "context": "If you want to know 'What is a topical analgesic?', the answer is 'A topical analgesic is a pain-relieving medication applied directly to the skin.'.",
+        "answer": "A topical analgesic is a pain-relieving medication applied directly to the skin."
+    },
+    {
+        "label": "Medication & Supplements",
+        "question": "What are SSRIs?",
+        "context": "The answer to the question 'What are SSRIs?' is 'Selective serotonin reuptake inhibitors (SSRIs) are a class of drugs used to treat depression by increasing serotonin levels in the brain.'.",
+        "answer": "Selective serotonin reuptake inhibitors (SSRIs) are a class of drugs used to treat depression by increasing serotonin levels in the brain."
+    },
+    {
+        "label": "Medication & Supplements",
+        "question": "What is a bronchodilator?",
+        "context": "To the question 'What is a bronchodilator?', one should reply with 'A bronchodilator is a medication that relaxes the muscles of the airways, making it easier to breathe, often used in asthma treatment.'.",
+        "answer": "A bronchodilator is a medication that relaxes the muscles of the airways, making it easier to breathe, often used in asthma treatment."
+    },
+    {
+        "label": "Medication & Supplements",
+        "question": "How do antihistamines relieve allergy symptoms?",
+        "context": "'Antihistamines block histamine, a substance in the body that causes allergy symptoms.' is the answer to 'How do antihistamines relieve allergy symptoms?'.",
+        "answer": "Antihistamines block histamine, a substance in the body that causes allergy symptoms."
+    },
+    {
+        "label": "Medication & Supplements",
+        "question": "What is an expectorant?",
+        "context": "To the question 'What is an expectorant?', one should reply with 'An expectorant is a medication that helps clear mucus from the airways.'.",
+        "answer": "An expectorant is a medication that helps clear mucus from the airways."
+    },
+    {
+        "label": "Medication & Supplements",
+        "question": "What are antiflatulents?",
+        "context": "When asked 'What are antiflatulents?', the response is 'Antiflatulents are medications that help reduce gas and bloating in the digestive system.'.",
+        "answer": "Antiflatulents are medications that help reduce gas and bloating in the digestive system."
+    },
+    {
+        "label": "Medication & Supplements",
+        "question": "Can you build resistance to antibiotics?",
+        "context": "When asked 'Can you build resistance to antibiotics?', the response is 'Yes, misuse of antibiotics can lead to antibiotic resistance, making infections harder to treat.'.",
+        "answer": "Yes, misuse of antibiotics can lead to antibiotic resistance, making infections harder to treat."
+    },
+    {
+        "label": "Medication & Supplements",
+        "question": "What are mineral supplements?",
+        "context": "If you want to know 'What are mineral supplements?', the answer is 'Mineral supplements provide essential minerals, such as calcium and magnesium, that may be lacking in the diet.'.",
+        "answer": "Mineral supplements provide essential minerals, such as calcium and magnesium, that may be lacking in the diet."
+    },
+    {
+        "label": "Medication & Supplements",
+        "question": "What are hormone replacement therapies?",
+        "context": "If you want to know 'What are hormone replacement therapies?', the answer is 'Hormone replacement therapies provide hormones to alleviate symptoms of menopause or other hormonal imbalances.'.",
+        "answer": "Hormone replacement therapies provide hormones to alleviate symptoms of menopause or other hormonal imbalances."
+    },
+    {
+        "label": "Medication & Supplements",
+        "question": "What is a stimulant medication?",
+        "context": "The answer to the question 'What is a stimulant medication?' is 'Stimulant medications increase alertness, attention, and energy, often used to treat ADHD.'.",
+        "answer": "Stimulant medications increase alertness, attention, and energy, often used to treat ADHD."
+    },
+    {
+        "label": "Medication & Supplements",
+        "question": "How do you know if a supplement is safe?",
+        "context": "The answer to the question 'How do you know if a supplement is safe?' is 'Check for third-party testing, consult a healthcare provider, and research the manufacturer for safety and efficacy.'.",
+        "answer": "Check for third-party testing, consult a healthcare provider, and research the manufacturer for safety and efficacy."
+    },
+    {
+        "label": "Medication & Supplements",
+        "question": "What is a corticosteroid cream?",
+        "context": "The answer to the question 'What is a corticosteroid cream?' is 'A corticosteroid cream is a topical medication used to reduce inflammation and treat skin conditions.'.",
+        "answer": "A corticosteroid cream is a topical medication used to reduce inflammation and treat skin conditions."
+    },
+    {
+        "label": "Medication & Supplements",
+        "question": "What are sleep aids?",
+        "context": "To the question 'What are sleep aids?', one should reply with 'Sleep aids are medications or supplements that help with falling asleep or staying asleep.'.",
+        "answer": "Sleep aids are medications or supplements that help with falling asleep or staying asleep."
+    },
+    {
+        "label": "Medication & Supplements",
+        "question": "What is a vitamin deficiency?",
+        "context": "The answer to the question 'What is a vitamin deficiency?' is 'A vitamin deficiency occurs when you don't get enough of a specific vitamin from your diet or supplements.'.",
+        "answer": "A vitamin deficiency occurs when you don't get enough of a specific vitamin from your diet or supplements."
+    },
+    {
+        "label": "Medication & Supplements",
+        "question": "How do anticoagulants work?",
+        "context": "To the question 'How do anticoagulants work?', one should reply with 'Anticoagulants prevent blood clots by inhibiting clotting factors in the blood.'.",
+        "answer": "Anticoagulants prevent blood clots by inhibiting clotting factors in the blood."
+    },
+    {
+        "label": "Medication & Supplements",
+        "question": "What is a decongestant?",
+        "context": "If you want to know 'What is a decongestant?', the answer is 'A decongestant is a medication that relieves nasal congestion by narrowing blood vessels in the nasal passages.'.",
+        "answer": "A decongestant is a medication that relieves nasal congestion by narrowing blood vessels in the nasal passages."
+    },
+    {
+        "label": "Medication & Supplements",
+        "question": "What are prebiotics?",
+        "context": "If you want to know 'What are prebiotics?', the answer is 'Prebiotics are substances that promote the growth of beneficial bacteria in the gut.\n'.",
+        "answer": "Prebiotics are substances that promote the growth of beneficial bacteria in the gut.\n"
+    },
+    {
+        "label": "Medication & Supplements",
+        "question": "What is a muscle relaxant?",
+        "context": "If you want to know 'What is a muscle relaxant?', the answer is 'A muscle relaxant is a medication that helps relieve muscle spasms and discomfort.'.",
+        "answer": "A muscle relaxant is a medication that helps relieve muscle spasms and discomfort."
+    },
+    {
+        "label": "Medication & Supplements",
+        "question": "What is an antiemetic?",
+        "context": "The answer to the question 'What is an antiemetic?' is ' An antiemetic is a medication that helps prevent or treat nausea and vomiting.'.",
+        "answer": " An antiemetic is a medication that helps prevent or treat nausea and vomiting."
+    },
+    {
+        "label": "Medication & Supplements",
+        "question": "What is a multivitamin?",
+        "context": "'A multivitamin is a supplement containing a combination of vitamins and minerals.' is the answer to 'What is a multivitamin?'.",
+        "answer": "A multivitamin is a supplement containing a combination of vitamins and minerals."
+    },
+    {
+        "label": "Medication & Supplements",
+        "question": "What are the benefits of omega-3 supplements?",
+        "context": "'Omega-3 supplements support heart health, reduce inflammation, and promote brain function.' is the answer to 'What are the benefits of omega-3 supplements?'.",
+        "answer": "Omega-3 supplements support heart health, reduce inflammation, and promote brain function."
+    },
+    {
+        "label": "Medication & Supplements",
+        "question": "What is a glucosamine supplement?",
+        "context": "When asked 'What is a glucosamine supplement?', the response is 'Glucosamine supplements support joint health and are often used to treat osteoarthritis.'.",
+        "answer": "Glucosamine supplements support joint health and are often used to treat osteoarthritis."
+    },
+    {
+        "label": "Medication & Supplements",
+        "question": "How do antihypertensive medications lower blood pressure?",
+        "context": "To the question 'How do antihypertensive medications lower blood pressure?', one should reply with 'Antihypertensive medications work by relaxing blood vessels, reducing blood volume, or decreasing the heart rate.'.",
+        "answer": "Antihypertensive medications work by relaxing blood vessels, reducing blood volume, or decreasing the heart rate."
+    },
+    {
+        "label": "Medication & Supplements",
+        "question": "What is a dietary supplement?",
+        "context": "When asked 'What is a dietary supplement?', the response is 'nan'.",
+        "answer": NaN
+    },
+    {
+        "label": "Medication & Supplements",
+        "question": "What are the benefits of vitamin D supplements?",
+        "context": "If you want to know 'What are the benefits of vitamin D supplements?', the answer is 'Vitamin D supplements support bone health, immune function, and overall well-being.'.",
+        "answer": "Vitamin D supplements support bone health, immune function, and overall well-being."
+    },
+    {
+        "label": "Medication & Supplements",
+        "question": "What is a probiotic supplement?",
+        "context": "When asked 'What is a probiotic supplement?', the response is 'Probiotic supplements contain beneficial bacteria that support gut health and digestion.'.",
+        "answer": "Probiotic supplements contain beneficial bacteria that support gut health and digestion."
+    },
+    {
+        "label": "Medication & Supplements",
+        "question": "How do you choose a good supplement?",
+        "context": "To the question 'How do you choose a good supplement?', one should reply with 'Choose supplements from reputable brands, look for third-party testing, and consult a healthcare provider.\n'.",
+        "answer": "Choose supplements from reputable brands, look for third-party testing, and consult a healthcare provider.\n"
+    },
+    {
+        "label": "Medication & Supplements",
+        "question": "What are the risks of taking too many supplements?",
+        "context": "If you want to know 'What are the risks of taking too many supplements?', the answer is 'Taking too many supplements can lead to toxicity, adverse interactions, and health problems.'.",
+        "answer": "Taking too many supplements can lead to toxicity, adverse interactions, and health problems."
     }
 ]

@@ -6,6 +6,11 @@ import javafx.geometry.Insets;
 import javafx.geometry.Pos;
 import javafx.scene.Scene;
 import javafx.scene.control.*;
+import javafx.scene.control.Button;
+import javafx.scene.control.Label;
+import javafx.scene.control.ScrollPane;
+import javafx.scene.control.TextArea;
+import javafx.scene.control.TextField;
 import javafx.scene.image.Image;
 import javafx.scene.image.ImageView;
 import javafx.scene.layout.*;
@@ -14,11 +19,17 @@ import javafx.util.Duration;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
+import java.awt.*;
+import java.io.BufferedWriter;
+import java.io.FileWriter;
 import java.io.IOException;
 import java.net.URI;
+import java.net.URISyntaxException;
 import java.net.http.HttpClient;
 import java.net.http.HttpRequest;
 import java.net.http.HttpResponse;
+import java.time.LocalDateTime;
+import java.time.format.DateTimeFormatter;
 import java.util.HashSet;
 import java.util.Set;
 import java.util.concurrent.CompletableFuture;
@@ -28,9 +39,12 @@ public class ChatBotGUI extends Application {
     private TextField userInputField;
     private HttpClient httpClient = HttpClient.newHttpClient();
     private String currentQuestion;
+    private String matchedQuestion; // To store the matched question
+    private String currentAnswer; // To store the current answer
     private String currentContext;
     private double currentThreshold;
     private Set<String> previousSuggestions = new HashSet<>();
+    private String videoURL;
 
     @Override
     public void start(Stage primaryStage) {
@@ -39,7 +53,8 @@ public class ChatBotGUI extends Application {
         header.setStyle("-fx-background-color: #007bff; -fx-padding: 10;");
         header.setAlignment(Pos.CENTER_LEFT);
 
-        ImageView logo = new ImageView(new Image(getClass().getResourceAsStream("/logo.png")));
+        Image logoImage = new Image(getClass().getResourceAsStream("/logo.png"));
+        ImageView logo = new ImageView(logoImage);
         logo.setFitWidth(30);
         logo.setFitHeight(30);
         logo.setPreserveRatio(true);
@@ -99,7 +114,7 @@ public class ChatBotGUI extends Application {
             userInputField.clear();
 
             if ("yes".equalsIgnoreCase(userMessage) && currentQuestion != null && currentContext != null) {
-                getAnswer(currentQuestion, currentContext);
+                confirmQuestion(matchedQuestion, currentContext, videoURL);
             } else if ("no".equalsIgnoreCase(userMessage)) {
                 currentThreshold -= 0.05;
                 if (currentThreshold >= 0.5) {
@@ -138,16 +153,21 @@ public class ChatBotGUI extends Application {
                 boolean foundMatch = jsonResponse.getBoolean("found_match");
 
                 if (foundMatch) {
-                    String matchedQuestion = jsonResponse.getString("matched_question");
+                    matchedQuestion = jsonResponse.getString("matched_question");
                     currentContext = jsonResponse.getString("context");
                     previousSuggestions.add(matchedQuestion);
                     currentThreshold = threshold;  // Update the current threshold
-                    javafx.application.Platform.runLater(() -> addMessage("ChatBot", "Did you mean: '" + matchedQuestion + "'? (yes/no)", Pos.TOP_LEFT, "#F7F7F9", "#333333"));
+
+                    String responseMessage = "Did you mean: '" + matchedQuestion + "'? (yes/no)";
+                    videoURL = jsonResponse.optString("videoURL", null);
+                    String finalResponseMessage = responseMessage;
+                    javafx.application.Platform.runLater(() -> addMessage("ChatBot", finalResponseMessage, Pos.TOP_LEFT, "#F7F7F9", "#333333"));
                 } else {
                     if (threshold > 0.5) {
                         searchForMatch(userMessage, threshold - 0.05);
                     } else {
                         String gptAnswer = jsonResponse.getString("answer");
+                        currentAnswer = gptAnswer; // Store the generated answer
                         javafx.application.Platform.runLater(() -> addMessage("ChatBot", gptAnswer, Pos.TOP_LEFT, "#F7F7F9", "#333333"));
                     }
                 }
@@ -158,15 +178,20 @@ public class ChatBotGUI extends Application {
         });
     }
 
-    private void getAnswer(String question, String context) {
+    private void confirmQuestion(String matchedQuestion, String context, String videoURL) {
         CompletableFuture.runAsync(() -> {
             try {
                 JSONObject requestJson = new JSONObject();
-                requestJson.put("question", question);
+                requestJson.put("question", currentQuestion);
+                requestJson.put("threshold", currentThreshold);
+                requestJson.put("previous_suggestions", new JSONArray(previousSuggestions));
+                requestJson.put("confirm", true);
+                requestJson.put("matched_question", matchedQuestion);
                 requestJson.put("context", context);
+                requestJson.put("videoURL", videoURL);
 
                 HttpRequest request = HttpRequest.newBuilder()
-                        .uri(URI.create("http://localhost:5001/get_answer"))
+                        .uri(URI.create("http://localhost:5001/ask"))
                         .header("Content-Type", "application/json")
                         .POST(HttpRequest.BodyPublishers.ofString(requestJson.toString()))
                         .build();
@@ -174,10 +199,16 @@ public class ChatBotGUI extends Application {
                 HttpResponse<String> response = httpClient.send(request, HttpResponse.BodyHandlers.ofString());
                 JSONObject jsonResponse = new JSONObject(response.body());
                 String answer = jsonResponse.getString("answer");
+                String videoUrl = jsonResponse.optString("videoURL", null);
+
+                // Update currentAnswer with the received answer
+                currentAnswer = answer;
 
                 javafx.application.Platform.runLater(() -> {
                     addMessage("ChatBot", answer, Pos.TOP_LEFT, "#F7F7F9", "#333333");
-                    // Delay before asking for feedback
+                    if (videoUrl != null) {
+                        addMessage("ChatBot", videoUrl, Pos.TOP_LEFT, "#F7F7F9", "#333333", true);
+                    }
                     PauseTransition pause = new PauseTransition(Duration.seconds(2));
                     pause.setOnFinished(event -> askForFeedback());
                     pause.play();
@@ -188,6 +219,8 @@ public class ChatBotGUI extends Application {
             }
         });
     }
+
+
 
     private void generateGPTNeoAnswer(String question) {
         CompletableFuture.runAsync(() -> {
@@ -204,6 +237,7 @@ public class ChatBotGUI extends Application {
                 HttpResponse<String> response = httpClient.send(request, HttpResponse.BodyHandlers.ofString());
                 JSONObject jsonResponse = new JSONObject(response.body());
                 String answer = jsonResponse.getString("answer");
+                currentAnswer = answer; // Store the answer
 
                 javafx.application.Platform.runLater(() -> addMessage("ChatBot", answer, Pos.TOP_LEFT, "#F7F7F9", "#333333"));
             } catch (IOException | InterruptedException e) {
@@ -250,12 +284,19 @@ public class ChatBotGUI extends Application {
 
         Button submitButton = new Button("Submit");
         submitButton.setOnAction(e -> {
-            int rating = ratingChoiceBox.getValue();
+            Integer rating = ratingChoiceBox.getValue();
             String comment = commentTextArea.getText().trim();
-            // Handle the rating and comment (e.g., send to server or log them)
-            System.out.println("Rating: " + rating);
-            System.out.println("Comment: " + comment);
-            ratingStage.close();
+            if (rating != null) {
+                saveFeedbackToFile(matchedQuestion != null ? matchedQuestion : currentQuestion, currentAnswer, rating, comment);
+                ratingStage.close();
+            } else {
+                // Handle the case where the user did not select a rating
+                Alert alert = new Alert(Alert.AlertType.WARNING);
+                alert.setTitle("Warning");
+                alert.setHeaderText(null);
+                alert.setContentText("Please select a rating before submitting.");
+                alert.showAndWait();
+            }
         });
 
         layout.getChildren().addAll(rateLabel, ratingChoiceBox, commentLabel, commentTextArea, submitButton);
@@ -265,7 +306,28 @@ public class ChatBotGUI extends Application {
         ratingStage.show();
     }
 
-    private void addMessage(String sender, String message, Pos alignment, String bgColor, String textColor) {
+    private void saveFeedbackToFile(String question, String answer, int rating, String comment) {
+        try (BufferedWriter writer = new BufferedWriter(new FileWriter("feedback.txt", true))) {
+            DateTimeFormatter dtf = DateTimeFormatter.ofPattern("yyyy/MM/dd HH:mm:ss");
+            LocalDateTime now = LocalDateTime.now();
+            writer.write("Date/Time: " + dtf.format(now));
+            writer.newLine();
+            writer.write("Question: " + question);
+            writer.newLine();
+            writer.write("Answer: " + answer);
+            writer.newLine();
+            writer.write("Rating: " + rating);
+            writer.newLine();
+            writer.write("Comment: " + comment);
+            writer.newLine();
+            writer.write("-------------------------------");
+            writer.newLine();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
+
+    private void addMessage(String sender, String message, Pos alignment, String bgColor, String textColor, boolean isUrl) {
         HBox messageBox = new HBox();
         messageBox.setAlignment(alignment);
         messageBox.setPadding(new Insets(5, 0, 5, 0));
@@ -280,15 +342,33 @@ public class ChatBotGUI extends Application {
         Label senderLabel = new Label(sender);
         senderLabel.setStyle("-fx-font-weight: bold; -fx-font-size: 12px; -fx-text-fill: " + textColor + ";");
 
-        Label messageLabel = new Label(message);
-        messageLabel.setStyle("-fx-font-size: 14px; -fx-text-fill: " + textColor + ";");
-        messageLabel.setWrapText(true); // Enable text wrapping
-        messageLabel.setMaxWidth(350); // Set a max width to ensure wrapping
+        if (isUrl) {
+            Hyperlink hyperlink = new Hyperlink("Watch the video tutorial");
+            hyperlink.setStyle("-fx-font-size: 14px; -fx-text-fill: " + textColor + ";");
+            hyperlink.setOnAction(e -> {
+                try {
+                    Desktop.getDesktop().browse(new URI(message)); // Open the URL in the default browser
+                } catch (IOException | URISyntaxException ex) {
+                    ex.printStackTrace();
+                }
+            });
+            messageContainer.getChildren().addAll(senderLabel, hyperlink);
+        } else {
+            Label messageLabel = new Label(message);
+            messageLabel.setStyle("-fx-font-size: 14px; -fx-text-fill: " + textColor + ";");
+            messageLabel.setWrapText(true);
+            messageLabel.setMaxWidth(350);
+            messageContainer.getChildren().addAll(senderLabel, messageLabel);
+        }
 
-        messageContainer.getChildren().addAll(senderLabel, messageLabel);
         messageBox.getChildren().add(messageContainer);
         javafx.application.Platform.runLater(() -> chatPane.getChildren().add(messageBox));
     }
+
+    private void addMessage(String sender, String message, Pos alignment, String bgColor, String textColor) {
+        addMessage(sender, message, alignment, bgColor, textColor, false);
+    }
+
 
     public static void main(String[] args) {
         launch(args);

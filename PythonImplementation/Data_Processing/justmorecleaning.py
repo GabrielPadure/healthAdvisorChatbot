@@ -15,7 +15,7 @@ for item in data:
     processed_data.append(new_item)
 
 # Save the processed data back to JSON
-output_file_path = '/Users/alexandruvalah/IdeaProjects/healthAdvisorChatbot/DataPreprocessing/Resources/CleanData/Symp&Cond.json'
+output_file_path = '/PythonImplementation/Resources/CleanData/Symp&Cond.json'
 with open(output_file_path, 'w', encoding='utf-8') as file:
     json.dump(processed_data, file, ensure_ascii=False, indent=4)
 
